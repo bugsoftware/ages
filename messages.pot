@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-30 08:49-0400\n"
+"POT-Creation-Date: 2020-08-30 09:39-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2765,9 +2765,11 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 36
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 38
 # File: module/setup/view/intelligence/hotels.phtml, line: 13
+# File: module/setup/view/settings/globalware_add.phtml, line: 11
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 11
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 13
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 11
+# File: module/setup/view/settings/globalware_edit.phtml, line: 11
 msgid "Hotel"
 msgstr ""
 #
@@ -5108,10 +5110,12 @@ msgstr ""
 # File: module/setup/view/cars/eih.phtml, line: 25
 # File: module/setup/view/settings/b2bwallet.phtml, line: 23
 # File: module/setup/view/settings/geotargetmarkup.phtml, line: 18
+# File: module/setup/view/settings/globalware_add.phtml, line: 17
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 17
 # File: module/setup/view/settings/geotargetmarkup_edit.phtml, line: 17
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 16
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 17
+# File: module/setup/view/settings/globalware_edit.phtml, line: 17
 # File: module/setup/view/settings/geotargetmarkup_add.phtml, line: 17
 # File: module/setup/view/trains/sat.phtml, line: 30
 # File: module/setup/view/trains/era.phtml, line: 30
@@ -7775,6 +7779,7 @@ msgstr ""
 # File: module/ages/view/ages/users/specialists_add.phtml, line: 24
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 100
 # File: module/ages/view/ages/agents/add.phtml, line: 96
+# File: module/setup/view/settings/globalware_add.phtml, line: 19
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 19
 msgid "Select affiliate"
 msgstr ""
@@ -13261,9 +13266,11 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 19
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 21
 # File: module/ages/view/ages/transfers/listreservations.phtml, line: 22
+# File: module/setup/view/settings/globalware_add.phtml, line: 12
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 12
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 14
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 12
+# File: module/setup/view/settings/globalware_edit.phtml, line: 12
 msgid "Payment"
 msgstr ""
 #
@@ -14722,9 +14729,11 @@ msgstr ""
 # File: module/setup/view/intelligence/topdestinations.phtml, line: 23
 # File: module/setup/view/cars/cartrawler.phtml, line: 177
 # File: module/setup/view/cars/cartrawler.phtml, line: 178
+# File: module/setup/view/settings/globalware_add.phtml, line: 13
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 13
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 15
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 13
+# File: module/setup/view/settings/globalware_edit.phtml, line: 13
 # File: module/setup/view/air/travelport.phtml, line: 151
 # File: module/setup/view/air/travelport.phtml, line: 152
 msgid "Type"
@@ -15336,6 +15345,7 @@ msgstr ""
 # File: module/setup/view/settings/fraudsettings.phtml, line: 97
 # File: module/setup/view/settings/fraudlayer_edit.phtml, line: 29
 # File: module/setup/view/settings/realtimepayments_edit.phtml, line: 29
+# File: module/setup/view/settings/globalware_add.phtml, line: 28
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 28
 # File: module/setup/view/settings/payments.phtml, line: 273
 # File: module/setup/view/settings/settings.phtml, line: 656
@@ -15345,6 +15355,7 @@ msgstr ""
 # File: module/setup/view/settings/enterpriseratesetup_edit.phtml, line: 33
 # File: module/setup/view/settings/geotargetmarkup_edit.phtml, line: 28
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 31
+# File: module/setup/view/settings/globalware_edit.phtml, line: 31
 # File: module/setup/view/settings/enterpriseratesetup_add.phtml, line: 22
 # File: module/setup/view/settings/geotargetmarkup_add.phtml, line: 29
 msgid "Submit"
@@ -19848,6 +19859,7 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/edit.phtml, line: 102
 # File: module/ages/view/ages/agents/edit.phtml, line: 99
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 20
+# File: module/setup/view/settings/globalware_edit.phtml, line: 20
 msgid "Select Affiliate"
 msgstr ""
 #
@@ -22421,8 +22433,10 @@ msgid "Please enter agent"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/addtransaction.phtml, line: 67
+# File: module/setup/view/settings/globalware_add.phtml, line: 74
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 74
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 76
+# File: module/setup/view/settings/globalware_edit.phtml, line: 76
 msgid "Please enter type"
 msgstr ""
 #
@@ -29127,34 +29141,45 @@ msgstr ""
 msgid "Please enter multi single availability"
 msgstr ""
 #
+# File: module/setup/view/settings/globalware_add.phtml, line: 4
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 4
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 5
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 94
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 95
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 100
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 5
+# File: module/setup/view/settings/globalware_edit.phtml, line: 5
 msgid "Payments - Exclude"
 msgstr ""
 #
+# File: module/setup/view/settings/globalware_add.phtml, line: 24
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 24
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 17
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 26
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 27
+# File: module/setup/view/settings/globalware_edit.phtml, line: 26
+# File: module/setup/view/settings/globalware_edit.phtml, line: 27
 msgid "Country ISO Code"
 msgstr ""
 #
+# File: module/setup/view/settings/globalware_add.phtml, line: 68
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 68
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 70
+# File: module/setup/view/settings/globalware_edit.phtml, line: 70
 msgid "Please enter hotel id"
 msgstr ""
 #
+# File: module/setup/view/settings/globalware_add.phtml, line: 71
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 71
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 73
+# File: module/setup/view/settings/globalware_edit.phtml, line: 73
 msgid "Please enter payment id"
 msgstr ""
 #
+# File: module/setup/view/settings/globalware_add.phtml, line: 77
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 77
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 79
+# File: module/setup/view/settings/globalware_edit.phtml, line: 79
 msgid "Please enter country iso code"
 msgstr ""
 #
