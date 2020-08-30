@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-30 09:42-0400\n"
+"POT-Creation-Date: 2020-08-30 14:52-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 #
 # File: module/ages/src/Controller/SubAgents.php, line: 222
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 257
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 405
 # File: module/ages/src/Controller/Agents.php, line: 2621
 # File: module/ages/src/Controller/Agents.php, line: 2772
 # File: module/ages/src/Controller/Agents.php, line: 8769
@@ -26,9 +26,9 @@ msgstr ""
 # File: module/ages/src/Controller/GiftCards.php, line: 1596
 # File: module/ages/src/Controller/Newsletter.php, line: 3664
 # File: module/ages/src/Controller/Newsletter.php, line: 4504
-# File: module/ages/src/Controller/Customers.php, line: 871
-# File: module/ages/src/Controller/Customers.php, line: 2223
-# File: module/ages/src/Controller/Customers.php, line: 2933
+# File: module/ages/src/Controller/Customers.php, line: 877
+# File: module/ages/src/Controller/Customers.php, line: 2229
+# File: module/ages/src/Controller/Customers.php, line: 2939
 # File: module/ages/src/Controller/ServiceFees.php, line: 481
 # File: module/ages/src/Controller/CMS.php, line: 442
 # File: module/ages/src/Controller/CMS.php, line: 1803
@@ -53,15 +53,16 @@ msgstr ""
 #
 # File: module/ages/src/Controller/SubAgents.php, line: 2709
 # File: module/ages/src/Controller/SubAgents.php, line: 4909
-# File: module/ages/src/Controller/Users.php, line: 1528
-# File: module/ages/src/Controller/Users.php, line: 3504
-# File: module/ages/src/Controller/Users.php, line: 4034
-# File: module/ages/src/Controller/Users.php, line: 4142
-# File: module/ages/src/Controller/Users.php, line: 4387
-# File: module/ages/src/Controller/Users.php, line: 4512
-# File: module/ages/src/Controller/Users.php, line: 4834
-# File: module/ages/src/Controller/Users.php, line: 4986
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 307
+# File: module/ages/src/Controller/Users.php, line: 1545
+# File: module/ages/src/Controller/Users.php, line: 3528
+# File: module/ages/src/Controller/Users.php, line: 4058
+# File: module/ages/src/Controller/Users.php, line: 4166
+# File: module/ages/src/Controller/Users.php, line: 4411
+# File: module/ages/src/Controller/Users.php, line: 4536
+# File: module/ages/src/Controller/Users.php, line: 4858
+# File: module/ages/src/Controller/Users.php, line: 5010
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 134
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 455
 # File: module/ages/src/Controller/Agents.php, line: 1240
 # File: module/ages/src/Controller/Agents.php, line: 2350
 # File: module/ages/src/Controller/Agents.php, line: 6241
@@ -75,11 +76,11 @@ msgstr ""
 # File: module/ages/src/Controller/Newsletter.php, line: 1557
 # File: module/ages/src/Controller/Newsletter.php, line: 3722
 # File: module/ages/src/Controller/Newsletter.php, line: 4562
-# File: module/ages/src/Controller/Customers.php, line: 149
-# File: module/ages/src/Controller/Customers.php, line: 290
-# File: module/ages/src/Controller/Customers.php, line: 1760
-# File: module/ages/src/Controller/Customers.php, line: 2281
-# File: module/ages/src/Controller/Customers.php, line: 2991
+# File: module/ages/src/Controller/Customers.php, line: 155
+# File: module/ages/src/Controller/Customers.php, line: 296
+# File: module/ages/src/Controller/Customers.php, line: 1766
+# File: module/ages/src/Controller/Customers.php, line: 2287
+# File: module/ages/src/Controller/Customers.php, line: 2997
 # File: module/ages/src/Controller/Hotels.php, line: 2575
 # File: module/ages/src/Controller/Hotels.php, line: 3025
 # File: module/ages/src/Controller/Companies.php, line: 1625
@@ -144,15 +145,15 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 2395
 # File: module/ages/src/Controller/Reports.php, line: 2396
 # File: module/ages/src/Controller/Reports.php, line: 3960
-# File: module/ages/src/Controller/Users.php, line: 1478
-# File: module/ages/src/Controller/Users.php, line: 2180
-# File: module/ages/src/Controller/Users.php, line: 3380
-# File: module/ages/src/Controller/Users.php, line: 3714
-# File: module/ages/src/Controller/Users.php, line: 3833
-# File: module/ages/src/Controller/Users.php, line: 3853
-# File: module/ages/src/Controller/Users.php, line: 4483
-# File: module/ages/src/Controller/Users.php, line: 4812
-# File: module/ages/src/Controller/Users.php, line: 5014
+# File: module/ages/src/Controller/Users.php, line: 1495
+# File: module/ages/src/Controller/Users.php, line: 2204
+# File: module/ages/src/Controller/Users.php, line: 3404
+# File: module/ages/src/Controller/Users.php, line: 3738
+# File: module/ages/src/Controller/Users.php, line: 3857
+# File: module/ages/src/Controller/Users.php, line: 3877
+# File: module/ages/src/Controller/Users.php, line: 4507
+# File: module/ages/src/Controller/Users.php, line: 4836
+# File: module/ages/src/Controller/Users.php, line: 5038
 # File: module/ages/src/Controller/Transfers.php, line: 1576
 # File: module/ages/src/Controller/Agents.php, line: 1318
 # File: module/ages/src/Controller/Agents.php, line: 5576
@@ -168,10 +169,10 @@ msgstr ""
 # File: module/ages/src/Controller/Cruises.php, line: 177
 # File: module/ages/src/Controller/Cruises.php, line: 354
 # File: module/ages/src/Controller/Cruises.php, line: 575
-# File: module/ages/src/Controller/Customers.php, line: 1974
-# File: module/ages/src/Controller/Customers.php, line: 1975
-# File: module/ages/src/Controller/Customers.php, line: 1976
-# File: module/ages/src/Controller/Customers.php, line: 2388
+# File: module/ages/src/Controller/Customers.php, line: 1980
+# File: module/ages/src/Controller/Customers.php, line: 1981
+# File: module/ages/src/Controller/Customers.php, line: 1982
+# File: module/ages/src/Controller/Customers.php, line: 2394
 # File: module/ages/src/Controller/Activities.php, line: 1271
 # File: module/ages/src/Controller/Activities.php, line: 1977
 # File: module/ages/src/Controller/Activities.php, line: 2203
@@ -295,22 +296,23 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 4565
 # File: module/ages/src/Controller/Reports.php, line: 4577
 # File: module/ages/src/Controller/Reports.php, line: 4581
-# File: module/ages/src/Controller/Users.php, line: 2154
-# File: module/ages/src/Controller/Users.php, line: 2174
-# File: module/ages/src/Controller/Users.php, line: 2194
-# File: module/ages/src/Controller/Users.php, line: 3709
-# File: module/ages/src/Controller/Users.php, line: 3725
-# File: module/ages/src/Controller/Users.php, line: 3823
-# File: module/ages/src/Controller/Users.php, line: 3845
-# File: module/ages/src/Controller/Users.php, line: 4216
-# File: module/ages/src/Controller/Users.php, line: 4587
-# File: module/ages/src/Controller/Users.php, line: 5087
-# File: module/ages/src/Controller/Users.php, line: 5107
+# File: module/ages/src/Controller/Users.php, line: 2178
+# File: module/ages/src/Controller/Users.php, line: 2198
+# File: module/ages/src/Controller/Users.php, line: 2218
+# File: module/ages/src/Controller/Users.php, line: 3733
+# File: module/ages/src/Controller/Users.php, line: 3749
+# File: module/ages/src/Controller/Users.php, line: 3847
+# File: module/ages/src/Controller/Users.php, line: 3869
+# File: module/ages/src/Controller/Users.php, line: 4240
+# File: module/ages/src/Controller/Users.php, line: 4611
+# File: module/ages/src/Controller/Users.php, line: 5111
+# File: module/ages/src/Controller/Users.php, line: 5131
 # File: module/ages/src/Controller/Air.php, line: 644
 # File: module/ages/src/Controller/Air.php, line: 786
 # File: module/ages/src/Controller/Air.php, line: 972
 # File: module/ages/src/Controller/Air.php, line: 2377
 # File: module/ages/src/Controller/Air.php, line: 2463
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 144
 # File: module/ages/src/Controller/Transfers.php, line: 416
 # File: module/ages/src/Controller/Transfers.php, line: 796
 # File: module/ages/src/Controller/Transfers.php, line: 1559
@@ -348,13 +350,13 @@ msgstr ""
 # File: module/ages/src/Controller/Cruises.php, line: 572
 # File: module/ages/src/Controller/Cruises.php, line: 587
 # File: module/ages/src/Controller/Newsletter.php, line: 1534
-# File: module/ages/src/Controller/Customers.php, line: 159
-# File: module/ages/src/Controller/Customers.php, line: 300
-# File: module/ages/src/Controller/Customers.php, line: 882
-# File: module/ages/src/Controller/Customers.php, line: 2399
-# File: module/ages/src/Controller/Customers.php, line: 3362
-# File: module/ages/src/Controller/Customers.php, line: 3616
-# File: module/ages/src/Controller/Customers.php, line: 3646
+# File: module/ages/src/Controller/Customers.php, line: 165
+# File: module/ages/src/Controller/Customers.php, line: 306
+# File: module/ages/src/Controller/Customers.php, line: 888
+# File: module/ages/src/Controller/Customers.php, line: 2405
+# File: module/ages/src/Controller/Customers.php, line: 3368
+# File: module/ages/src/Controller/Customers.php, line: 3622
+# File: module/ages/src/Controller/Customers.php, line: 3652
 # File: module/ages/src/Controller/Activities.php, line: 103
 # File: module/ages/src/Controller/Activities.php, line: 367
 # File: module/ages/src/Controller/Activities.php, line: 1096
@@ -434,6 +436,7 @@ msgstr ""
 # File: module/setup/src/Controller/decksimages.php, line: 163
 # File: module/setup/src/Controller/decksimages.php, line: 179
 # File: module/setup/src/Controller/decksimages.php, line: 193
+# File: module/setup/view/settings/globalware.phtml, line: 35
 msgid "Unknown"
 msgstr ""
 #
@@ -452,7 +455,7 @@ msgid "All Reservations"
 msgstr ""
 #
 # File: module/ages/src/Controller/Reports.php, line: 387
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 136
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 284
 # File: module/ages/src/Controller/Hotels.php, line: 893
 # File: module/ages/src/Controller/Hotels.php, line: 1170
 # File: module/ages/src/Controller/Hotels.php, line: 1469
@@ -491,7 +494,7 @@ msgid "New Reservation"
 msgstr ""
 #
 # File: module/ages/src/Controller/Reports.php, line: 391
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 140
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 288
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 51
 # File: module/ages/language/languages.php, line: 37
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 79
@@ -527,7 +530,7 @@ msgid "Reservation Pending"
 msgstr ""
 #
 # File: module/ages/src/Controller/Reports.php, line: 395
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 144
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 292
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 52
 # File: module/ages/language/languages.php, line: 38
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 81
@@ -563,7 +566,7 @@ msgid "Reservation Confirmed"
 msgstr ""
 #
 # File: module/ages/src/Controller/Reports.php, line: 399
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 148
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 296
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 53
 # File: module/ages/language/languages.php, line: 39
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 83
@@ -599,7 +602,7 @@ msgid "Reservation Cancelled"
 msgstr ""
 #
 # File: module/ages/src/Controller/Reports.php, line: 403
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 152
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 300
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 54
 # File: module/ages/language/languages.php, line: 40
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 85
@@ -635,7 +638,7 @@ msgid "Reservation Waiting Confirmation"
 msgstr ""
 #
 # File: module/ages/src/Controller/Reports.php, line: 407
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 156
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 304
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 55
 # File: module/ages/language/languages.php, line: 41
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 87
@@ -677,7 +680,7 @@ msgid "Checked In"
 msgstr ""
 #
 # File: module/ages/src/Controller/Reports.php, line: 411
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 160
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 308
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 56
 # File: module/ages/language/languages.php, line: 42
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 89
@@ -719,7 +722,7 @@ msgid "Checked Out"
 msgstr ""
 #
 # File: module/ages/src/Controller/Reports.php, line: 415
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 164
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 312
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 57
 # File: module/ages/language/languages.php, line: 43
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 91
@@ -758,7 +761,7 @@ msgid "Complete"
 msgstr ""
 #
 # File: module/ages/src/Controller/Reports.php, line: 419
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 168
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 316
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 58
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 93
 # File: module/ages/view/ages/activities/reservations.phtml, line: 49
@@ -794,7 +797,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Reports.php, line: 423
 # File: module/ages/src/Controller/Reports.php, line: 486
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 172
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 320
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 59
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 66
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 95
@@ -853,7 +856,7 @@ msgid "Supervisor Action Required"
 msgstr ""
 #
 # File: module/ages/src/Controller/Reports.php, line: 427
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 176
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 324
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 60
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 97
 # File: module/ages/view/ages/activities/reservations.phtml, line: 53
@@ -1333,20 +1336,20 @@ msgstr ""
 msgid "You appear to have entered an invalid user name or password"
 msgstr ""
 #
-# File: module/ages/src/Controller/Users.php, line: 1462
-# File: module/ages/src/Controller/Users.php, line: 3488
+# File: module/ages/src/Controller/Users.php, line: 1479
+# File: module/ages/src/Controller/Users.php, line: 3512
 msgid "Administration"
 msgstr ""
 #
-# File: module/ages/src/Controller/Users.php, line: 1466
-# File: module/ages/src/Controller/Users.php, line: 3492
+# File: module/ages/src/Controller/Users.php, line: 1483
+# File: module/ages/src/Controller/Users.php, line: 3516
 msgid "Consolidator"
 msgstr ""
 #
-# File: module/ages/src/Controller/Users.php, line: 1503
-# File: module/ages/src/Controller/Users.php, line: 2200
-# File: module/ages/src/Controller/Users.php, line: 3405
-# File: module/ages/src/Controller/Users.php, line: 3864
+# File: module/ages/src/Controller/Users.php, line: 1520
+# File: module/ages/src/Controller/Users.php, line: 2224
+# File: module/ages/src/Controller/Users.php, line: 3429
+# File: module/ages/src/Controller/Users.php, line: 3888
 # File: module/ages/src/Controller/Packages.php, line: 792
 # File: module/ages/src/Controller/Packages.php, line: 1982
 # File: module/ages/src/Controller/GiftCards.php, line: 1767
@@ -1455,18 +1458,18 @@ msgstr ""
 # File: module/ages/view/ages/transfers/pricing.phtml, line: 56
 # File: module/ages/view/ages/transfers/prices.phtml, line: 52
 # File: module/manager/view/rooms/index.phtml, line: 132
-# File: module/setup/view/settings/globalware.phtml, line: 54
+# File: module/setup/view/settings/globalware.phtml, line: 62
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 54
 # File: module/setup/view/air/sabre.phtml, line: 191
 msgid "No"
 msgstr ""
 #
-# File: module/ages/src/Controller/Users.php, line: 2160
-# File: module/ages/src/Controller/Users.php, line: 3811
-# File: module/ages/src/Controller/Users.php, line: 4204
-# File: module/ages/src/Controller/Users.php, line: 4575
-# File: module/ages/src/Controller/Users.php, line: 5075
-# File: module/ages/src/Controller/Users.php, line: 5095
+# File: module/ages/src/Controller/Users.php, line: 2184
+# File: module/ages/src/Controller/Users.php, line: 3835
+# File: module/ages/src/Controller/Users.php, line: 4228
+# File: module/ages/src/Controller/Users.php, line: 4599
+# File: module/ages/src/Controller/Users.php, line: 5099
+# File: module/ages/src/Controller/Users.php, line: 5119
 # File: module/ages/src/Controller/Air.php, line: 127
 # File: module/ages/src/Controller/Air.php, line: 166
 # File: module/ages/src/Controller/Air.php, line: 190
@@ -1559,16 +1562,16 @@ msgstr ""
 msgid "All"
 msgstr ""
 #
-# File: module/ages/src/Controller/Users.php, line: 3698
+# File: module/ages/src/Controller/Users.php, line: 3722
 msgid "Admin"
 msgstr ""
 #
-# File: module/ages/src/Controller/Users.php, line: 4017
-# File: module/ages/src/Controller/Users.php, line: 4125
-# File: module/ages/src/Controller/Users.php, line: 4370
-# File: module/ages/src/Controller/Users.php, line: 4495
-# File: module/ages/src/Controller/Users.php, line: 4795
-# File: module/ages/src/Controller/Users.php, line: 4969
+# File: module/ages/src/Controller/Users.php, line: 4041
+# File: module/ages/src/Controller/Users.php, line: 4149
+# File: module/ages/src/Controller/Users.php, line: 4394
+# File: module/ages/src/Controller/Users.php, line: 4519
+# File: module/ages/src/Controller/Users.php, line: 4819
+# File: module/ages/src/Controller/Users.php, line: 4993
 # File: module/ages/src/Controller/Transfers.php, line: 56
 # File: module/ages/src/Controller/Transfers.php, line: 501
 # File: module/ages/src/Controller/Transfers.php, line: 880
@@ -1627,15 +1630,18 @@ msgstr ""
 # File: module/manager/view/contracts/index.phtml, line: 32
 # File: module/setup/src/Controller/cruiselines.php, line: 78
 # File: module/setup/src/Controller/cruiseships.php, line: 91
+# File: module/setup/src/Controller/globalware.php, line: 69
+# File: module/setup/src/Controller/globalware.php, line: 85
+# File: module/setup/view/settings/globalware.phtml, line: 31
 msgid "Active"
 msgstr ""
 #
-# File: module/ages/src/Controller/Users.php, line: 4021
-# File: module/ages/src/Controller/Users.php, line: 4129
-# File: module/ages/src/Controller/Users.php, line: 4374
-# File: module/ages/src/Controller/Users.php, line: 4499
-# File: module/ages/src/Controller/Users.php, line: 4799
-# File: module/ages/src/Controller/Users.php, line: 4973
+# File: module/ages/src/Controller/Users.php, line: 4045
+# File: module/ages/src/Controller/Users.php, line: 4153
+# File: module/ages/src/Controller/Users.php, line: 4398
+# File: module/ages/src/Controller/Users.php, line: 4523
+# File: module/ages/src/Controller/Users.php, line: 4823
+# File: module/ages/src/Controller/Users.php, line: 4997
 # File: module/ages/src/Controller/Transfers.php, line: 60
 # File: module/ages/src/Controller/Transfers.php, line: 505
 # File: module/ages/src/Controller/Transfers.php, line: 884
@@ -1690,10 +1696,13 @@ msgstr ""
 # File: module/manager/view/contracts/index.phtml, line: 32
 # File: module/setup/src/Controller/cruiselines.php, line: 82
 # File: module/setup/src/Controller/cruiseships.php, line: 95
+# File: module/setup/src/Controller/globalware.php, line: 71
+# File: module/setup/src/Controller/globalware.php, line: 87
+# File: module/setup/view/settings/globalware.phtml, line: 33
 msgid "Inactive"
 msgstr ""
 #
-# File: module/ages/src/Controller/Users.php, line: 4480
+# File: module/ages/src/Controller/Users.php, line: 4504
 msgid "Agent not found"
 msgstr ""
 #
@@ -1814,7 +1823,7 @@ msgstr ""
 msgid "All Charters"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 189
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 337
 # File: module/ages/src/Controller/Transfers.php, line: 117
 # File: module/ages/src/Controller/Transfers.php, line: 540
 # File: module/ages/src/Controller/Tours.php, line: 222
@@ -1829,7 +1838,7 @@ msgstr ""
 msgid "Please Select"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 209
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 357
 # File: module/ages/view/ages/affiliates/add_payments.phtml, line: 5
 # File: module/ages/view/ages/affiliates/edit_payments.phtml, line: 5
 # File: module/ages/view/ages/reports/b2bwallet.phtml, line: 31
@@ -1843,7 +1852,7 @@ msgstr ""
 msgid "Credit Card"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 214
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 362
 # File: module/ages/view/ages/affiliates/add_payments.phtml, line: 47
 # File: module/ages/view/ages/affiliates/edit_payments.phtml, line: 47
 # File: module/ages/view/ages/sub-agents/add_payments.phtml, line: 47
@@ -1857,17 +1866,17 @@ msgstr ""
 msgid "PayPal"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 219
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 367
 msgid "Safety Pay"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 224
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 372
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1690
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3027
 msgid "PayU"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 229
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 377
 # File: module/ages/view/ages/affiliates/add_payments.phtml, line: 120
 # File: module/ages/view/ages/affiliates/edit_payments.phtml, line: 120
 # File: module/ages/view/ages/sub-agents/add_payments.phtml, line: 120
@@ -1881,21 +1890,21 @@ msgstr ""
 msgid "Book Now and Pay Later"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 234
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 382
 msgid "PayFort"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 239
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 387
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1693
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3032
 msgid "Sadad"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 244
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 392
 msgid "PayeeZy"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 280
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 428
 # File: module/ages/src/Controller/Tours.php, line: 564
 # File: module/ages/src/Controller/Tours.php, line: 690
 # File: module/ages/src/Controller/Tours.php, line: 967
@@ -1903,8 +1912,8 @@ msgstr ""
 # File: module/ages/src/Controller/GiftCards.php, line: 1637
 # File: module/ages/src/Controller/Newsletter.php, line: 3692
 # File: module/ages/src/Controller/Newsletter.php, line: 4532
-# File: module/ages/src/Controller/Customers.php, line: 2251
-# File: module/ages/src/Controller/Customers.php, line: 2961
+# File: module/ages/src/Controller/Customers.php, line: 2257
+# File: module/ages/src/Controller/Customers.php, line: 2967
 # File: module/ages/src/Controller/ServiceFees.php, line: 520
 # File: module/ages/src/Controller/ServiceFees.php, line: 795
 # File: module/ages/src/Controller/ServiceFees.php, line: 995
@@ -1922,8 +1931,8 @@ msgstr ""
 msgid "All Affiliates"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 1365
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 8376
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1513
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 8524
 # File: module/ages/src/Controller/Packages.php, line: 1013
 # File: module/ages/src/Controller/Packages.php, line: 2077
 # File: module/ages/view/ages/packages/editavailability.phtml, line: 84
@@ -1931,8 +1940,8 @@ msgstr ""
 msgid "Non-refundable"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 1379
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 8390
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1527
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 8538
 # File: module/ages/src/Controller/Packages.php, line: 1030
 # File: module/ages/src/Controller/Packages.php, line: 2091
 # File: module/ages/view/ages/packages/editavailability.phtml, line: 84
@@ -1940,9 +1949,9 @@ msgstr ""
 msgid "Custom Cancellation Policy"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 1393
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 7281
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 8408
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1541
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 7429
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 8556
 # File: module/ages/src/Controller/Tours.php, line: 670
 # File: module/ages/src/Controller/Packages.php, line: 1041
 # File: module/ages/src/Controller/Packages.php, line: 1269
@@ -1963,15 +1972,15 @@ msgstr ""
 msgid "All Companies/Markets"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 1580
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 8445
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1728
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 8593
 # File: module/ages/src/Controller/Packages.php, line: 803
 # File: module/ages/src/Controller/Packages.php, line: 1993
 msgid "No star rating"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 1584
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 8449
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1732
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 8597
 # File: module/ages/src/Controller/Packages.php, line: 807
 # File: module/ages/src/Controller/Packages.php, line: 1997
 # File: module/ages/src/Controller/CMS.php, line: 7001
@@ -1979,16 +1988,16 @@ msgstr ""
 msgid "1"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 1588
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 8453
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1736
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 8601
 # File: module/ages/src/Controller/Packages.php, line: 811
 # File: module/ages/src/Controller/Packages.php, line: 2001
 # File: module/setup/src/Controller/cruiseships.php, line: 111
 msgid "2"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 1592
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 8457
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1740
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 8605
 # File: module/ages/src/Controller/Packages.php, line: 815
 # File: module/ages/src/Controller/Packages.php, line: 2005
 # File: module/ages/src/Controller/CMS.php, line: 7005
@@ -1996,8 +2005,8 @@ msgstr ""
 msgid "3"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 1596
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 8461
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1744
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 8609
 # File: module/ages/src/Controller/Packages.php, line: 819
 # File: module/ages/src/Controller/Packages.php, line: 2009
 # File: module/ages/src/Controller/CMS.php, line: 7009
@@ -2005,8 +2014,8 @@ msgstr ""
 msgid "4"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 1600
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 8465
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1748
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 8613
 # File: module/ages/src/Controller/Packages.php, line: 823
 # File: module/ages/src/Controller/Packages.php, line: 2013
 # File: module/ages/src/Controller/CMS.php, line: 7013
@@ -2014,8 +2023,8 @@ msgstr ""
 msgid "5"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 1607
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 8472
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1755
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 8620
 # File: module/ages/src/Controller/Tours.php, line: 533
 # File: module/ages/src/Controller/Tours.php, line: 937
 # File: module/ages/src/Controller/Packages.php, line: 774
@@ -2037,8 +2046,8 @@ msgstr ""
 msgid "Available"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 1611
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 8476
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1759
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 8624
 # File: module/ages/src/Controller/Tours.php, line: 537
 # File: module/ages/src/Controller/Tours.php, line: 941
 # File: module/ages/src/Controller/Packages.php, line: 778
@@ -2057,16 +2066,16 @@ msgstr ""
 msgid "On Request"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 1615
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 8480
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1763
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 8628
 # File: module/ages/src/Controller/Tours.php, line: 541
 # File: module/ages/src/Controller/Tours.php, line: 945
 # File: module/ages/src/Controller/Tours.php, line: 3320
 # File: module/ages/src/Controller/Tours.php, line: 3423
 # File: module/ages/src/Controller/Packages.php, line: 782
 # File: module/ages/src/Controller/Packages.php, line: 1972
-# File: module/ages/src/Controller/Customers.php, line: 2079
-# File: module/ages/src/Controller/Customers.php, line: 2804
+# File: module/ages/src/Controller/Customers.php, line: 2085
+# File: module/ages/src/Controller/Customers.php, line: 2810
 # File: module/ages/src/Controller/Activities.php, line: 857
 # File: module/ages/src/Controller/Activities.php, line: 1530
 # File: module/ages/src/Controller/Companies.php, line: 2517
@@ -2093,30 +2102,30 @@ msgstr ""
 msgid "Disabled"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 2315
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 2463
 msgid "Unable to upload document"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 7196
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 7344
 msgid "All Departments"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 7219
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 7244
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 7367
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 7392
 msgid "Direct Booking"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 7573
-# File: module/ages/src/Controller/Customers.php, line: 2032
-# File: module/ages/src/Controller/Customers.php, line: 2756
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 7721
+# File: module/ages/src/Controller/Customers.php, line: 2038
+# File: module/ages/src/Controller/Customers.php, line: 2762
 # File: module/ages/src/Controller/Hotels.php, line: 2826
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 23
 msgid "Mr"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 7574
-# File: module/ages/src/Controller/Customers.php, line: 2040
-# File: module/ages/src/Controller/Customers.php, line: 2764
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 7722
+# File: module/ages/src/Controller/Customers.php, line: 2046
+# File: module/ages/src/Controller/Customers.php, line: 2770
 # File: module/ages/src/Controller/Hotels.php, line: 2830
 msgid "Mrs"
 msgstr ""
@@ -2155,22 +2164,22 @@ msgid "No Business Unit assigned"
 msgstr ""
 #
 # File: module/ages/src/Controller/Agents.php, line: 1908
-# File: module/ages/src/Controller/Customers.php, line: 1528
+# File: module/ages/src/Controller/Customers.php, line: 1534
 msgid "Column count doesn't match"
 msgstr ""
 #
 # File: module/ages/src/Controller/Agents.php, line: 2015
-# File: module/ages/src/Controller/Customers.php, line: 1635
+# File: module/ages/src/Controller/Customers.php, line: 1641
 msgid "Unable to find country"
 msgstr ""
 #
 # File: module/ages/src/Controller/Agents.php, line: 2021
-# File: module/ages/src/Controller/Customers.php, line: 1641
+# File: module/ages/src/Controller/Customers.php, line: 1647
 msgid "Unable to find state/zone"
 msgstr ""
 #
 # File: module/ages/src/Controller/Agents.php, line: 2027
-# File: module/ages/src/Controller/Customers.php, line: 1647
+# File: module/ages/src/Controller/Customers.php, line: 1653
 msgid "Unable to find city"
 msgstr ""
 #
@@ -2184,7 +2193,7 @@ msgid "Agent Id:"
 msgstr ""
 #
 # File: module/ages/src/Controller/Agents.php, line: 5592
-# File: module/ages/src/Controller/Customers.php, line: 2404
+# File: module/ages/src/Controller/Customers.php, line: 2410
 # File: module/ages/view/ages/newsletter/listbroadcasts.phtml, line: 63
 # File: module/ages/view/ages/newsletter/exceptions.phtml, line: 69
 # File: module/ages/view/ages/newsletter/searchbroadcasts.phtml, line: 52
@@ -2201,8 +2210,8 @@ msgid "View"
 msgstr ""
 #
 # File: module/ages/src/Controller/Agents.php, line: 5595
-# File: module/ages/src/Controller/Customers.php, line: 2407
-# File: module/ages/view/ages/users/edit.phtml, line: 647
+# File: module/ages/src/Controller/Customers.php, line: 2413
+# File: module/ages/view/ages/users/edit.phtml, line: 655
 # File: module/ages/view/ages/cms/regions_details_edit.phtml, line: 47
 # File: module/ages/view/ages/hotels/editusers.phtml, line: 88
 # File: module/ages/view/ages/newsletter/editair.phtml, line: 44
@@ -2724,8 +2733,8 @@ msgstr ""
 # File: module/ages/view/ages/transfers/prices.phtml, line: 54
 # File: module/manager/view/rooms/index.phtml, line: 132
 # File: module/manager/view/rooms/index.phtml, line: 134
-# File: module/setup/view/settings/globalware.phtml, line: 54
-# File: module/setup/view/settings/globalware.phtml, line: 56
+# File: module/setup/view/settings/globalware.phtml, line: 62
+# File: module/setup/view/settings/globalware.phtml, line: 64
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 54
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 56
 # File: module/setup/view/air/sabre.phtml, line: 194
@@ -2768,12 +2777,9 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 36
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 38
 # File: module/setup/view/intelligence/hotels.phtml, line: 13
-# File: module/setup/view/settings/globalware_add.phtml, line: 11
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 11
-# File: module/setup/view/settings/globalware.phtml, line: 13
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 13
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 11
-# File: module/setup/view/settings/globalware_edit.phtml, line: 11
 msgid "Hotel"
 msgstr ""
 #
@@ -3009,6 +3015,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/GiftCards.php, line: 970
 # File: module/ages/src/Controller/GiftCards.php, line: 1575
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 5
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 5
 # File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 5
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 5
@@ -3161,99 +3168,99 @@ msgstr ""
 msgid "Global Newsletter Stats"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 1183
-# File: module/ages/src/Controller/Customers.php, line: 3748
+# File: module/ages/src/Controller/Customers.php, line: 1189
+# File: module/ages/src/Controller/Customers.php, line: 3754
 msgid "All agents"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 1443
+# File: module/ages/src/Controller/Customers.php, line: 1449
 msgid "All Customers"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 1653
+# File: module/ages/src/Controller/Customers.php, line: 1659
 msgid "This is a customer of "
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 1741
+# File: module/ages/src/Controller/Customers.php, line: 1747
 msgid "Customer Id:"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 2036
-# File: module/ages/src/Controller/Customers.php, line: 2760
+# File: module/ages/src/Controller/Customers.php, line: 2042
+# File: module/ages/src/Controller/Customers.php, line: 2766
 # File: module/ages/src/Controller/Hotels.php, line: 2834
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 23
 msgid "Ms"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 2044
-# File: module/ages/src/Controller/Customers.php, line: 2768
+# File: module/ages/src/Controller/Customers.php, line: 2050
+# File: module/ages/src/Controller/Customers.php, line: 2774
 # File: module/ages/src/Controller/Hotels.php, line: 2838
 msgid "Miss"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 2048
-# File: module/ages/src/Controller/Customers.php, line: 2772
+# File: module/ages/src/Controller/Customers.php, line: 2054
+# File: module/ages/src/Controller/Customers.php, line: 2778
 # File: module/ages/src/Controller/Hotels.php, line: 2842
 msgid "Master"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 2052
-# File: module/ages/src/Controller/Customers.php, line: 2776
+# File: module/ages/src/Controller/Customers.php, line: 2058
+# File: module/ages/src/Controller/Customers.php, line: 2782
 # File: module/ages/src/Controller/Hotels.php, line: 2846
 msgid "Dr"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 2056
-# File: module/ages/src/Controller/Customers.php, line: 2780
+# File: module/ages/src/Controller/Customers.php, line: 2062
+# File: module/ages/src/Controller/Customers.php, line: 2786
 # File: module/ages/src/Controller/Hotels.php, line: 2850
 msgid "Lord"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 2060
-# File: module/ages/src/Controller/Customers.php, line: 2784
+# File: module/ages/src/Controller/Customers.php, line: 2066
+# File: module/ages/src/Controller/Customers.php, line: 2790
 # File: module/ages/src/Controller/Hotels.php, line: 2854
 msgid "Lady"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 2064
-# File: module/ages/src/Controller/Customers.php, line: 2788
+# File: module/ages/src/Controller/Customers.php, line: 2070
+# File: module/ages/src/Controller/Customers.php, line: 2794
 # File: module/ages/src/Controller/Hotels.php, line: 2858
 msgid "Inf"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 2068
-# File: module/ages/src/Controller/Customers.php, line: 2792
+# File: module/ages/src/Controller/Customers.php, line: 2074
+# File: module/ages/src/Controller/Customers.php, line: 2798
 # File: module/ages/src/Controller/Hotels.php, line: 2862
 msgid "Rev"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 2075
-# File: module/ages/src/Controller/Customers.php, line: 2800
+# File: module/ages/src/Controller/Customers.php, line: 2081
+# File: module/ages/src/Controller/Customers.php, line: 2806
 msgid "Allow the customer to make booking"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 2083
-# File: module/ages/src/Controller/Customers.php, line: 2808
+# File: module/ages/src/Controller/Customers.php, line: 2089
+# File: module/ages/src/Controller/Customers.php, line: 2814
 msgid "Customer can only view rates"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 2091
-# File: module/ages/src/Controller/Customers.php, line: 2816
+# File: module/ages/src/Controller/Customers.php, line: 2097
+# File: module/ages/src/Controller/Customers.php, line: 2822
 msgid "International passport"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 2095
-# File: module/ages/src/Controller/Customers.php, line: 2820
+# File: module/ages/src/Controller/Customers.php, line: 2101
+# File: module/ages/src/Controller/Customers.php, line: 2826
 msgid "Bilhete de Identidade Nacional"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 2302
-# File: module/ages/src/Controller/Customers.php, line: 2556
-# File: module/ages/src/Controller/Customers.php, line: 3015
+# File: module/ages/src/Controller/Customers.php, line: 2308
+# File: module/ages/src/Controller/Customers.php, line: 2562
+# File: module/ages/src/Controller/Customers.php, line: 3021
 msgid "Not Set"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 3169
+# File: module/ages/src/Controller/Customers.php, line: 3175
 msgid "All Countries"
 msgstr ""
 #
@@ -5114,13 +5121,10 @@ msgstr ""
 # File: module/setup/view/cars/eih.phtml, line: 25
 # File: module/setup/view/settings/b2bwallet.phtml, line: 23
 # File: module/setup/view/settings/geotargetmarkup.phtml, line: 18
-# File: module/setup/view/settings/globalware_add.phtml, line: 17
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 17
-# File: module/setup/view/settings/globalware.phtml, line: 16
 # File: module/setup/view/settings/geotargetmarkup_edit.phtml, line: 17
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 16
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 17
-# File: module/setup/view/settings/globalware_edit.phtml, line: 17
 # File: module/setup/view/settings/geotargetmarkup_add.phtml, line: 17
 # File: module/setup/view/trains/sat.phtml, line: 30
 # File: module/setup/view/trains/era.phtml, line: 30
@@ -5356,10 +5360,13 @@ msgstr ""
 # File: module/manager/view/contracts/contracts_edit.phtml, line: 12
 # File: module/manager/view/contracts/index.phtml, line: 12
 # File: module/setup/view/settings/fraudlayer.phtml, line: 13
+# File: module/setup/view/settings/globalware_add.phtml, line: 11
+# File: module/setup/view/settings/globalware.phtml, line: 13
 # File: module/setup/view/settings/settings.phtml, line: 503
 # File: module/setup/view/settings/settings.phtml, line: 504
 # File: module/setup/view/settings/currencies.phtml, line: 12
 # File: module/setup/view/settings/realtimepayments.phtml, line: 13
+# File: module/setup/view/settings/globalware_edit.phtml, line: 11
 # File: module/setup/view/cruises/edit-publicareas.phtml, line: 11
 # File: module/setup/view/cruises/edit-cabincategories.phtml, line: 12
 # File: module/setup/view/cruises/decks.phtml, line: 13
@@ -5788,8 +5795,11 @@ msgstr ""
 # File: module/manager/view/rooms/add.phtml, line: 19
 # File: module/manager/view/rooms/edit.phtml, line: 18
 # File: module/setup/view/settings/geotargetmarkup.phtml, line: 16
+# File: module/setup/view/settings/globalware_add.phtml, line: 22
+# File: module/setup/view/settings/globalware.phtml, line: 17
 # File: module/setup/view/settings/currencies.phtml, line: 17
 # File: module/setup/view/settings/geotargetmarkup_edit.phtml, line: 25
+# File: module/setup/view/settings/globalware_edit.phtml, line: 18
 # File: module/setup/view/settings/geotargetmarkup_add.phtml, line: 25
 # File: module/setup/view/cruises/edit-cruiselines.phtml, line: 13
 # File: module/setup/view/cruises/edit-cruiseships.phtml, line: 20
@@ -5847,15 +5857,17 @@ msgstr ""
 # File: module/manager/view/contracts/contracts_edit.phtml, line: 18
 # File: module/manager/view/rooms/add.phtml, line: 20
 # File: module/manager/view/rooms/edit.phtml, line: 18
+# File: module/setup/view/settings/globalware_add.phtml, line: 22
+# File: module/setup/view/settings/globalware_edit.phtml, line: 18
 # File: module/setup/view/cruises/edit-cruiselines.phtml, line: 13
 # File: module/setup/view/cruises/edit-cruiseships.phtml, line: 20
 msgid "Select status"
 msgstr ""
 #
 # File: module/ages/view/ages/users/specialists_edit.phtml, line: 43
-# File: module/ages/view/ages/users/add.phtml, line: 611
+# File: module/ages/view/ages/users/add.phtml, line: 619
 # File: module/ages/view/ages/users/specialists_add.phtml, line: 40
-# File: module/ages/view/ages/users/edit.phtml, line: 624
+# File: module/ages/view/ages/users/edit.phtml, line: 632
 # File: module/ages/view/ages/hotels/editusers.phtml, line: 65
 # File: module/ages/view/ages/hotels/adduser.phtml, line: 61
 msgid "Photo"
@@ -5867,9 +5879,9 @@ msgid "Specialist Photo"
 msgstr ""
 #
 # File: module/ages/view/ages/users/specialists_edit.phtml, line: 48
-# File: module/ages/view/ages/users/add.phtml, line: 616
+# File: module/ages/view/ages/users/add.phtml, line: 624
 # File: module/ages/view/ages/users/specialists_add.phtml, line: 45
-# File: module/ages/view/ages/users/edit.phtml, line: 629
+# File: module/ages/view/ages/users/edit.phtml, line: 637
 # File: module/ages/view/ages/affiliates/edit_cms.phtml, line: 132
 # File: module/ages/view/ages/affiliates/edit_cms.phtml, line: 201
 # File: module/ages/view/ages/affiliates/edit_cms.phtml, line: 221
@@ -5955,9 +5967,9 @@ msgid "Browse"
 msgstr ""
 #
 # File: module/ages/view/ages/users/specialists_edit.phtml, line: 49
-# File: module/ages/view/ages/users/add.phtml, line: 617
+# File: module/ages/view/ages/users/add.phtml, line: 625
 # File: module/ages/view/ages/users/specialists_add.phtml, line: 46
-# File: module/ages/view/ages/users/edit.phtml, line: 630
+# File: module/ages/view/ages/users/edit.phtml, line: 638
 # File: module/ages/view/ages/affiliates/edit_cms.phtml, line: 133
 # File: module/ages/view/ages/affiliates/edit_cms.phtml, line: 202
 # File: module/ages/view/ages/affiliates/edit_cms.phtml, line: 222
@@ -6056,16 +6068,16 @@ msgstr ""
 #
 # File: module/ages/view/ages/users/specialists_edit.phtml, line: 135
 # File: module/ages/view/ages/users/specialists_edit.phtml, line: 148
-# File: module/ages/view/ages/users/add.phtml, line: 704
-# File: module/ages/view/ages/users/add.phtml, line: 717
-# File: module/ages/view/ages/users/add.phtml, line: 815
-# File: module/ages/view/ages/users/add.phtml, line: 841
+# File: module/ages/view/ages/users/add.phtml, line: 712
+# File: module/ages/view/ages/users/add.phtml, line: 725
+# File: module/ages/view/ages/users/add.phtml, line: 823
+# File: module/ages/view/ages/users/add.phtml, line: 849
 # File: module/ages/view/ages/users/specialists_add.phtml, line: 133
 # File: module/ages/view/ages/users/specialists_add.phtml, line: 146
-# File: module/ages/view/ages/users/edit.phtml, line: 719
-# File: module/ages/view/ages/users/edit.phtml, line: 732
-# File: module/ages/view/ages/users/edit.phtml, line: 861
-# File: module/ages/view/ages/users/edit.phtml, line: 887
+# File: module/ages/view/ages/users/edit.phtml, line: 727
+# File: module/ages/view/ages/users/edit.phtml, line: 740
+# File: module/ages/view/ages/users/edit.phtml, line: 869
+# File: module/ages/view/ages/users/edit.phtml, line: 895
 # File: module/ages/view/ages/affiliates/add.phtml, line: 195
 # File: module/ages/view/ages/affiliates/add.phtml, line: 208
 # File: module/ages/view/ages/affiliates/add.phtml, line: 279
@@ -6343,12 +6355,12 @@ msgstr ""
 #
 # File: module/ages/view/ages/users/specialists_edit.phtml, line: 136
 # File: module/ages/view/ages/users/specialists_edit.phtml, line: 149
-# File: module/ages/view/ages/users/add.phtml, line: 705
-# File: module/ages/view/ages/users/add.phtml, line: 718
+# File: module/ages/view/ages/users/add.phtml, line: 713
+# File: module/ages/view/ages/users/add.phtml, line: 726
 # File: module/ages/view/ages/users/specialists_add.phtml, line: 134
 # File: module/ages/view/ages/users/specialists_add.phtml, line: 147
-# File: module/ages/view/ages/users/edit.phtml, line: 720
-# File: module/ages/view/ages/users/edit.phtml, line: 733
+# File: module/ages/view/ages/users/edit.phtml, line: 728
+# File: module/ages/view/ages/users/edit.phtml, line: 741
 # File: module/ages/view/ages/affiliates/add.phtml, line: 196
 # File: module/ages/view/ages/affiliates/add.phtml, line: 209
 # File: module/ages/view/ages/affiliates/add.phtml, line: 280
@@ -6661,6 +6673,8 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/edit.phtml, line: 19
 # File: module/ages/view/ages/newsletter/flyers_add.phtml, line: 12
 # File: module/ages/view/ages/dynamic-packaging/offlinebooking.phtml, line: 37
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 11
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 27
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 80
 # File: module/ages/view/ages/agents/zombie.phtml, line: 39
 # File: module/ages/view/ages/agents/detailedreport.phtml, line: 17
@@ -6829,6 +6843,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/edit_images.phtml, line: 9
 # File: module/ages/view/ages/dynamic-packaging/edit_itinerary.phtml, line: 17
 # File: module/ages/view/ages/dynamic-packaging/add_images.phtml, line: 9
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 29
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 19
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 36
 # File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 19
@@ -6976,6 +6991,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/add_itinerary.phtml, line: 132
 # File: module/ages/view/ages/dynamic-packaging/edit_itinerary.phtml, line: 70
 # File: module/ages/view/ages/dynamic-packaging/edit_itinerary.phtml, line: 191
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 59
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 99
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 116
 # File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 99
@@ -7016,7 +7032,7 @@ msgstr ""
 # File: module/setup/view/settings/fraudlayer.phtml, line: 22
 # File: module/setup/view/settings/enterpriseratesetup.phtml, line: 30
 # File: module/setup/view/settings/geotargetmarkup.phtml, line: 38
-# File: module/setup/view/settings/globalware.phtml, line: 30
+# File: module/setup/view/settings/globalware.phtml, line: 38
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 30
 # File: module/setup/view/settings/realtimepayments.phtml, line: 22
 # File: module/setup/view/cruises/decks.phtml, line: 37
@@ -7234,8 +7250,8 @@ msgstr ""
 # File: module/manager/view/rooms/index.phtml, line: 32
 # File: module/manager/view/rooms/index.phtml, line: 130
 # File: module/manager/view/hotel/cancellationpolicies.phtml, line: 31
-# File: module/setup/view/settings/globalware.phtml, line: 32
-# File: module/setup/view/settings/globalware.phtml, line: 52
+# File: module/setup/view/settings/globalware.phtml, line: 40
+# File: module/setup/view/settings/globalware.phtml, line: 60
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 32
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 52
 # File: module/setup/view/air/toxicairlines.phtml, line: 48
@@ -7324,6 +7340,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/list.phtml, line: 102
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 130
 # File: module/ages/view/ages/newsletter/spam.phtml, line: 78
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 102
 # File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 102
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 240
 # File: module/ages/view/ages/agents/transactions.phtml, line: 180
@@ -7345,7 +7362,7 @@ msgstr ""
 # File: module/setup/view/settings/fraudlayer.phtml, line: 63
 # File: module/setup/view/settings/enterpriseratesetup.phtml, line: 71
 # File: module/setup/view/settings/geotargetmarkup.phtml, line: 79
-# File: module/setup/view/settings/globalware.phtml, line: 100
+# File: module/setup/view/settings/globalware.phtml, line: 108
 # File: module/setup/view/settings/currencies.phtml, line: 80
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 100
 # File: module/setup/view/settings/realtimepayments.phtml, line: 63
@@ -7542,7 +7559,7 @@ msgid "Please enter destination"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 5
-# File: module/ages/view/ages/users/add.phtml, line: 633
+# File: module/ages/view/ages/users/add.phtml, line: 641
 # File: module/ages/view/ages/hotels/adduser.phtml, line: 5
 # File: module/ages/view/ages/hotels/adduser.phtml, line: 83
 msgid "Add New User"
@@ -7617,6 +7634,8 @@ msgstr ""
 # File: module/setup/view/cars/eih.phtml, line: 21
 # File: module/setup/view/settings/b2bwallet.phtml, line: 18
 # File: module/setup/view/settings/b2bwallet.phtml, line: 19
+# File: module/setup/view/settings/globalware_add.phtml, line: 13
+# File: module/setup/view/settings/globalware_edit.phtml, line: 13
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 20
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 21
 # File: module/setup/view/cruises/tourico.phtml, line: 18
@@ -7788,7 +7807,6 @@ msgstr ""
 # File: module/ages/view/ages/users/specialists_add.phtml, line: 24
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 100
 # File: module/ages/view/ages/agents/add.phtml, line: 96
-# File: module/setup/view/settings/globalware_add.phtml, line: 19
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 19
 msgid "Select affiliate"
 msgstr ""
@@ -7834,6 +7852,9 @@ msgstr ""
 # File: module/ages/view/ages/transfers/vehicles_edit.phtml, line: 35
 # File: module/ages/view/ages/transfers/prices_edit.phtml, line: 28
 # File: module/ages/view/ages/transfers/prices_add.phtml, line: 24
+# File: module/setup/view/settings/globalware_add.phtml, line: 17
+# File: module/setup/view/settings/globalware.phtml, line: 15
+# File: module/setup/view/settings/globalware_edit.phtml, line: 15
 msgid "Location"
 msgstr ""
 #
@@ -7849,9 +7870,9 @@ msgid "Select country"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 56
-# File: module/ages/view/ages/users/add.phtml, line: 806
+# File: module/ages/view/ages/users/add.phtml, line: 814
 # File: module/ages/view/ages/users/edit.phtml, line: 59
-# File: module/ages/view/ages/users/edit.phtml, line: 852
+# File: module/ages/view/ages/users/edit.phtml, line: 860
 # File: module/ages/view/ages/affiliates/add.phtml, line: 809
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 381
 # File: module/ages/view/ages/activities/add.phtml, line: 125
@@ -7899,9 +7920,9 @@ msgid "Select zone"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 64
-# File: module/ages/view/ages/users/add.phtml, line: 832
+# File: module/ages/view/ages/users/add.phtml, line: 840
 # File: module/ages/view/ages/users/edit.phtml, line: 68
-# File: module/ages/view/ages/users/edit.phtml, line: 878
+# File: module/ages/view/ages/users/edit.phtml, line: 886
 # File: module/ages/view/ages/affiliates/add.phtml, line: 835
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 407
 # File: module/ages/view/ages/activities/add.phtml, line: 151
@@ -8152,115 +8173,120 @@ msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 430
 # File: module/ages/view/ages/users/edit.phtml, line: 443
-msgid "Delete Package"
+msgid "Delete Globalware"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 438
 # File: module/ages/view/ages/users/edit.phtml, line: 451
-msgid "Delete Package Type"
+msgid "Delete Package"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 446
 # File: module/ages/view/ages/users/edit.phtml, line: 459
-msgid "Delete Dynamic Package"
+msgid "Delete Package Type"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 454
 # File: module/ages/view/ages/users/edit.phtml, line: 467
-msgid "Delete Quote"
+msgid "Delete Dynamic Package"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 462
 # File: module/ages/view/ages/users/edit.phtml, line: 475
-msgid "Delete Activity"
+msgid "Delete Quote"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 470
 # File: module/ages/view/ages/users/edit.phtml, line: 483
-msgid "Delete Tour"
+msgid "Delete Activity"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 478
 # File: module/ages/view/ages/users/edit.phtml, line: 491
-msgid "Delete Tour Images"
+msgid "Delete Tour"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 486
-msgid "Delete Tour Prices"
+# File: module/ages/view/ages/users/edit.phtml, line: 499
+msgid "Delete Tour Images"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 494
-msgid "Delete Tour Inclusions"
+msgid "Delete Tour Prices"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 502
-msgid "Delete Tour Exclusions"
+msgid "Delete Tour Inclusions"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 510
-# File: module/ages/view/ages/users/edit.phtml, line: 523
-msgid "Delete Tour Availability"
+msgid "Delete Tour Exclusions"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 518
 # File: module/ages/view/ages/users/edit.phtml, line: 531
-msgid "Delete Tour Itinerary"
+msgid "Delete Tour Availability"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 526
 # File: module/ages/view/ages/users/edit.phtml, line: 539
-msgid "Delete Newsletter"
+msgid "Delete Tour Itinerary"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 534
 # File: module/ages/view/ages/users/edit.phtml, line: 547
-msgid "Delete Member"
+msgid "Delete Newsletter"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 542
 # File: module/ages/view/ages/users/edit.phtml, line: 555
-msgid "Delete Flyer"
+msgid "Delete Member"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 550
 # File: module/ages/view/ages/users/edit.phtml, line: 563
-msgid "Delete Company"
+msgid "Delete Flyer"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 558
 # File: module/ages/view/ages/users/edit.phtml, line: 571
-msgid "Delete Currency"
+msgid "Delete Company"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 566
 # File: module/ages/view/ages/users/edit.phtml, line: 579
-msgid "Delete Transaction"
+msgid "Delete Currency"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 574
 # File: module/ages/view/ages/users/edit.phtml, line: 587
-msgid "Delete Vehicle"
+msgid "Delete Transaction"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 582
 # File: module/ages/view/ages/users/edit.phtml, line: 595
-msgid "Delete Transfers - Prices"
+msgid "Delete Vehicle"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 590
 # File: module/ages/view/ages/users/edit.phtml, line: 603
-msgid "Delete Activities - Prices"
+msgid "Delete Transfers - Prices"
 msgstr ""
 #
 # File: module/ages/view/ages/users/add.phtml, line: 598
 # File: module/ages/view/ages/users/edit.phtml, line: 611
+msgid "Delete Activities - Prices"
+msgstr ""
+#
+# File: module/ages/view/ages/users/add.phtml, line: 606
+# File: module/ages/view/ages/users/edit.phtml, line: 619
 msgid "Delete Activities - Images"
 msgstr ""
 #
-# File: module/ages/view/ages/users/add.phtml, line: 614
-# File: module/ages/view/ages/users/add.phtml, line: 629
-# File: module/ages/view/ages/users/edit.phtml, line: 627
-# File: module/ages/view/ages/users/edit.phtml, line: 643
+# File: module/ages/view/ages/users/add.phtml, line: 622
+# File: module/ages/view/ages/users/add.phtml, line: 637
+# File: module/ages/view/ages/users/edit.phtml, line: 635
+# File: module/ages/view/ages/users/edit.phtml, line: 651
 # File: module/ages/view/ages/hotels/editusers.phtml, line: 68
 # File: module/ages/view/ages/hotels/editusers.phtml, line: 84
 # File: module/ages/view/ages/hotels/adduser.phtml, line: 64
@@ -8268,8 +8294,8 @@ msgstr ""
 msgid "User photo"
 msgstr ""
 #
-# File: module/ages/view/ages/users/add.phtml, line: 766
-# File: module/ages/view/ages/users/edit.phtml, line: 781
+# File: module/ages/view/ages/users/add.phtml, line: 774
+# File: module/ages/view/ages/users/edit.phtml, line: 789
 # File: module/ages/view/ages/affiliates/add.phtml, line: 776
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 348
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 854
@@ -8286,8 +8312,8 @@ msgstr ""
 msgid "Please enter first name"
 msgstr ""
 #
-# File: module/ages/view/ages/users/add.phtml, line: 769
-# File: module/ages/view/ages/users/edit.phtml, line: 784
+# File: module/ages/view/ages/users/add.phtml, line: 777
+# File: module/ages/view/ages/users/edit.phtml, line: 792
 # File: module/ages/view/ages/affiliates/add.phtml, line: 779
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 351
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 857
@@ -8304,8 +8330,8 @@ msgstr ""
 msgid "Please enter last name"
 msgstr ""
 #
-# File: module/ages/view/ages/users/add.phtml, line: 772
-# File: module/ages/view/ages/users/edit.phtml, line: 787
+# File: module/ages/view/ages/users/add.phtml, line: 780
+# File: module/ages/view/ages/users/edit.phtml, line: 795
 # File: module/ages/view/ages/affiliates/add.phtml, line: 785
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 357
 # File: module/ages/view/ages/login/index.phtml, line: 65
@@ -8325,8 +8351,8 @@ msgstr ""
 msgid "Please enter email address"
 msgstr ""
 #
-# File: module/ages/view/ages/users/add.phtml, line: 773
-# File: module/ages/view/ages/users/edit.phtml, line: 788
+# File: module/ages/view/ages/users/add.phtml, line: 781
+# File: module/ages/view/ages/users/edit.phtml, line: 796
 # File: module/ages/view/ages/affiliates/add.phtml, line: 786
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 358
 # File: module/ages/view/ages/login/index.phtml, line: 133
@@ -8346,8 +8372,8 @@ msgstr ""
 msgid "Please enter a valid email address"
 msgstr ""
 #
-# File: module/ages/view/ages/users/add.phtml, line: 776
-# File: module/ages/view/ages/users/edit.phtml, line: 791
+# File: module/ages/view/ages/users/add.phtml, line: 784
+# File: module/ages/view/ages/users/edit.phtml, line: 799
 # File: module/ages/view/ages/affiliates/add.phtml, line: 789
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 361
 # File: module/ages/view/ages/activities/add.phtml, line: 105
@@ -8372,8 +8398,8 @@ msgstr ""
 msgid "Please select country"
 msgstr ""
 #
-# File: module/ages/view/ages/users/add.phtml, line: 779
-# File: module/ages/view/ages/users/edit.phtml, line: 794
+# File: module/ages/view/ages/users/add.phtml, line: 787
+# File: module/ages/view/ages/users/edit.phtml, line: 802
 # File: module/ages/view/ages/affiliates/add.phtml, line: 792
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 364
 # File: module/ages/view/ages/activities/add.phtml, line: 108
@@ -8398,8 +8424,8 @@ msgstr ""
 msgid "Please select state/zone/region"
 msgstr ""
 #
-# File: module/ages/view/ages/users/add.phtml, line: 782
-# File: module/ages/view/ages/users/edit.phtml, line: 797
+# File: module/ages/view/ages/users/add.phtml, line: 790
+# File: module/ages/view/ages/users/edit.phtml, line: 805
 # File: module/ages/view/ages/affiliates/add.phtml, line: 795
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 367
 # File: module/ages/view/ages/activities/add.phtml, line: 111
@@ -8424,8 +8450,8 @@ msgstr ""
 msgid "Please select city"
 msgstr ""
 #
-# File: module/ages/view/ages/users/add.phtml, line: 785
-# File: module/ages/view/ages/users/edit.phtml, line: 800
+# File: module/ages/view/ages/users/add.phtml, line: 793
+# File: module/ages/view/ages/users/edit.phtml, line: 808
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 876
 # File: module/ages/view/ages/sub-agents/edit.phtml, line: 874
 # File: module/ages/view/ages/hotels/editusers.phtml, line: 241
@@ -8880,19 +8906,19 @@ msgstr ""
 msgid "Delete Destination"
 msgstr ""
 #
-# File: module/ages/view/ages/users/edit.phtml, line: 499
+# File: module/ages/view/ages/users/edit.phtml, line: 507
 msgid "Delete Tour Price"
 msgstr ""
 #
-# File: module/ages/view/ages/users/edit.phtml, line: 507
+# File: module/ages/view/ages/users/edit.phtml, line: 515
 msgid "Delete Tour Exclusion"
 msgstr ""
 #
-# File: module/ages/view/ages/users/edit.phtml, line: 515
+# File: module/ages/view/ages/users/edit.phtml, line: 523
 msgid "Delete Tour Inclusion"
 msgstr ""
 #
-# File: module/ages/view/ages/users/edit.phtml, line: 648
+# File: module/ages/view/ages/users/edit.phtml, line: 656
 # File: module/ages/view/ages/hotels/editusers.phtml, line: 89
 msgid "Reset"
 msgstr ""
@@ -13276,12 +13302,9 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 19
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 21
 # File: module/ages/view/ages/transfers/listreservations.phtml, line: 22
-# File: module/setup/view/settings/globalware_add.phtml, line: 12
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 12
-# File: module/setup/view/settings/globalware.phtml, line: 14
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 14
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 12
-# File: module/setup/view/settings/globalware_edit.phtml, line: 12
 msgid "Payment"
 msgstr ""
 #
@@ -14575,6 +14598,8 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredcars_add.phtml, line: 70
 # File: module/ages/view/ages/cms/news_edit.phtml, line: 59
 # File: module/ages/view/ages/cms/featuredflights_edit.phtml, line: 103
+# File: module/setup/view/settings/globalware_add.phtml, line: 57
+# File: module/setup/view/settings/globalware_edit.phtml, line: 51
 msgid "Please enter Name"
 msgstr ""
 #
@@ -14741,12 +14766,9 @@ msgstr ""
 # File: module/setup/view/intelligence/topdestinations.phtml, line: 23
 # File: module/setup/view/cars/cartrawler.phtml, line: 177
 # File: module/setup/view/cars/cartrawler.phtml, line: 178
-# File: module/setup/view/settings/globalware_add.phtml, line: 13
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 13
-# File: module/setup/view/settings/globalware.phtml, line: 15
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 15
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 13
-# File: module/setup/view/settings/globalware_edit.phtml, line: 13
 # File: module/setup/view/air/travelport.phtml, line: 151
 # File: module/setup/view/air/travelport.phtml, line: 152
 msgid "Type"
@@ -15358,7 +15380,7 @@ msgstr ""
 # File: module/setup/view/settings/fraudsettings.phtml, line: 97
 # File: module/setup/view/settings/fraudlayer_edit.phtml, line: 29
 # File: module/setup/view/settings/realtimepayments_edit.phtml, line: 29
-# File: module/setup/view/settings/globalware_add.phtml, line: 28
+# File: module/setup/view/settings/globalware_add.phtml, line: 26
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 28
 # File: module/setup/view/settings/payments.phtml, line: 273
 # File: module/setup/view/settings/settings.phtml, line: 656
@@ -15368,7 +15390,7 @@ msgstr ""
 # File: module/setup/view/settings/enterpriseratesetup_edit.phtml, line: 33
 # File: module/setup/view/settings/geotargetmarkup_edit.phtml, line: 28
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 31
-# File: module/setup/view/settings/globalware_edit.phtml, line: 31
+# File: module/setup/view/settings/globalware_edit.phtml, line: 21
 # File: module/setup/view/settings/enterpriseratesetup_add.phtml, line: 22
 # File: module/setup/view/settings/geotargetmarkup_add.phtml, line: 29
 msgid "Submit"
@@ -16696,6 +16718,7 @@ msgid "Item"
 msgstr ""
 #
 # File: module/ages/view/ages/reports/invoices.phtml, line: 20
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 21
 msgid "Invoice Number"
 msgstr ""
 #
@@ -19872,7 +19895,6 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/edit.phtml, line: 102
 # File: module/ages/view/ages/agents/edit.phtml, line: 99
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 20
-# File: module/setup/view/settings/globalware_edit.phtml, line: 20
 msgid "Select Affiliate"
 msgstr ""
 #
@@ -21261,6 +21283,53 @@ msgstr ""
 msgid "Please enter total"
 msgstr ""
 #
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 5
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 96
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 97
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 102
+# File: module/ages/view/ages/customers/globalware.phtml, line: 5
+# File: module/ages/view/ages/customers/globalware.phtml, line: 94
+# File: module/ages/view/ages/customers/globalware.phtml, line: 95
+# File: module/ages/view/ages/customers/globalware.phtml, line: 100
+# File: module/setup/view/settings/globalware_add.phtml, line: 4
+# File: module/setup/view/settings/globalware.phtml, line: 5
+# File: module/setup/view/settings/globalware.phtml, line: 102
+# File: module/setup/view/settings/globalware.phtml, line: 103
+# File: module/setup/view/settings/globalware.phtml, line: 108
+# File: module/setup/view/settings/globalware_edit.phtml, line: 5
+msgid "Globalware"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 22
+msgid "Pay ID"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 23
+# File: module/ages/view/ages/customers/searchglobalware.phtml, line: 12
+# File: module/ages/view/ages/customers/searchglobalware.phtml, line: 30
+# File: module/ages/view/ages/customers/editglobalware.phtml, line: 11
+# File: module/ages/view/ages/customers/globalware.phtml, line: 21
+msgid "Account ID"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 24
+msgid "Book Date"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 25
+msgid "PNR Located"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 26
+msgid "Book Agent"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 28
+# File: module/ages/view/ages/customers/searchglobalware.phtml, line: 36
+# File: module/ages/view/ages/customers/globalware.phtml, line: 27
+msgid "GW"
+msgstr ""
+#
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 64
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 81
 # File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 64
@@ -22446,10 +22515,8 @@ msgid "Please enter agent"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/addtransaction.phtml, line: 67
-# File: module/setup/view/settings/globalware_add.phtml, line: 74
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 74
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 76
-# File: module/setup/view/settings/globalware_edit.phtml, line: 76
 msgid "Please enter type"
 msgstr ""
 #
@@ -22843,13 +22910,6 @@ msgstr ""
 msgid "Search Globalware"
 msgstr ""
 #
-# File: module/ages/view/ages/customers/searchglobalware.phtml, line: 12
-# File: module/ages/view/ages/customers/searchglobalware.phtml, line: 30
-# File: module/ages/view/ages/customers/editglobalware.phtml, line: 11
-# File: module/ages/view/ages/customers/globalware.phtml, line: 21
-msgid "Account ID"
-msgstr ""
-#
 # File: module/ages/view/ages/customers/searchglobalware.phtml, line: 15
 # File: module/ages/view/ages/customers/editglobalware.phtml, line: 30
 msgid "Home Phone"
@@ -22861,11 +22921,6 @@ msgstr ""
 # File: module/setup/view/packages/globalia.phtml, line: 17
 # File: module/setup/view/hotels/restel.phtml, line: 16
 msgid "Customer ID"
-msgstr ""
-#
-# File: module/ages/view/ages/customers/searchglobalware.phtml, line: 36
-# File: module/ages/view/ages/customers/globalware.phtml, line: 27
-msgid "GW"
 msgstr ""
 #
 # File: module/ages/view/ages/customers/searchglobalware.phtml, line: 70
@@ -22967,6 +23022,9 @@ msgid "Company ID"
 msgstr ""
 #
 # File: module/ages/view/ages/customers/editglobalware.phtml, line: 35
+# File: module/setup/view/settings/globalware_add.phtml, line: 16
+# File: module/setup/view/settings/globalware.phtml, line: 14
+# File: module/setup/view/settings/globalware_edit.phtml, line: 14
 msgid "Version"
 msgstr ""
 #
@@ -23040,16 +23098,6 @@ msgstr ""
 #
 # File: module/ages/view/ages/customers/zombie.phtml, line: 277
 msgid "Select Agent"
-msgstr ""
-#
-# File: module/ages/view/ages/customers/globalware.phtml, line: 5
-# File: module/ages/view/ages/customers/globalware.phtml, line: 94
-# File: module/ages/view/ages/customers/globalware.phtml, line: 95
-# File: module/ages/view/ages/customers/globalware.phtml, line: 100
-# File: module/setup/view/settings/globalware_add.phtml, line: 4
-# File: module/setup/view/settings/globalware.phtml, line: 5
-# File: module/setup/view/settings/globalware_edit.phtml, line: 5
-msgid "Globalware"
 msgstr ""
 #
 # File: module/ages/view/ages/customers/add.phtml, line: 5
@@ -27069,6 +27117,8 @@ msgstr ""
 # File: module/setup/view/cars/avisbudget.phtml, line: 17
 # File: module/setup/view/cars/bookinggo.phtml, line: 15
 # File: module/setup/view/cars/bookinggo.phtml, line: 16
+# File: module/setup/view/settings/globalware_add.phtml, line: 12
+# File: module/setup/view/settings/globalware_edit.phtml, line: 12
 # File: module/setup/view/air/mystifly.phtml, line: 18
 # File: module/setup/view/air/mystifly.phtml, line: 19
 # File: module/setup/view/air/ctm.phtml, line: 15
@@ -29158,42 +29208,18 @@ msgstr ""
 msgid "Please enter multi single availability"
 msgstr ""
 #
-# File: module/setup/view/settings/globalware_add.phtml, line: 24
-# File: module/setup/view/settings/paymentsexclude_add.phtml, line: 24
-# File: module/setup/view/settings/globalware.phtml, line: 17
-# File: module/setup/view/settings/paymentsexclude.phtml, line: 17
-# File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 26
-# File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 27
-# File: module/setup/view/settings/globalware_edit.phtml, line: 26
-# File: module/setup/view/settings/globalware_edit.phtml, line: 27
-msgid "Country ISO Code"
+# File: module/setup/view/settings/globalware_add.phtml, line: 18
+# File: module/setup/view/settings/globalware.phtml, line: 16
+# File: module/setup/view/settings/globalware_edit.phtml, line: 16
+msgid "Hostname"
 msgstr ""
 #
-# File: module/setup/view/settings/globalware_add.phtml, line: 68
-# File: module/setup/view/settings/paymentsexclude_add.phtml, line: 68
-# File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 70
-# File: module/setup/view/settings/globalware_edit.phtml, line: 70
-msgid "Please enter hotel id"
-msgstr ""
-#
-# File: module/setup/view/settings/globalware_add.phtml, line: 71
-# File: module/setup/view/settings/paymentsexclude_add.phtml, line: 71
-# File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 73
-# File: module/setup/view/settings/globalware_edit.phtml, line: 73
-msgid "Please enter payment id"
-msgstr ""
-#
-# File: module/setup/view/settings/globalware_add.phtml, line: 77
-# File: module/setup/view/settings/paymentsexclude_add.phtml, line: 77
-# File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 79
-# File: module/setup/view/settings/globalware_edit.phtml, line: 79
-msgid "Please enter country iso code"
+# File: module/setup/view/settings/globalware_add.phtml, line: 21
+# File: module/setup/view/settings/globalware_edit.phtml, line: 17
+msgid "Connect String"
 msgstr ""
 #
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 4
-# File: module/setup/view/settings/globalware.phtml, line: 94
-# File: module/setup/view/settings/globalware.phtml, line: 95
-# File: module/setup/view/settings/globalware.phtml, line: 100
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 5
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 94
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 95
@@ -29202,14 +29228,34 @@ msgstr ""
 msgid "Payments - Exclude"
 msgstr ""
 #
-# File: module/setup/view/settings/globalware.phtml, line: 53
-# File: module/setup/view/settings/paymentsexclude.phtml, line: 53
-msgid "Are you sure you want to delete this payment exclude?"
+# File: module/setup/view/settings/paymentsexclude_add.phtml, line: 24
+# File: module/setup/view/settings/paymentsexclude.phtml, line: 17
+# File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 26
+# File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 27
+msgid "Country ISO Code"
 msgstr ""
 #
-# File: module/setup/view/settings/globalware.phtml, line: 84
-# File: module/setup/view/settings/paymentsexclude.phtml, line: 84
-msgid "Add New Payment Exclude"
+# File: module/setup/view/settings/paymentsexclude_add.phtml, line: 68
+# File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 70
+msgid "Please enter hotel id"
+msgstr ""
+#
+# File: module/setup/view/settings/paymentsexclude_add.phtml, line: 71
+# File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 73
+msgid "Please enter payment id"
+msgstr ""
+#
+# File: module/setup/view/settings/paymentsexclude_add.phtml, line: 77
+# File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 79
+msgid "Please enter country iso code"
+msgstr ""
+#
+# File: module/setup/view/settings/globalware.phtml, line: 61
+msgid "Are you sure you want to delete this globalware?"
+msgstr ""
+#
+# File: module/setup/view/settings/globalware.phtml, line: 92
+msgid "Add New Globalware"
 msgstr ""
 #
 # File: module/setup/view/settings/payments.phtml, line: 55
@@ -29923,6 +29969,14 @@ msgstr ""
 # File: module/setup/view/settings/geotargetmarkup_edit.phtml, line: 61
 # File: module/setup/view/settings/geotargetmarkup_add.phtml, line: 63
 msgid "Please enter markup type"
+msgstr ""
+#
+# File: module/setup/view/settings/paymentsexclude.phtml, line: 53
+msgid "Are you sure you want to delete this payment exclude?"
+msgstr ""
+#
+# File: module/setup/view/settings/paymentsexclude.phtml, line: 84
+msgid "Add New Payment Exclude"
 msgstr ""
 #
 # File: module/setup/view/trains/sat.phtml, line: 13
