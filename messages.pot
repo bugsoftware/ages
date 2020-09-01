@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-31 17:28-0400\n"
+"POT-Creation-Date: 2020-09-01 13:40-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7022,9 +7022,11 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 38
 # File: module/ages/view/ages/dynamic-packaging/add_itinerary.phtml, line: 132
 # File: module/ages/view/ages/dynamic-packaging/searchglobalware.phtml, line: 51
+# File: module/ages/view/ages/dynamic-packaging/searchglobalware.phtml, line: 52
 # File: module/ages/view/ages/dynamic-packaging/edit_itinerary.phtml, line: 70
 # File: module/ages/view/ages/dynamic-packaging/edit_itinerary.phtml, line: 191
-# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 59
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 44
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 77
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 99
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 116
 # File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 99
@@ -7379,8 +7381,8 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/list.phtml, line: 102
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 130
 # File: module/ages/view/ages/newsletter/spam.phtml, line: 78
-# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 102
-# File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 102
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 119
+# File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 104
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 240
 # File: module/ages/view/ages/agents/transactions.phtml, line: 180
 # File: module/ages/view/ages/customers/telemarketing.phtml, line: 106
@@ -21455,9 +21457,9 @@ msgid "Please enter total"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 5
-# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 96
-# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 97
-# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 102
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 113
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 114
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 119
 # File: module/ages/view/ages/customers/globalware.phtml, line: 5
 # File: module/ages/view/ages/customers/globalware.phtml, line: 94
 # File: module/ages/view/ages/customers/globalware.phtml, line: 95
@@ -21473,6 +21475,10 @@ msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 26
 msgid "Book Agent"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 45
+msgid "View Invoice"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 64
@@ -21608,9 +21614,9 @@ msgid "Search Dynamic Package"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 5
-# File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 96
-# File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 97
-# File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 102
+# File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 98
+# File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 99
+# File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 104
 msgid "List Dynamic Package"
 msgstr ""
 #
