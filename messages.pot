@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-09-04 08:40-0400\n"
+"POT-Creation-Date: 2020-09-04 12:26-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -155,7 +155,7 @@ msgstr ""
 # File: module/ages/src/Controller/Users.php, line: 4555
 # File: module/ages/src/Controller/Users.php, line: 4884
 # File: module/ages/src/Controller/Users.php, line: 5086
-# File: module/ages/src/Controller/Transfers.php, line: 1862
+# File: module/ages/src/Controller/Transfers.php, line: 1872
 # File: module/ages/src/Controller/Agents.php, line: 1318
 # File: module/ages/src/Controller/Agents.php, line: 5576
 # File: module/ages/src/Controller/Agents.php, line: 6319
@@ -317,7 +317,7 @@ msgstr ""
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 299
 # File: module/ages/src/Controller/Transfers.php, line: 674
 # File: module/ages/src/Controller/Transfers.php, line: 1054
-# File: module/ages/src/Controller/Transfers.php, line: 1845
+# File: module/ages/src/Controller/Transfers.php, line: 1855
 # File: module/ages/src/Controller/Agents.php, line: 5587
 # File: module/ages/src/Controller/Tours.php, line: 681
 # File: module/ages/src/Controller/Tours.php, line: 701
@@ -2164,7 +2164,7 @@ msgstr ""
 msgid "All Categories"
 msgstr ""
 #
-# File: module/ages/src/Controller/Transfers.php, line: 1849
+# File: module/ages/src/Controller/Transfers.php, line: 1859
 # File: module/ages/src/Controller/Cars.php, line: 171
 # File: module/ages/src/Controller/Cars.php, line: 329
 # File: module/ages/src/Controller/Cars.php, line: 529
@@ -6425,8 +6425,8 @@ msgstr ""
 # File: module/ages/view/ages/customers/edit.phtml, line: 284
 # File: module/ages/view/ages/transfers/vehicles_add.phtml, line: 117
 # File: module/ages/view/ages/transfers/vehicles_add.phtml, line: 130
-# File: module/ages/view/ages/transfers/vehicles_edit.phtml, line: 111
-# File: module/ages/view/ages/transfers/vehicles_edit.phtml, line: 125
+# File: module/ages/view/ages/transfers/vehicles_edit.phtml, line: 110
+# File: module/ages/view/ages/transfers/vehicles_edit.phtml, line: 124
 # File: module/manager/view/rooms/add.phtml, line: 333
 # File: module/manager/view/rooms/add.phtml, line: 346
 # File: module/manager/view/rooms/add.phtml, line: 416
@@ -6636,8 +6636,8 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit.phtml, line: 800
 # File: module/ages/view/ages/transfers/vehicles_add.phtml, line: 118
 # File: module/ages/view/ages/transfers/vehicles_add.phtml, line: 131
-# File: module/ages/view/ages/transfers/vehicles_edit.phtml, line: 112
-# File: module/ages/view/ages/transfers/vehicles_edit.phtml, line: 126
+# File: module/ages/view/ages/transfers/vehicles_edit.phtml, line: 111
+# File: module/ages/view/ages/transfers/vehicles_edit.phtml, line: 125
 # File: module/manager/view/rooms/add.phtml, line: 334
 # File: module/manager/view/rooms/add.phtml, line: 347
 # File: module/manager/view/rooms/add.phtml, line: 417
@@ -7617,7 +7617,7 @@ msgstr ""
 # File: module/ages/view/ages/customers/questions_addquestion.phtml, line: 12
 # File: module/ages/view/ages/transfers/vehicles_add.phtml, line: 50
 # File: module/ages/view/ages/transfers/vehicles_add.phtml, line: 52
-# File: module/ages/view/ages/transfers/vehicles_edit.phtml, line: 44
+# File: module/ages/view/ages/transfers/vehicles_edit.phtml, line: 43
 # File: module/manager/view/rooms/add.phtml, line: 11
 # File: module/manager/view/rooms/edit.phtml, line: 11
 # File: module/manager/view/rooms/index.phtml, line: 12
@@ -7980,7 +7980,7 @@ msgstr ""
 # File: module/ages/view/ages/customers/edit.phtml, line: 75
 # File: module/ages/view/ages/customers/editstatisticsair.phtml, line: 12
 # File: module/ages/view/ages/transfers/vehicles_add.phtml, line: 44
-# File: module/ages/view/ages/transfers/vehicles_edit.phtml, line: 35
+# File: module/ages/view/ages/transfers/vehicles_edit.phtml, line: 34
 # File: module/ages/view/ages/transfers/prices_edit.phtml, line: 28
 # File: module/ages/view/ages/transfers/prices_add.phtml, line: 24
 # File: module/setup/view/settings/globalware_add.phtml, line: 17
@@ -19074,7 +19074,7 @@ msgstr ""
 # File: module/ages/view/ages/packages/edit.phtml, line: 18
 # File: module/ages/view/ages/packages/edit.phtml, line: 19
 # File: module/ages/view/ages/transfers/vehicles_add.phtml, line: 45
-# File: module/ages/view/ages/transfers/vehicles_edit.phtml, line: 37
+# File: module/ages/view/ages/transfers/vehicles_edit.phtml, line: 36
 # File: module/setup/view/cars/amadeus.phtml, line: 68
 # File: module/setup/view/cars/amadeus.phtml, line: 69
 # File: module/setup/view/settings/b2bwallet.phtml, line: 71
@@ -23857,7 +23857,7 @@ msgid "Fee per Person"
 msgstr ""
 #
 # File: module/ages/view/ages/transfers/vehicles_add.phtml, line: 89
-# File: module/ages/view/ages/transfers/vehicles_edit.phtml, line: 81
+# File: module/ages/view/ages/transfers/vehicles_edit.phtml, line: 80
 msgid "Please enter Vehicle"
 msgstr ""
 #
@@ -23865,7 +23865,7 @@ msgstr ""
 msgid "Edit Vehicle"
 msgstr ""
 #
-# File: module/ages/view/ages/transfers/vehicles_edit.phtml, line: 50
+# File: module/ages/view/ages/transfers/vehicles_edit.phtml, line: 49
 msgid "Update Vehicle"
 msgstr ""
 #
