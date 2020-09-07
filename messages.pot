@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-09-06 15:43-0400\n"
+"POT-Creation-Date: 2020-09-07 08:00-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,17 +30,17 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 2548
 # File: module/ages/src/Controller/Customers.php, line: 3282
 # File: module/ages/src/Controller/ServiceFees.php, line: 481
-# File: module/ages/src/Controller/CMS.php, line: 442
-# File: module/ages/src/Controller/CMS.php, line: 1803
-# File: module/ages/src/Controller/CMS.php, line: 2787
-# File: module/ages/src/Controller/CMS.php, line: 3258
-# File: module/ages/src/Controller/CMS.php, line: 3893
-# File: module/ages/src/Controller/CMS.php, line: 4454
-# File: module/ages/src/Controller/CMS.php, line: 4970
-# File: module/ages/src/Controller/CMS.php, line: 5526
-# File: module/ages/src/Controller/CMS.php, line: 5955
-# File: module/ages/src/Controller/CMS.php, line: 6447
-# File: module/ages/src/Controller/CMS.php, line: 7169
+# File: module/ages/src/Controller/CMS.php, line: 463
+# File: module/ages/src/Controller/CMS.php, line: 1824
+# File: module/ages/src/Controller/CMS.php, line: 2827
+# File: module/ages/src/Controller/CMS.php, line: 3298
+# File: module/ages/src/Controller/CMS.php, line: 3933
+# File: module/ages/src/Controller/CMS.php, line: 4513
+# File: module/ages/src/Controller/CMS.php, line: 5048
+# File: module/ages/src/Controller/CMS.php, line: 5604
+# File: module/ages/src/Controller/CMS.php, line: 6033
+# File: module/ages/src/Controller/CMS.php, line: 6546
+# File: module/ages/src/Controller/CMS.php, line: 7307
 # File: module/ages/view/ages/newsletter/exceptions.phtml, line: 21
 msgid "All Agents"
 msgstr ""
@@ -88,14 +88,14 @@ msgstr ""
 # File: module/ages/src/Controller/Companies.php, line: 1756
 # File: module/ages/src/Controller/Affiliates.php, line: 2175
 # File: module/ages/src/Controller/Affiliates.php, line: 3885
-# File: module/ages/src/Controller/CMS.php, line: 352
-# File: module/ages/src/Controller/CMS.php, line: 508
-# File: module/ages/src/Controller/CMS.php, line: 729
-# File: module/ages/src/Controller/CMS.php, line: 825
-# File: module/ages/src/Controller/CMS.php, line: 2499
-# File: module/ages/src/Controller/CMS.php, line: 2853
-# File: module/ages/src/Controller/CMS.php, line: 3784
-# File: module/ages/src/Controller/CMS.php, line: 3959
+# File: module/ages/src/Controller/CMS.php, line: 373
+# File: module/ages/src/Controller/CMS.php, line: 529
+# File: module/ages/src/Controller/CMS.php, line: 750
+# File: module/ages/src/Controller/CMS.php, line: 846
+# File: module/ages/src/Controller/CMS.php, line: 2539
+# File: module/ages/src/Controller/CMS.php, line: 2893
+# File: module/ages/src/Controller/CMS.php, line: 3824
+# File: module/ages/src/Controller/CMS.php, line: 3999
 # File: module/manager/src/Controller/Hotel.php, line: 240
 msgid "All Companies"
 msgstr ""
@@ -184,7 +184,7 @@ msgstr ""
 # File: module/ages/src/Controller/Affiliates.php, line: 4331
 # File: module/ages/src/Controller/Affiliates.php, line: 4344
 # File: module/ages/src/Controller/Affiliates.php, line: 4345
-# File: module/ages/src/Controller/CMS.php, line: 803
+# File: module/ages/src/Controller/CMS.php, line: 824
 # File: module/ages/view/ages/affiliates/edit_cms.phtml, line: 23
 # File: module/ages/view/ages/affiliates/add_branches.phtml, line: 8
 # File: module/ages/view/ages/affiliates/edit_flights.phtml, line: 9
@@ -239,8 +239,8 @@ msgstr ""
 # File: module/ages/src/Controller/Newsletter.php, line: 4828
 # File: module/ages/src/Controller/Affiliates.php, line: 1817
 # File: module/ages/src/Controller/Affiliates.php, line: 3006
-# File: module/ages/src/Controller/CMS.php, line: 1753
-# File: module/ages/src/Controller/CMS.php, line: 7593
+# File: module/ages/src/Controller/CMS.php, line: 1774
+# File: module/ages/src/Controller/CMS.php, line: 7731
 msgid "Enable"
 msgstr ""
 #
@@ -253,8 +253,8 @@ msgstr ""
 # File: module/ages/src/Controller/Newsletter.php, line: 4824
 # File: module/ages/src/Controller/Affiliates.php, line: 1819
 # File: module/ages/src/Controller/Affiliates.php, line: 3008
-# File: module/ages/src/Controller/CMS.php, line: 1749
-# File: module/ages/src/Controller/CMS.php, line: 7589
+# File: module/ages/src/Controller/CMS.php, line: 1770
+# File: module/ages/src/Controller/CMS.php, line: 7727
 msgid "Disable"
 msgstr ""
 #
@@ -382,23 +382,26 @@ msgstr ""
 # File: module/ages/src/Controller/ServiceFees.php, line: 332
 # File: module/ages/src/Controller/ServiceFees.php, line: 1104
 # File: module/ages/src/Controller/CMS.php, line: 313
-# File: module/ages/src/Controller/CMS.php, line: 334
-# File: module/ages/src/Controller/CMS.php, line: 1628
-# File: module/ages/src/Controller/CMS.php, line: 1640
-# File: module/ages/src/Controller/CMS.php, line: 1652
-# File: module/ages/src/Controller/CMS.php, line: 1664
-# File: module/ages/src/Controller/CMS.php, line: 2481
-# File: module/ages/src/Controller/CMS.php, line: 2610
-# File: module/ages/src/Controller/CMS.php, line: 2616
-# File: module/ages/src/Controller/CMS.php, line: 2617
-# File: module/ages/src/Controller/CMS.php, line: 3155
-# File: module/ages/src/Controller/CMS.php, line: 3756
-# File: module/ages/src/Controller/CMS.php, line: 4273
-# File: module/ages/src/Controller/CMS.php, line: 4790
-# File: module/ages/src/Controller/CMS.php, line: 5264
-# File: module/ages/src/Controller/CMS.php, line: 5345
-# File: module/ages/src/Controller/CMS.php, line: 5824
-# File: module/ages/src/Controller/CMS.php, line: 7572
+# File: module/ages/src/Controller/CMS.php, line: 338
+# File: module/ages/src/Controller/CMS.php, line: 355
+# File: module/ages/src/Controller/CMS.php, line: 1649
+# File: module/ages/src/Controller/CMS.php, line: 1661
+# File: module/ages/src/Controller/CMS.php, line: 1673
+# File: module/ages/src/Controller/CMS.php, line: 1685
+# File: module/ages/src/Controller/CMS.php, line: 2521
+# File: module/ages/src/Controller/CMS.php, line: 2650
+# File: module/ages/src/Controller/CMS.php, line: 2656
+# File: module/ages/src/Controller/CMS.php, line: 2657
+# File: module/ages/src/Controller/CMS.php, line: 3195
+# File: module/ages/src/Controller/CMS.php, line: 3796
+# File: module/ages/src/Controller/CMS.php, line: 4332
+# File: module/ages/src/Controller/CMS.php, line: 4868
+# File: module/ages/src/Controller/CMS.php, line: 5342
+# File: module/ages/src/Controller/CMS.php, line: 5423
+# File: module/ages/src/Controller/CMS.php, line: 5902
+# File: module/ages/src/Controller/CMS.php, line: 6368
+# File: module/ages/src/Controller/CMS.php, line: 6971
+# File: module/ages/src/Controller/CMS.php, line: 7710
 # File: module/ages/view/ages/index/index.phtml, line: 97
 # File: module/ages/view/ages/hotels/index.phtml, line: 43
 # File: module/ages/view/ages/newsletter/listbroadcasts.phtml, line: 55
@@ -1529,11 +1532,11 @@ msgstr ""
 # File: module/ages/src/Controller/CMS.php, line: 67
 # File: module/ages/src/Controller/CMS.php, line: 107
 # File: module/ages/src/Controller/CMS.php, line: 319
-# File: module/ages/src/Controller/CMS.php, line: 1762
-# File: module/ages/src/Controller/CMS.php, line: 2637
-# File: module/ages/src/Controller/CMS.php, line: 2656
-# File: module/ages/src/Controller/CMS.php, line: 3228
-# File: module/ages/src/Controller/CMS.php, line: 3243
+# File: module/ages/src/Controller/CMS.php, line: 1783
+# File: module/ages/src/Controller/CMS.php, line: 2677
+# File: module/ages/src/Controller/CMS.php, line: 2696
+# File: module/ages/src/Controller/CMS.php, line: 3268
+# File: module/ages/src/Controller/CMS.php, line: 3283
 # File: module/ages/view/ages/cms/banners.phtml, line: 26
 # File: module/ages/view/ages/cms/featuredhotels.phtml, line: 29
 # File: module/ages/view/ages/air/toxicairlines.phtml, line: 27
@@ -1834,7 +1837,7 @@ msgstr ""
 # File: module/ages/src/Controller/Tours.php, line: 222
 # File: module/ages/src/Controller/Tours.php, line: 2676
 # File: module/ages/src/Controller/Tours.php, line: 2705
-# File: module/ages/src/Controller/CMS.php, line: 5922
+# File: module/ages/src/Controller/CMS.php, line: 6000
 # File: module/ages/view/ages/tours/edititinerary.phtml, line: 24
 # File: module/ages/view/ages/tours/edititinerary.phtml, line: 25
 # File: module/ages/view/ages/tours/itinerary_add.phtml, line: 24
@@ -1922,17 +1925,17 @@ msgstr ""
 # File: module/ages/src/Controller/ServiceFees.php, line: 520
 # File: module/ages/src/Controller/ServiceFees.php, line: 795
 # File: module/ages/src/Controller/ServiceFees.php, line: 995
-# File: module/ages/src/Controller/CMS.php, line: 475
-# File: module/ages/src/Controller/CMS.php, line: 1836
-# File: module/ages/src/Controller/CMS.php, line: 2820
-# File: module/ages/src/Controller/CMS.php, line: 3286
-# File: module/ages/src/Controller/CMS.php, line: 3926
-# File: module/ages/src/Controller/CMS.php, line: 4487
-# File: module/ages/src/Controller/CMS.php, line: 5003
-# File: module/ages/src/Controller/CMS.php, line: 5559
-# File: module/ages/src/Controller/CMS.php, line: 5988
-# File: module/ages/src/Controller/CMS.php, line: 6480
-# File: module/ages/src/Controller/CMS.php, line: 7202
+# File: module/ages/src/Controller/CMS.php, line: 496
+# File: module/ages/src/Controller/CMS.php, line: 1857
+# File: module/ages/src/Controller/CMS.php, line: 2860
+# File: module/ages/src/Controller/CMS.php, line: 3326
+# File: module/ages/src/Controller/CMS.php, line: 3966
+# File: module/ages/src/Controller/CMS.php, line: 4546
+# File: module/ages/src/Controller/CMS.php, line: 5081
+# File: module/ages/src/Controller/CMS.php, line: 5637
+# File: module/ages/src/Controller/CMS.php, line: 6066
+# File: module/ages/src/Controller/CMS.php, line: 6579
+# File: module/ages/src/Controller/CMS.php, line: 7340
 msgid "All Affiliates"
 msgstr ""
 #
@@ -1988,7 +1991,7 @@ msgstr ""
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 8772
 # File: module/ages/src/Controller/Packages.php, line: 807
 # File: module/ages/src/Controller/Packages.php, line: 1997
-# File: module/ages/src/Controller/CMS.php, line: 7001
+# File: module/ages/src/Controller/CMS.php, line: 7139
 # File: module/setup/src/Controller/cruiseships.php, line: 107
 msgid "1"
 msgstr ""
@@ -2005,7 +2008,7 @@ msgstr ""
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 8780
 # File: module/ages/src/Controller/Packages.php, line: 815
 # File: module/ages/src/Controller/Packages.php, line: 2005
-# File: module/ages/src/Controller/CMS.php, line: 7005
+# File: module/ages/src/Controller/CMS.php, line: 7143
 # File: module/setup/src/Controller/cruiseships.php, line: 115
 msgid "3"
 msgstr ""
@@ -2014,7 +2017,7 @@ msgstr ""
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 8784
 # File: module/ages/src/Controller/Packages.php, line: 819
 # File: module/ages/src/Controller/Packages.php, line: 2009
-# File: module/ages/src/Controller/CMS.php, line: 7009
+# File: module/ages/src/Controller/CMS.php, line: 7147
 # File: module/setup/src/Controller/cruiseships.php, line: 119
 msgid "4"
 msgstr ""
@@ -2023,7 +2026,7 @@ msgstr ""
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 8788
 # File: module/ages/src/Controller/Packages.php, line: 823
 # File: module/ages/src/Controller/Packages.php, line: 2013
-# File: module/ages/src/Controller/CMS.php, line: 7013
+# File: module/ages/src/Controller/CMS.php, line: 7151
 # File: module/setup/src/Controller/cruiseships.php, line: 123
 msgid "5"
 msgstr ""
@@ -2775,7 +2778,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/GiftCards.php, line: 938
 # File: module/ages/src/Controller/GiftCards.php, line: 1543
-# File: module/ages/src/Controller/CMS.php, line: 7070
+# File: module/ages/src/Controller/CMS.php, line: 7208
 # File: module/ages/view/ages/users/eventviewer.phtml, line: 13
 # File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 12
 # File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 12
@@ -2815,7 +2818,7 @@ msgstr ""
 # File: module/ages/src/Controller/ServiceFees.php, line: 960
 # File: module/ages/src/Controller/ServiceFees.php, line: 1127
 # File: module/ages/src/Controller/CMS.php, line: 75
-# File: module/ages/src/Controller/CMS.php, line: 1770
+# File: module/ages/src/Controller/CMS.php, line: 1791
 # File: module/ages/view/ages/affiliates/edit_flights.phtml, line: 1
 # File: module/ages/view/ages/affiliates/add_flights.phtml, line: 1
 # File: module/ages/view/ages/cms/banners.phtml, line: 28
@@ -2850,8 +2853,8 @@ msgstr ""
 # File: module/ages/src/Controller/ServiceFees.php, line: 948
 # File: module/ages/src/Controller/ServiceFees.php, line: 1124
 # File: module/ages/src/Controller/CMS.php, line: 79
-# File: module/ages/src/Controller/CMS.php, line: 1774
-# File: module/ages/src/Controller/CMS.php, line: 7078
+# File: module/ages/src/Controller/CMS.php, line: 1795
+# File: module/ages/src/Controller/CMS.php, line: 7216
 # File: module/ages/view/ages/affiliates/add.phtml, line: 92
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 93
 # File: module/ages/view/ages/affiliates/edit_cars.phtml, line: 1
@@ -2880,7 +2883,7 @@ msgstr ""
 # File: module/ages/src/Controller/ServiceFees.php, line: 968
 # File: module/ages/src/Controller/ServiceFees.php, line: 1129
 # File: module/ages/src/Controller/CMS.php, line: 83
-# File: module/ages/src/Controller/CMS.php, line: 1778
+# File: module/ages/src/Controller/CMS.php, line: 1799
 # File: module/ages/view/ages/affiliates/add.phtml, line: 93
 # File: module/ages/view/ages/affiliates/add_activities.phtml, line: 1
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 94
@@ -2916,8 +2919,8 @@ msgstr ""
 # File: module/ages/src/Controller/ServiceFees.php, line: 956
 # File: module/ages/src/Controller/ServiceFees.php, line: 1126
 # File: module/ages/src/Controller/CMS.php, line: 87
-# File: module/ages/src/Controller/CMS.php, line: 1782
-# File: module/ages/src/Controller/CMS.php, line: 7086
+# File: module/ages/src/Controller/CMS.php, line: 1803
+# File: module/ages/src/Controller/CMS.php, line: 7224
 # File: module/ages/view/ages/affiliates/add.phtml, line: 94
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 95
 # File: module/ages/view/ages/affiliates/edit_transfers.phtml, line: 1
@@ -2952,9 +2955,9 @@ msgstr ""
 # File: module/ages/src/Controller/ServiceFees.php, line: 952
 # File: module/ages/src/Controller/ServiceFees.php, line: 1125
 # File: module/ages/src/Controller/CMS.php, line: 91
-# File: module/ages/src/Controller/CMS.php, line: 1786
-# File: module/ages/src/Controller/CMS.php, line: 7098
-# File: module/ages/src/Controller/CMS.php, line: 7114
+# File: module/ages/src/Controller/CMS.php, line: 1807
+# File: module/ages/src/Controller/CMS.php, line: 7236
+# File: module/ages/src/Controller/CMS.php, line: 7252
 # File: module/ages/view/ages/affiliates/add_packages.phtml, line: 1
 # File: module/ages/view/ages/affiliates/add.phtml, line: 95
 # File: module/ages/view/ages/cms/banners.phtml, line: 32
@@ -2983,8 +2986,8 @@ msgstr ""
 # File: module/ages/src/Controller/ServiceFees.php, line: 964
 # File: module/ages/src/Controller/ServiceFees.php, line: 1128
 # File: module/ages/src/Controller/CMS.php, line: 95
-# File: module/ages/src/Controller/CMS.php, line: 1790
-# File: module/ages/src/Controller/CMS.php, line: 7090
+# File: module/ages/src/Controller/CMS.php, line: 1811
+# File: module/ages/src/Controller/CMS.php, line: 7228
 # File: module/ages/view/ages/affiliates/add.phtml, line: 96
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 97
 # File: module/ages/view/ages/affiliates/add_cruises.phtml, line: 1
@@ -3349,7 +3352,7 @@ msgstr ""
 # File: module/ages/src/Controller/ServiceFees.php, line: 944
 # File: module/ages/src/Controller/ServiceFees.php, line: 1123
 # File: module/ages/src/Controller/CMS.php, line: 71
-# File: module/ages/src/Controller/CMS.php, line: 1766
+# File: module/ages/src/Controller/CMS.php, line: 1787
 # File: module/ages/view/ages/affiliates/edit_hotels.phtml, line: 1
 # File: module/ages/view/ages/affiliates/add.phtml, line: 90
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 91
@@ -3389,7 +3392,7 @@ msgstr ""
 # File: module/ages/src/Controller/ServiceFees.php, line: 772
 # File: module/ages/src/Controller/ServiceFees.php, line: 972
 # File: module/ages/src/Controller/ServiceFees.php, line: 1130
-# File: module/ages/src/Controller/CMS.php, line: 7094
+# File: module/ages/src/Controller/CMS.php, line: 7232
 # File: module/ages/view/ages/newsletter/create.phtml, line: 63
 # File: module/setup/view/hotels/markinternational.phtml, line: 57
 # File: module/setup/view/hotels/markinternational.phtml, line: 58
@@ -3411,167 +3414,167 @@ msgid "Fixed Price"
 msgstr ""
 #
 # File: module/ages/src/Controller/CMS.php, line: 99
-# File: module/ages/src/Controller/CMS.php, line: 1794
+# File: module/ages/src/Controller/CMS.php, line: 1815
 # File: module/ages/view/ages/cms/banners.phtml, line: 34
 msgid "Bundles"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 2713
-# File: module/ages/src/Controller/CMS.php, line: 4383
-# File: module/ages/src/Controller/CMS.php, line: 4899
-# File: module/ages/src/Controller/CMS.php, line: 5455
-# File: module/ages/src/Controller/CMS.php, line: 6376
-# File: module/ages/src/Controller/CMS.php, line: 7022
+# File: module/ages/src/Controller/CMS.php, line: 2753
+# File: module/ages/src/Controller/CMS.php, line: 4442
+# File: module/ages/src/Controller/CMS.php, line: 4977
+# File: module/ages/src/Controller/CMS.php, line: 5533
+# File: module/ages/src/Controller/CMS.php, line: 6475
+# File: module/ages/src/Controller/CMS.php, line: 7160
 msgid "All Sections"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 2717
-# File: module/ages/src/Controller/CMS.php, line: 4387
-# File: module/ages/src/Controller/CMS.php, line: 4903
+# File: module/ages/src/Controller/CMS.php, line: 2757
+# File: module/ages/src/Controller/CMS.php, line: 4446
+# File: module/ages/src/Controller/CMS.php, line: 4981
 msgid "Section 1 (Last Minute)"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 2721
-# File: module/ages/src/Controller/CMS.php, line: 4391
-# File: module/ages/src/Controller/CMS.php, line: 4907
+# File: module/ages/src/Controller/CMS.php, line: 2761
+# File: module/ages/src/Controller/CMS.php, line: 4450
+# File: module/ages/src/Controller/CMS.php, line: 4985
 msgid "Section 2 (Early Booking)"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 2725
-# File: module/ages/src/Controller/CMS.php, line: 4395
-# File: module/ages/src/Controller/CMS.php, line: 4911
+# File: module/ages/src/Controller/CMS.php, line: 2765
+# File: module/ages/src/Controller/CMS.php, line: 4454
+# File: module/ages/src/Controller/CMS.php, line: 4989
 msgid "Section 3 (Hot Deals)"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 2729
-# File: module/ages/src/Controller/CMS.php, line: 4915
+# File: module/ages/src/Controller/CMS.php, line: 2769
+# File: module/ages/src/Controller/CMS.php, line: 4993
 msgid "Section 4 (Latest Accommodations)"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 2733
-# File: module/ages/src/Controller/CMS.php, line: 4403
-# File: module/ages/src/Controller/CMS.php, line: 4919
+# File: module/ages/src/Controller/CMS.php, line: 2773
+# File: module/ages/src/Controller/CMS.php, line: 4462
+# File: module/ages/src/Controller/CMS.php, line: 4997
 msgid "Section 5 (Today's Deals)"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 2737
-# File: module/ages/src/Controller/CMS.php, line: 4407
-# File: module/ages/src/Controller/CMS.php, line: 4923
+# File: module/ages/src/Controller/CMS.php, line: 2777
+# File: module/ages/src/Controller/CMS.php, line: 4466
+# File: module/ages/src/Controller/CMS.php, line: 5001
 msgid "Section 6 (Popular)"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 2741
-# File: module/ages/src/Controller/CMS.php, line: 4927
+# File: module/ages/src/Controller/CMS.php, line: 2781
+# File: module/ages/src/Controller/CMS.php, line: 5005
 msgid "Section 7 (Hotel Offers)"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 2745
-# File: module/ages/src/Controller/CMS.php, line: 4931
+# File: module/ages/src/Controller/CMS.php, line: 2785
+# File: module/ages/src/Controller/CMS.php, line: 5009
 msgid "Section 8 (Luxury Hotels)"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 2749
-# File: module/ages/src/Controller/CMS.php, line: 4419
-# File: module/ages/src/Controller/CMS.php, line: 4935
+# File: module/ages/src/Controller/CMS.php, line: 2789
+# File: module/ages/src/Controller/CMS.php, line: 4478
+# File: module/ages/src/Controller/CMS.php, line: 5013
 msgid "Section 9 (Special Deals)"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 2753
-# File: module/ages/src/Controller/CMS.php, line: 4423
-# File: module/ages/src/Controller/CMS.php, line: 4939
+# File: module/ages/src/Controller/CMS.php, line: 2793
+# File: module/ages/src/Controller/CMS.php, line: 4482
+# File: module/ages/src/Controller/CMS.php, line: 5017
 msgid "Section 10 (Top Destinations)"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 2757
+# File: module/ages/src/Controller/CMS.php, line: 2797
 msgid "Section 11 (B2B)"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 2761
+# File: module/ages/src/Controller/CMS.php, line: 2801
 msgid "Section 12 (B2C)"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 4399
+# File: module/ages/src/Controller/CMS.php, line: 4458
 msgid "Section 4 (Latest Packages)"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 4411
+# File: module/ages/src/Controller/CMS.php, line: 4470
 msgid "Section 7 (Packages Offers)"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 4415
+# File: module/ages/src/Controller/CMS.php, line: 4474
 msgid "Section 8 (Luxury Packages)"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 5459
-# File: module/ages/src/Controller/CMS.php, line: 6380
-# File: module/ages/src/Controller/CMS.php, line: 7026
+# File: module/ages/src/Controller/CMS.php, line: 5537
+# File: module/ages/src/Controller/CMS.php, line: 6479
+# File: module/ages/src/Controller/CMS.php, line: 7164
 msgid "Section 1 B2B"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 5463
-# File: module/ages/src/Controller/CMS.php, line: 6384
-# File: module/ages/src/Controller/CMS.php, line: 7030
+# File: module/ages/src/Controller/CMS.php, line: 5541
+# File: module/ages/src/Controller/CMS.php, line: 6483
+# File: module/ages/src/Controller/CMS.php, line: 7168
 msgid "Section 2 B2C"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 5467
-# File: module/ages/src/Controller/CMS.php, line: 6388
-# File: module/ages/src/Controller/CMS.php, line: 7034
+# File: module/ages/src/Controller/CMS.php, line: 5545
+# File: module/ages/src/Controller/CMS.php, line: 6487
+# File: module/ages/src/Controller/CMS.php, line: 7172
 msgid "Section 3 Facebook"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 5471
-# File: module/ages/src/Controller/CMS.php, line: 6392
-# File: module/ages/src/Controller/CMS.php, line: 7038
+# File: module/ages/src/Controller/CMS.php, line: 5549
+# File: module/ages/src/Controller/CMS.php, line: 6491
+# File: module/ages/src/Controller/CMS.php, line: 7176
 msgid "Section 4 Mobile"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 5475
-# File: module/ages/src/Controller/CMS.php, line: 6396
-# File: module/ages/src/Controller/CMS.php, line: 7042
+# File: module/ages/src/Controller/CMS.php, line: 5553
+# File: module/ages/src/Controller/CMS.php, line: 6495
+# File: module/ages/src/Controller/CMS.php, line: 7180
 msgid "Section 5 Top destinations"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 5479
-# File: module/ages/src/Controller/CMS.php, line: 6400
-# File: module/ages/src/Controller/CMS.php, line: 7046
+# File: module/ages/src/Controller/CMS.php, line: 5557
+# File: module/ages/src/Controller/CMS.php, line: 6499
+# File: module/ages/src/Controller/CMS.php, line: 7184
 msgid "Section 6 Latest Offers"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 5483
-# File: module/ages/src/Controller/CMS.php, line: 6404
-# File: module/ages/src/Controller/CMS.php, line: 7050
+# File: module/ages/src/Controller/CMS.php, line: 5561
+# File: module/ages/src/Controller/CMS.php, line: 6503
+# File: module/ages/src/Controller/CMS.php, line: 7188
 msgid "Section 7"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 5487
-# File: module/ages/src/Controller/CMS.php, line: 6408
-# File: module/ages/src/Controller/CMS.php, line: 7054
+# File: module/ages/src/Controller/CMS.php, line: 5565
+# File: module/ages/src/Controller/CMS.php, line: 6507
+# File: module/ages/src/Controller/CMS.php, line: 7192
 msgid "Section 8"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 5491
-# File: module/ages/src/Controller/CMS.php, line: 6412
-# File: module/ages/src/Controller/CMS.php, line: 7058
+# File: module/ages/src/Controller/CMS.php, line: 5569
+# File: module/ages/src/Controller/CMS.php, line: 6511
+# File: module/ages/src/Controller/CMS.php, line: 7196
 msgid "Section 9"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 5495
-# File: module/ages/src/Controller/CMS.php, line: 6416
-# File: module/ages/src/Controller/CMS.php, line: 7062
+# File: module/ages/src/Controller/CMS.php, line: 5573
+# File: module/ages/src/Controller/CMS.php, line: 6515
+# File: module/ages/src/Controller/CMS.php, line: 7200
 msgid "Section 10"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 6997
+# File: module/ages/src/Controller/CMS.php, line: 7135
 # File: module/setup/src/Controller/cruiseships.php, line: 103
 msgid "0"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 7074
+# File: module/ages/src/Controller/CMS.php, line: 7212
 msgid "Packages / Tours and Activities"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 7082
+# File: module/ages/src/Controller/CMS.php, line: 7220
 # File: module/ages/view/ages/affiliates/add.phtml, line: 91
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 92
 # File: module/ages/view/ages/reports/flights.phtml, line: 5
@@ -3584,20 +3587,20 @@ msgstr ""
 msgid "Flights"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 7102
+# File: module/ages/src/Controller/CMS.php, line: 7240
 # File: module/ages/view/ages/reports/airlines.phtml, line: 574
 msgid "Content"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 7106
+# File: module/ages/src/Controller/CMS.php, line: 7244
 msgid "Content - Main Page"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 7110
+# File: module/ages/src/Controller/CMS.php, line: 7248
 msgid "Content - Both Pages"
 msgstr ""
 #
-# File: module/ages/src/Controller/CMS.php, line: 7118
+# File: module/ages/src/Controller/CMS.php, line: 7256
 msgid "Tours and Activities"
 msgstr ""
 #
@@ -3897,14 +3900,14 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredtransfers_edit.phtml, line: 30
 # File: module/ages/view/ages/cms/featuredtransfers_edit.phtml, line: 31
 # File: module/ages/view/ages/cms/featuredpackages.phtml, line: 15
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 29
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 28
 # File: module/ages/view/ages/cms/featureddestinations.phtml, line: 16
 # File: module/ages/view/ages/cms/featureddynamicpackages.phtml, line: 15
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 30
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 31
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 28
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 29
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 24
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 25
-# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 21
+# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 20
 # File: module/ages/view/ages/cms/featuredpackages_add.phtml, line: 19
 # File: module/ages/view/ages/cms/featuredactivities.phtml, line: 15
 # File: module/ages/view/ages/cms/featureddynamicpackages_add.phtml, line: 19
@@ -3962,7 +3965,7 @@ msgstr ""
 # File: module/ages/view/ages/tours/prices_add.phtml, line: 15
 # File: module/ages/view/ages/cms/featureddestinations_edit.phtml, line: 24
 # File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 28
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 30
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 29
 # File: module/ages/view/ages/cms/featureddestinations.phtml, line: 17
 # File: module/ages/view/ages/cms/featureddestinations_add.phtml, line: 24
 # File: module/ages/view/ages/packages/addavailability_childrenrates_extra.phtml, line: 12
@@ -5166,8 +5169,7 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 17
 # File: module/ages/view/ages/cms/featuredcruises_add.phtml, line: 26
 # File: module/ages/view/ages/cms/featuredhotels.phtml, line: 15
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 24
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 25
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 23
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 18
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 19
 # File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 17
@@ -6012,7 +6014,7 @@ msgstr ""
 # File: module/ages/view/ages/cms/regions_assign.phtml, line: 30
 # File: module/ages/view/ages/cms/news_add.phtml, line: 15
 # File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 51
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 53
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 52
 # File: module/ages/view/ages/cms/regions_details_edit.phtml, line: 30
 # File: module/ages/view/ages/cms/regions_add.phtml, line: 26
 # File: module/ages/view/ages/cms/news_edit.phtml, line: 16
@@ -6101,7 +6103,7 @@ msgstr ""
 # File: module/ages/view/ages/cms/regions_assign.phtml, line: 31
 # File: module/ages/view/ages/cms/news_add.phtml, line: 16
 # File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 52
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 54
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 53
 # File: module/ages/view/ages/cms/regions_details_edit.phtml, line: 31
 # File: module/ages/view/ages/cms/regions_add.phtml, line: 27
 # File: module/ages/view/ages/cms/news_edit.phtml, line: 17
@@ -6241,8 +6243,8 @@ msgstr ""
 # File: module/ages/view/ages/tours/images_add.phtml, line: 173
 # File: module/ages/view/ages/tours/itinerary_add.phtml, line: 117
 # File: module/ages/view/ages/tours/itinerary_add.phtml, line: 143
-# File: module/ages/view/ages/cms/banners_edit.phtml, line: 140
-# File: module/ages/view/ages/cms/banners_edit.phtml, line: 153
+# File: module/ages/view/ages/cms/banners_edit.phtml, line: 165
+# File: module/ages/view/ages/cms/banners_edit.phtml, line: 178
 # File: module/ages/view/ages/cms/featuredflights_add.phtml, line: 290
 # File: module/ages/view/ages/cms/featuredflights_add.phtml, line: 303
 # File: module/ages/view/ages/cms/regions_assign.phtml, line: 103
@@ -6251,10 +6253,10 @@ msgstr ""
 # File: module/ages/view/ages/cms/regions_assign.phtml, line: 218
 # File: module/ages/view/ages/cms/news_add.phtml, line: 89
 # File: module/ages/view/ages/cms/news_add.phtml, line: 102
-# File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 250
-# File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 263
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 251
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 264
+# File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 275
+# File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 288
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 275
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 288
 # File: module/ages/view/ages/cms/regions_details_edit.phtml, line: 103
 # File: module/ages/view/ages/cms/regions_details_edit.phtml, line: 129
 # File: module/ages/view/ages/cms/regions_details_edit.phtml, line: 204
@@ -6267,8 +6269,8 @@ msgstr ""
 # File: module/ages/view/ages/cms/regions_edit.phtml, line: 159
 # File: module/ages/view/ages/cms/featuredflights_edit.phtml, line: 288
 # File: module/ages/view/ages/cms/featuredflights_edit.phtml, line: 301
-# File: module/ages/view/ages/cms/banners_add.phtml, line: 140
-# File: module/ages/view/ages/cms/banners_add.phtml, line: 153
+# File: module/ages/view/ages/cms/banners_add.phtml, line: 165
+# File: module/ages/view/ages/cms/banners_add.phtml, line: 178
 # File: module/ages/view/ages/companies/suppliers_edit.phtml, line: 131
 # File: module/ages/view/ages/companies/suppliers_edit.phtml, line: 157
 # File: module/ages/view/ages/companies/locations_edit.phtml, line: 183
@@ -6512,18 +6514,18 @@ msgstr ""
 # File: module/ages/view/ages/tours/itineraryimages_add.phtml, line: 175
 # File: module/ages/view/ages/tours/images_add.phtml, line: 161
 # File: module/ages/view/ages/tours/images_add.phtml, line: 174
-# File: module/ages/view/ages/cms/banners_edit.phtml, line: 141
-# File: module/ages/view/ages/cms/banners_edit.phtml, line: 154
+# File: module/ages/view/ages/cms/banners_edit.phtml, line: 166
+# File: module/ages/view/ages/cms/banners_edit.phtml, line: 179
 # File: module/ages/view/ages/cms/featuredflights_add.phtml, line: 291
 # File: module/ages/view/ages/cms/featuredflights_add.phtml, line: 304
 # File: module/ages/view/ages/cms/regions_assign.phtml, line: 205
 # File: module/ages/view/ages/cms/regions_assign.phtml, line: 219
 # File: module/ages/view/ages/cms/news_add.phtml, line: 90
 # File: module/ages/view/ages/cms/news_add.phtml, line: 103
-# File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 251
-# File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 264
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 252
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 265
+# File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 276
+# File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 289
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 276
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 289
 # File: module/ages/view/ages/cms/regions_details_edit.phtml, line: 205
 # File: module/ages/view/ages/cms/regions_details_edit.phtml, line: 219
 # File: module/ages/view/ages/cms/regions_add.phtml, line: 149
@@ -6534,8 +6536,8 @@ msgstr ""
 # File: module/ages/view/ages/cms/regions_edit.phtml, line: 160
 # File: module/ages/view/ages/cms/featuredflights_edit.phtml, line: 289
 # File: module/ages/view/ages/cms/featuredflights_edit.phtml, line: 302
-# File: module/ages/view/ages/cms/banners_add.phtml, line: 141
-# File: module/ages/view/ages/cms/banners_add.phtml, line: 154
+# File: module/ages/view/ages/cms/banners_add.phtml, line: 166
+# File: module/ages/view/ages/cms/banners_add.phtml, line: 179
 # File: module/ages/view/ages/companies/add.phtml, line: 160
 # File: module/ages/view/ages/companies/add.phtml, line: 173
 # File: module/ages/view/ages/companies/edit.phtml, line: 146
@@ -6749,7 +6751,7 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredflights_add.phtml, line: 37
 # File: module/ages/view/ages/cms/news_add.phtml, line: 11
 # File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 36
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 38
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 37
 # File: module/ages/view/ages/cms/news_edit.phtml, line: 11
 # File: module/ages/view/ages/cms/featuredflights_edit.phtml, line: 35
 # File: module/ages/view/ages/cms/banners_add.phtml, line: 33
@@ -7678,9 +7680,9 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredactivities_edit.phtml, line: 95
 # File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 104
 # File: module/ages/view/ages/cms/featuredtransfers_edit.phtml, line: 101
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 104
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 101
-# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 74
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 103
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 99
+# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 73
 # File: module/ages/view/ages/cms/featureddynamicpackages_add.phtml, line: 73
 # File: module/ages/view/ages/cms/featureddestinations_add.phtml, line: 81
 # File: module/ages/view/ages/hotels/sourcemarkets_add.phtml, line: 60
@@ -9092,11 +9094,11 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 25
 # File: module/ages/view/ages/cms/featuredcruises_add.phtml, line: 27
 # File: module/ages/view/ages/cms/featuredhotels.phtml, line: 14
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 27
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 28
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 25
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 26
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 20
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 21
-# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 20
+# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 19
 # File: module/ages/view/ages/cms/featuredpackages_add.phtml, line: 18
 # File: module/ages/view/ages/cms/featuredflights_edit.phtml, line: 23
 # File: module/ages/view/ages/cms/featureddynamicpackages_add.phtml, line: 18
@@ -10888,8 +10890,8 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 64
 # File: module/ages/view/ages/cms/banners.phtml, line: 12
 # File: module/ages/view/ages/cms/viewregionsdestinations.phtml, line: 22
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 48
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 66
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 47
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 65
 # File: module/ages/view/ages/cms/regions_details_edit.phtml, line: 20
 # File: module/ages/view/ages/cms/regions_details_edit.phtml, line: 43
 # File: module/ages/view/ages/cms/regions_add.phtml, line: 16
@@ -14444,15 +14446,15 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 29
 # File: module/ages/view/ages/cms/featuredtransfers_edit.phtml, line: 36
 # File: module/ages/view/ages/cms/featuredpackages.phtml, line: 14
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 31
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 30
 # File: module/ages/view/ages/cms/featureddestinations.phtml, line: 15
 # File: module/ages/view/ages/cms/featureddynamicpackages.phtml, line: 14
 # File: module/ages/view/ages/cms/featuredhotels.phtml, line: 16
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 35
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 36
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 33
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 34
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 29
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 30
-# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 24
+# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 23
 # File: module/ages/view/ages/cms/featuredpackages_add.phtml, line: 22
 # File: module/ages/view/ages/cms/featuredactivities.phtml, line: 14
 # File: module/ages/view/ages/cms/featuredflights_edit.phtml, line: 24
@@ -14471,7 +14473,7 @@ msgstr ""
 # File: module/ages/view/ages/cms/regions_assign.phtml, line: 16
 # File: module/ages/view/ages/cms/featuredactivities_edit.phtml, line: 40
 # File: module/ages/view/ages/cms/viewregionsdestinations.phtml, line: 23
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 46
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 44
 # File: module/ages/view/ages/cms/regions_details_edit.phtml, line: 16
 # File: module/ages/view/ages/cms/featuredregions_add.phtml, line: 12
 # File: module/ages/view/ages/cms/featuredflights_edit.phtml, line: 29
@@ -14495,11 +14497,11 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 34
 # File: module/ages/view/ages/cms/featuredtransfers_edit.phtml, line: 46
 # File: module/ages/view/ages/cms/featuredtransfers_edit.phtml, line: 47
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 36
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 47
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 35
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 45
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 40
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 41
-# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 29
+# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 28
 # File: module/ages/view/ages/cms/featuredpackages_add.phtml, line: 27
 # File: module/ages/view/ages/cms/featuredflights_edit.phtml, line: 29
 # File: module/ages/view/ages/cms/featureddynamicpackages_add.phtml, line: 27
@@ -14529,11 +14531,11 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredtransfers_edit.phtml, line: 57
 # File: module/ages/view/ages/cms/featuredtransfers_edit.phtml, line: 58
 # File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 22
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 57
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 58
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 55
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 56
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 51
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 52
-# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 34
+# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 33
 # File: module/ages/view/ages/cms/featuredpackages_add.phtml, line: 32
 # File: module/ages/view/ages/cms/featuredflights_edit.phtml, line: 33
 # File: module/ages/view/ages/cms/featureddynamicpackages_add.phtml, line: 32
@@ -14548,12 +14550,12 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 35
 # File: module/ages/view/ages/cms/featuredtransfers_edit.phtml, line: 49
 # File: module/ages/view/ages/cms/featuredtransfers_edit.phtml, line: 50
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 37
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 49
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 50
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 36
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 47
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 48
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 43
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 44
-# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 30
+# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 29
 # File: module/ages/view/ages/cms/featuredpackages_add.phtml, line: 28
 # File: module/ages/view/ages/cms/featureddynamicpackages_add.phtml, line: 28
 # File: module/ages/view/ages/cms/featureddestinations_add.phtml, line: 31
@@ -14580,12 +14582,12 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 30
 # File: module/ages/view/ages/cms/featuredtransfers_edit.phtml, line: 38
 # File: module/ages/view/ages/cms/featuredtransfers_edit.phtml, line: 39
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 32
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 38
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 39
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 31
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 36
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 37
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 32
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 33
-# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 25
+# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 24
 # File: module/ages/view/ages/cms/featuredpackages_add.phtml, line: 23
 # File: module/ages/view/ages/cms/featuredflights_edit.phtml, line: 25
 # File: module/ages/view/ages/cms/featureddynamicpackages_add.phtml, line: 23
@@ -14638,12 +14640,12 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 31
 # File: module/ages/view/ages/cms/featuredtransfers_edit.phtml, line: 41
 # File: module/ages/view/ages/cms/featuredtransfers_edit.phtml, line: 42
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 33
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 41
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 42
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 32
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 39
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 40
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 35
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 36
-# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 26
+# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 25
 # File: module/ages/view/ages/cms/featuredpackages_add.phtml, line: 24
 # File: module/ages/view/ages/cms/featuredflights_edit.phtml, line: 28
 # File: module/ages/view/ages/cms/featureddynamicpackages_add.phtml, line: 24
@@ -14665,11 +14667,11 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredtransfers_edit.phtml, line: 60
 # File: module/ages/view/ages/cms/featuredtransfers_edit.phtml, line: 61
 # File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 23
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 60
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 61
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 58
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 59
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 54
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 55
-# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 35
+# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 34
 # File: module/ages/view/ages/cms/featuredpackages_add.phtml, line: 33
 # File: module/ages/view/ages/cms/featuredflights_edit.phtml, line: 34
 # File: module/ages/view/ages/cms/featureddynamicpackages_add.phtml, line: 33
@@ -14695,10 +14697,10 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredcars_add.phtml, line: 32
 # File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 39
 # File: module/ages/view/ages/cms/featuredtransfers_edit.phtml, line: 53
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 41
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 53
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 40
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 51
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 47
-# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 31
+# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 30
 # File: module/ages/view/ages/cms/featuredpackages_add.phtml, line: 29
 # File: module/ages/view/ages/cms/featuredflights_edit.phtml, line: 30
 # File: module/ages/view/ages/cms/featureddynamicpackages_add.phtml, line: 29
@@ -14715,11 +14717,11 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredactivities_edit.phtml, line: 98
 # File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 107
 # File: module/ages/view/ages/cms/featuredtransfers_edit.phtml, line: 104
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 107
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 104
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 106
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 102
 # File: module/ages/view/ages/cms/regions_add.phtml, line: 76
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 98
-# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 77
+# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 76
 # File: module/ages/view/ages/cms/featuredpackages_add.phtml, line: 76
 # File: module/ages/view/ages/cms/featuredregions_add.phtml, line: 48
 # File: module/ages/view/ages/cms/featureddynamicpackages_add.phtml, line: 76
@@ -15090,7 +15092,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/cms/featuredflights_add.phtml, line: 40
 # File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 40
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 42
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 41
 # File: module/ages/view/ages/cms/featuredflights_edit.phtml, line: 38
 # File: module/ages/view/ages/newsletter/create.phtml, line: 64
 # File: module/ages/view/ages/newsletter/editnewsletter.phtml, line: 65
@@ -15099,14 +15101,14 @@ msgstr ""
 #
 # File: module/ages/view/ages/cms/featuredflights_add.phtml, line: 41
 # File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 42
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 44
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 43
 # File: module/ages/view/ages/cms/featuredflights_edit.phtml, line: 39
 msgid "Image Height"
 msgstr ""
 #
 # File: module/ages/view/ages/cms/featuredflights_add.phtml, line: 48
 # File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 49
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 51
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 50
 # File: module/ages/view/ages/cms/featuredflights_edit.phtml, line: 46
 # File: module/ages/view/ages/newsletter/flyers_edit.phtml, line: 43
 # File: module/ages/view/ages/newsletter/flyers_add.phtml, line: 43
@@ -15233,7 +15235,7 @@ msgid "Search Tag"
 msgstr ""
 #
 # File: module/ages/view/ages/cms/featuredhotels_add.phtml, line: 41
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 43
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 42
 msgid "View Hotel"
 msgstr ""
 #
@@ -15313,7 +15315,7 @@ msgstr ""
 msgid "Edit Featured Hotel"
 msgstr ""
 #
-# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 69
+# File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 68
 msgid "Update Featured Hotel"
 msgstr ""
 #
@@ -15379,7 +15381,7 @@ msgstr ""
 msgid "Edit Featured Dynamic Package"
 msgstr ""
 #
-# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 66
+# File: module/ages/view/ages/cms/featureddynamicpackages_edit.phtml, line: 64
 msgid "Update Featured Dynamic Package"
 msgstr ""
 #
@@ -15414,7 +15416,7 @@ msgid "Please enter package"
 msgstr ""
 #
 # File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 5
-# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 39
+# File: module/ages/view/ages/cms/featuredactivities_add.phtml, line: 38
 # File: module/ages/view/ages/cms/featuredactivities.phtml, line: 86
 msgid "Add New Featured Activity"
 msgstr ""
