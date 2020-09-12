@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-09-11 16:18-0400\n"
+"POT-Creation-Date: 2020-09-12 12:20-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -54,13 +54,13 @@ msgstr ""
 # File: module/ages/src/Controller/SubAgents.php, line: 2874
 # File: module/ages/src/Controller/SubAgents.php, line: 5078
 # File: module/ages/src/Controller/Users.php, line: 1579
-# File: module/ages/src/Controller/Users.php, line: 3577
-# File: module/ages/src/Controller/Users.php, line: 4107
-# File: module/ages/src/Controller/Users.php, line: 4215
-# File: module/ages/src/Controller/Users.php, line: 4460
-# File: module/ages/src/Controller/Users.php, line: 4585
-# File: module/ages/src/Controller/Users.php, line: 4980
-# File: module/ages/src/Controller/Users.php, line: 5198
+# File: module/ages/src/Controller/Users.php, line: 3591
+# File: module/ages/src/Controller/Users.php, line: 4121
+# File: module/ages/src/Controller/Users.php, line: 4229
+# File: module/ages/src/Controller/Users.php, line: 4474
+# File: module/ages/src/Controller/Users.php, line: 4599
+# File: module/ages/src/Controller/Users.php, line: 4994
+# File: module/ages/src/Controller/Users.php, line: 5212
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 151
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 288
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 609
@@ -147,16 +147,16 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 2396
 # File: module/ages/src/Controller/Reports.php, line: 3960
 # File: module/ages/src/Controller/Users.php, line: 1529
-# File: module/ages/src/Controller/Users.php, line: 2252
-# File: module/ages/src/Controller/Users.php, line: 3453
-# File: module/ages/src/Controller/Users.php, line: 3787
-# File: module/ages/src/Controller/Users.php, line: 3906
-# File: module/ages/src/Controller/Users.php, line: 3926
-# File: module/ages/src/Controller/Users.php, line: 4556
-# File: module/ages/src/Controller/Users.php, line: 4936
-# File: module/ages/src/Controller/Users.php, line: 4958
-# File: module/ages/src/Controller/Users.php, line: 5226
-# File: module/ages/src/Controller/Users.php, line: 5248
+# File: module/ages/src/Controller/Users.php, line: 2266
+# File: module/ages/src/Controller/Users.php, line: 3467
+# File: module/ages/src/Controller/Users.php, line: 3801
+# File: module/ages/src/Controller/Users.php, line: 3920
+# File: module/ages/src/Controller/Users.php, line: 3940
+# File: module/ages/src/Controller/Users.php, line: 4570
+# File: module/ages/src/Controller/Users.php, line: 4950
+# File: module/ages/src/Controller/Users.php, line: 4972
+# File: module/ages/src/Controller/Users.php, line: 5240
+# File: module/ages/src/Controller/Users.php, line: 5262
 # File: module/ages/src/Controller/Transfers.php, line: 1995
 # File: module/ages/src/Controller/Agents.php, line: 1319
 # File: module/ages/src/Controller/Agents.php, line: 5743
@@ -299,17 +299,17 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 4565
 # File: module/ages/src/Controller/Reports.php, line: 4577
 # File: module/ages/src/Controller/Reports.php, line: 4581
-# File: module/ages/src/Controller/Users.php, line: 2226
-# File: module/ages/src/Controller/Users.php, line: 2246
-# File: module/ages/src/Controller/Users.php, line: 2266
-# File: module/ages/src/Controller/Users.php, line: 3782
-# File: module/ages/src/Controller/Users.php, line: 3798
-# File: module/ages/src/Controller/Users.php, line: 3896
-# File: module/ages/src/Controller/Users.php, line: 3918
-# File: module/ages/src/Controller/Users.php, line: 4289
-# File: module/ages/src/Controller/Users.php, line: 4660
-# File: module/ages/src/Controller/Users.php, line: 5322
-# File: module/ages/src/Controller/Users.php, line: 5342
+# File: module/ages/src/Controller/Users.php, line: 2240
+# File: module/ages/src/Controller/Users.php, line: 2260
+# File: module/ages/src/Controller/Users.php, line: 2280
+# File: module/ages/src/Controller/Users.php, line: 3796
+# File: module/ages/src/Controller/Users.php, line: 3812
+# File: module/ages/src/Controller/Users.php, line: 3910
+# File: module/ages/src/Controller/Users.php, line: 3932
+# File: module/ages/src/Controller/Users.php, line: 4303
+# File: module/ages/src/Controller/Users.php, line: 4674
+# File: module/ages/src/Controller/Users.php, line: 5336
+# File: module/ages/src/Controller/Users.php, line: 5356
 # File: module/ages/src/Controller/Air.php, line: 644
 # File: module/ages/src/Controller/Air.php, line: 786
 # File: module/ages/src/Controller/Air.php, line: 972
@@ -1348,19 +1348,19 @@ msgid "You appear to have entered an invalid user name or password"
 msgstr ""
 #
 # File: module/ages/src/Controller/Users.php, line: 1513
-# File: module/ages/src/Controller/Users.php, line: 3561
+# File: module/ages/src/Controller/Users.php, line: 3575
 msgid "Administration"
 msgstr ""
 #
 # File: module/ages/src/Controller/Users.php, line: 1517
-# File: module/ages/src/Controller/Users.php, line: 3565
+# File: module/ages/src/Controller/Users.php, line: 3579
 msgid "Consolidator"
 msgstr ""
 #
 # File: module/ages/src/Controller/Users.php, line: 1554
-# File: module/ages/src/Controller/Users.php, line: 2272
-# File: module/ages/src/Controller/Users.php, line: 3478
-# File: module/ages/src/Controller/Users.php, line: 3937
+# File: module/ages/src/Controller/Users.php, line: 2286
+# File: module/ages/src/Controller/Users.php, line: 3492
+# File: module/ages/src/Controller/Users.php, line: 3951
 # File: module/ages/src/Controller/Packages.php, line: 792
 # File: module/ages/src/Controller/Packages.php, line: 1982
 # File: module/ages/src/Controller/GiftCards.php, line: 1767
@@ -1478,12 +1478,12 @@ msgstr ""
 msgid "No"
 msgstr ""
 #
-# File: module/ages/src/Controller/Users.php, line: 2232
-# File: module/ages/src/Controller/Users.php, line: 3884
-# File: module/ages/src/Controller/Users.php, line: 4277
-# File: module/ages/src/Controller/Users.php, line: 4648
-# File: module/ages/src/Controller/Users.php, line: 5310
-# File: module/ages/src/Controller/Users.php, line: 5330
+# File: module/ages/src/Controller/Users.php, line: 2246
+# File: module/ages/src/Controller/Users.php, line: 3898
+# File: module/ages/src/Controller/Users.php, line: 4291
+# File: module/ages/src/Controller/Users.php, line: 4662
+# File: module/ages/src/Controller/Users.php, line: 5324
+# File: module/ages/src/Controller/Users.php, line: 5344
 # File: module/ages/src/Controller/Air.php, line: 127
 # File: module/ages/src/Controller/Air.php, line: 166
 # File: module/ages/src/Controller/Air.php, line: 190
@@ -1576,16 +1576,16 @@ msgstr ""
 msgid "All"
 msgstr ""
 #
-# File: module/ages/src/Controller/Users.php, line: 3771
+# File: module/ages/src/Controller/Users.php, line: 3785
 msgid "Admin"
 msgstr ""
 #
-# File: module/ages/src/Controller/Users.php, line: 4090
-# File: module/ages/src/Controller/Users.php, line: 4198
-# File: module/ages/src/Controller/Users.php, line: 4443
-# File: module/ages/src/Controller/Users.php, line: 4568
-# File: module/ages/src/Controller/Users.php, line: 4894
-# File: module/ages/src/Controller/Users.php, line: 5156
+# File: module/ages/src/Controller/Users.php, line: 4104
+# File: module/ages/src/Controller/Users.php, line: 4212
+# File: module/ages/src/Controller/Users.php, line: 4457
+# File: module/ages/src/Controller/Users.php, line: 4582
+# File: module/ages/src/Controller/Users.php, line: 4908
+# File: module/ages/src/Controller/Users.php, line: 5170
 # File: module/ages/src/Controller/Transfers.php, line: 296
 # File: module/ages/src/Controller/Transfers.php, line: 820
 # File: module/ages/src/Controller/Transfers.php, line: 1261
@@ -1650,12 +1650,12 @@ msgstr ""
 msgid "Active"
 msgstr ""
 #
-# File: module/ages/src/Controller/Users.php, line: 4094
-# File: module/ages/src/Controller/Users.php, line: 4202
-# File: module/ages/src/Controller/Users.php, line: 4447
-# File: module/ages/src/Controller/Users.php, line: 4572
-# File: module/ages/src/Controller/Users.php, line: 4898
-# File: module/ages/src/Controller/Users.php, line: 5160
+# File: module/ages/src/Controller/Users.php, line: 4108
+# File: module/ages/src/Controller/Users.php, line: 4216
+# File: module/ages/src/Controller/Users.php, line: 4461
+# File: module/ages/src/Controller/Users.php, line: 4586
+# File: module/ages/src/Controller/Users.php, line: 4912
+# File: module/ages/src/Controller/Users.php, line: 5174
 # File: module/ages/src/Controller/Transfers.php, line: 300
 # File: module/ages/src/Controller/Transfers.php, line: 824
 # File: module/ages/src/Controller/Transfers.php, line: 1265
@@ -1716,7 +1716,7 @@ msgstr ""
 msgid "Inactive"
 msgstr ""
 #
-# File: module/ages/src/Controller/Users.php, line: 4553
+# File: module/ages/src/Controller/Users.php, line: 4567
 msgid "Agent not found"
 msgstr ""
 #
