@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-09-15 05:46-0400\n"
+"POT-Creation-Date: 2020-09-15 06:52-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3661,6 +3661,7 @@ msgid "Item"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/invoice_order_receipt.phtml, line: 184
+# File: module/ages/view/ages/reports/settlements.phtml, line: 35
 # File: module/ages/view/ages/customers/editglobalwareinvoice.phtml, line: 72
 msgid "PNR Locator"
 msgstr ""
@@ -11534,6 +11535,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/b2bwallet.phtml, line: 29
 # File: module/ages/view/ages/reports/profit.phtml, line: 31
 # File: module/ages/view/ages/reports/newcustomers.phtml, line: 50
+# File: module/ages/view/ages/reports/settlements.phtml, line: 32
 # File: module/ages/view/ages/reports/newagents.phtml, line: 50
 # File: module/ages/view/ages/reports/hotelssales.phtml, line: 47
 # File: module/ages/view/ages/reports/companies.phtml, line: 37
@@ -13807,6 +13809,7 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 20
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 13
 # File: module/ages/view/ages/reports/airlines.phtml, line: 46
+# File: module/ages/view/ages/reports/settlements.phtml, line: 16
 # File: module/ages/view/ages/packages/editavailability.phtml, line: 62
 # File: module/ages/view/ages/packages/editavailability.phtml, line: 63
 # File: module/ages/view/ages/packages/editavailability.phtml, line: 73
@@ -13833,6 +13836,7 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 21
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 14
 # File: module/ages/view/ages/reports/airlines.phtml, line: 47
+# File: module/ages/view/ages/reports/settlements.phtml, line: 17
 # File: module/ages/view/ages/packages/editavailability.phtml, line: 65
 # File: module/ages/view/ages/packages/editavailability.phtml, line: 66
 # File: module/ages/view/ages/packages/editavailability.phtml, line: 76
@@ -14019,6 +14023,7 @@ msgstr ""
 # File: module/ages/view/ages/tours/itinerary.phtml, line: 117
 # File: module/ages/view/ages/tours/itinerary.phtml, line: 124
 # File: module/ages/view/ages/tours/itinerary.phtml, line: 132
+# File: module/ages/view/ages/reports/settlements.phtml, line: 34
 # File: module/ages/view/ages/packages/add.phtml, line: 83
 # File: module/ages/view/ages/packages/edit.phtml, line: 125
 # File: module/ages/view/ages/dynamic-packaging/add.phtml, line: 86
@@ -16972,6 +16977,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/airlines.phtml, line: 50
 # File: module/ages/view/ages/reports/statistics.phtml, line: 36
 # File: module/ages/view/ages/reports/charters.phtml, line: 23
+# File: module/ages/view/ages/reports/settlements.phtml, line: 20
 # File: module/ages/view/ages/reports/carssales.phtml, line: 25
 # File: module/ages/view/ages/reports/activities.phtml, line: 33
 # File: module/ages/view/ages/reports/newagents.phtml, line: 24
@@ -16995,6 +17001,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/airlines.phtml, line: 552
 # File: module/ages/view/ages/reports/statistics.phtml, line: 486
 # File: module/ages/view/ages/reports/newcustomers.phtml, line: 220
+# File: module/ages/view/ages/reports/settlements.phtml, line: 112
 # File: module/ages/view/ages/reports/activities.phtml, line: 144
 # File: module/ages/view/ages/reports/newagents.phtml, line: 220
 # File: module/ages/view/ages/reports/businessunits.phtml, line: 275
@@ -17026,6 +17033,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/charters.phtml, line: 29
 # File: module/ages/view/ages/reports/newcustomers.phtml, line: 43
 # File: module/ages/view/ages/reports/supervisoragents.phtml, line: 5
+# File: module/ages/view/ages/reports/settlements.phtml, line: 26
 # File: module/ages/view/ages/reports/carssales.phtml, line: 33
 # File: module/ages/view/ages/reports/agents.phtml, line: 37
 # File: module/ages/view/ages/reports/newagents.phtml, line: 43
@@ -17088,6 +17096,9 @@ msgid "Invoices vs Bookings"
 msgstr ""
 #
 # File: module/ages/view/ages/reports/invoices.phtml, line: 20
+# File: module/ages/view/ages/reports/settlements.phtml, line: 11
+# File: module/ages/view/ages/reports/settlements.phtml, line: 12
+# File: module/ages/view/ages/reports/settlements.phtml, line: 33
 # File: module/ages/view/ages/dynamic-packaging/searchglobalware.phtml, line: 11
 # File: module/ages/view/ages/dynamic-packaging/searchglobalware.phtml, line: 30
 # File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 21
@@ -17844,6 +17855,10 @@ msgstr ""
 #
 # File: module/ages/view/ages/reports/supervisoragents.phtml, line: 62
 msgid "No supervisor agents to display"
+msgstr ""
+#
+# File: module/ages/view/ages/reports/settlements.phtml, line: 26
+msgid "Settlement"
 msgstr ""
 #
 # File: module/ages/view/ages/reports/carssales.phtml, line: 33
