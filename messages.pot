@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-09-17 09:39-0400\n"
+"POT-Creation-Date: 2020-09-17 12:01-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -443,9 +443,9 @@ msgstr ""
 # File: module/manager/src/Controller/Rates.php, line: 214
 # File: module/manager/src/Controller/Rates.php, line: 217
 # File: module/manager/src/Controller/StopSale.php, line: 190
-# File: module/manager/src/Controller/SpecialOffers.php, line: 157
-# File: module/manager/src/Controller/SpecialOffers.php, line: 172
-# File: module/manager/src/Controller/SpecialOffers.php, line: 260
+# File: module/manager/src/Controller/SpecialOffers.php, line: 171
+# File: module/manager/src/Controller/SpecialOffers.php, line: 186
+# File: module/manager/src/Controller/SpecialOffers.php, line: 274
 # File: module/setup/src/Controller/cruiseships.php, line: 246
 # File: module/setup/src/Controller/decks.php, line: 165
 # File: module/setup/src/Controller/decks.php, line: 179
@@ -1580,9 +1580,9 @@ msgstr ""
 # File: module/manager/src/Controller/Rooms.php, line: 712
 # File: module/manager/src/Controller/Rooms.php, line: 730
 # File: module/manager/src/Controller/Rooms.php, line: 748
-# File: module/manager/src/Controller/SpecialOffers.php, line: 146
-# File: module/manager/src/Controller/SpecialOffers.php, line: 161
-# File: module/manager/src/Controller/SpecialOffers.php, line: 263
+# File: module/manager/src/Controller/SpecialOffers.php, line: 160
+# File: module/manager/src/Controller/SpecialOffers.php, line: 175
+# File: module/manager/src/Controller/SpecialOffers.php, line: 277
 # File: module/setup/src/Controller/toxicairlines.php, line: 107
 # File: module/setup/src/Controller/toxicairlines.php, line: 146
 # File: module/setup/src/Controller/toxicairlines.php, line: 170
@@ -1662,6 +1662,8 @@ msgstr ""
 # File: module/manager/src/Controller/Contracts.php, line: 198
 # File: module/manager/src/Controller/SpecialOffers.php, line: 100
 # File: module/manager/view/contracts/rates.phtml, line: 36
+# File: module/manager/view/contracts/specialoffers.phtml, line: 13
+# File: module/manager/view/contracts/specialoffers.phtml, line: 46
 # File: module/manager/view/contracts/index.phtml, line: 32
 # File: module/setup/src/Controller/cruiselines.php, line: 78
 # File: module/setup/src/Controller/cruiseships.php, line: 91
@@ -1728,6 +1730,8 @@ msgstr ""
 # File: module/manager/src/Controller/Contracts.php, line: 200
 # File: module/manager/src/Controller/SpecialOffers.php, line: 102
 # File: module/manager/view/contracts/rates.phtml, line: 38
+# File: module/manager/view/contracts/specialoffers.phtml, line: 13
+# File: module/manager/view/contracts/specialoffers.phtml, line: 46
 # File: module/manager/view/contracts/index.phtml, line: 32
 # File: module/setup/src/Controller/cruiselines.php, line: 82
 # File: module/setup/src/Controller/cruiseships.php, line: 95
@@ -6026,6 +6030,8 @@ msgstr ""
 # File: module/ages/view/ages/transfers/pricing_add.phtml, line: 49
 # File: module/manager/view/contracts/editstopsale.phtml, line: 13
 # File: module/manager/view/contracts/rates.phtml, line: 22
+# File: module/manager/view/contracts/specialoffers.phtml, line: 13
+# File: module/manager/view/contracts/specialoffers.phtml, line: 24
 # File: module/manager/view/contracts/contracts_edit.phtml, line: 18
 # File: module/manager/view/contracts/index.phtml, line: 16
 # File: module/manager/view/rooms/add.phtml, line: 19
@@ -7210,7 +7216,7 @@ msgstr ""
 # File: module/ages/view/ages/transfers/listreservations.phtml, line: 25
 # File: module/manager/view/contracts/stopsale.phtml, line: 15
 # File: module/manager/view/contracts/rates.phtml, line: 23
-# File: module/manager/view/contracts/specialoffers.phtml, line: 25
+# File: module/manager/view/contracts/specialoffers.phtml, line: 29
 # File: module/manager/view/contracts/index.phtml, line: 17
 # File: module/manager/view/rooms/index.phtml, line: 16
 # File: module/manager/view/hotel/cancellationpolicies.phtml, line: 16
@@ -7365,7 +7371,7 @@ msgstr ""
 # File: module/ages/view/ages/transfers/index.phtml, line: 35
 # File: module/ages/view/ages/transfers/listreservations.phtml, line: 109
 # File: module/manager/view/contracts/stopsale.phtml, line: 30
-# File: module/manager/view/contracts/specialoffers.phtml, line: 42
+# File: module/manager/view/contracts/specialoffers.phtml, line: 46
 # File: module/manager/view/contracts/index.phtml, line: 32
 # File: module/manager/view/rooms/index.phtml, line: 31
 # File: module/manager/view/hotel/cancellationpolicies.phtml, line: 31
@@ -7594,7 +7600,7 @@ msgstr ""
 # File: module/ages/view/ages/transfers/prices.phtml, line: 50
 # File: module/manager/view/contracts/stopsale.phtml, line: 30
 # File: module/manager/view/contracts/rates.phtml, line: 43
-# File: module/manager/view/contracts/specialoffers.phtml, line: 42
+# File: module/manager/view/contracts/specialoffers.phtml, line: 46
 # File: module/manager/view/rooms/index.phtml, line: 31
 # File: module/manager/view/rooms/index.phtml, line: 32
 # File: module/manager/view/rooms/index.phtml, line: 130
@@ -11958,7 +11964,7 @@ msgstr ""
 # File: module/ages/view/ages/transfers/pricing.phtml, line: 79
 # File: module/ages/view/ages/transfers/prices.phtml, line: 75
 # File: module/manager/view/contracts/stopsale.phtml, line: 45
-# File: module/manager/view/contracts/specialoffers.phtml, line: 57
+# File: module/manager/view/contracts/specialoffers.phtml, line: 61
 # File: module/manager/view/rooms/index.phtml, line: 48
 # File: module/manager/view/hotel/cancellationpolicies.phtml, line: 48
 msgid "Showing"
@@ -12001,11 +12007,11 @@ msgstr ""
 # File: module/ages/view/ages/customers/index.phtml, line: 54
 # File: module/ages/view/ages/transfers/pricing.phtml, line: 79
 # File: module/ages/view/ages/transfers/prices.phtml, line: 75
-# File: module/manager/src/Controller/SpecialOffers.php, line: 229
-# File: module/manager/src/Controller/SpecialOffers.php, line: 234
-# File: module/manager/src/Controller/SpecialOffers.php, line: 241
+# File: module/manager/src/Controller/SpecialOffers.php, line: 243
+# File: module/manager/src/Controller/SpecialOffers.php, line: 248
+# File: module/manager/src/Controller/SpecialOffers.php, line: 255
 # File: module/manager/view/contracts/stopsale.phtml, line: 45
-# File: module/manager/view/contracts/specialoffers.phtml, line: 57
+# File: module/manager/view/contracts/specialoffers.phtml, line: 61
 # File: module/manager/view/rooms/index.phtml, line: 48
 # File: module/manager/view/hotel/cancellationpolicies.phtml, line: 48
 msgid "to"
@@ -12048,7 +12054,7 @@ msgstr ""
 # File: module/ages/view/ages/transfers/pricing.phtml, line: 79
 # File: module/ages/view/ages/transfers/prices.phtml, line: 75
 # File: module/manager/view/contracts/stopsale.phtml, line: 45
-# File: module/manager/view/contracts/specialoffers.phtml, line: 57
+# File: module/manager/view/contracts/specialoffers.phtml, line: 61
 # File: module/manager/view/rooms/index.phtml, line: 48
 # File: module/manager/view/hotel/cancellationpolicies.phtml, line: 48
 msgid "of"
@@ -12109,7 +12115,7 @@ msgstr ""
 # File: module/ages/view/ages/transfers/pricing.phtml, line: 81
 # File: module/ages/view/ages/transfers/prices.phtml, line: 77
 # File: module/manager/view/contracts/stopsale.phtml, line: 47
-# File: module/manager/view/contracts/specialoffers.phtml, line: 59
+# File: module/manager/view/contracts/specialoffers.phtml, line: 63
 # File: module/manager/view/rooms/index.phtml, line: 50
 # File: module/manager/view/hotel/cancellationpolicies.phtml, line: 50
 msgid "Show"
@@ -12172,7 +12178,7 @@ msgstr ""
 # File: module/ages/view/ages/transfers/pricing.phtml, line: 84
 # File: module/ages/view/ages/transfers/prices.phtml, line: 80
 # File: module/manager/view/contracts/stopsale.phtml, line: 50
-# File: module/manager/view/contracts/specialoffers.phtml, line: 62
+# File: module/manager/view/contracts/specialoffers.phtml, line: 66
 # File: module/manager/view/rooms/index.phtml, line: 53
 # File: module/manager/view/hotel/cancellationpolicies.phtml, line: 53
 msgid "Next"
@@ -12215,7 +12221,7 @@ msgstr ""
 # File: module/ages/view/ages/transfers/pricing.phtml, line: 85
 # File: module/ages/view/ages/transfers/prices.phtml, line: 81
 # File: module/manager/view/contracts/stopsale.phtml, line: 51
-# File: module/manager/view/contracts/specialoffers.phtml, line: 63
+# File: module/manager/view/contracts/specialoffers.phtml, line: 67
 # File: module/manager/view/rooms/index.phtml, line: 54
 # File: module/manager/view/hotel/cancellationpolicies.phtml, line: 54
 msgid "Previous"
@@ -21870,7 +21876,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/offlinebooking.phtml, line: 11
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 71
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 74
-# File: module/manager/view/contracts/specialoffers.phtml, line: 19
+# File: module/manager/view/contracts/specialoffers.phtml, line: 22
 msgid "Booking Date"
 msgstr ""
 #
@@ -24634,7 +24640,7 @@ msgid "night"
 msgstr ""
 #
 # File: module/manager/src/Controller/CancellationPolicies.php, line: 400
-# File: module/manager/src/Controller/SpecialOffers.php, line: 219
+# File: module/manager/src/Controller/SpecialOffers.php, line: 233
 msgid "nights"
 msgstr ""
 #
@@ -24648,66 +24654,66 @@ msgstr ""
 msgid "All Room Types"
 msgstr ""
 #
-# File: module/manager/src/Controller/SpecialOffers.php, line: 181
-# File: module/manager/src/Controller/SpecialOffers.php, line: 182
-# File: module/manager/src/Controller/SpecialOffers.php, line: 206
-# File: module/manager/src/Controller/SpecialOffers.php, line: 207
+# File: module/manager/src/Controller/SpecialOffers.php, line: 195
+# File: module/manager/src/Controller/SpecialOffers.php, line: 196
+# File: module/manager/src/Controller/SpecialOffers.php, line: 220
+# File: module/manager/src/Controller/SpecialOffers.php, line: 221
 msgid "Night free"
 msgstr ""
 #
-# File: module/manager/src/Controller/SpecialOffers.php, line: 184
-# File: module/manager/src/Controller/SpecialOffers.php, line: 185
-# File: module/manager/src/Controller/SpecialOffers.php, line: 209
-# File: module/manager/src/Controller/SpecialOffers.php, line: 210
+# File: module/manager/src/Controller/SpecialOffers.php, line: 198
+# File: module/manager/src/Controller/SpecialOffers.php, line: 199
+# File: module/manager/src/Controller/SpecialOffers.php, line: 223
+# File: module/manager/src/Controller/SpecialOffers.php, line: 224
 msgid "Nights free"
 msgstr ""
 #
-# File: module/manager/src/Controller/SpecialOffers.php, line: 191
-# File: module/manager/src/Controller/SpecialOffers.php, line: 192
-# File: module/manager/src/Controller/SpecialOffers.php, line: 194
-# File: module/manager/src/Controller/SpecialOffers.php, line: 195
+# File: module/manager/src/Controller/SpecialOffers.php, line: 205
+# File: module/manager/src/Controller/SpecialOffers.php, line: 206
+# File: module/manager/src/Controller/SpecialOffers.php, line: 208
+# File: module/manager/src/Controller/SpecialOffers.php, line: 209
 msgid "Reduction"
 msgstr ""
 #
-# File: module/manager/src/Controller/SpecialOffers.php, line: 200
-# File: module/manager/src/Controller/SpecialOffers.php, line: 201
-# File: module/manager/src/Controller/SpecialOffers.php, line: 212
-# File: module/manager/src/Controller/SpecialOffers.php, line: 213
+# File: module/manager/src/Controller/SpecialOffers.php, line: 214
+# File: module/manager/src/Controller/SpecialOffers.php, line: 215
+# File: module/manager/src/Controller/SpecialOffers.php, line: 226
+# File: module/manager/src/Controller/SpecialOffers.php, line: 227
 msgid "Special Rates"
 msgstr ""
 #
-# File: module/manager/src/Controller/SpecialOffers.php, line: 212
-# File: module/manager/src/Controller/SpecialOffers.php, line: 213
+# File: module/manager/src/Controller/SpecialOffers.php, line: 226
+# File: module/manager/src/Controller/SpecialOffers.php, line: 227
 msgid "and"
 msgstr ""
 #
-# File: module/manager/src/Controller/SpecialOffers.php, line: 219
+# File: module/manager/src/Controller/SpecialOffers.php, line: 233
 msgid "when booking"
 msgstr ""
 #
-# File: module/manager/src/Controller/SpecialOffers.php, line: 229
-# File: module/manager/src/Controller/SpecialOffers.php, line: 241
+# File: module/manager/src/Controller/SpecialOffers.php, line: 243
+# File: module/manager/src/Controller/SpecialOffers.php, line: 255
 msgid "if booked from"
 msgstr ""
 #
-# File: module/manager/src/Controller/SpecialOffers.php, line: 234
-# File: module/manager/src/Controller/SpecialOffers.php, line: 241
+# File: module/manager/src/Controller/SpecialOffers.php, line: 248
+# File: module/manager/src/Controller/SpecialOffers.php, line: 255
 msgid "for arrivals from"
 msgstr ""
 #
-# File: module/manager/src/Controller/SpecialOffers.php, line: 244
+# File: module/manager/src/Controller/SpecialOffers.php, line: 258
 msgid "Maximum number of nights"
 msgstr ""
 #
-# File: module/manager/src/Controller/SpecialOffers.php, line: 247
+# File: module/manager/src/Controller/SpecialOffers.php, line: 261
 msgid "Surcharge"
 msgstr ""
 #
-# File: module/manager/src/Controller/SpecialOffers.php, line: 257
+# File: module/manager/src/Controller/SpecialOffers.php, line: 271
 msgid "for"
 msgstr ""
 #
-# File: module/manager/src/Controller/SpecialOffers.php, line: 266
+# File: module/manager/src/Controller/SpecialOffers.php, line: 280
 msgid "- Combinable"
 msgstr ""
 #
@@ -24723,7 +24729,7 @@ msgstr ""
 # File: module/manager/view/contracts/rates.phtml, line: 17
 # File: module/manager/view/contracts/generate.phtml, line: 10
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 11
-# File: module/manager/view/contracts/specialoffers.phtml, line: 11
+# File: module/manager/view/contracts/specialoffers.phtml, line: 12
 # File: module/manager/view/contracts/mealsupplements.phtml, line: 10
 # File: module/setup/view/settings/enterpriseratesetup.phtml, line: 14
 # File: module/setup/view/settings/enterpriseratesetup_edit.phtml, line: 16
@@ -24998,7 +25004,7 @@ msgstr ""
 # File: module/manager/view/contracts/addstopsale.phtml, line: 17
 # File: module/manager/view/contracts/addstopsale.phtml, line: 98
 # File: module/manager/view/contracts/rates.phtml, line: 20
-# File: module/manager/view/contracts/specialoffers.phtml, line: 21
+# File: module/manager/view/contracts/specialoffers.phtml, line: 25
 # File: module/manager/view/hotel/childpolicies.phtml, line: 101
 msgid "Room Type"
 msgstr ""
@@ -25103,7 +25109,7 @@ msgid "No stop sales"
 msgstr ""
 #
 # File: module/manager/view/contracts/stopsale.phtml, line: 47
-# File: module/manager/view/contracts/specialoffers.phtml, line: 59
+# File: module/manager/view/contracts/specialoffers.phtml, line: 63
 msgid "Stop Sales"
 msgstr ""
 #
@@ -25148,47 +25154,47 @@ msgid "Add New Promotion"
 msgstr ""
 #
 # File: module/manager/view/contracts/specialoffers.phtml, line: 5
-# File: module/manager/view/contracts/specialoffers.phtml, line: 89
+# File: module/manager/view/contracts/specialoffers.phtml, line: 94
 msgid " Special Offers"
 msgstr ""
 #
-# File: module/manager/view/contracts/specialoffers.phtml, line: 17
+# File: module/manager/view/contracts/specialoffers.phtml, line: 20
 msgid "Offer Id"
 msgstr ""
 #
-# File: module/manager/view/contracts/specialoffers.phtml, line: 18
+# File: module/manager/view/contracts/specialoffers.phtml, line: 21
 msgid "Offer Code"
 msgstr ""
 #
-# File: module/manager/view/contracts/specialoffers.phtml, line: 20
+# File: module/manager/view/contracts/specialoffers.phtml, line: 23
 msgid "Stay Period"
 msgstr ""
 #
-# File: module/manager/view/contracts/specialoffers.phtml, line: 22
+# File: module/manager/view/contracts/specialoffers.phtml, line: 26
 msgid "Residence Source"
 msgstr ""
 #
-# File: module/manager/view/contracts/specialoffers.phtml, line: 23
+# File: module/manager/view/contracts/specialoffers.phtml, line: 27
 msgid "Nationality Source"
 msgstr ""
 #
-# File: module/manager/view/contracts/specialoffers.phtml, line: 24
+# File: module/manager/view/contracts/specialoffers.phtml, line: 28
 msgid "Promotion By"
 msgstr ""
 #
-# File: module/manager/view/contracts/specialoffers.phtml, line: 56
+# File: module/manager/view/contracts/specialoffers.phtml, line: 60
 msgid "Add Special Offer"
 msgstr ""
 #
-# File: module/manager/view/contracts/specialoffers.phtml, line: 57
+# File: module/manager/view/contracts/specialoffers.phtml, line: 61
 msgid "special offer(s)"
 msgstr ""
 #
-# File: module/manager/view/contracts/specialoffers.phtml, line: 58
+# File: module/manager/view/contracts/specialoffers.phtml, line: 62
 msgid "No special offer"
 msgstr ""
 #
-# File: module/manager/view/contracts/specialoffers.phtml, line: 60
+# File: module/manager/view/contracts/specialoffers.phtml, line: 64
 msgid "No special offer to display"
 msgstr ""
 #
