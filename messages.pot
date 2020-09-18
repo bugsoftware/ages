@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-09-18 04:51-0400\n"
+"POT-Creation-Date: 2020-09-18 05:46-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1652,7 +1652,7 @@ msgstr ""
 # File: module/manager/src/Controller/EditSpecialOffers.php, line: 82
 # File: module/manager/src/Controller/EditSpecialOffers.php, line: 151
 # File: module/manager/src/Controller/EditSpecialOffers.php, line: 179
-# File: module/manager/src/Controller/NewContract.php, line: 444
+# File: module/manager/src/Controller/NewContract.php, line: 452
 # File: module/manager/src/Controller/Rooms.php, line: 631
 # File: module/manager/src/Controller/AddStopSale.php, line: 108
 # File: module/manager/src/Controller/AddStopSale.php, line: 123
@@ -1720,7 +1720,7 @@ msgstr ""
 # File: module/manager/src/Controller/EditSpecialOffers.php, line: 84
 # File: module/manager/src/Controller/EditSpecialOffers.php, line: 155
 # File: module/manager/src/Controller/EditSpecialOffers.php, line: 181
-# File: module/manager/src/Controller/NewContract.php, line: 448
+# File: module/manager/src/Controller/NewContract.php, line: 456
 # File: module/manager/src/Controller/Rooms.php, line: 635
 # File: module/manager/src/Controller/AddStopSale.php, line: 110
 # File: module/manager/src/Controller/AddStopSale.php, line: 127
@@ -2107,6 +2107,7 @@ msgstr ""
 # File: module/ages/view/ages/packages/index.phtml, line: 41
 # File: module/ages/view/ages/dynamic-packaging/search.phtml, line: 43
 # File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 31
+# File: module/manager/view/contracts/new.phtml, line: 78
 # File: module/setup/view/hotels/abreu.phtml, line: 30
 msgid "On Request"
 msgstr ""
@@ -3364,8 +3365,8 @@ msgstr ""
 # File: module/ages/view/ages/transfers/pricing_add.phtml, line: 16
 # File: module/ages/view/ages/transfers/pricing_add.phtml, line: 17
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 284
-# File: module/manager/view/contracts/new.phtml, line: 347
-# File: module/manager/view/contracts/new.phtml, line: 622
+# File: module/manager/view/contracts/new.phtml, line: 348
+# File: module/manager/view/contracts/new.phtml, line: 623
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 283
 # File: module/manager/view/rooms/add.phtml, line: 1000
 # File: module/manager/view/rooms/edit.phtml, line: 969
@@ -4080,8 +4081,8 @@ msgstr ""
 # File: module/ages/view/ages/transfers/pricing_add.phtml, line: 13
 # File: module/ages/view/ages/transfers/pricing_add.phtml, line: 14
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 214
-# File: module/manager/view/contracts/new.phtml, line: 277
-# File: module/manager/view/contracts/new.phtml, line: 552
+# File: module/manager/view/contracts/new.phtml, line: 278
+# File: module/manager/view/contracts/new.phtml, line: 553
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 213
 # File: module/manager/view/rooms/add.phtml, line: 1000
 # File: module/manager/view/rooms/edit.phtml, line: 969
@@ -13934,7 +13935,7 @@ msgstr ""
 # File: module/manager/view/contracts/editstopsale.phtml, line: 11
 # File: module/manager/view/contracts/new.phtml, line: 39
 # File: module/manager/view/contracts/new.phtml, line: 48
-# File: module/manager/view/contracts/new.phtml, line: 214
+# File: module/manager/view/contracts/new.phtml, line: 215
 # File: module/manager/view/contracts/contracts_edit.phtml, line: 13
 msgid "Date from"
 msgstr ""
@@ -13963,7 +13964,7 @@ msgstr ""
 # File: module/manager/view/contracts/editstopsale.phtml, line: 12
 # File: module/manager/view/contracts/new.phtml, line: 40
 # File: module/manager/view/contracts/new.phtml, line: 49
-# File: module/manager/view/contracts/new.phtml, line: 214
+# File: module/manager/view/contracts/new.phtml, line: 215
 # File: module/manager/view/contracts/contracts_edit.phtml, line: 14
 msgid "Date to"
 msgstr ""
@@ -13978,7 +13979,7 @@ msgstr ""
 # File: module/ages/view/ages/packages/editavailability.phtml, line: 19
 # File: module/ages/view/ages/packages/addavailability.phtml, line: 13
 # File: module/manager/view/contracts/new.phtml, line: 70
-# File: module/manager/view/contracts/new.phtml, line: 248
+# File: module/manager/view/contracts/new.phtml, line: 249
 msgid "Allotment"
 msgstr ""
 #
@@ -18611,7 +18612,7 @@ msgstr ""
 # File: module/ages/view/ages/air/add_priority.phtml, line: 44
 # File: module/ages/view/ages/air/edit_priority.phtml, line: 56
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 191
-# File: module/manager/view/contracts/new.phtml, line: 136
+# File: module/manager/view/contracts/new.phtml, line: 137
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 190
 # File: module/manager/view/contracts/mealsupplements.phtml, line: 48
 # File: module/manager/view/rooms/add.phtml, line: 947
@@ -19271,8 +19272,8 @@ msgstr ""
 # File: module/ages/view/ages/packages/editavailability_modals.phtml, line: 114
 # File: module/ages/view/ages/packages/editavailability_modals.phtml, line: 180
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 284
-# File: module/manager/view/contracts/new.phtml, line: 347
-# File: module/manager/view/contracts/new.phtml, line: 622
+# File: module/manager/view/contracts/new.phtml, line: 348
+# File: module/manager/view/contracts/new.phtml, line: 623
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 283
 # File: module/manager/view/hotel/childpolicies.phtml, line: 101
 msgid "Age From"
@@ -19285,8 +19286,8 @@ msgstr ""
 # File: module/ages/view/ages/packages/editavailability_modals.phtml, line: 119
 # File: module/ages/view/ages/packages/editavailability_modals.phtml, line: 185
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 284
-# File: module/manager/view/contracts/new.phtml, line: 347
-# File: module/manager/view/contracts/new.phtml, line: 622
+# File: module/manager/view/contracts/new.phtml, line: 348
+# File: module/manager/view/contracts/new.phtml, line: 623
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 283
 # File: module/manager/view/hotel/childpolicies.phtml, line: 101
 msgid "Age To"
@@ -19375,12 +19376,12 @@ msgstr ""
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 214
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 284
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 292
-# File: module/manager/view/contracts/new.phtml, line: 277
-# File: module/manager/view/contracts/new.phtml, line: 347
-# File: module/manager/view/contracts/new.phtml, line: 355
-# File: module/manager/view/contracts/new.phtml, line: 552
-# File: module/manager/view/contracts/new.phtml, line: 622
-# File: module/manager/view/contracts/new.phtml, line: 630
+# File: module/manager/view/contracts/new.phtml, line: 278
+# File: module/manager/view/contracts/new.phtml, line: 348
+# File: module/manager/view/contracts/new.phtml, line: 356
+# File: module/manager/view/contracts/new.phtml, line: 553
+# File: module/manager/view/contracts/new.phtml, line: 623
+# File: module/manager/view/contracts/new.phtml, line: 631
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 36
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 48
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 213
@@ -19691,7 +19692,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/packages/editavailability.phtml, line: 184
 # File: module/ages/view/ages/packages/addavailability.phtml, line: 162
-# File: module/manager/view/contracts/new.phtml, line: 182
+# File: module/manager/view/contracts/new.phtml, line: 183
 msgid "Please select allotment"
 msgstr ""
 #
@@ -24753,21 +24754,21 @@ msgstr ""
 #
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 14
 # File: module/manager/view/contracts/new.phtml, line: 68
-# File: module/manager/view/contracts/new.phtml, line: 247
+# File: module/manager/view/contracts/new.phtml, line: 248
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 14
 msgid "Meal Plan"
 msgstr ""
 #
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 15
 # File: module/manager/view/contracts/new.phtml, line: 76
-# File: module/manager/view/contracts/new.phtml, line: 251
+# File: module/manager/view/contracts/new.phtml, line: 252
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 15
 msgid "Select Residency Source Market (Optional)"
 msgstr ""
 #
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 16
 # File: module/manager/view/contracts/new.phtml, line: 77
-# File: module/manager/view/contracts/new.phtml, line: 252
+# File: module/manager/view/contracts/new.phtml, line: 253
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 16
 msgid "Select Nationality Source Merket (Optional)"
 msgstr ""
@@ -24883,21 +24884,21 @@ msgstr ""
 #
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 100
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 189
-# File: module/manager/view/contracts/new.phtml, line: 101
-# File: module/manager/view/contracts/new.phtml, line: 134
+# File: module/manager/view/contracts/new.phtml, line: 102
+# File: module/manager/view/contracts/new.phtml, line: 135
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 113
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 188
 msgid "Adult Pricing Missing"
 msgstr ""
 #
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 100
-# File: module/manager/view/contracts/new.phtml, line: 101
+# File: module/manager/view/contracts/new.phtml, line: 102
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 113
 msgid "Adult Pricing is required. Please use the Adult Pricing table to add contract prices"
 msgstr ""
 #
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 142
-# File: module/manager/view/contracts/new.phtml, line: 173
+# File: module/manager/view/contracts/new.phtml, line: 174
 # File: module/manager/view/contracts/addstopsale.phtml, line: 65
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 141
 # File: module/manager/view/contracts/mealsupplements.phtml, line: 76
@@ -24913,43 +24914,43 @@ msgid "Please enter promotion code"
 msgstr ""
 #
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 213
-# File: module/manager/view/contracts/new.phtml, line: 276
-# File: module/manager/view/contracts/new.phtml, line: 551
+# File: module/manager/view/contracts/new.phtml, line: 277
+# File: module/manager/view/contracts/new.phtml, line: 552
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 212
 msgid "Adult Pricing"
 msgstr ""
 #
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 223
-# File: module/manager/view/contracts/new.phtml, line: 286
-# File: module/manager/view/contracts/new.phtml, line: 561
+# File: module/manager/view/contracts/new.phtml, line: 287
+# File: module/manager/view/contracts/new.phtml, line: 562
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 222
 msgid "Update Adult Pricing"
 msgstr ""
 #
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 237
-# File: module/manager/view/contracts/new.phtml, line: 300
-# File: module/manager/view/contracts/new.phtml, line: 575
+# File: module/manager/view/contracts/new.phtml, line: 301
+# File: module/manager/view/contracts/new.phtml, line: 576
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 236
 msgid "New Adult Pricing"
 msgstr ""
 #
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 254
-# File: module/manager/view/contracts/new.phtml, line: 317
-# File: module/manager/view/contracts/new.phtml, line: 592
+# File: module/manager/view/contracts/new.phtml, line: 318
+# File: module/manager/view/contracts/new.phtml, line: 593
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 253
 msgid "Delete Adult Pricing"
 msgstr ""
 #
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 283
-# File: module/manager/view/contracts/new.phtml, line: 346
-# File: module/manager/view/contracts/new.phtml, line: 621
+# File: module/manager/view/contracts/new.phtml, line: 347
+# File: module/manager/view/contracts/new.phtml, line: 622
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 282
 msgid "Child Pricing"
 msgstr ""
 #
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 284
-# File: module/manager/view/contracts/new.phtml, line: 347
-# File: module/manager/view/contracts/new.phtml, line: 622
+# File: module/manager/view/contracts/new.phtml, line: 348
+# File: module/manager/view/contracts/new.phtml, line: 623
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 283
 # File: module/setup/view/settings/enterpriseratesetup.phtml, line: 16
 # File: module/setup/view/settings/enterpriseratesetup_edit.phtml, line: 24
@@ -24959,38 +24960,38 @@ msgid "Rate Type"
 msgstr ""
 #
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 292
-# File: module/manager/view/contracts/new.phtml, line: 355
-# File: module/manager/view/contracts/new.phtml, line: 630
+# File: module/manager/view/contracts/new.phtml, line: 356
+# File: module/manager/view/contracts/new.phtml, line: 631
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 291
 # File: module/manager/view/hotel/childpolicies.phtml, line: 139
 msgid "Percentage Based on Double Occupancy Rate"
 msgstr ""
 #
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 292
-# File: module/manager/view/contracts/new.phtml, line: 355
-# File: module/manager/view/contracts/new.phtml, line: 630
+# File: module/manager/view/contracts/new.phtml, line: 356
+# File: module/manager/view/contracts/new.phtml, line: 631
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 291
 # File: module/manager/view/hotel/childpolicies.phtml, line: 139
 msgid "Percentage Based on Total Rate"
 msgstr ""
 #
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 302
-# File: module/manager/view/contracts/new.phtml, line: 365
-# File: module/manager/view/contracts/new.phtml, line: 640
+# File: module/manager/view/contracts/new.phtml, line: 366
+# File: module/manager/view/contracts/new.phtml, line: 641
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 301
 msgid "Update Child Pricing"
 msgstr ""
 #
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 330
-# File: module/manager/view/contracts/new.phtml, line: 393
-# File: module/manager/view/contracts/new.phtml, line: 663
+# File: module/manager/view/contracts/new.phtml, line: 394
+# File: module/manager/view/contracts/new.phtml, line: 664
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 329
 msgid "New Child Pricing"
 msgstr ""
 #
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 356
-# File: module/manager/view/contracts/new.phtml, line: 419
-# File: module/manager/view/contracts/new.phtml, line: 689
+# File: module/manager/view/contracts/new.phtml, line: 420
+# File: module/manager/view/contracts/new.phtml, line: 690
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 355
 msgid "Delete Child Pricing"
 msgstr ""
@@ -25008,7 +25009,7 @@ msgstr ""
 # File: module/manager/view/contracts/editstopsale.phtml, line: 15
 # File: module/manager/view/contracts/new.phtml, line: 61
 # File: module/manager/view/contracts/new.phtml, line: 63
-# File: module/manager/view/contracts/new.phtml, line: 244
+# File: module/manager/view/contracts/new.phtml, line: 245
 # File: module/manager/view/contracts/addstopsale.phtml, line: 17
 # File: module/manager/view/contracts/addstopsale.phtml, line: 98
 # File: module/manager/view/contracts/rates.phtml, line: 20
@@ -25028,13 +25029,13 @@ msgid "Please enter room type"
 msgstr ""
 #
 # File: module/manager/view/contracts/new.phtml, line: 20
-# File: module/manager/view/contracts/new.phtml, line: 93
+# File: module/manager/view/contracts/new.phtml, line: 94
 # File: module/manager/view/contracts/contracts_edit.phtml, line: 22
 msgid "Update Contract"
 msgstr ""
 #
 # File: module/manager/view/contracts/new.phtml, line: 20
-# File: module/manager/view/contracts/new.phtml, line: 93
+# File: module/manager/view/contracts/new.phtml, line: 94
 # File: module/manager/view/contracts/contracts_add.phtml, line: 5
 # File: module/manager/view/contracts/contracts_add.phtml, line: 21
 # File: module/manager/view/contracts/index.phtml, line: 42
@@ -25050,30 +25051,30 @@ msgid "Contract Details"
 msgstr ""
 #
 # File: module/manager/view/contracts/new.phtml, line: 71
-# File: module/manager/view/contracts/new.phtml, line: 248
+# File: module/manager/view/contracts/new.phtml, line: 249
 msgid "Free Sale"
 msgstr ""
 #
 # File: module/manager/view/contracts/new.phtml, line: 74
-# File: module/manager/view/contracts/new.phtml, line: 249
+# File: module/manager/view/contracts/new.phtml, line: 250
 msgid "MLOS"
 msgstr ""
 #
 # File: module/manager/view/contracts/new.phtml, line: 75
-# File: module/manager/view/contracts/new.phtml, line: 250
+# File: module/manager/view/contracts/new.phtml, line: 251
 msgid "Release Period"
 msgstr ""
 #
-# File: module/manager/view/contracts/new.phtml, line: 176
+# File: module/manager/view/contracts/new.phtml, line: 177
 # File: module/manager/view/contracts/addstopsale.phtml, line: 68
 msgid "Please select room type"
 msgstr ""
 #
-# File: module/manager/view/contracts/new.phtml, line: 179
+# File: module/manager/view/contracts/new.phtml, line: 180
 msgid "Please board/meal type"
 msgstr ""
 #
-# File: module/manager/view/contracts/new.phtml, line: 243
+# File: module/manager/view/contracts/new.phtml, line: 244
 msgid "Extra Room"
 msgstr ""
 #
