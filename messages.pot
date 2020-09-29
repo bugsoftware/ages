@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-09-29 04:21-0400\n"
+"POT-Creation-Date: 2020-09-29 09:01-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16062,10 +16062,10 @@ msgstr ""
 # File: module/setup/view/settings/realtimepayments_edit.phtml, line: 29
 # File: module/setup/view/settings/globalware_add.phtml, line: 26
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 28
-# File: module/setup/view/settings/payments.phtml, line: 338
+# File: module/setup/view/settings/payments.phtml, line: 344
 # File: module/setup/view/settings/settings.phtml, line: 656
 # File: module/setup/view/settings/businessintelligence.phtml, line: 148
-# File: module/setup/view/settings/payments-b2b.phtml, line: 352
+# File: module/setup/view/settings/payments-b2b.phtml, line: 362
 # File: module/setup/view/settings/insurance.phtml, line: 19
 # File: module/setup/view/settings/enterpriseratesetup_edit.phtml, line: 33
 # File: module/setup/view/settings/geotargetmarkup_edit.phtml, line: 28
@@ -30642,6 +30642,11 @@ msgstr ""
 # File: module/setup/view/settings/payments.phtml, line: 333
 # File: module/setup/view/settings/payments-b2b.phtml, line: 337
 msgid "Enable MoneyGram"
+msgstr ""
+#
+# File: module/setup/view/settings/payments.phtml, line: 339
+# File: module/setup/view/settings/payments-b2b.phtml, line: 357
+msgid "Enable wire transfer"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 12
