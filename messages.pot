@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-16 16:09-0400\n"
+"POT-Creation-Date: 2020-10-16 17:42-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1487,7 +1487,7 @@ msgstr ""
 # File: module/ages/view/ages/agents/add_reservations.phtml, line: 31
 # File: module/ages/view/ages/agents/transactions.phtml, line: 134
 # File: module/ages/view/ages/agents/index.phtml, line: 159
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 84
+# File: module/ages/view/ages/customers/telemarketing.phtml, line: 65
 # File: module/ages/view/ages/customers/searchglobalware.phtml, line: 71
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 84
 # File: module/ages/view/ages/customers/zombie.phtml, line: 164
@@ -2820,8 +2820,8 @@ msgstr ""
 # File: module/ages/view/ages/agents/transactions.phtml, line: 136
 # File: module/ages/view/ages/agents/index.phtml, line: 159
 # File: module/ages/view/ages/agents/index.phtml, line: 161
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 84
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 86
+# File: module/ages/view/ages/customers/telemarketing.phtml, line: 65
+# File: module/ages/view/ages/customers/telemarketing.phtml, line: 67
 # File: module/ages/view/ages/customers/searchglobalware.phtml, line: 71
 # File: module/ages/view/ages/customers/searchglobalware.phtml, line: 73
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 84
@@ -5785,7 +5785,6 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit_telemarketing.phtml, line: 19
 # File: module/ages/view/ages/agents/import.phtml, line: 51
 # File: module/ages/view/ages/agents/index.phtml, line: 26
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 44
 # File: module/ages/view/ages/customers/editpassdocuments.phtml, line: 23
 # File: module/ages/view/ages/customers/addpassdocuments.phtml, line: 23
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 44
@@ -5906,7 +5905,6 @@ msgstr ""
 # File: module/ages/view/ages/agents/search.phtml, line: 13
 # File: module/ages/view/ages/agents/search.phtml, line: 32
 # File: module/ages/view/ages/agents/index.phtml, line: 25
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 43
 # File: module/ages/view/ages/customers/searchglobalware.phtml, line: 16
 # File: module/ages/view/ages/customers/searchglobalware.phtml, line: 32
 # File: module/ages/view/ages/customers/editpassdocuments.phtml, line: 22
@@ -6104,7 +6102,6 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit_telemarketing.phtml, line: 20
 # File: module/ages/view/ages/agents/index.phtml, line: 6
 # File: module/ages/view/ages/agents/index.phtml, line: 31
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 46
 # File: module/ages/view/ages/customers/editauditing.phtml, line: 13
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 46
 # File: module/ages/view/ages/customers/editglobalwareinvoice.phtml, line: 63
@@ -7106,7 +7103,6 @@ msgstr ""
 # File: module/ages/view/ages/agents/search.phtml, line: 14
 # File: module/ages/view/ages/agents/search.phtml, line: 37
 # File: module/ages/view/ages/agents/index.phtml, line: 32
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 56
 # File: module/ages/view/ages/customers/searchglobalware.phtml, line: 35
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 56
 # File: module/ages/view/ages/customers/travellingtomorrow.phtml, line: 11
@@ -7297,6 +7293,7 @@ msgstr ""
 # File: module/ages/view/ages/agents/search.phtml, line: 40
 # File: module/ages/view/ages/agents/transactions.phtml, line: 38
 # File: module/ages/view/ages/agents/index.phtml, line: 36
+# File: module/ages/view/ages/customers/telemarketing.phtml, line: 25
 # File: module/ages/view/ages/customers/searchglobalware.phtml, line: 37
 # File: module/ages/view/ages/customers/travellingtomorrow.phtml, line: 39
 # File: module/ages/view/ages/customers/questions.phtml, line: 16
@@ -7685,7 +7682,8 @@ msgstr ""
 # File: module/ages/view/ages/agents/transactions.phtml, line: 132
 # File: module/ages/view/ages/agents/index.phtml, line: 51
 # File: module/ages/view/ages/agents/index.phtml, line: 157
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 82
+# File: module/ages/view/ages/customers/telemarketing.phtml, line: 44
+# File: module/ages/view/ages/customers/telemarketing.phtml, line: 63
 # File: module/ages/view/ages/customers/searchglobalware.phtml, line: 69
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 82
 # File: module/ages/view/ages/customers/zombie.phtml, line: 63
@@ -7814,7 +7812,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 104
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 240
 # File: module/ages/view/ages/agents/transactions.phtml, line: 180
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 131
+# File: module/ages/view/ages/customers/telemarketing.phtml, line: 112
 # File: module/ages/view/ages/customers/supervisereport.phtml, line: 159
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 131
 # File: module/ages/view/ages/customers/questions.phtml, line: 70
@@ -7953,8 +7951,6 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit_seo.phtml, line: 150
 # File: module/ages/view/ages/agents/edit_seo.phtml, line: 163
 # File: module/ages/view/ages/agents/edit_events.phtml, line: 10
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 18
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 20
 # File: module/ages/view/ages/customers/questions_edit.phtml, line: 12
 # File: module/ages/view/ages/customers/editauditing.phtml, line: 11
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 18
@@ -8072,7 +8068,6 @@ msgstr ""
 # File: module/ages/view/ages/agents/add.phtml, line: 53
 # File: module/ages/view/ages/agents/edit.phtml, line: 56
 # File: module/ages/view/ages/agents/import.phtml, line: 51
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 63
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 63
 # File: module/ages/view/ages/customers/add.phtml, line: 23
 # File: module/ages/view/ages/customers/edit.phtml, line: 58
@@ -9118,7 +9113,6 @@ msgstr ""
 # File: module/ages/view/ages/agents/search.phtml, line: 11
 # File: module/ages/view/ages/agents/search.phtml, line: 29
 # File: module/ages/view/ages/agents/index.phtml, line: 23
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 41
 # File: module/ages/view/ages/customers/editpassdocuments.phtml, line: 12
 # File: module/ages/view/ages/customers/addpassdocuments.phtml, line: 12
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 41
@@ -9179,7 +9173,6 @@ msgstr ""
 # File: module/ages/view/ages/agents/search.phtml, line: 12
 # File: module/ages/view/ages/agents/search.phtml, line: 28
 # File: module/ages/view/ages/agents/index.phtml, line: 22
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 42
 # File: module/ages/view/ages/customers/editpassdocuments.phtml, line: 13
 # File: module/ages/view/ages/customers/addpassdocuments.phtml, line: 13
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 42
@@ -9574,7 +9567,7 @@ msgstr ""
 # File: module/ages/view/ages/agents/transactions.phtml, line: 33
 # File: module/ages/view/ages/agents/admin.phtml, line: 17
 # File: module/ages/view/ages/customers/telemarketing.phtml, line: 11
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 12
+# File: module/ages/view/ages/customers/telemarketing.phtml, line: 24
 # File: module/ages/view/ages/customers/supervisereport.phtml, line: 10
 # File: module/ages/view/ages/customers/supervisereport.phtml, line: 11
 # File: module/ages/view/ages/customers/supervisereport.phtml, line: 31
@@ -11965,7 +11958,6 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/add_car.phtml, line: 18
 # File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 13
 # File: module/ages/view/ages/agents/edit_telemarketing.phtml, line: 11
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 33
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 33
 # File: module/ages/view/ages/transfers/prices_edit.phtml, line: 27
 # File: module/ages/view/ages/transfers/pricing_edit.phtml, line: 59
@@ -12041,7 +12033,6 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/add_car.phtml, line: 21
 # File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 14
 # File: module/ages/view/ages/agents/edit_telemarketing.phtml, line: 12
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 34
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 34
 # File: module/ages/view/ages/transfers/prices_edit.phtml, line: 28
 # File: module/ages/view/ages/transfers/pricing_edit.phtml, line: 60
@@ -12726,7 +12717,6 @@ msgstr ""
 # File: module/ages/view/ages/agents/add.phtml, line: 24
 # File: module/ages/view/ages/agents/edit.phtml, line: 27
 # File: module/ages/view/ages/agents/import.phtml, line: 51
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 57
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 57
 # File: module/ages/view/ages/customers/add.phtml, line: 44
 # File: module/ages/view/ages/customers/edit.phtml, line: 79
@@ -13375,7 +13365,6 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit_seo.phtml, line: 134
 # File: module/ages/view/ages/agents/edit_seo.phtml, line: 147
 # File: module/ages/view/ages/agents/edit_seo.phtml, line: 160
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 49
 # File: module/ages/view/ages/customers/editpassdocuments.phtml, line: 11
 # File: module/ages/view/ages/customers/addpassdocuments.phtml, line: 11
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 49
@@ -14119,6 +14108,7 @@ msgstr ""
 # File: module/ages/view/ages/packages/searchreservations.phtml, line: 29
 # File: module/ages/view/ages/packages/reservations.phtml, line: 15
 # File: module/ages/view/ages/packages/listreservations.phtml, line: 15
+# File: module/ages/view/ages/customers/telemarketing.phtml, line: 21
 msgid "Customer Name"
 msgstr ""
 #
@@ -14157,7 +14147,6 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/search.phtml, line: 27
 # File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 17
 # File: module/ages/view/ages/agents/edit_telemarketing.phtml, line: 14
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 35
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 35
 # File: module/ages/view/ages/transfers/pricing.phtml, line: 24
 # File: module/ages/view/ages/transfers/pricing_edit.phtml, line: 20
@@ -14500,7 +14489,6 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/edit.phtml, line: 41
 # File: module/ages/view/ages/dynamic-packaging/edit.phtml, line: 48
 # File: module/ages/view/ages/agents/transactions.phtml, line: 15
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 34
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 34
 # File: module/ages/view/ages/transfers/prices_edit.phtml, line: 28
 # File: module/ages/view/ages/transfers/pricing_edit.phtml, line: 60
@@ -14537,8 +14525,6 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/edit_auditing.phtml, line: 12
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1898
 # File: module/ages/view/ages/agents/edit_auditing.phtml, line: 12
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 26
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 28
 # File: module/ages/view/ages/customers/editauditing.phtml, line: 12
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 26
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 28
@@ -15888,7 +15874,6 @@ msgstr ""
 # File: module/ages/view/ages/agents/returncustomers.phtml, line: 47
 # File: module/ages/view/ages/agents/deletetelemarketing.phtml, line: 47
 # File: module/ages/view/ages/agents/edit_telemarketing.phtml, line: 15
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 36
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 36
 # File: module/ages/view/ages/customers/editglobalwareinvoice.phtml, line: 48
 # File: module/ages/view/ages/customers/zombie.phtml, line: 24
@@ -21063,9 +21048,9 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit.phtml, line: 164
 # File: module/ages/view/ages/agents/edit_telemarketing.phtml, line: 4
 # File: module/ages/view/ages/customers/telemarketing.phtml, line: 5
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 125
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 126
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 131
+# File: module/ages/view/ages/customers/telemarketing.phtml, line: 106
+# File: module/ages/view/ages/customers/telemarketing.phtml, line: 107
+# File: module/ages/view/ages/customers/telemarketing.phtml, line: 112
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 5
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 125
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 126
@@ -21693,6 +21678,8 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/searchexceptions.phtml, line: 50
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 113
 # File: module/ages/view/ages/agents/supervise.phtml, line: 31
+# File: module/ages/view/ages/customers/telemarketing.phtml, line: 36
+# File: module/ages/view/ages/customers/telemarketing.phtml, line: 38
 # File: module/ages/view/ages/customers/supervise.phtml, line: 36
 msgid "View Customer"
 msgstr ""
@@ -21702,6 +21689,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/searchbroadcasts.phtml, line: 60
 # File: module/ages/view/ages/newsletter/searchexceptions.phtml, line: 53
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 95
+# File: module/ages/view/ages/customers/telemarketing.phtml, line: 41
 msgid "View Agent"
 msgstr ""
 #
@@ -24165,7 +24153,6 @@ msgid "The format of the file needs to be as follow:"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/import.phtml, line: 51
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 62
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 62
 # File: module/ages/view/ages/customers/import.phtml, line: 63
 msgid "Zip/Postal Code"
@@ -24242,66 +24229,15 @@ msgstr ""
 msgid "This will allow the selected agent to view and manage the bookings of the other agent and view their booking as well as all their sub agents."
 msgstr ""
 #
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 37
-# File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 37
-msgid "Airline Code"
+# File: module/ages/view/ages/customers/telemarketing.phtml, line: 22
+msgid "Customer Email"
 msgstr ""
 #
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 38
-# File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 38
-msgid "Citypair"
+# File: module/ages/view/ages/customers/telemarketing.phtml, line: 23
+msgid "Customer Phone"
 msgstr ""
 #
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 45
-# File: module/ages/view/ages/customers/searchglobalware.phtml, line: 17
-# File: module/ages/view/ages/customers/editglobalware.phtml, line: 32
-# File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 45
-# File: module/ages/view/ages/customers/editglobalwareinvoice.phtml, line: 86
-# File: module/setup/view/packages/globalia.phtml, line: 16
-# File: module/setup/view/packages/globalia.phtml, line: 17
-# File: module/setup/view/hotels/restel.phtml, line: 16
-msgid "Customer ID"
-msgstr ""
-#
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 50
-# File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 50
-msgid "Country ID"
-msgstr ""
-#
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 51
-# File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 51
-# File: module/ages/view/ages/customers/editcitypairs.phtml, line: 12
-msgid "City ID"
-msgstr ""
-#
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 52
-# File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 52
-msgid "State ID"
-msgstr ""
-#
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 55
-# File: module/ages/view/ages/customers/editglobalware.phtml, line: 34
-# File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 55
-# File: module/ages/view/ages/customers/editglobalwareinvoice.phtml, line: 12
-msgid "Company ID"
-msgstr ""
-#
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 58
-# File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 58
-msgid "SSN"
-msgstr ""
-#
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 61
-# File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 61
-msgid "ERP"
-msgstr ""
-#
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 67
-# File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 67
-msgid "Update Telemarketing"
-msgstr ""
-#
-# File: module/ages/view/ages/customers/telemarketing.phtml, line: 83
+# File: module/ages/view/ages/customers/telemarketing.phtml, line: 64
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 83
 msgid "Are you sure you want to delete this telemarketing?"
 msgstr ""
@@ -24317,6 +24253,16 @@ msgstr ""
 # File: module/ages/view/ages/customers/searchglobalware.phtml, line: 15
 # File: module/ages/view/ages/customers/editglobalware.phtml, line: 30
 msgid "Home Phone"
+msgstr ""
+#
+# File: module/ages/view/ages/customers/searchglobalware.phtml, line: 17
+# File: module/ages/view/ages/customers/editglobalware.phtml, line: 32
+# File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 45
+# File: module/ages/view/ages/customers/editglobalwareinvoice.phtml, line: 86
+# File: module/setup/view/packages/globalia.phtml, line: 16
+# File: module/setup/view/packages/globalia.phtml, line: 17
+# File: module/setup/view/hotels/restel.phtml, line: 16
+msgid "Customer ID"
 msgstr ""
 #
 # File: module/ages/view/ages/customers/searchglobalware.phtml, line: 70
@@ -24455,12 +24401,51 @@ msgstr ""
 msgid "Agent ID"
 msgstr ""
 #
+# File: module/ages/view/ages/customers/editglobalware.phtml, line: 34
+# File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 55
+# File: module/ages/view/ages/customers/editglobalwareinvoice.phtml, line: 12
+msgid "Company ID"
+msgstr ""
+#
 # File: module/ages/view/ages/customers/editglobalware.phtml, line: 35
 # File: module/ages/view/ages/customers/editglobalwareinvoice.phtml, line: 14
 # File: module/setup/view/settings/globalware_add.phtml, line: 16
 # File: module/setup/view/settings/globalware.phtml, line: 14
 # File: module/setup/view/settings/globalware_edit.phtml, line: 14
 msgid "Version"
+msgstr ""
+#
+# File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 37
+msgid "Airline Code"
+msgstr ""
+#
+# File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 38
+msgid "Citypair"
+msgstr ""
+#
+# File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 50
+msgid "Country ID"
+msgstr ""
+#
+# File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 51
+# File: module/ages/view/ages/customers/editcitypairs.phtml, line: 12
+msgid "City ID"
+msgstr ""
+#
+# File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 52
+msgid "State ID"
+msgstr ""
+#
+# File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 58
+msgid "SSN"
+msgstr ""
+#
+# File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 61
+msgid "ERP"
+msgstr ""
+#
+# File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 67
+msgid "Update Telemarketing"
 msgstr ""
 #
 # File: module/ages/view/ages/customers/travellingtomorrow.phtml, line: 25
