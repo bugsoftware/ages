@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-28 11:07-0400\n"
+"POT-Creation-Date: 2020-10-28 17:03-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -87,8 +87,8 @@ msgstr ""
 # File: module/ages/src/Controller/Hotels.php, line: 3514
 # File: module/ages/src/Controller/Companies.php, line: 1639
 # File: module/ages/src/Controller/Companies.php, line: 1770
-# File: module/ages/src/Controller/Affiliates.php, line: 2573
-# File: module/ages/src/Controller/Affiliates.php, line: 4286
+# File: module/ages/src/Controller/Affiliates.php, line: 2632
+# File: module/ages/src/Controller/Affiliates.php, line: 4345
 # File: module/ages/src/Controller/CMS.php, line: 373
 # File: module/ages/src/Controller/CMS.php, line: 529
 # File: module/ages/src/Controller/CMS.php, line: 751
@@ -108,8 +108,8 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 1279
 # File: module/ages/src/Controller/Agents.php, line: 6469
 # File: module/ages/src/Controller/Agents.php, line: 8600
-# File: module/ages/src/Controller/Affiliates.php, line: 2598
-# File: module/ages/src/Controller/Affiliates.php, line: 4308
+# File: module/ages/src/Controller/Affiliates.php, line: 2657
+# File: module/ages/src/Controller/Affiliates.php, line: 4367
 msgid "All Supervisors"
 msgstr ""
 #
@@ -187,11 +187,11 @@ msgstr ""
 # File: module/ages/src/Controller/Hotels.php, line: 1398
 # File: module/ages/src/Controller/Hotels.php, line: 1672
 # File: module/ages/src/Controller/Hotels.php, line: 1971
-# File: module/ages/src/Controller/Affiliates.php, line: 386
-# File: module/ages/src/Controller/Affiliates.php, line: 4732
-# File: module/ages/src/Controller/Affiliates.php, line: 4733
-# File: module/ages/src/Controller/Affiliates.php, line: 4746
-# File: module/ages/src/Controller/Affiliates.php, line: 4747
+# File: module/ages/src/Controller/Affiliates.php, line: 445
+# File: module/ages/src/Controller/Affiliates.php, line: 4791
+# File: module/ages/src/Controller/Affiliates.php, line: 4792
+# File: module/ages/src/Controller/Affiliates.php, line: 4805
+# File: module/ages/src/Controller/Affiliates.php, line: 4806
 # File: module/ages/src/Controller/CMS.php, line: 825
 # File: module/ages/view/ages/affiliates/edit_cms.phtml, line: 23
 # File: module/ages/view/ages/affiliates/add_branches.phtml, line: 8
@@ -245,8 +245,8 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 8795
 # File: module/ages/src/Controller/Newsletter.php, line: 1677
 # File: module/ages/src/Controller/Newsletter.php, line: 5030
-# File: module/ages/src/Controller/Affiliates.php, line: 2215
-# File: module/ages/src/Controller/Affiliates.php, line: 3407
+# File: module/ages/src/Controller/Affiliates.php, line: 2274
+# File: module/ages/src/Controller/Affiliates.php, line: 3466
 # File: module/ages/src/Controller/CMS.php, line: 1777
 # File: module/ages/src/Controller/CMS.php, line: 7858
 msgid "Enable"
@@ -259,8 +259,8 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 8797
 # File: module/ages/src/Controller/Newsletter.php, line: 1673
 # File: module/ages/src/Controller/Newsletter.php, line: 5026
-# File: module/ages/src/Controller/Affiliates.php, line: 2217
-# File: module/ages/src/Controller/Affiliates.php, line: 3409
+# File: module/ages/src/Controller/Affiliates.php, line: 2276
+# File: module/ages/src/Controller/Affiliates.php, line: 3468
 # File: module/ages/src/Controller/CMS.php, line: 1773
 # File: module/ages/src/Controller/CMS.php, line: 7854
 msgid "Disable"
@@ -1572,7 +1572,7 @@ msgstr ""
 # File: module/ages/src/Controller/ServiceFees.php, line: 435
 # File: module/ages/src/Controller/ServiceFees.php, line: 445
 # File: module/ages/src/Controller/ServiceFees.php, line: 1096
-# File: module/ages/src/Controller/Affiliates.php, line: 4330
+# File: module/ages/src/Controller/Affiliates.php, line: 4389
 # File: module/ages/src/Controller/CMS.php, line: 67
 # File: module/ages/src/Controller/CMS.php, line: 107
 # File: module/ages/src/Controller/CMS.php, line: 319
@@ -3616,6 +3616,10 @@ msgstr ""
 # File: module/ages/view/ages/packages/add.phtml, line: 29
 # File: module/ages/view/ages/packages/edit.phtml, line: 58
 msgid "Fixed Price"
+msgstr ""
+#
+# File: module/ages/src/Controller/Affiliates.php, line: 416
+msgid "Affiliate has been converted to Agent #"
 msgstr ""
 #
 # File: module/ages/src/Controller/CMS.php, line: 99
