@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-02 06:26-0500\n"
+"POT-Creation-Date: 2020-11-02 08:24-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6679,18 +6679,18 @@ msgstr ""
 # File: module/ages/view/ages/hotels/editusers.phtml, line: 175
 # File: module/ages/view/ages/hotels/editusers.phtml, line: 297
 # File: module/ages/view/ages/hotels/editusers.phtml, line: 323
-# File: module/ages/view/ages/hotels/add.phtml, line: 120
-# File: module/ages/view/ages/hotels/add.phtml, line: 146
-# File: module/ages/view/ages/hotels/add.phtml, line: 225
-# File: module/ages/view/ages/hotels/add.phtml, line: 237
+# File: module/ages/view/ages/hotels/add.phtml, line: 128
+# File: module/ages/view/ages/hotels/add.phtml, line: 154
+# File: module/ages/view/ages/hotels/add.phtml, line: 233
+# File: module/ages/view/ages/hotels/add.phtml, line: 245
 # File: module/ages/view/ages/hotels/adduser.phtml, line: 152
 # File: module/ages/view/ages/hotels/adduser.phtml, line: 165
 # File: module/ages/view/ages/hotels/adduser.phtml, line: 256
 # File: module/ages/view/ages/hotels/adduser.phtml, line: 282
-# File: module/ages/view/ages/hotels/edit.phtml, line: 118
-# File: module/ages/view/ages/hotels/edit.phtml, line: 144
-# File: module/ages/view/ages/hotels/edit.phtml, line: 223
-# File: module/ages/view/ages/hotels/edit.phtml, line: 235
+# File: module/ages/view/ages/hotels/edit.phtml, line: 126
+# File: module/ages/view/ages/hotels/edit.phtml, line: 152
+# File: module/ages/view/ages/hotels/edit.phtml, line: 231
+# File: module/ages/view/ages/hotels/edit.phtml, line: 243
 # File: module/ages/view/ages/newsletter/sendtoagent.phtml, line: 193
 # File: module/ages/view/ages/newsletter/sendtoagent.phtml, line: 219
 # File: module/ages/view/ages/newsletter/flyers_edit.phtml, line: 163
@@ -8422,12 +8422,12 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/edit.phtml, line: 892
 # File: module/ages/view/ages/hotels/editusers.phtml, line: 39
 # File: module/ages/view/ages/hotels/editusers.phtml, line: 288
-# File: module/ages/view/ages/hotels/add.phtml, line: 111
-# File: module/ages/view/ages/hotels/add.phtml, line: 202
+# File: module/ages/view/ages/hotels/add.phtml, line: 119
+# File: module/ages/view/ages/hotels/add.phtml, line: 210
 # File: module/ages/view/ages/hotels/adduser.phtml, line: 37
 # File: module/ages/view/ages/hotels/adduser.phtml, line: 247
-# File: module/ages/view/ages/hotels/edit.phtml, line: 109
-# File: module/ages/view/ages/hotels/edit.phtml, line: 200
+# File: module/ages/view/ages/hotels/edit.phtml, line: 117
+# File: module/ages/view/ages/hotels/edit.phtml, line: 208
 # File: module/ages/view/ages/newsletter/sendtoagent.phtml, line: 184
 # File: module/ages/view/ages/newsletter/send.phtml, line: 136
 # File: module/ages/view/ages/newsletter/add.phtml, line: 105
@@ -8476,12 +8476,12 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/edit.phtml, line: 918
 # File: module/ages/view/ages/hotels/editusers.phtml, line: 48
 # File: module/ages/view/ages/hotels/editusers.phtml, line: 314
-# File: module/ages/view/ages/hotels/add.phtml, line: 137
-# File: module/ages/view/ages/hotels/add.phtml, line: 215
+# File: module/ages/view/ages/hotels/add.phtml, line: 145
+# File: module/ages/view/ages/hotels/add.phtml, line: 223
 # File: module/ages/view/ages/hotels/adduser.phtml, line: 45
 # File: module/ages/view/ages/hotels/adduser.phtml, line: 273
-# File: module/ages/view/ages/hotels/edit.phtml, line: 135
-# File: module/ages/view/ages/hotels/edit.phtml, line: 213
+# File: module/ages/view/ages/hotels/edit.phtml, line: 143
+# File: module/ages/view/ages/hotels/edit.phtml, line: 221
 # File: module/ages/view/ages/newsletter/sendtoagent.phtml, line: 210
 # File: module/ages/view/ages/newsletter/send.phtml, line: 162
 # File: module/ages/view/ages/newsletter/add.phtml, line: 131
@@ -13190,7 +13190,7 @@ msgstr ""
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 356
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 864
 # File: module/ages/view/ages/sub-agents/edit.phtml, line: 862
-# File: module/ages/view/ages/hotels/edit.phtml, line: 95
+# File: module/ages/view/ages/hotels/edit.phtml, line: 103
 # File: module/ages/view/ages/agents/add.phtml, line: 862
 # File: module/ages/view/ages/agents/edit.phtml, line: 897
 # File: module/manager/view/hotel/index.phtml, line: 94
@@ -21412,7 +21412,7 @@ msgid "Add new Hotel Markup"
 msgstr ""
 #
 # File: module/ages/view/ages/hotels/add.phtml, line: 5
-# File: module/ages/view/ages/hotels/add.phtml, line: 56
+# File: module/ages/view/ages/hotels/add.phtml, line: 64
 msgid "Add New Hotel"
 msgstr ""
 #
@@ -21462,21 +21462,51 @@ msgstr ""
 msgid "Official Class"
 msgstr ""
 #
-# File: module/ages/view/ages/hotels/add.phtml, line: 51
+# File: module/ages/view/ages/hotels/add.phtml, line: 49
+# File: module/ages/view/ages/hotels/edit.phtml, line: 49
+msgid "Wheelchair-accessible"
+msgstr ""
+#
+# File: module/ages/view/ages/hotels/add.phtml, line: 50
 # File: module/ages/view/ages/hotels/edit.phtml, line: 50
+msgid "Disability friendly rooms"
+msgstr ""
+#
+# File: module/ages/view/ages/hotels/add.phtml, line: 51
+# File: module/ages/view/ages/hotels/edit.phtml, line: 51
+msgid "Bed & Breakfast"
+msgstr ""
+#
+# File: module/ages/view/ages/hotels/add.phtml, line: 52
 # File: module/ages/view/ages/hotels/edit.phtml, line: 52
+msgid "Half Board"
+msgstr ""
+#
+# File: module/ages/view/ages/hotels/add.phtml, line: 53
+# File: module/ages/view/ages/hotels/edit.phtml, line: 53
+msgid "Full Board"
+msgstr ""
+#
+# File: module/ages/view/ages/hotels/add.phtml, line: 54
+# File: module/ages/view/ages/hotels/edit.phtml, line: 54
+msgid "All Inclusive"
+msgstr ""
+#
+# File: module/ages/view/ages/hotels/add.phtml, line: 59
+# File: module/ages/view/ages/hotels/edit.phtml, line: 58
+# File: module/ages/view/ages/hotels/edit.phtml, line: 60
 # File: module/manager/view/hotel/index.phtml, line: 49
 # File: module/manager/view/hotel/index.phtml, line: 51
 msgid "Hotel Info"
 msgstr ""
 #
-# File: module/ages/view/ages/hotels/add.phtml, line: 94
-# File: module/ages/view/ages/hotels/edit.phtml, line: 92
+# File: module/ages/view/ages/hotels/add.phtml, line: 102
+# File: module/ages/view/ages/hotels/edit.phtml, line: 100
 # File: module/manager/view/hotel/index.phtml, line: 91
 msgid "Please enter Description"
 msgstr ""
 #
-# File: module/ages/view/ages/hotels/add.phtml, line: 97
+# File: module/ages/view/ages/hotels/add.phtml, line: 105
 # File: module/setup/view/hotels/hoteldo.phtml, line: 279
 msgid "Please enter address"
 msgstr ""
@@ -21524,7 +21554,7 @@ msgstr ""
 msgid "Mapped Id"
 msgstr ""
 #
-# File: module/ages/view/ages/hotels/edit.phtml, line: 57
+# File: module/ages/view/ages/hotels/edit.phtml, line: 65
 # File: module/manager/view/hotel/index.phtml, line: 56
 msgid "Update Hotel"
 msgstr ""
