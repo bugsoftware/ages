@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-09 11:40-0500\n"
+"POT-Creation-Date: 2020-11-10 04:13-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5949,7 +5949,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 22
 # File: module/ages/view/ages/agents/telemarketing.phtml, line: 47
 # File: module/ages/view/ages/agents/transfercustomers.phtml, line: 24
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 85
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 86
 # File: module/ages/view/ages/agents/returncustomers.phtml, line: 44
 # File: module/ages/view/ages/agents/detailedreport.phtml, line: 15
 # File: module/ages/view/ages/agents/add.phtml, line: 50
@@ -7167,7 +7167,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/offlinebooking.phtml, line: 37
 # File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 11
 # File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 27
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 82
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 83
 # File: module/ages/view/ages/agents/zombie.phtml, line: 39
 # File: module/ages/view/ages/agents/detailedreport.phtml, line: 17
 # File: module/ages/view/ages/agents/import.phtml, line: 51
@@ -9190,7 +9190,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/edit.phtml, line: 13
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 10
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3555
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 83
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 84
 # File: module/ages/view/ages/agents/zombie.phtml, line: 31
 # File: module/ages/view/ages/agents/add.phtml, line: 14
 # File: module/ages/view/ages/agents/edit.phtml, line: 17
@@ -9250,7 +9250,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/edit.phtml, line: 16
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 11
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3556
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 84
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 85
 # File: module/ages/view/ages/agents/zombie.phtml, line: 30
 # File: module/ages/view/ages/agents/add.phtml, line: 15
 # File: module/ages/view/ages/agents/edit.phtml, line: 18
@@ -24254,6 +24254,11 @@ msgstr ""
 msgid "Sending customers to telemarketing"
 msgstr ""
 #
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 74
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 74
+msgid "Allow Payment Status Change"
+msgstr ""
+#
 # File: module/ages/view/ages/agents/edit_cms.phtml, line: 169
 # File: module/ages/view/ages/agents/add_cms.phtml, line: 177
 msgid "*Open search in new window."
@@ -24295,7 +24300,7 @@ msgstr ""
 msgid "Deny Access to My Quotes Inventory"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 76
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 77
 msgid "Agent Administrator - Can view and manage bookings for"
 msgstr ""
 #
