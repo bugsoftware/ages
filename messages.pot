@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-13 09:28-0500\n"
+"POT-Creation-Date: 2020-11-13 09:37-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -240,7 +240,6 @@ msgstr ""
 # File: module/ages/src/Controller/Hotels.php, line: 3580
 # File: module/ages/src/Controller/Hotels.php, line: 3606
 # File: module/ages/src/Controller/Hotels.php, line: 3789
-# File: module/ages/view/ages/reports/gds.phtml, line: 23
 # File: module/manager/src/Controller/Hotel.php, line: 190
 # File: module/manager/src/Controller/Rooms.php, line: 568
 # File: module/manager/src/Controller/AddRooms.php, line: 522
@@ -311,9 +310,9 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 315
 # File: module/ages/src/Controller/Reports.php, line: 1453
 # File: module/ages/src/Controller/Reports.php, line: 4177
-# File: module/ages/src/Controller/Reports.php, line: 4861
-# File: module/ages/src/Controller/Reports.php, line: 4873
-# File: module/ages/src/Controller/Reports.php, line: 4877
+# File: module/ages/src/Controller/Reports.php, line: 4843
+# File: module/ages/src/Controller/Reports.php, line: 4855
+# File: module/ages/src/Controller/Reports.php, line: 4859
 # File: module/ages/src/Controller/Users.php, line: 2292
 # File: module/ages/src/Controller/Users.php, line: 2312
 # File: module/ages/src/Controller/Users.php, line: 2332
@@ -480,7 +479,7 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 394
 # File: module/ages/src/Controller/Reports.php, line: 921
 # File: module/ages/src/Controller/Reports.php, line: 1529
-# File: module/ages/src/Controller/Reports.php, line: 4906
+# File: module/ages/src/Controller/Reports.php, line: 4888
 # File: module/ages/src/Controller/Activities.php, line: 2475
 # File: module/ages/src/Controller/Hotels.php, line: 3179
 # File: module/ages/src/Controller/Hotels.php, line: 3764
@@ -1358,72 +1357,6 @@ msgstr ""
 msgid "Please Select Charter"
 msgstr ""
 #
-# File: module/ages/src/Controller/Reports.php, line: 4630
-# File: module/ages/src/Controller/Air.php, line: 174
-# File: module/ages/src/Controller/Air.php, line: 339
-# File: module/ages/view/ages/affiliates/edit_flights.phtml, line: 11
-# File: module/ages/view/ages/affiliates/add_flights.phtml, line: 11
-# File: module/ages/view/ages/air/toxicairlines.phtml, line: 39
-# File: module/ages/view/ages/air/edit_pcc.phtml, line: 24
-# File: module/ages/view/ages/air/add_pcc.phtml, line: 18
-# File: module/ages/view/ages/sub-agents/edit_flights.phtml, line: 7
-# File: module/ages/view/ages/sub-agents/edit_flights.phtml, line: 32
-# File: module/ages/view/ages/sub-agents/add_flights.phtml, line: 7
-# File: module/ages/view/ages/sub-agents/add_flights.phtml, line: 32
-# File: module/ages/view/ages/agents/edit_flights.phtml, line: 7
-# File: module/ages/view/ages/agents/edit_flights.phtml, line: 32
-# File: module/ages/view/ages/agents/add_flights.phtml, line: 7
-# File: module/ages/view/ages/agents/add_flights.phtml, line: 32
-# File: module/setup/src/Controller/toxicairlines.php, line: 154
-# File: module/setup/src/Controller/toxicairlines.php, line: 351
-# File: module/setup/view/settings/settings.phtml, line: 665
-# File: module/setup/view/settings/businessintelligence.phtml, line: 115
-# File: module/setup/view/air/toxicairlines.phtml, line: 39
-msgid "Sabre"
-msgstr ""
-#
-# File: module/ages/src/Controller/Reports.php, line: 4634
-# File: module/ages/src/Controller/Air.php, line: 182
-# File: module/ages/src/Controller/Air.php, line: 347
-# File: module/ages/view/ages/affiliates/edit_flights.phtml, line: 10
-# File: module/ages/view/ages/affiliates/add_flights.phtml, line: 10
-# File: module/ages/view/ages/air/toxicairlines.phtml, line: 43
-# File: module/ages/view/ages/air/edit_pcc.phtml, line: 23
-# File: module/ages/view/ages/air/add_pcc.phtml, line: 17
-# File: module/ages/view/ages/sub-agents/edit_flights.phtml, line: 6
-# File: module/ages/view/ages/sub-agents/edit_flights.phtml, line: 31
-# File: module/ages/view/ages/sub-agents/add_flights.phtml, line: 6
-# File: module/ages/view/ages/sub-agents/add_flights.phtml, line: 31
-# File: module/ages/view/ages/agents/edit_flights.phtml, line: 6
-# File: module/ages/view/ages/agents/edit_flights.phtml, line: 31
-# File: module/ages/view/ages/agents/add_flights.phtml, line: 6
-# File: module/ages/view/ages/agents/add_flights.phtml, line: 31
-# File: module/setup/src/Controller/toxicairlines.php, line: 162
-# File: module/setup/src/Controller/toxicairlines.php, line: 359
-# File: module/setup/view/settings/settings.phtml, line: 664
-# File: module/setup/view/settings/businessintelligence.phtml, line: 121
-# File: module/setup/view/air/toxicairlines.phtml, line: 43
-msgid "Amadeus"
-msgstr ""
-#
-# File: module/ages/src/Controller/Reports.php, line: 4638
-# File: module/ages/view/ages/affiliates/edit_flights.phtml, line: 12
-# File: module/ages/view/ages/affiliates/add_flights.phtml, line: 12
-# File: module/ages/view/ages/air/edit_pcc.phtml, line: 25
-# File: module/ages/view/ages/air/add_pcc.phtml, line: 19
-# File: module/ages/view/ages/sub-agents/edit_flights.phtml, line: 8
-# File: module/ages/view/ages/sub-agents/edit_flights.phtml, line: 33
-# File: module/ages/view/ages/sub-agents/add_flights.phtml, line: 8
-# File: module/ages/view/ages/sub-agents/add_flights.phtml, line: 33
-# File: module/ages/view/ages/agents/edit_flights.phtml, line: 8
-# File: module/ages/view/ages/agents/edit_flights.phtml, line: 33
-# File: module/ages/view/ages/agents/add_flights.phtml, line: 8
-# File: module/ages/view/ages/agents/add_flights.phtml, line: 33
-# File: module/setup/view/settings/settings.phtml, line: 666
-# File: module/setup/view/settings/businessintelligence.phtml, line: 127
-msgid "Travelport"
-msgstr ""
-#
 # File: module/ages/src/Controller/LoginController.php, line: 109
 # File: module/manager/src/Controller/ManagerController.php, line: 519
 msgid "For security reasons the user account was locked."
@@ -1872,6 +1805,30 @@ msgstr ""
 msgid "Undertrail GDX"
 msgstr ""
 #
+# File: module/ages/src/Controller/Air.php, line: 174
+# File: module/ages/src/Controller/Air.php, line: 339
+# File: module/ages/view/ages/affiliates/edit_flights.phtml, line: 11
+# File: module/ages/view/ages/affiliates/add_flights.phtml, line: 11
+# File: module/ages/view/ages/reports/gds.phtml, line: 22
+# File: module/ages/view/ages/air/toxicairlines.phtml, line: 39
+# File: module/ages/view/ages/air/edit_pcc.phtml, line: 24
+# File: module/ages/view/ages/air/add_pcc.phtml, line: 18
+# File: module/ages/view/ages/sub-agents/edit_flights.phtml, line: 7
+# File: module/ages/view/ages/sub-agents/edit_flights.phtml, line: 32
+# File: module/ages/view/ages/sub-agents/add_flights.phtml, line: 7
+# File: module/ages/view/ages/sub-agents/add_flights.phtml, line: 32
+# File: module/ages/view/ages/agents/edit_flights.phtml, line: 7
+# File: module/ages/view/ages/agents/edit_flights.phtml, line: 32
+# File: module/ages/view/ages/agents/add_flights.phtml, line: 7
+# File: module/ages/view/ages/agents/add_flights.phtml, line: 32
+# File: module/setup/src/Controller/toxicairlines.php, line: 154
+# File: module/setup/src/Controller/toxicairlines.php, line: 351
+# File: module/setup/view/settings/settings.phtml, line: 665
+# File: module/setup/view/settings/businessintelligence.phtml, line: 115
+# File: module/setup/view/air/toxicairlines.phtml, line: 39
+msgid "Sabre"
+msgstr ""
+#
 # File: module/ages/src/Controller/Air.php, line: 178
 # File: module/ages/src/Controller/Air.php, line: 343
 # File: module/ages/view/ages/air/toxicairlines.phtml, line: 41
@@ -1879,6 +1836,30 @@ msgstr ""
 # File: module/setup/src/Controller/toxicairlines.php, line: 355
 # File: module/setup/view/air/toxicairlines.phtml, line: 41
 msgid "Travel Port Universal API"
+msgstr ""
+#
+# File: module/ages/src/Controller/Air.php, line: 182
+# File: module/ages/src/Controller/Air.php, line: 347
+# File: module/ages/view/ages/affiliates/edit_flights.phtml, line: 10
+# File: module/ages/view/ages/affiliates/add_flights.phtml, line: 10
+# File: module/ages/view/ages/reports/gds.phtml, line: 23
+# File: module/ages/view/ages/air/toxicairlines.phtml, line: 43
+# File: module/ages/view/ages/air/edit_pcc.phtml, line: 23
+# File: module/ages/view/ages/air/add_pcc.phtml, line: 17
+# File: module/ages/view/ages/sub-agents/edit_flights.phtml, line: 6
+# File: module/ages/view/ages/sub-agents/edit_flights.phtml, line: 31
+# File: module/ages/view/ages/sub-agents/add_flights.phtml, line: 6
+# File: module/ages/view/ages/sub-agents/add_flights.phtml, line: 31
+# File: module/ages/view/ages/agents/edit_flights.phtml, line: 6
+# File: module/ages/view/ages/agents/edit_flights.phtml, line: 31
+# File: module/ages/view/ages/agents/add_flights.phtml, line: 6
+# File: module/ages/view/ages/agents/add_flights.phtml, line: 31
+# File: module/setup/src/Controller/toxicairlines.php, line: 162
+# File: module/setup/src/Controller/toxicairlines.php, line: 359
+# File: module/setup/view/settings/settings.phtml, line: 664
+# File: module/setup/view/settings/businessintelligence.phtml, line: 121
+# File: module/setup/view/air/toxicairlines.phtml, line: 43
+msgid "Amadeus"
 msgstr ""
 #
 # File: module/ages/src/Controller/Air.php, line: 194
@@ -11803,6 +11784,24 @@ msgstr ""
 msgid "Default Air Supplier"
 msgstr ""
 #
+# File: module/ages/view/ages/affiliates/edit_flights.phtml, line: 12
+# File: module/ages/view/ages/affiliates/add_flights.phtml, line: 12
+# File: module/ages/view/ages/reports/gds.phtml, line: 24
+# File: module/ages/view/ages/air/edit_pcc.phtml, line: 25
+# File: module/ages/view/ages/air/add_pcc.phtml, line: 19
+# File: module/ages/view/ages/sub-agents/edit_flights.phtml, line: 8
+# File: module/ages/view/ages/sub-agents/edit_flights.phtml, line: 33
+# File: module/ages/view/ages/sub-agents/add_flights.phtml, line: 8
+# File: module/ages/view/ages/sub-agents/add_flights.phtml, line: 33
+# File: module/ages/view/ages/agents/edit_flights.phtml, line: 8
+# File: module/ages/view/ages/agents/edit_flights.phtml, line: 33
+# File: module/ages/view/ages/agents/add_flights.phtml, line: 8
+# File: module/ages/view/ages/agents/add_flights.phtml, line: 33
+# File: module/setup/view/settings/settings.phtml, line: 666
+# File: module/setup/view/settings/businessintelligence.phtml, line: 127
+msgid "Travelport"
+msgstr ""
+#
 # File: module/ages/view/ages/affiliates/edit_flights.phtml, line: 13
 # File: module/ages/view/ages/affiliates/add_flights.phtml, line: 13
 # File: module/ages/view/ages/air/edit_pcc.phtml, line: 26
@@ -17956,7 +17955,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/statistics.phtml, line: 32
 # File: module/ages/view/ages/reports/carssales.phtml, line: 19
 # File: module/ages/view/ages/reports/activities.phtml, line: 27
-# File: module/ages/view/ages/reports/gds.phtml, line: 27
+# File: module/ages/view/ages/reports/gds.phtml, line: 28
 # File: module/ages/view/ages/reports/agents.phtml, line: 27
 # File: module/ages/view/ages/reports/hotels.phtml, line: 30
 # File: module/ages/view/ages/reports/tours.phtml, line: 27
@@ -17978,7 +17977,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/statistics.phtml, line: 33
 # File: module/ages/view/ages/reports/carssales.phtml, line: 20
 # File: module/ages/view/ages/reports/activities.phtml, line: 28
-# File: module/ages/view/ages/reports/gds.phtml, line: 28
+# File: module/ages/view/ages/reports/gds.phtml, line: 29
 # File: module/ages/view/ages/reports/agents.phtml, line: 28
 # File: module/ages/view/ages/reports/hotels.phtml, line: 31
 # File: module/ages/view/ages/reports/tours.phtml, line: 28
@@ -18049,7 +18048,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/settlements.phtml, line: 20
 # File: module/ages/view/ages/reports/carssales.phtml, line: 25
 # File: module/ages/view/ages/reports/activities.phtml, line: 33
-# File: module/ages/view/ages/reports/gds.phtml, line: 33
+# File: module/ages/view/ages/reports/gds.phtml, line: 34
 # File: module/ages/view/ages/reports/newagents.phtml, line: 24
 # File: module/ages/view/ages/reports/hotels.phtml, line: 36
 # File: module/ages/view/ages/reports/tours.phtml, line: 33
@@ -18075,7 +18074,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/newcustomers.phtml, line: 220
 # File: module/ages/view/ages/reports/settlements.phtml, line: 89
 # File: module/ages/view/ages/reports/activities.phtml, line: 144
-# File: module/ages/view/ages/reports/gds.phtml, line: 144
+# File: module/ages/view/ages/reports/gds.phtml, line: 145
 # File: module/ages/view/ages/reports/newagents.phtml, line: 220
 # File: module/ages/view/ages/reports/businessunits.phtml, line: 275
 # File: module/ages/view/ages/reports/hotels.phtml, line: 400
@@ -19058,26 +19057,29 @@ msgstr ""
 msgid "Activities Report"
 msgstr ""
 #
-# File: module/ages/view/ages/reports/gds.phtml, line: 22
-# File: module/ages/view/ages/reports/gds.phtml, line: 40
-# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 171
-# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 175
-msgid "GDS"
+# File: module/ages/view/ages/reports/gds.phtml, line: 25
+msgid "Others"
 msgstr ""
 #
-# File: module/ages/view/ages/reports/gds.phtml, line: 29
+# File: module/ages/view/ages/reports/gds.phtml, line: 30
 # File: module/ages/view/ages/dynamic-packaging/offlinebooking.phtml, line: 19
 msgid "Travel Date from"
 msgstr ""
 #
-# File: module/ages/view/ages/reports/gds.phtml, line: 30
+# File: module/ages/view/ages/reports/gds.phtml, line: 31
 # File: module/ages/view/ages/dynamic-packaging/offlinebooking.phtml, line: 20
 msgid "Travel Date to"
 msgstr ""
 #
-# File: module/ages/view/ages/reports/gds.phtml, line: 40
-# File: module/ages/view/ages/reports/gds.phtml, line: 44
+# File: module/ages/view/ages/reports/gds.phtml, line: 41
+# File: module/ages/view/ages/reports/gds.phtml, line: 45
 msgid "GDS Report"
+msgstr ""
+#
+# File: module/ages/view/ages/reports/gds.phtml, line: 41
+# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 171
+# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 175
+msgid "GDS"
 msgstr ""
 #
 # File: module/ages/view/ages/reports/newagents.phtml, line: 21
