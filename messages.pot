@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-23 15:09-0500\n"
+"POT-Creation-Date: 2020-11-23 15:20-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2335,8 +2335,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1587
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2109
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2147
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3825
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3830
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3832
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3837
 # File: module/ages/view/ages/customers/travellingtomorrow.phtml, line: 53
 # File: module/ages/view/ages/customers/travelling.phtml, line: 53
 # File: module/manager/view/rooms/add.phtml, line: 25
@@ -4889,6 +4889,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 232
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 567
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 673
+# File: module/ages/src/Controller/Templates/settlement.phtml, line: 160
 # File: module/ages/view/ages/newsletter/sendtoagent.phtml, line: 130
 # File: module/ages/view/ages/newsletter/sendcitypair.phtml, line: 225
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 455
@@ -5329,15 +5330,6 @@ msgstr ""
 msgid "Supplier"
 msgstr ""
 #
-# File: module/ages/src/Controller/Templates/settlement.phtml, line: 160
-# File: module/ages/view/ages/activities/searchreservations.phtml, line: 27
-# File: module/ages/view/ages/packages/searchreservations.phtml, line: 27
-# File: module/ages/view/ages/packages/reservations.phtml, line: 13
-# File: module/ages/view/ages/packages/listreservations.phtml, line: 13
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1165
-msgid "Confirmation Number"
-msgstr ""
-#
 # File: module/ages/src/Controller/Templates/settlement.phtml, line: 162
 # File: module/ages/view/ages/tours/itinerary.phtml, line: 5
 # File: module/ages/view/ages/tours/itinerary.phtml, line: 17
@@ -5360,12 +5352,56 @@ msgid "Itinerary"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/settlement.phtml, line: 163
-# File: module/ages/view/ages/dynamic-packaging/offlinebooking.phtml, line: 11
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1168
-# File: module/manager/view/contracts/editspecialoffers.phtml, line: 71
-# File: module/manager/view/contracts/addspecialoffers.phtml, line: 74
-# File: module/manager/view/contracts/specialoffers.phtml, line: 22
-msgid "Booking Date"
+# File: module/ages/view/ages/affiliates/commissions.phtml, line: 13
+# File: module/ages/view/ages/activities/reservations.phtml, line: 13
+# File: module/ages/view/ages/activities/listreservations.phtml, line: 13
+# File: module/ages/view/ages/tours/searchreservations.phtml, line: 32
+# File: module/ages/view/ages/tours/reservations.phtml, line: 16
+# File: module/ages/view/ages/tours/listreservations.phtml, line: 16
+# File: module/ages/view/ages/cms/featuredcruises_edit.phtml, line: 25
+# File: module/ages/view/ages/cms/recommendedhotels.phtml, line: 13
+# File: module/ages/view/ages/cms/featuredcruises_add.phtml, line: 25
+# File: module/ages/view/ages/cms/featuredcruises.phtml, line: 18
+# File: module/ages/view/ages/gift-cards/pointstransactions.phtml, line: 12
+# File: module/ages/view/ages/gift-cards/report.phtml, line: 22
+# File: module/ages/view/ages/cruises/listreservations.phtml, line: 13
+# File: module/ages/view/ages/reports/supervisorsales.phtml, line: 18
+# File: module/ages/view/ages/reports/invoices.phtml, line: 13
+# File: module/ages/view/ages/reports/b2bwallet.phtml, line: 30
+# File: module/ages/view/ages/reports/hotelssales.phtml, line: 56
+# File: module/ages/view/ages/reports/companies.phtml, line: 41
+# File: module/ages/view/ages/air/searchreservations.phtml, line: 38
+# File: module/ages/view/ages/air/reservations.phtml, line: 12
+# File: module/ages/view/ages/air/listreservations.phtml, line: 12
+# File: module/ages/view/ages/packages/searchreservations.phtml, line: 26
+# File: module/ages/view/ages/packages/reservations.phtml, line: 12
+# File: module/ages/view/ages/packages/listreservations.phtml, line: 12
+# File: module/ages/view/ages/sub-agents/edit_telemarketing.phtml, line: 10
+# File: module/ages/view/ages/hotels/searchreservations.phtml, line: 31
+# File: module/ages/view/ages/hotels/reservations.phtml, line: 13
+# File: module/ages/view/ages/hotels/listreservations.phtml, line: 13
+# File: module/ages/view/ages/newsletter/searchbroadcasts.phtml, line: 25
+# File: module/ages/view/ages/newsletter/globalstats.phtml, line: 116
+# File: module/ages/view/ages/newsletter/spam.phtml, line: 14
+# File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 10
+# File: module/ages/view/ages/dynamic-packaging/add_activity.phtml, line: 18
+# File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 27
+# File: module/ages/view/ages/dynamic-packaging/add_hotel.phtml, line: 19
+# File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 10
+# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 13
+# File: module/ages/view/ages/dynamic-packaging/add_transfers.phtml, line: 19
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3141
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3589
+# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 13
+# File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 17
+# File: module/ages/view/ages/agents/edit_telemarketing.phtml, line: 10
+# File: module/ages/view/ages/agents/transactions.phtml, line: 35
+# File: module/ages/view/ages/customers/editstatistics.phtml, line: 10
+# File: module/ages/view/ages/customers/supervisereport.phtml, line: 33
+# File: module/ages/view/ages/customers/editstatisticsair.phtml, line: 10
+# File: module/ages/view/ages/transfers/index.phtml, line: 15
+# File: module/ages/view/ages/transfers/listreservations.phtml, line: 14
+msgid "Date"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/settlement.phtml, line: 165
@@ -12272,58 +12308,6 @@ msgstr ""
 msgid "Id"
 msgstr ""
 #
-# File: module/ages/view/ages/affiliates/commissions.phtml, line: 13
-# File: module/ages/view/ages/activities/reservations.phtml, line: 13
-# File: module/ages/view/ages/activities/listreservations.phtml, line: 13
-# File: module/ages/view/ages/tours/searchreservations.phtml, line: 32
-# File: module/ages/view/ages/tours/reservations.phtml, line: 16
-# File: module/ages/view/ages/tours/listreservations.phtml, line: 16
-# File: module/ages/view/ages/cms/featuredcruises_edit.phtml, line: 25
-# File: module/ages/view/ages/cms/recommendedhotels.phtml, line: 13
-# File: module/ages/view/ages/cms/featuredcruises_add.phtml, line: 25
-# File: module/ages/view/ages/cms/featuredcruises.phtml, line: 18
-# File: module/ages/view/ages/gift-cards/pointstransactions.phtml, line: 12
-# File: module/ages/view/ages/gift-cards/report.phtml, line: 22
-# File: module/ages/view/ages/cruises/listreservations.phtml, line: 13
-# File: module/ages/view/ages/reports/supervisorsales.phtml, line: 18
-# File: module/ages/view/ages/reports/invoices.phtml, line: 13
-# File: module/ages/view/ages/reports/b2bwallet.phtml, line: 30
-# File: module/ages/view/ages/reports/hotelssales.phtml, line: 56
-# File: module/ages/view/ages/reports/companies.phtml, line: 41
-# File: module/ages/view/ages/air/searchreservations.phtml, line: 38
-# File: module/ages/view/ages/air/reservations.phtml, line: 12
-# File: module/ages/view/ages/air/listreservations.phtml, line: 12
-# File: module/ages/view/ages/packages/searchreservations.phtml, line: 26
-# File: module/ages/view/ages/packages/reservations.phtml, line: 12
-# File: module/ages/view/ages/packages/listreservations.phtml, line: 12
-# File: module/ages/view/ages/sub-agents/edit_telemarketing.phtml, line: 10
-# File: module/ages/view/ages/hotels/searchreservations.phtml, line: 31
-# File: module/ages/view/ages/hotels/reservations.phtml, line: 13
-# File: module/ages/view/ages/hotels/listreservations.phtml, line: 13
-# File: module/ages/view/ages/newsletter/searchbroadcasts.phtml, line: 25
-# File: module/ages/view/ages/newsletter/globalstats.phtml, line: 116
-# File: module/ages/view/ages/newsletter/spam.phtml, line: 14
-# File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 10
-# File: module/ages/view/ages/dynamic-packaging/add_activity.phtml, line: 18
-# File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 27
-# File: module/ages/view/ages/dynamic-packaging/add_hotel.phtml, line: 19
-# File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 10
-# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 13
-# File: module/ages/view/ages/dynamic-packaging/add_transfers.phtml, line: 19
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3141
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3589
-# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 13
-# File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 17
-# File: module/ages/view/ages/agents/edit_telemarketing.phtml, line: 10
-# File: module/ages/view/ages/agents/transactions.phtml, line: 35
-# File: module/ages/view/ages/customers/editstatistics.phtml, line: 10
-# File: module/ages/view/ages/customers/supervisereport.phtml, line: 33
-# File: module/ages/view/ages/customers/editstatisticsair.phtml, line: 10
-# File: module/ages/view/ages/transfers/index.phtml, line: 15
-# File: module/ages/view/ages/transfers/listreservations.phtml, line: 14
-msgid "Date"
-msgstr ""
-#
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 17
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 17
 # File: module/ages/view/ages/activities/prices.phtml, line: 18
@@ -14518,6 +14502,14 @@ msgstr ""
 # File: module/ages/view/ages/customers/questions_addquestion.phtml, line: 17
 # File: module/setup/view/intelligence/lowestpublishdfares.phtml, line: 12
 msgid "Date/Time Created"
+msgstr ""
+#
+# File: module/ages/view/ages/activities/searchreservations.phtml, line: 27
+# File: module/ages/view/ages/packages/searchreservations.phtml, line: 27
+# File: module/ages/view/ages/packages/reservations.phtml, line: 13
+# File: module/ages/view/ages/packages/listreservations.phtml, line: 13
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1165
+msgid "Confirmation Number"
 msgstr ""
 #
 # File: module/ages/view/ages/activities/searchreservations.phtml, line: 28
@@ -18637,7 +18629,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3701
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3735
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3796
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3825
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3832
 # File: module/ages/view/ages/agents/edit_featured_specialist.phtml, line: 70
 # File: module/ages/view/ages/agents/supervise.phtml, line: 88
 # File: module/ages/view/ages/agents/edit.phtml, line: 1516
@@ -23246,6 +23238,14 @@ msgstr ""
 msgid "Create Booking"
 msgstr ""
 #
+# File: module/ages/view/ages/dynamic-packaging/offlinebooking.phtml, line: 11
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1168
+# File: module/manager/view/contracts/editspecialoffers.phtml, line: 71
+# File: module/manager/view/contracts/addspecialoffers.phtml, line: 74
+# File: module/manager/view/contracts/specialoffers.phtml, line: 22
+msgid "Booking Date"
+msgstr ""
+#
 # File: module/ages/view/ages/dynamic-packaging/offlinebooking.phtml, line: 12
 msgid "Reservation status"
 msgstr ""
@@ -24487,11 +24487,11 @@ msgstr ""
 msgid "Upload"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3823
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3830
 msgid "View Credit Card Number"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3824
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3831
 msgid "Why do you want to see the credit card number?"
 msgstr ""
 #
