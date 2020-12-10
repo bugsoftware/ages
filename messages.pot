@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-09 15:40-0500\n"
+"POT-Creation-Date: 2020-12-10 05:08-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -62,6 +62,8 @@ msgstr ""
 # File: module/ages/src/Controller/Users.php, line: 4760
 # File: module/ages/src/Controller/Users.php, line: 5156
 # File: module/ages/src/Controller/Users.php, line: 5374
+# File: module/ages/src/Controller/Air.php, line: 1637
+# File: module/ages/src/Controller/Air.php, line: 1788
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 152
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 289
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 610
@@ -328,8 +330,8 @@ msgstr ""
 # File: module/ages/src/Controller/Air.php, line: 647
 # File: module/ages/src/Controller/Air.php, line: 789
 # File: module/ages/src/Controller/Air.php, line: 1015
-# File: module/ages/src/Controller/Air.php, line: 2428
-# File: module/ages/src/Controller/Air.php, line: 2515
+# File: module/ages/src/Controller/Air.php, line: 2482
+# File: module/ages/src/Controller/Air.php, line: 2569
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 162
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 299
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 7545
@@ -1604,9 +1606,9 @@ msgstr ""
 # File: module/ages/src/Controller/Air.php, line: 1018
 # File: module/ages/src/Controller/Air.php, line: 1253
 # File: module/ages/src/Controller/Air.php, line: 1356
-# File: module/ages/src/Controller/Air.php, line: 3146
-# File: module/ages/src/Controller/Air.php, line: 3151
-# File: module/ages/src/Controller/Air.php, line: 3156
+# File: module/ages/src/Controller/Air.php, line: 3200
+# File: module/ages/src/Controller/Air.php, line: 3205
+# File: module/ages/src/Controller/Air.php, line: 3210
 # File: module/ages/src/Controller/Transfers.php, line: 1158
 # File: module/ages/src/Controller/Transfers.php, line: 1599
 # File: module/ages/src/Controller/Tours.php, line: 1089
@@ -1854,12 +1856,12 @@ msgstr ""
 # File: module/ages/src/Controller/Air.php, line: 314
 # File: module/ages/src/Controller/Air.php, line: 1236
 # File: module/ages/src/Controller/Air.php, line: 1339
-# File: module/ages/src/Controller/Air.php, line: 1611
-# File: module/ages/src/Controller/Air.php, line: 1735
-# File: module/ages/src/Controller/Air.php, line: 2302
-# File: module/ages/src/Controller/Air.php, line: 2417
-# File: module/ages/src/Controller/Air.php, line: 2468
-# File: module/ages/src/Controller/Air.php, line: 2504
+# File: module/ages/src/Controller/Air.php, line: 1613
+# File: module/ages/src/Controller/Air.php, line: 1764
+# File: module/ages/src/Controller/Air.php, line: 2356
+# File: module/ages/src/Controller/Air.php, line: 2471
+# File: module/ages/src/Controller/Air.php, line: 2522
+# File: module/ages/src/Controller/Air.php, line: 2558
 # File: module/ages/src/Controller/GiftCards.php, line: 1464
 # File: module/ages/src/Controller/GiftCards.php, line: 1972
 # File: module/setup/src/Controller/toxicairlines.php, line: 129
@@ -1952,20 +1954,20 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Air.php, line: 398
 # File: module/ages/src/Controller/Air.php, line: 1399
-# File: module/ages/src/Controller/Air.php, line: 2192
-# File: module/ages/src/Controller/Air.php, line: 2553
+# File: module/ages/src/Controller/Air.php, line: 2246
+# File: module/ages/src/Controller/Air.php, line: 2607
 # File: module/setup/src/Controller/toxicairlines.php, line: 426
 # File: module/setup/src/Controller/featuredairlines.php, line: 344
 msgid "Not Available"
 msgstr ""
 #
-# File: module/ages/src/Controller/Air.php, line: 1635
-# File: module/ages/src/Controller/Air.php, line: 1759
+# File: module/ages/src/Controller/Air.php, line: 1661
+# File: module/ages/src/Controller/Air.php, line: 1812
 msgid "All Aircrafts"
 msgstr ""
 #
-# File: module/ages/src/Controller/Air.php, line: 1964
-# File: module/ages/src/Controller/Air.php, line: 2121
+# File: module/ages/src/Controller/Air.php, line: 2018
+# File: module/ages/src/Controller/Air.php, line: 2175
 msgid "All Charters"
 msgstr ""
 #
@@ -7435,8 +7437,8 @@ msgstr ""
 # File: module/ages/view/ages/companies/businessunits_edit.phtml, line: 57
 # File: module/ages/view/ages/companies/locations_add.phtml, line: 138
 # File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 99
-# File: module/ages/view/ages/air/charters_add.phtml, line: 67
-# File: module/ages/view/ages/air/charters_edit.phtml, line: 74
+# File: module/ages/view/ages/air/charters_add.phtml, line: 68
+# File: module/ages/view/ages/air/charters_edit.phtml, line: 78
 # File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 95
 # File: module/ages/view/ages/packages/type_add.phtml, line: 85
 # File: module/ages/view/ages/newsletter/flyers_edit.phtml, line: 97
@@ -7502,6 +7504,9 @@ msgstr ""
 # File: module/ages/view/ages/reports/newcustomers.phtml, line: 53
 # File: module/ages/view/ages/reports/supervisoragents.phtml, line: 25
 # File: module/ages/view/ages/reports/newagents.phtml, line: 53
+# File: module/ages/view/ages/air/charters_add.phtml, line: 19
+# File: module/ages/view/ages/air/charters_edit.phtml, line: 19
+# File: module/ages/view/ages/air/charters_edit.phtml, line: 20
 # File: module/ages/view/ages/air/searchreservations.phtml, line: 37
 # File: module/ages/view/ages/air/reservations.phtml, line: 16
 # File: module/ages/view/ages/air/index.phtml, line: 15
@@ -8358,10 +8363,10 @@ msgstr ""
 # File: module/ages/view/ages/companies/edit.phtml, line: 11
 # File: module/ages/view/ages/companies/report.phtml, line: 27
 # File: module/ages/view/ages/companies/index.phtml, line: 17
-# File: module/ages/view/ages/air/charters_add.phtml, line: 28
+# File: module/ages/view/ages/air/charters_add.phtml, line: 29
 # File: module/ages/view/ages/air/charters.phtml, line: 15
-# File: module/ages/view/ages/air/charters_edit.phtml, line: 35
-# File: module/ages/view/ages/air/charters_edit.phtml, line: 37
+# File: module/ages/view/ages/air/charters_edit.phtml, line: 39
+# File: module/ages/view/ages/air/charters_edit.phtml, line: 41
 # File: module/ages/view/ages/packages/add_itinerary.phtml, line: 11
 # File: module/ages/view/ages/packages/edit_images.phtml, line: 9
 # File: module/ages/view/ages/packages/edit_itinerary.phtml, line: 11
@@ -16472,7 +16477,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/businessunits.phtml, line: 114
 # File: module/ages/view/ages/air/edit_markups.phtml, line: 28
 # File: module/ages/view/ages/air/edit_markups.phtml, line: 29
-# File: module/ages/view/ages/air/charters_add.phtml, line: 19
+# File: module/ages/view/ages/air/charters_add.phtml, line: 20
 # File: module/ages/view/ages/air/markups.phtml, line: 18
 # File: module/ages/view/ages/air/edit_pcc.phtml, line: 90
 # File: module/ages/view/ages/air/add_markups.phtml, line: 28
@@ -17274,8 +17279,8 @@ msgstr ""
 #
 # File: module/ages/view/ages/gift-cards/add.phtml, line: 56
 # File: module/ages/view/ages/reports/airlines.phtml, line: 89
-# File: module/ages/view/ages/air/charters_edit.phtml, line: 19
-# File: module/ages/view/ages/air/charters_edit.phtml, line: 20
+# File: module/ages/view/ages/air/charters_edit.phtml, line: 23
+# File: module/ages/view/ages/air/charters_edit.phtml, line: 24
 # File: module/ages/view/ages/air/priorities.phtml, line: 14
 # File: module/setup/view/air/airlines.phtml, line: 5
 # File: module/setup/view/air/airlines.phtml, line: 58
@@ -19885,7 +19890,7 @@ msgid "Please enter airline"
 msgstr ""
 #
 # File: module/ages/view/ages/air/charters_add.phtml, line: 5
-# File: module/ages/view/ages/air/charters_add.phtml, line: 35
+# File: module/ages/view/ages/air/charters_add.phtml, line: 36
 # File: module/ages/view/ages/air/charters.phtml, line: 81
 msgid "Add New Charter"
 msgstr ""
@@ -19912,14 +19917,14 @@ msgstr ""
 msgid "Airport Destination"
 msgstr ""
 #
-# File: module/ages/view/ages/air/charters_add.phtml, line: 20
-# File: module/ages/view/ages/air/charters_edit.phtml, line: 23
-# File: module/ages/view/ages/air/charters_edit.phtml, line: 24
+# File: module/ages/view/ages/air/charters_add.phtml, line: 21
+# File: module/ages/view/ages/air/charters_edit.phtml, line: 27
+# File: module/ages/view/ages/air/charters_edit.phtml, line: 28
 msgid "Airplanes"
 msgstr ""
 #
-# File: module/ages/view/ages/air/charters_add.phtml, line: 21
-# File: module/ages/view/ages/air/charters_edit.phtml, line: 28
+# File: module/ages/view/ages/air/charters_add.phtml, line: 22
+# File: module/ages/view/ages/air/charters_edit.phtml, line: 32
 msgid "Featured"
 msgstr ""
 #
@@ -20085,7 +20090,7 @@ msgstr ""
 msgid "Edit Charter"
 msgstr ""
 #
-# File: module/ages/view/ages/air/charters_edit.phtml, line: 43
+# File: module/ages/view/ages/air/charters_edit.phtml, line: 47
 msgid "Update Charter"
 msgstr ""
 #
