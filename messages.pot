@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 16:02-0500\n"
+"POT-Creation-Date: 2020-12-17 16:24-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -180,9 +180,9 @@ msgstr ""
 # File: module/ages/src/Controller/GiftCards.php, line: 1041
 # File: module/ages/src/Controller/Payments.php, line: 51
 # File: module/ages/src/Controller/Payments.php, line: 82
-# File: module/ages/src/Controller/Cruises.php, line: 1131
-# File: module/ages/src/Controller/Cruises.php, line: 1309
-# File: module/ages/src/Controller/Cruises.php, line: 1534
+# File: module/ages/src/Controller/Cruises.php, line: 1095
+# File: module/ages/src/Controller/Cruises.php, line: 1273
+# File: module/ages/src/Controller/Cruises.php, line: 1498
 # File: module/ages/src/Controller/Customers.php, line: 4927
 # File: module/ages/src/Controller/Customers.php, line: 4928
 # File: module/ages/src/Controller/Customers.php, line: 4929
@@ -378,15 +378,15 @@ msgstr ""
 # File: module/ages/src/Controller/Payments.php, line: 62
 # File: module/ages/src/Controller/Payments.php, line: 93
 # File: module/ages/src/Controller/Cruises.php, line: 101
-# File: module/ages/src/Controller/Cruises.php, line: 1114
-# File: module/ages/src/Controller/Cruises.php, line: 1128
-# File: module/ages/src/Controller/Cruises.php, line: 1142
-# File: module/ages/src/Controller/Cruises.php, line: 1291
-# File: module/ages/src/Controller/Cruises.php, line: 1306
-# File: module/ages/src/Controller/Cruises.php, line: 1321
-# File: module/ages/src/Controller/Cruises.php, line: 1514
-# File: module/ages/src/Controller/Cruises.php, line: 1531
-# File: module/ages/src/Controller/Cruises.php, line: 1546
+# File: module/ages/src/Controller/Cruises.php, line: 1078
+# File: module/ages/src/Controller/Cruises.php, line: 1092
+# File: module/ages/src/Controller/Cruises.php, line: 1106
+# File: module/ages/src/Controller/Cruises.php, line: 1255
+# File: module/ages/src/Controller/Cruises.php, line: 1270
+# File: module/ages/src/Controller/Cruises.php, line: 1285
+# File: module/ages/src/Controller/Cruises.php, line: 1478
+# File: module/ages/src/Controller/Cruises.php, line: 1495
+# File: module/ages/src/Controller/Cruises.php, line: 1510
 # File: module/ages/src/Controller/Newsletter.php, line: 1540
 # File: module/ages/src/Controller/Customers.php, line: 205
 # File: module/ages/src/Controller/Customers.php, line: 1856
@@ -1517,7 +1517,7 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredcruises.phtml, line: 62
 # File: module/ages/view/ages/gift-cards/earningsettings.phtml, line: 53
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 68
-# File: module/ages/view/ages/cruises/cabins.phtml, line: 59
+# File: module/ages/view/ages/cruises/cabins.phtml, line: 51
 # File: module/ages/view/ages/cruises/images.phtml, line: 135
 # File: module/ages/view/ages/cruises/ships.phtml, line: 69
 # File: module/ages/view/ages/index/index.phtml, line: 327
@@ -1645,9 +1645,9 @@ msgstr ""
 # File: module/ages/src/Controller/GiftCards.php, line: 1393
 # File: module/ages/src/Controller/GiftCards.php, line: 2000
 # File: module/ages/src/Controller/Cruises.php, line: 90
-# File: module/ages/src/Controller/Cruises.php, line: 1145
-# File: module/ages/src/Controller/Cruises.php, line: 1324
-# File: module/ages/src/Controller/Cruises.php, line: 1549
+# File: module/ages/src/Controller/Cruises.php, line: 1109
+# File: module/ages/src/Controller/Cruises.php, line: 1288
+# File: module/ages/src/Controller/Cruises.php, line: 1513
 # File: module/ages/src/Controller/Activities.php, line: 92
 # File: module/ages/src/Controller/Activities.php, line: 435
 # File: module/ages/src/Controller/Hotels.php, line: 522
@@ -2385,9 +2385,9 @@ msgstr ""
 # File: module/ages/src/Controller/Cars.php, line: 171
 # File: module/ages/src/Controller/Cars.php, line: 329
 # File: module/ages/src/Controller/Cars.php, line: 529
-# File: module/ages/src/Controller/Cruises.php, line: 1117
-# File: module/ages/src/Controller/Cruises.php, line: 1294
-# File: module/ages/src/Controller/Cruises.php, line: 1517
+# File: module/ages/src/Controller/Cruises.php, line: 1081
+# File: module/ages/src/Controller/Cruises.php, line: 1258
+# File: module/ages/src/Controller/Cruises.php, line: 1481
 # File: module/ages/src/Controller/Activities.php, line: 1914
 # File: module/ages/src/Controller/Activities.php, line: 2723
 # File: module/ages/src/Controller/Activities.php, line: 2948
@@ -2867,8 +2867,8 @@ msgstr ""
 # File: module/ages/view/ages/gift-cards/earningsettings.phtml, line: 55
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 68
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 70
-# File: module/ages/view/ages/cruises/cabins.phtml, line: 59
-# File: module/ages/view/ages/cruises/cabins.phtml, line: 61
+# File: module/ages/view/ages/cruises/cabins.phtml, line: 51
+# File: module/ages/view/ages/cruises/cabins.phtml, line: 53
 # File: module/ages/view/ages/cruises/images.phtml, line: 135
 # File: module/ages/view/ages/cruises/images.phtml, line: 137
 # File: module/ages/view/ages/cruises/ships.phtml, line: 69
@@ -4441,7 +4441,6 @@ msgid "Cruise info"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation.phtml, line: 258
-# File: module/ages/view/ages/cruises/cabins.phtml, line: 18
 # File: module/ages/view/ages/cruises/add_cabins.phtml, line: 19
 # File: module/ages/view/ages/cruises/add_ships.phtml, line: 13
 # File: module/ages/view/ages/cruises/ships.phtml, line: 17
@@ -7744,7 +7743,7 @@ msgstr ""
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 30
 # File: module/ages/view/ages/gift-cards/search.phtml, line: 39
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 31
-# File: module/ages/view/ages/cruises/cabins.phtml, line: 20
+# File: module/ages/view/ages/cruises/cabins.phtml, line: 16
 # File: module/ages/view/ages/cruises/images.phtml, line: 20
 # File: module/ages/view/ages/cruises/searchreservations.phtml, line: 31
 # File: module/ages/view/ages/cruises/ships.phtml, line: 20
@@ -7946,7 +7945,7 @@ msgstr ""
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 45
 # File: module/ages/view/ages/gift-cards/search.phtml, line: 53
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 45
-# File: module/ages/view/ages/cruises/cabins.phtml, line: 35
+# File: module/ages/view/ages/cruises/cabins.phtml, line: 27
 # File: module/ages/view/ages/cruises/searchreservations.phtml, line: 44
 # File: module/ages/view/ages/cruises/ships.phtml, line: 45
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 44
@@ -8142,8 +8141,8 @@ msgstr ""
 # File: module/ages/view/ages/gift-cards/earningsettings.phtml, line: 51
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 47
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 66
-# File: module/ages/view/ages/cruises/cabins.phtml, line: 37
-# File: module/ages/view/ages/cruises/cabins.phtml, line: 57
+# File: module/ages/view/ages/cruises/cabins.phtml, line: 29
+# File: module/ages/view/ages/cruises/cabins.phtml, line: 49
 # File: module/ages/view/ages/cruises/images.phtml, line: 35
 # File: module/ages/view/ages/cruises/images.phtml, line: 133
 # File: module/ages/view/ages/cruises/ships.phtml, line: 47
@@ -8360,7 +8359,7 @@ msgstr ""
 # File: module/ages/view/ages/gift-cards/pointstransactions.phtml, line: 70
 # File: module/ages/view/ages/gift-cards/earningsettings.phtml, line: 99
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 115
-# File: module/ages/view/ages/cruises/cabins.phtml, line: 105
+# File: module/ages/view/ages/cruises/cabins.phtml, line: 97
 # File: module/ages/view/ages/cruises/ships.phtml, line: 115
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 93
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 113
@@ -8496,6 +8495,7 @@ msgstr ""
 # File: module/ages/view/ages/gift-cards/search.phtml, line: 12
 # File: module/ages/view/ages/gift-cards/search.phtml, line: 32
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 24
+# File: module/ages/view/ages/cruises/cabins.phtml, line: 15
 # File: module/ages/view/ages/cruises/add_cabins.phtml, line: 24
 # File: module/ages/view/ages/cruises/add_cabins.phtml, line: 26
 # File: module/ages/view/ages/cruises/images.phtml, line: 18
@@ -10342,7 +10342,6 @@ msgstr ""
 # File: module/ages/view/ages/activities/add.phtml, line: 12
 # File: module/ages/view/ages/activities/edit.phtml, line: 12
 # File: module/ages/view/ages/activities/index.phtml, line: 25
-# File: module/ages/view/ages/cruises/cabins.phtml, line: 14
 # File: module/ages/view/ages/cruises/add_cabins.phtml, line: 12
 # File: module/ages/view/ages/cruises/edit_cabins.phtml, line: 12
 # File: module/ages/view/ages/transfers/categories.phtml, line: 13
@@ -14943,7 +14942,6 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredcruises_edit.phtml, line: 26
 # File: module/ages/view/ages/cms/featuredcruises_add.phtml, line: 26
 # File: module/ages/view/ages/cms/featuredcruises.phtml, line: 20
-# File: module/ages/view/ages/cruises/cabins.phtml, line: 19
 # File: module/ages/view/ages/cruises/add_cabins.phtml, line: 18
 # File: module/ages/view/ages/cruises/edit_cabins.phtml, line: 18
 # File: module/ages/view/ages/reports/airlines.phtml, line: 580
@@ -16512,6 +16510,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/cms/featuredcruises_edit.phtml, line: 12
 # File: module/ages/view/ages/cms/featuredcruises_add.phtml, line: 12
+# File: module/ages/view/ages/cruises/cabins.phtml, line: 14
 # File: module/ages/view/ages/cruises/images.phtml, line: 9
 # File: module/ages/view/ages/cruises/images.phtml, line: 17
 # File: module/ages/view/ages/cruises/images_add.phtml, line: 11
@@ -17631,9 +17630,9 @@ msgid "Add New Earning Setting"
 msgstr ""
 #
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 5
-# File: module/ages/view/ages/cruises/cabins.phtml, line: 99
-# File: module/ages/view/ages/cruises/cabins.phtml, line: 100
-# File: module/ages/view/ages/cruises/cabins.phtml, line: 105
+# File: module/ages/view/ages/cruises/cabins.phtml, line: 91
+# File: module/ages/view/ages/cruises/cabins.phtml, line: 92
+# File: module/ages/view/ages/cruises/cabins.phtml, line: 97
 # File: module/ages/view/ages/cruises/add_ships.phtml, line: 24
 # File: module/ages/view/ages/cruises/add_ships.phtml, line: 26
 # File: module/ages/view/ages/cruises/edit_ships.phtml, line: 25
@@ -17642,16 +17641,57 @@ msgid "Cabins"
 msgstr ""
 #
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 12
-msgid "Quote"
+# File: module/ages/view/ages/cruises/reservations.phtml, line: 12
+# File: module/ages/view/ages/cruises/listreservations.phtml, line: 12
+# File: module/ages/view/ages/air/toxicairlines.phtml, line: 12
+# File: module/ages/view/ages/air/private.phtml, line: 12
+# File: module/ages/view/ages/sub-agents/index.phtml, line: 27
+# File: module/ages/view/ages/newsletter/list.phtml, line: 12
+# File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 12
+# File: module/ages/view/ages/newsletter/spam.phtml, line: 12
+# File: module/setup/view/cruises/decks.phtml, line: 12
+# File: module/setup/view/cruises/amenities.phtml, line: 12
+# File: module/setup/view/air/toxicairlines.phtml, line: 12
+# File: module/setup/view/air/branches.phtml, line: 12
+# File: module/setup/view/air/featuredairlines.phtml, line: 12
+# File: module/setup/view/hotels/w2m.phtml, line: 15
+# File: module/setup/view/hotels/w2m.phtml, line: 16
+# File: module/setup/view/hotels/dhisco.phtml, line: 15
+# File: module/setup/view/hotels/dhisco.phtml, line: 16
+# File: module/setup/view/hotels/webbeds.phtml, line: 15
+# File: module/setup/view/hotels/webbeds.phtml, line: 16
+# File: module/setup/view/hotels/oasis.phtml, line: 15
+# File: module/setup/view/hotels/oasis.phtml, line: 16
+# File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 15
+# File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 16
+# File: module/setup/view/hotels/aio.phtml, line: 15
+# File: module/setup/view/hotels/aio.phtml, line: 16
+# File: module/setup/view/hotels/convencional.phtml, line: 13
+# File: module/setup/view/hotels/panamericana.phtml, line: 15
+# File: module/setup/view/hotels/panamericana.phtml, line: 16
+# File: module/setup/view/hotels/pricelinemer.phtml, line: 15
+# File: module/setup/view/hotels/pricelinemer.phtml, line: 16
+# File: module/setup/view/hotels/pricelinenet.phtml, line: 15
+# File: module/setup/view/hotels/pricelinenet.phtml, line: 16
+# File: module/setup/view/hotels/youtravel.phtml, line: 15
+# File: module/setup/view/hotels/youtravel.phtml, line: 16
+msgid "ID"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/cabins.phtml, line: 15
+# File: module/ages/view/ages/cruises/cabins.phtml, line: 50
+msgid "Are you sure you want to delete this cabin?"
+msgstr ""
+#
+# File: module/ages/view/ages/cruises/cabins.phtml, line: 81
+# File: module/ages/view/ages/cruises/add_cabins.phtml, line: 4
+msgid "Add New Cabin"
+msgstr ""
+#
 # File: module/ages/view/ages/cruises/add_cabins.phtml, line: 13
 # File: module/ages/view/ages/cruises/edit_cabins.phtml, line: 13
 msgid "Deck Name"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/cabins.phtml, line: 16
 # File: module/ages/view/ages/cruises/add_cabins.phtml, line: 14
 # File: module/ages/view/ages/cruises/edit_cabins.phtml, line: 14
 # File: module/setup/view/cruises/edit-publicareas.phtml, line: 18
@@ -17663,21 +17703,11 @@ msgstr ""
 msgid "Deck Number"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/cabins.phtml, line: 17
 # File: module/ages/view/ages/cruises/add_cabins.phtml, line: 17
 # File: module/ages/view/ages/cruises/edit_cabins.phtml, line: 17
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1104
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4683
 msgid "Cabin Number"
-msgstr ""
-#
-# File: module/ages/view/ages/cruises/cabins.phtml, line: 58
-msgid "Are you sure you want to delete this cabin?"
-msgstr ""
-#
-# File: module/ages/view/ages/cruises/cabins.phtml, line: 89
-# File: module/ages/view/ages/cruises/add_cabins.phtml, line: 4
-msgid "Add New Cabin"
 msgstr ""
 #
 # File: module/ages/view/ages/cruises/images.phtml, line: 48
@@ -17874,43 +17904,6 @@ msgstr ""
 #
 # File: module/ages/view/ages/cruises/edit_ships.phtml, line: 150
 msgid "Update Ship"
-msgstr ""
-#
-# File: module/ages/view/ages/cruises/reservations.phtml, line: 12
-# File: module/ages/view/ages/cruises/listreservations.phtml, line: 12
-# File: module/ages/view/ages/air/toxicairlines.phtml, line: 12
-# File: module/ages/view/ages/air/private.phtml, line: 12
-# File: module/ages/view/ages/sub-agents/index.phtml, line: 27
-# File: module/ages/view/ages/newsletter/list.phtml, line: 12
-# File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 12
-# File: module/ages/view/ages/newsletter/spam.phtml, line: 12
-# File: module/setup/view/cruises/decks.phtml, line: 12
-# File: module/setup/view/cruises/amenities.phtml, line: 12
-# File: module/setup/view/air/toxicairlines.phtml, line: 12
-# File: module/setup/view/air/branches.phtml, line: 12
-# File: module/setup/view/air/featuredairlines.phtml, line: 12
-# File: module/setup/view/hotels/w2m.phtml, line: 15
-# File: module/setup/view/hotels/w2m.phtml, line: 16
-# File: module/setup/view/hotels/dhisco.phtml, line: 15
-# File: module/setup/view/hotels/dhisco.phtml, line: 16
-# File: module/setup/view/hotels/webbeds.phtml, line: 15
-# File: module/setup/view/hotels/webbeds.phtml, line: 16
-# File: module/setup/view/hotels/oasis.phtml, line: 15
-# File: module/setup/view/hotels/oasis.phtml, line: 16
-# File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 15
-# File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 16
-# File: module/setup/view/hotels/aio.phtml, line: 15
-# File: module/setup/view/hotels/aio.phtml, line: 16
-# File: module/setup/view/hotels/convencional.phtml, line: 13
-# File: module/setup/view/hotels/panamericana.phtml, line: 15
-# File: module/setup/view/hotels/panamericana.phtml, line: 16
-# File: module/setup/view/hotels/pricelinemer.phtml, line: 15
-# File: module/setup/view/hotels/pricelinemer.phtml, line: 16
-# File: module/setup/view/hotels/pricelinenet.phtml, line: 15
-# File: module/setup/view/hotels/pricelinenet.phtml, line: 16
-# File: module/setup/view/hotels/youtravel.phtml, line: 15
-# File: module/setup/view/hotels/youtravel.phtml, line: 16
-msgid "ID"
 msgstr ""
 #
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 17
@@ -26097,7 +26090,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/customers/travellingtomorrow.phtml, line: 25
 # File: module/ages/view/ages/customers/travelling.phtml, line: 25
-msgid "Travelling"
+msgid "Traveling"
 msgstr ""
 #
 # File: module/ages/view/ages/customers/travellingtomorrow.phtml, line: 33
