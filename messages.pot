@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 04:46-0500\n"
+"POT-Creation-Date: 2020-12-17 05:26-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1432,27 +1432,27 @@ msgid "Please Select Charter"
 msgstr ""
 #
 # File: module/ages/src/Controller/LoginController.php, line: 109
-# File: module/manager/src/Controller/ManagerController.php, line: 519
+# File: module/manager/src/Controller/ManagerController.php, line: 520
 msgid "For security reasons the user account was locked."
 msgstr ""
 #
 # File: module/ages/src/Controller/LoginController.php, line: 112
-# File: module/manager/src/Controller/ManagerController.php, line: 522
+# File: module/manager/src/Controller/ManagerController.php, line: 523
 msgid "Account locked"
 msgstr ""
 #
 # File: module/ages/src/Controller/LoginController.php, line: 113
-# File: module/manager/src/Controller/ManagerController.php, line: 523
+# File: module/manager/src/Controller/ManagerController.php, line: 524
 msgid "from"
 msgstr ""
 #
 # File: module/ages/src/Controller/LoginController.php, line: 119
-# File: module/manager/src/Controller/ManagerController.php, line: 529
+# File: module/manager/src/Controller/ManagerController.php, line: 530
 msgid "Invalid login or password"
 msgstr ""
 #
 # File: module/ages/src/Controller/LoginController.php, line: 120
-# File: module/manager/src/Controller/ManagerController.php, line: 530
+# File: module/manager/src/Controller/ManagerController.php, line: 531
 msgid "You appear to have entered an invalid user name or password"
 msgstr ""
 #
@@ -2265,8 +2265,8 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 5855
 # File: module/ages/src/Controller/Activities.php, line: 1493
 # File: module/ages/src/Controller/Activities.php, line: 2203
-# File: module/ages/src/Controller/Companies.php, line: 2551
-# File: module/ages/src/Controller/Companies.php, line: 2656
+# File: module/ages/src/Controller/Companies.php, line: 2639
+# File: module/ages/src/Controller/Companies.php, line: 2744
 # File: module/ages/view/ages/companies/agents.phtml, line: 55
 # File: module/ages/view/ages/companies/report.phtml, line: 40
 # File: module/ages/view/ages/reports/supervisorsales.phtml, line: 42
@@ -2758,8 +2758,8 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 3329
 # File: module/ages/src/Controller/Tours.php, line: 3432
-# File: module/ages/src/Controller/Companies.php, line: 2547
-# File: module/ages/src/Controller/Companies.php, line: 2652
+# File: module/ages/src/Controller/Companies.php, line: 2635
+# File: module/ages/src/Controller/Companies.php, line: 2740
 # File: module/ages/view/ages/companies/agents.phtml, line: 55
 # File: module/ages/view/ages/companies/report.phtml, line: 40
 # File: module/setup/view/settings/geotargetmarkup.phtml, line: 33
@@ -3683,7 +3683,7 @@ msgid "Pending Payment"
 msgstr ""
 #
 # File: module/ages/src/Controller/Companies.php, line: 1382
-# File: module/ages/src/Controller/Companies.php, line: 2527
+# File: module/ages/src/Controller/Companies.php, line: 2615
 msgid "All Branches"
 msgstr ""
 #
@@ -7709,6 +7709,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 21
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 22
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 14
+# File: module/ages/view/ages/companies/suppliersaccounting.phtml, line: 13
 # File: module/ages/view/ages/companies/currencyexchange.phtml, line: 17
 # File: module/ages/view/ages/companies/locations.phtml, line: 21
 # File: module/ages/view/ages/companies/customertypes.phtml, line: 12
@@ -7908,6 +7909,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 44
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 61
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 24
+# File: module/ages/view/ages/companies/suppliersaccounting.phtml, line: 22
 # File: module/ages/view/ages/companies/currencyexchange.phtml, line: 30
 # File: module/ages/view/ages/companies/locations.phtml, line: 37
 # File: module/ages/view/ages/companies/customertypes.phtml, line: 20
@@ -8317,6 +8319,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 93
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 113
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 94
+# File: module/ages/view/ages/companies/suppliersaccounting.phtml, line: 64
 # File: module/ages/view/ages/companies/currencyexchange.phtml, line: 103
 # File: module/ages/view/ages/companies/locations.phtml, line: 79
 # File: module/ages/view/ages/companies/customertypes.phtml, line: 90
@@ -18318,6 +18321,29 @@ msgstr ""
 msgid "Add Currency"
 msgstr ""
 #
+# File: module/ages/view/ages/companies/suppliersaccounting.phtml, line: 5
+msgid "Suppliers Accounting"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/suppliersaccounting.phtml, line: 5
+# File: module/ages/view/ages/companies/suppliersaccounting.phtml, line: 58
+# File: module/ages/view/ages/companies/suppliersaccounting.phtml, line: 59
+# File: module/ages/view/ages/companies/suppliersaccounting.phtml, line: 64
+msgid "List Suppliers Accounting"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/suppliersaccounting.phtml, line: 11
+# File: module/ages/view/ages/companies/suppliersaccounting_edit.phtml, line: 11
+# File: module/setup/view/cruises/mundocruceros.phtml, line: 66
+# File: module/setup/view/cruises/mundocruceros.phtml, line: 67
+msgid "SID"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/suppliersaccounting.phtml, line: 12
+# File: module/ages/view/ages/companies/suppliersaccounting_edit.phtml, line: 12
+msgid "HID"
+msgstr ""
+#
 # File: module/ages/view/ages/companies/add.phtml, line: 5
 # File: module/ages/view/ages/companies/add.phtml, line: 76
 msgid "Add New Company"
@@ -18598,6 +18624,14 @@ msgstr ""
 #
 # File: module/ages/view/ages/companies/index.phtml, line: 54
 msgid "Are you sure you want to delete this company?"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/suppliersaccounting_edit.phtml, line: 5
+msgid "Edit Supplier Accounting"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/suppliersaccounting_edit.phtml, line: 20
+msgid "Update Suppliers Accounting"
 msgstr ""
 #
 # File: module/ages/view/ages/service-fees/geotargetmarkup.phtml, line: 5
@@ -33535,11 +33569,6 @@ msgstr ""
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 62
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 63
 msgid "Service URL - Book"
-msgstr ""
-#
-# File: module/setup/view/cruises/mundocruceros.phtml, line: 66
-# File: module/setup/view/cruises/mundocruceros.phtml, line: 67
-msgid "SID"
 msgstr ""
 #
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 70
