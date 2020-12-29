@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-28 10:54-0500\n"
+"POT-Creation-Date: 2020-12-29 06:56-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -89,8 +89,8 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 6042
 # File: module/ages/src/Controller/Hotels.php, line: 3884
 # File: module/ages/src/Controller/Hotels.php, line: 4440
-# File: module/ages/src/Controller/Companies.php, line: 1639
-# File: module/ages/src/Controller/Companies.php, line: 1770
+# File: module/ages/src/Controller/Companies.php, line: 1816
+# File: module/ages/src/Controller/Companies.php, line: 1947
 # File: module/ages/src/Controller/Affiliates.php, line: 2640
 # File: module/ages/src/Controller/Affiliates.php, line: 4357
 # File: module/ages/src/Controller/CMS.php, line: 691
@@ -245,6 +245,8 @@ msgstr ""
 # File: module/manager/src/Controller/Hotel.php, line: 190
 # File: module/manager/src/Controller/Rooms.php, line: 568
 # File: module/manager/src/Controller/AddRooms.php, line: 522
+# File: module/setup/src/Controller/citypairs.php, line: 72
+# File: module/setup/src/Controller/citypairs.php, line: 182
 msgid "Please select"
 msgstr ""
 #
@@ -420,7 +422,7 @@ msgstr ""
 # File: module/ages/src/Controller/Hotels.php, line: 2720
 # File: module/ages/src/Controller/Hotels.php, line: 2734
 # File: module/ages/src/Controller/Hotels.php, line: 2956
-# File: module/ages/src/Controller/Companies.php, line: 2403
+# File: module/ages/src/Controller/Companies.php, line: 2580
 # File: module/ages/src/Controller/ServiceFees.php, line: 296
 # File: module/ages/src/Controller/ServiceFees.php, line: 314
 # File: module/ages/src/Controller/ServiceFees.php, line: 332
@@ -1528,6 +1530,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/customertypes.phtml, line: 44
 # File: module/ages/view/ages/companies/businessunits.phtml, line: 55
 # File: module/ages/view/ages/companies/index.phtml, line: 55
+# File: module/ages/view/ages/companies/campaings.phtml, line: 44
 # File: module/ages/view/ages/service-fees/geotargetmarkup.phtml, line: 60
 # File: module/ages/view/ages/service-fees/list.phtml, line: 59
 # File: module/ages/view/ages/reports/b2bwallet.phtml, line: 98
@@ -1748,10 +1751,10 @@ msgstr ""
 # File: module/ages/src/Controller/Hotels.php, line: 1730
 # File: module/ages/src/Controller/Hotels.php, line: 3760
 # File: module/ages/src/Controller/Hotels.php, line: 4234
-# File: module/ages/src/Controller/Companies.php, line: 517
-# File: module/ages/src/Controller/Companies.php, line: 726
-# File: module/ages/src/Controller/Companies.php, line: 1401
-# File: module/ages/src/Controller/Companies.php, line: 1534
+# File: module/ages/src/Controller/Companies.php, line: 694
+# File: module/ages/src/Controller/Companies.php, line: 903
+# File: module/ages/src/Controller/Companies.php, line: 1578
+# File: module/ages/src/Controller/Companies.php, line: 1711
 # File: module/ages/src/Controller/ServiceFees.php, line: 457
 # File: module/ages/src/Controller/CMS.php, line: 374
 # File: module/ages/view/ages/users/specialists.phtml, line: 29
@@ -1829,10 +1832,10 @@ msgstr ""
 # File: module/ages/src/Controller/Hotels.php, line: 1734
 # File: module/ages/src/Controller/Hotels.php, line: 3764
 # File: module/ages/src/Controller/Hotels.php, line: 4238
-# File: module/ages/src/Controller/Companies.php, line: 521
-# File: module/ages/src/Controller/Companies.php, line: 730
-# File: module/ages/src/Controller/Companies.php, line: 1405
-# File: module/ages/src/Controller/Companies.php, line: 1538
+# File: module/ages/src/Controller/Companies.php, line: 698
+# File: module/ages/src/Controller/Companies.php, line: 907
+# File: module/ages/src/Controller/Companies.php, line: 1582
+# File: module/ages/src/Controller/Companies.php, line: 1715
 # File: module/ages/src/Controller/ServiceFees.php, line: 461
 # File: module/ages/src/Controller/CMS.php, line: 378
 # File: module/ages/view/ages/users/specialists.phtml, line: 29
@@ -2191,8 +2194,8 @@ msgstr ""
 # File: module/ages/src/Controller/Activities.php, line: 1740
 # File: module/ages/src/Controller/Activities.php, line: 2223
 # File: module/ages/src/Controller/Activities.php, line: 2455
-# File: module/ages/src/Controller/Companies.php, line: 538
-# File: module/ages/src/Controller/Companies.php, line: 743
+# File: module/ages/src/Controller/Companies.php, line: 715
+# File: module/ages/src/Controller/Companies.php, line: 920
 # File: module/ages/view/ages/companies/agents.phtml, line: 11
 # File: module/ages/view/ages/companies/report.phtml, line: 11
 # File: module/ages/view/ages/agents/zombie.phtml, line: 12
@@ -2309,8 +2312,8 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 5855
 # File: module/ages/src/Controller/Activities.php, line: 1493
 # File: module/ages/src/Controller/Activities.php, line: 2203
-# File: module/ages/src/Controller/Companies.php, line: 2706
-# File: module/ages/src/Controller/Companies.php, line: 2811
+# File: module/ages/src/Controller/Companies.php, line: 2883
+# File: module/ages/src/Controller/Companies.php, line: 2988
 # File: module/ages/view/ages/companies/agents.phtml, line: 55
 # File: module/ages/view/ages/companies/report.phtml, line: 40
 # File: module/ages/view/ages/reports/supervisorsales.phtml, line: 42
@@ -2806,8 +2809,8 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 3329
 # File: module/ages/src/Controller/Tours.php, line: 3432
-# File: module/ages/src/Controller/Companies.php, line: 2702
-# File: module/ages/src/Controller/Companies.php, line: 2807
+# File: module/ages/src/Controller/Companies.php, line: 2879
+# File: module/ages/src/Controller/Companies.php, line: 2984
 # File: module/ages/view/ages/companies/agents.phtml, line: 55
 # File: module/ages/view/ages/companies/report.phtml, line: 40
 # File: module/setup/view/settings/geotargetmarkup.phtml, line: 33
@@ -2923,6 +2926,8 @@ msgstr ""
 # File: module/ages/view/ages/companies/businessunits.phtml, line: 57
 # File: module/ages/view/ages/companies/index.phtml, line: 55
 # File: module/ages/view/ages/companies/index.phtml, line: 57
+# File: module/ages/view/ages/companies/campaings.phtml, line: 44
+# File: module/ages/view/ages/companies/campaings.phtml, line: 46
 # File: module/ages/view/ages/service-fees/geotargetmarkup.phtml, line: 60
 # File: module/ages/view/ages/service-fees/geotargetmarkup.phtml, line: 62
 # File: module/ages/view/ages/service-fees/list.phtml, line: 59
@@ -3755,12 +3760,12 @@ msgstr ""
 msgid "Pending Payment"
 msgstr ""
 #
-# File: module/ages/src/Controller/Companies.php, line: 1382
-# File: module/ages/src/Controller/Companies.php, line: 2682
+# File: module/ages/src/Controller/Companies.php, line: 1559
+# File: module/ages/src/Controller/Companies.php, line: 2859
 msgid "All Branches"
 msgstr ""
 #
-# File: module/ages/src/Controller/Companies.php, line: 2054
+# File: module/ages/src/Controller/Companies.php, line: 2231
 msgid "Never"
 msgstr ""
 #
@@ -7812,6 +7817,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/businessunits.phtml, line: 17
 # File: module/ages/view/ages/companies/search.phtml, line: 31
 # File: module/ages/view/ages/companies/index.phtml, line: 18
+# File: module/ages/view/ages/companies/campaings.phtml, line: 12
 # File: module/ages/view/ages/service-fees/geotargetmarkup.phtml, line: 22
 # File: module/ages/view/ages/service-fees/list.phtml, line: 20
 # File: module/ages/view/ages/reports/sales.phtml, line: 46
@@ -8014,6 +8020,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/businessunits.phtml, line: 31
 # File: module/ages/view/ages/companies/search.phtml, line: 42
 # File: module/ages/view/ages/companies/index.phtml, line: 31
+# File: module/ages/view/ages/companies/campaings.phtml, line: 20
 # File: module/ages/view/ages/service-fees/geotargetmarkup.phtml, line: 39
 # File: module/ages/view/ages/service-fees/list.phtml, line: 35
 # File: module/ages/view/ages/reports/sales.phtml, line: 129
@@ -8213,6 +8220,8 @@ msgstr ""
 # File: module/ages/view/ages/companies/businessunits.phtml, line: 53
 # File: module/ages/view/ages/companies/index.phtml, line: 33
 # File: module/ages/view/ages/companies/index.phtml, line: 53
+# File: module/ages/view/ages/companies/campaings.phtml, line: 22
+# File: module/ages/view/ages/companies/campaings.phtml, line: 42
 # File: module/ages/view/ages/service-fees/geotargetmarkup.phtml, line: 40
 # File: module/ages/view/ages/service-fees/geotargetmarkup.phtml, line: 58
 # File: module/ages/view/ages/service-fees/list.phtml, line: 37
@@ -8430,6 +8439,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/report.phtml, line: 83
 # File: module/ages/view/ages/companies/businessunits.phtml, line: 101
 # File: module/ages/view/ages/companies/index.phtml, line: 101
+# File: module/ages/view/ages/companies/campaings.phtml, line: 90
 # File: module/ages/view/ages/service-fees/geotargetmarkup.phtml, line: 105
 # File: module/ages/view/ages/service-fees/list.phtml, line: 105
 # File: module/ages/view/ages/reports/invoices.phtml, line: 102
@@ -8558,10 +8568,13 @@ msgstr ""
 # File: module/ages/view/ages/cruises/images.phtml, line: 18
 # File: module/ages/view/ages/cruises/images_add.phtml, line: 16
 # File: module/ages/view/ages/cruises/edit_cabins.phtml, line: 12
+# File: module/ages/view/ages/companies/campaings_add.phtml, line: 11
 # File: module/ages/view/ages/companies/add.phtml, line: 11
 # File: module/ages/view/ages/companies/edit.phtml, line: 11
 # File: module/ages/view/ages/companies/report.phtml, line: 27
+# File: module/ages/view/ages/companies/campaings_edit.phtml, line: 11
 # File: module/ages/view/ages/companies/index.phtml, line: 17
+# File: module/ages/view/ages/companies/campaings.phtml, line: 11
 # File: module/ages/view/ages/air/charters_add.phtml, line: 32
 # File: module/ages/view/ages/air/charters.phtml, line: 15
 # File: module/ages/view/ages/air/charters_edit.phtml, line: 41
@@ -13944,8 +13957,8 @@ msgstr ""
 # File: module/ages/view/ages/agents/deletetelemarketing.phtml, line: 74
 # File: module/ages/view/ages/agents/admin.phtml, line: 35
 # File: module/ages/view/ages/customers/supervisereport.phtml, line: 19
-# File: module/setup/view/intelligence/citypairs_add.phtml, line: 41
-# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 45
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 42
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 47
 # File: module/setup/view/settings/livehelp.phtml, line: 37
 # File: module/setup/view/settings/fraudsettings.phtml, line: 97
 # File: module/setup/view/settings/fraudlayer_edit.phtml, line: 29
@@ -18334,6 +18347,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/companies/addcustomertypes.phtml, line: 50
 # File: module/ages/view/ages/companies/customertypes_edit.phtml, line: 50
+# File: module/ages/view/ages/companies/campaings_edit.phtml, line: 50
 msgid "Please enter customer type"
 msgstr ""
 #
@@ -18418,6 +18432,16 @@ msgstr ""
 msgid "Update Suppliers"
 msgstr ""
 #
+# File: module/ages/view/ages/companies/campaings_add.phtml, line: 5
+# File: module/ages/view/ages/companies/campaings_add.phtml, line: 16
+# File: module/ages/view/ages/companies/campaings.phtml, line: 74
+msgid "Add New Campaign"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/campaings_add.phtml, line: 50
+msgid "Please enter campaign"
+msgstr ""
+#
 # File: module/ages/view/ages/companies/locations_edit.phtml, line: 5
 msgid "Edit Location"
 msgstr ""
@@ -18446,6 +18470,8 @@ msgstr ""
 # File: module/setup/view/activities/actiontravel.phtml, line: 35
 # File: module/setup/view/activities/coming2.phtml, line: 41
 # File: module/setup/view/activities/nexustours.phtml, line: 35
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 16
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 16
 # File: module/setup/view/intelligence/citypairs.phtml, line: 22
 # File: module/setup/view/cars/cartrawler.phtml, line: 37
 # File: module/setup/view/cars/sabre.phtml, line: 37
@@ -18737,6 +18763,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/agents.phtml, line: 5
 # File: module/ages/view/ages/companies/report.phtml, line: 5
 # File: module/ages/view/ages/companies/index.phtml, line: 5
+# File: module/ages/view/ages/companies/campaings.phtml, line: 5
 # File: module/ages/view/ages/reports/companies.phtml, line: 30
 msgid "Companies"
 msgstr ""
@@ -18763,6 +18790,9 @@ msgstr ""
 # File: module/ages/view/ages/companies/customertypes.phtml, line: 84
 # File: module/ages/view/ages/companies/customertypes.phtml, line: 85
 # File: module/ages/view/ages/companies/customertypes.phtml, line: 90
+# File: module/ages/view/ages/companies/campaings.phtml, line: 84
+# File: module/ages/view/ages/companies/campaings.phtml, line: 85
+# File: module/ages/view/ages/companies/campaings.phtml, line: 90
 msgid "List Customer Types"
 msgstr ""
 #
@@ -18890,6 +18920,14 @@ msgstr ""
 msgid "Update Customer Type"
 msgstr ""
 #
+# File: module/ages/view/ages/companies/campaings_edit.phtml, line: 5
+msgid "Edit Campaign"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/campaings_edit.phtml, line: 16
+msgid "Update Campaign"
+msgstr ""
+#
 # File: module/ages/view/ages/companies/search.phtml, line: 5
 # File: module/ages/view/ages/companies/search.phtml, line: 17
 msgid "Search Company"
@@ -18914,6 +18952,14 @@ msgstr ""
 #
 # File: module/ages/view/ages/companies/index.phtml, line: 54
 msgid "Are you sure you want to delete this company?"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/campaings.phtml, line: 5
+msgid "List Campaign"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/campaings.phtml, line: 43
+msgid "Are you sure you want to delete this campaing?"
 msgstr ""
 #
 # File: module/ages/view/ages/companies/suppliersaccounting_edit.phtml, line: 5
@@ -31009,33 +31055,33 @@ msgstr ""
 msgid "Office ID"
 msgstr ""
 #
-# File: module/setup/view/intelligence/citypairs_add.phtml, line: 23
-# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 23
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 24
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 25
 msgid "Departure Date Range"
 msgstr ""
 #
-# File: module/setup/view/intelligence/citypairs_add.phtml, line: 24
-# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 26
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 25
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 28
 msgid "Min Days"
 msgstr ""
 #
-# File: module/setup/view/intelligence/citypairs_add.phtml, line: 25
-# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 27
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 26
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 29
 msgid "Max Days"
 msgstr ""
 #
-# File: module/setup/view/intelligence/citypairs_add.phtml, line: 32
-# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 34
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 33
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 36
 msgid "Stay Duration Range"
 msgstr ""
 #
-# File: module/setup/view/intelligence/citypairs_add.phtml, line: 33
-# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 37
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 34
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 39
 msgid "Min Stay"
 msgstr ""
 #
-# File: module/setup/view/intelligence/citypairs_add.phtml, line: 34
-# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 38
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 35
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 40
 msgid "Max Stay"
 msgstr ""
 #
