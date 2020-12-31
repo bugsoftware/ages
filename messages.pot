@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-31 05:46-0500\n"
+"POT-Creation-Date: 2020-12-31 07:53-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -89,8 +89,8 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 6042
 # File: module/ages/src/Controller/Hotels.php, line: 3923
 # File: module/ages/src/Controller/Hotels.php, line: 4555
-# File: module/ages/src/Controller/Companies.php, line: 2310
-# File: module/ages/src/Controller/Companies.php, line: 2441
+# File: module/ages/src/Controller/Companies.php, line: 2487
+# File: module/ages/src/Controller/Companies.php, line: 2618
 # File: module/ages/src/Controller/Affiliates.php, line: 2640
 # File: module/ages/src/Controller/Affiliates.php, line: 4357
 # File: module/ages/src/Controller/CMS.php, line: 691
@@ -423,7 +423,7 @@ msgstr ""
 # File: module/ages/src/Controller/Hotels.php, line: 2720
 # File: module/ages/src/Controller/Hotels.php, line: 2734
 # File: module/ages/src/Controller/Hotels.php, line: 2956
-# File: module/ages/src/Controller/Companies.php, line: 3074
+# File: module/ages/src/Controller/Companies.php, line: 3251
 # File: module/ages/src/Controller/ServiceFees.php, line: 296
 # File: module/ages/src/Controller/ServiceFees.php, line: 314
 # File: module/ages/src/Controller/ServiceFees.php, line: 332
@@ -1527,6 +1527,7 @@ msgstr ""
 # File: module/ages/view/ages/index/index.phtml, line: 327
 # File: module/ages/view/ages/index/index.phtml, line: 415
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 48
+# File: module/ages/view/ages/companies/paymentsterms.phtml, line: 41
 # File: module/ages/view/ages/companies/payments.phtml, line: 41
 # File: module/ages/view/ages/companies/currencyexchange.phtml, line: 57
 # File: module/ages/view/ages/companies/customertypes.phtml, line: 44
@@ -1754,10 +1755,10 @@ msgstr ""
 # File: module/ages/src/Controller/Hotels.php, line: 1730
 # File: module/ages/src/Controller/Hotels.php, line: 3799
 # File: module/ages/src/Controller/Hotels.php, line: 4299
-# File: module/ages/src/Controller/Companies.php, line: 1188
-# File: module/ages/src/Controller/Companies.php, line: 1397
-# File: module/ages/src/Controller/Companies.php, line: 2072
-# File: module/ages/src/Controller/Companies.php, line: 2205
+# File: module/ages/src/Controller/Companies.php, line: 1365
+# File: module/ages/src/Controller/Companies.php, line: 1574
+# File: module/ages/src/Controller/Companies.php, line: 2249
+# File: module/ages/src/Controller/Companies.php, line: 2382
 # File: module/ages/src/Controller/ServiceFees.php, line: 457
 # File: module/ages/src/Controller/CMS.php, line: 374
 # File: module/ages/view/ages/users/specialists.phtml, line: 29
@@ -1835,10 +1836,10 @@ msgstr ""
 # File: module/ages/src/Controller/Hotels.php, line: 1734
 # File: module/ages/src/Controller/Hotels.php, line: 3803
 # File: module/ages/src/Controller/Hotels.php, line: 4303
-# File: module/ages/src/Controller/Companies.php, line: 1192
-# File: module/ages/src/Controller/Companies.php, line: 1401
-# File: module/ages/src/Controller/Companies.php, line: 2076
-# File: module/ages/src/Controller/Companies.php, line: 2209
+# File: module/ages/src/Controller/Companies.php, line: 1369
+# File: module/ages/src/Controller/Companies.php, line: 1578
+# File: module/ages/src/Controller/Companies.php, line: 2253
+# File: module/ages/src/Controller/Companies.php, line: 2386
 # File: module/ages/src/Controller/ServiceFees.php, line: 461
 # File: module/ages/src/Controller/CMS.php, line: 378
 # File: module/ages/view/ages/users/specialists.phtml, line: 29
@@ -2197,8 +2198,8 @@ msgstr ""
 # File: module/ages/src/Controller/Activities.php, line: 1740
 # File: module/ages/src/Controller/Activities.php, line: 2223
 # File: module/ages/src/Controller/Activities.php, line: 2455
-# File: module/ages/src/Controller/Companies.php, line: 1209
-# File: module/ages/src/Controller/Companies.php, line: 1414
+# File: module/ages/src/Controller/Companies.php, line: 1386
+# File: module/ages/src/Controller/Companies.php, line: 1591
 # File: module/ages/view/ages/companies/agents.phtml, line: 11
 # File: module/ages/view/ages/companies/report.phtml, line: 11
 # File: module/ages/view/ages/agents/zombie.phtml, line: 12
@@ -2315,8 +2316,8 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 5855
 # File: module/ages/src/Controller/Activities.php, line: 1493
 # File: module/ages/src/Controller/Activities.php, line: 2203
-# File: module/ages/src/Controller/Companies.php, line: 3377
-# File: module/ages/src/Controller/Companies.php, line: 3482
+# File: module/ages/src/Controller/Companies.php, line: 3554
+# File: module/ages/src/Controller/Companies.php, line: 3659
 # File: module/ages/view/ages/companies/agents.phtml, line: 55
 # File: module/ages/view/ages/companies/report.phtml, line: 40
 # File: module/ages/view/ages/reports/supervisorsales.phtml, line: 42
@@ -2812,8 +2813,8 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 3329
 # File: module/ages/src/Controller/Tours.php, line: 3432
-# File: module/ages/src/Controller/Companies.php, line: 3373
-# File: module/ages/src/Controller/Companies.php, line: 3478
+# File: module/ages/src/Controller/Companies.php, line: 3550
+# File: module/ages/src/Controller/Companies.php, line: 3655
 # File: module/ages/view/ages/companies/agents.phtml, line: 55
 # File: module/ages/view/ages/companies/report.phtml, line: 40
 # File: module/setup/view/settings/geotargetmarkup.phtml, line: 33
@@ -2921,6 +2922,8 @@ msgstr ""
 # File: module/ages/view/ages/index/index.phtml, line: 329
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 48
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 50
+# File: module/ages/view/ages/companies/paymentsterms.phtml, line: 41
+# File: module/ages/view/ages/companies/paymentsterms.phtml, line: 43
 # File: module/ages/view/ages/companies/payments.phtml, line: 41
 # File: module/ages/view/ages/companies/payments.phtml, line: 43
 # File: module/ages/view/ages/companies/currencyexchange.phtml, line: 57
@@ -3767,12 +3770,12 @@ msgstr ""
 msgid "Pending Payment"
 msgstr ""
 #
-# File: module/ages/src/Controller/Companies.php, line: 2053
-# File: module/ages/src/Controller/Companies.php, line: 3353
+# File: module/ages/src/Controller/Companies.php, line: 2230
+# File: module/ages/src/Controller/Companies.php, line: 3530
 msgid "All Branches"
 msgstr ""
 #
-# File: module/ages/src/Controller/Companies.php, line: 2725
+# File: module/ages/src/Controller/Companies.php, line: 2902
 msgid "Never"
 msgstr ""
 #
@@ -7822,6 +7825,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 21
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 22
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 14
+# File: module/ages/view/ages/companies/paymentsterms.phtml, line: 12
 # File: module/ages/view/ages/companies/suppliersaccounting.phtml, line: 14
 # File: module/ages/view/ages/companies/payments.phtml, line: 12
 # File: module/ages/view/ages/companies/currencyexchange.phtml, line: 17
@@ -8027,6 +8031,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 44
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 61
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 24
+# File: module/ages/view/ages/companies/paymentsterms.phtml, line: 20
 # File: module/ages/view/ages/companies/suppliersaccounting.phtml, line: 23
 # File: module/ages/view/ages/companies/payments.phtml, line: 20
 # File: module/ages/view/ages/companies/currencyexchange.phtml, line: 30
@@ -8228,6 +8233,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/ships.phtml, line: 47
 # File: module/ages/view/ages/cruises/ships.phtml, line: 67
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 46
+# File: module/ages/view/ages/companies/paymentsterms.phtml, line: 39
 # File: module/ages/view/ages/companies/payments.phtml, line: 39
 # File: module/ages/view/ages/companies/currencyexchange.phtml, line: 32
 # File: module/ages/view/ages/companies/currencyexchange.phtml, line: 55
@@ -8450,6 +8456,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 93
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 113
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 94
+# File: module/ages/view/ages/companies/paymentsterms.phtml, line: 87
 # File: module/ages/view/ages/companies/suppliersaccounting.phtml, line: 64
 # File: module/ages/view/ages/companies/payments.phtml, line: 87
 # File: module/ages/view/ages/companies/currencyexchange.phtml, line: 103
@@ -8591,6 +8598,8 @@ msgstr ""
 # File: module/ages/view/ages/cruises/edit_cabins.phtml, line: 12
 # File: module/ages/view/ages/companies/destinations_edit.phtml, line: 11
 # File: module/ages/view/ages/companies/campaings_add.phtml, line: 11
+# File: module/ages/view/ages/companies/paymentsterms.phtml, line: 11
+# File: module/ages/view/ages/companies/paymentsterms_add.phtml, line: 11
 # File: module/ages/view/ages/companies/payments_edit.phtml, line: 11
 # File: module/ages/view/ages/companies/destinations_add.phtml, line: 11
 # File: module/ages/view/ages/companies/payments.phtml, line: 11
@@ -8601,6 +8610,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/campaings_edit.phtml, line: 11
 # File: module/ages/view/ages/companies/destinations.phtml, line: 11
 # File: module/ages/view/ages/companies/index.phtml, line: 17
+# File: module/ages/view/ages/companies/paymentsterms_edit.phtml, line: 11
 # File: module/ages/view/ages/companies/campaings.phtml, line: 11
 # File: module/ages/view/ages/air/charters_add.phtml, line: 32
 # File: module/ages/view/ages/air/charters.phtml, line: 15
@@ -18392,7 +18402,6 @@ msgid "Add Customer Type"
 msgstr ""
 #
 # File: module/ages/view/ages/companies/addcustomertypes.phtml, line: 50
-# File: module/ages/view/ages/companies/payments_add.phtml, line: 50
 # File: module/ages/view/ages/companies/customertypes_edit.phtml, line: 50
 msgid "Please enter customer type"
 msgstr ""
@@ -18637,6 +18646,52 @@ msgstr ""
 msgid "Update Location"
 msgstr ""
 #
+# File: module/ages/view/ages/companies/paymentsterms.phtml, line: 5
+# File: module/ages/view/ages/companies/payments.phtml, line: 5
+# File: module/ages/view/ages/companies/locations.phtml, line: 5
+# File: module/ages/view/ages/companies/customertypes.phtml, line: 5
+# File: module/ages/view/ages/companies/agents.phtml, line: 5
+# File: module/ages/view/ages/companies/report.phtml, line: 5
+# File: module/ages/view/ages/companies/destinations.phtml, line: 5
+# File: module/ages/view/ages/companies/index.phtml, line: 5
+# File: module/ages/view/ages/companies/campaings.phtml, line: 5
+# File: module/ages/view/ages/reports/companies.phtml, line: 30
+msgid "Companies"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/paymentsterms.phtml, line: 5
+msgid "List Payment Terms"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/paymentsterms.phtml, line: 40
+# File: module/ages/view/ages/companies/payments.phtml, line: 40
+msgid "Are you sure you want to delete this Payment?"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/paymentsterms.phtml, line: 71
+# File: module/ages/view/ages/companies/paymentsterms_add.phtml, line: 5
+msgid "Add New Payment Term"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/paymentsterms.phtml, line: 81
+# File: module/ages/view/ages/companies/paymentsterms.phtml, line: 82
+# File: module/ages/view/ages/companies/paymentsterms.phtml, line: 87
+# File: module/ages/view/ages/companies/payments.phtml, line: 81
+# File: module/ages/view/ages/companies/payments.phtml, line: 82
+# File: module/ages/view/ages/companies/payments.phtml, line: 87
+# File: module/ages/view/ages/companies/customertypes.phtml, line: 5
+# File: module/ages/view/ages/companies/customertypes.phtml, line: 84
+# File: module/ages/view/ages/companies/customertypes.phtml, line: 85
+# File: module/ages/view/ages/companies/customertypes.phtml, line: 90
+# File: module/ages/view/ages/companies/destinations.phtml, line: 90
+# File: module/ages/view/ages/companies/destinations.phtml, line: 91
+# File: module/ages/view/ages/companies/destinations.phtml, line: 96
+# File: module/ages/view/ages/companies/campaings.phtml, line: 84
+# File: module/ages/view/ages/companies/campaings.phtml, line: 85
+# File: module/ages/view/ages/companies/campaings.phtml, line: 90
+msgid "List Customer Types"
+msgstr ""
+#
 # File: module/ages/view/ages/companies/businessunits_edit.phtml, line: 5
 msgid "Edit Business Unit"
 msgstr ""
@@ -18683,11 +18738,26 @@ msgstr ""
 msgid "Add Currency"
 msgstr ""
 #
+# File: module/ages/view/ages/companies/paymentsterms_add.phtml, line: 16
+# File: module/ages/view/ages/companies/payments_add.phtml, line: 16
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 130
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5185
+msgid "Add Payment"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/paymentsterms_add.phtml, line: 50
+# File: module/ages/view/ages/companies/payments_add.phtml, line: 50
+# File: module/ages/view/ages/hotels/sourcemarkets_edit.phtml, line: 62
+# File: module/manager/view/rooms/add.phtml, line: 253
+msgid "Please enter description"
+msgstr ""
+#
 # File: module/ages/view/ages/companies/payments_edit.phtml, line: 5
 msgid "Edit Payment"
 msgstr ""
 #
 # File: module/ages/view/ages/companies/payments_edit.phtml, line: 16
+# File: module/ages/view/ages/companies/paymentsterms_edit.phtml, line: 16
 msgid "Update Payment"
 msgstr ""
 #
@@ -18737,44 +18807,12 @@ msgid "Add New Destination"
 msgstr ""
 #
 # File: module/ages/view/ages/companies/payments.phtml, line: 5
-# File: module/ages/view/ages/companies/locations.phtml, line: 5
-# File: module/ages/view/ages/companies/customertypes.phtml, line: 5
-# File: module/ages/view/ages/companies/agents.phtml, line: 5
-# File: module/ages/view/ages/companies/report.phtml, line: 5
-# File: module/ages/view/ages/companies/destinations.phtml, line: 5
-# File: module/ages/view/ages/companies/index.phtml, line: 5
-# File: module/ages/view/ages/companies/campaings.phtml, line: 5
-# File: module/ages/view/ages/reports/companies.phtml, line: 30
-msgid "Companies"
-msgstr ""
-#
-# File: module/ages/view/ages/companies/payments.phtml, line: 5
 msgid "List Payments"
-msgstr ""
-#
-# File: module/ages/view/ages/companies/payments.phtml, line: 40
-msgid "Are you sure you want to delete this Payment?"
 msgstr ""
 #
 # File: module/ages/view/ages/companies/payments.phtml, line: 71
 # File: module/ages/view/ages/companies/payments_add.phtml, line: 5
 msgid "Add New Payment"
-msgstr ""
-#
-# File: module/ages/view/ages/companies/payments.phtml, line: 81
-# File: module/ages/view/ages/companies/payments.phtml, line: 82
-# File: module/ages/view/ages/companies/payments.phtml, line: 87
-# File: module/ages/view/ages/companies/customertypes.phtml, line: 5
-# File: module/ages/view/ages/companies/customertypes.phtml, line: 84
-# File: module/ages/view/ages/companies/customertypes.phtml, line: 85
-# File: module/ages/view/ages/companies/customertypes.phtml, line: 90
-# File: module/ages/view/ages/companies/destinations.phtml, line: 90
-# File: module/ages/view/ages/companies/destinations.phtml, line: 91
-# File: module/ages/view/ages/companies/destinations.phtml, line: 96
-# File: module/ages/view/ages/companies/campaings.phtml, line: 84
-# File: module/ages/view/ages/companies/campaings.phtml, line: 85
-# File: module/ages/view/ages/companies/campaings.phtml, line: 90
-msgid "List Customer Types"
 msgstr ""
 #
 # File: module/ages/view/ages/companies/add.phtml, line: 5
@@ -18973,12 +19011,6 @@ msgstr ""
 msgid "Please enter supplier name"
 msgstr ""
 #
-# File: module/ages/view/ages/companies/payments_add.phtml, line: 16
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 130
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5185
-msgid "Add Payment"
-msgstr ""
-#
 # File: module/ages/view/ages/companies/businessunits.phtml, line: 5
 # File: module/ages/view/ages/reports/businessunits.phtml, line: 8
 msgid "Business Units"
@@ -19066,6 +19098,14 @@ msgstr ""
 #
 # File: module/ages/view/ages/companies/index.phtml, line: 54
 msgid "Are you sure you want to delete this company?"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/paymentsterms_edit.phtml, line: 5
+msgid "Edit Payment Terms"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/paymentsterms_edit.phtml, line: 50
+msgid "Please enter payment term"
 msgstr ""
 #
 # File: module/ages/view/ages/companies/campaings.phtml, line: 43
@@ -23186,11 +23226,6 @@ msgstr ""
 #
 # File: module/ages/view/ages/hotels/sourcemarkets_edit.phtml, line: 31
 msgid "Update Source Market"
-msgstr ""
-#
-# File: module/ages/view/ages/hotels/sourcemarkets_edit.phtml, line: 62
-# File: module/manager/view/rooms/add.phtml, line: 253
-msgid "Please enter description"
 msgstr ""
 #
 # File: module/ages/view/ages/hotels/edit.phtml, line: 5
