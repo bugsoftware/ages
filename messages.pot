@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-03 15:36-0500\n"
+"POT-Creation-Date: 2021-01-04 04:55-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4579,6 +4579,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation.phtml, line: 263
 # File: module/setup/view/intelligence/lowestpublishdfares.phtml, line: 20
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 18
 msgid "Fare"
 msgstr ""
 #
@@ -4753,6 +4754,7 @@ msgstr ""
 # File: module/setup/view/intelligence/citypairs_edit.phtml, line: 13
 # File: module/setup/view/intelligence/lowestpublishdfares.phtml, line: 14
 # File: module/setup/view/intelligence/citypairs.phtml, line: 20
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 14
 msgid "Destination"
 msgstr ""
 #
@@ -5362,6 +5364,7 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit_reservations.phtml, line: 17
 # File: module/ages/view/ages/agents/add_reservations.phtml, line: 17
 # File: module/ages/view/ages/customers/editreservations.phtml, line: 16
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 17
 msgid "Total"
 msgstr ""
 #
@@ -8583,6 +8586,7 @@ msgstr ""
 # File: module/setup/view/intelligence/lowestpublishdfares.phtml, line: 87
 # File: module/setup/view/intelligence/citypairs.phtml, line: 84
 # File: module/setup/view/intelligence/topdestinations.phtml, line: 82
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 79
 # File: module/setup/view/intelligence/hotels.phtml, line: 79
 # File: module/setup/view/settings/fraudlayer.phtml, line: 63
 # File: module/setup/view/settings/enterpriseratesetup.phtml, line: 71
@@ -12861,6 +12865,7 @@ msgstr ""
 # File: module/manager/view/contracts/index.phtml, line: 14
 # File: module/manager/view/hotel/cancellationpolicies_edit.phtml, line: 24
 # File: module/setup/view/intelligence/lowestpublishdfares.phtml, line: 18
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 15
 # File: module/setup/view/intelligence/hotels.phtml, line: 14
 msgid "Date From"
 msgstr ""
@@ -12939,6 +12944,7 @@ msgstr ""
 # File: module/manager/view/contracts/index.phtml, line: 15
 # File: module/manager/view/hotel/cancellationpolicies_edit.phtml, line: 27
 # File: module/setup/view/intelligence/lowestpublishdfares.phtml, line: 19
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 16
 # File: module/setup/view/intelligence/hotels.phtml, line: 15
 msgid "Date To"
 msgstr ""
@@ -16955,6 +16961,7 @@ msgstr ""
 # File: module/ages/view/ages/customers/add.phtml, line: 37
 # File: module/ages/view/ages/customers/edit.phtml, line: 72
 # File: module/setup/view/intelligence/lowestpublishdfares.phtml, line: 15
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 12
 # File: module/setup/view/air/editfeaturedairlines.phtml, line: 12
 # File: module/setup/view/air/editfeaturedairlines.phtml, line: 13
 # File: module/setup/view/air/addtoxicairlines.phtml, line: 11
@@ -19893,6 +19900,7 @@ msgstr ""
 # File: module/setup/view/intelligence/lowestpublishdfares.phtml, line: 13
 # File: module/setup/view/intelligence/citypairs.phtml, line: 19
 # File: module/setup/view/intelligence/topdestinations.phtml, line: 12
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 13
 msgid "Origin"
 msgstr ""
 #
@@ -31447,6 +31455,17 @@ msgstr ""
 #
 # File: module/setup/view/intelligence/topdestinations.phtml, line: 22
 msgid "Metropolitan Area Name"
+msgstr ""
+#
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 5
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 73
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 74
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 79
+msgid "Airline Offers"
+msgstr ""
+#
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 5
+msgid "Arline Offers"
 msgstr ""
 #
 # File: module/setup/view/cars/cartrawler.phtml, line: 13
