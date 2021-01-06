@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-05 08:04-0500\n"
+"POT-Creation-Date: 2021-01-06 05:31-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -343,8 +343,8 @@ msgstr ""
 # File: module/ages/src/Controller/Air.php, line: 647
 # File: module/ages/src/Controller/Air.php, line: 789
 # File: module/ages/src/Controller/Air.php, line: 1015
-# File: module/ages/src/Controller/Air.php, line: 2900
-# File: module/ages/src/Controller/Air.php, line: 2987
+# File: module/ages/src/Controller/Air.php, line: 2886
+# File: module/ages/src/Controller/Air.php, line: 2973
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 162
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 299
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 7940
@@ -1544,7 +1544,7 @@ msgstr ""
 # File: module/ages/view/ages/air/toxicairlines.phtml, line: 71
 # File: module/ages/view/ages/air/markups.phtml, line: 61
 # File: module/ages/view/ages/air/charters.phtml, line: 51
-# File: module/ages/view/ages/air/chartersavailability.phtml, line: 65
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 73
 # File: module/ages/view/ages/air/private.phtml, line: 56
 # File: module/ages/view/ages/air/discounts.phtml, line: 45
 # File: module/ages/view/ages/air/pcc.phtml, line: 42
@@ -1635,9 +1635,9 @@ msgstr ""
 # File: module/ages/src/Controller/Air.php, line: 1018
 # File: module/ages/src/Controller/Air.php, line: 1253
 # File: module/ages/src/Controller/Air.php, line: 1356
-# File: module/ages/src/Controller/Air.php, line: 3618
-# File: module/ages/src/Controller/Air.php, line: 3623
-# File: module/ages/src/Controller/Air.php, line: 3628
+# File: module/ages/src/Controller/Air.php, line: 3604
+# File: module/ages/src/Controller/Air.php, line: 3609
+# File: module/ages/src/Controller/Air.php, line: 3614
 # File: module/ages/src/Controller/Transfers.php, line: 1168
 # File: module/ages/src/Controller/Transfers.php, line: 1609
 # File: module/ages/src/Controller/Tours.php, line: 1089
@@ -1903,10 +1903,10 @@ msgstr ""
 # File: module/ages/src/Controller/Air.php, line: 1339
 # File: module/ages/src/Controller/Air.php, line: 1619
 # File: module/ages/src/Controller/Air.php, line: 1827
-# File: module/ages/src/Controller/Air.php, line: 2774
-# File: module/ages/src/Controller/Air.php, line: 2889
-# File: module/ages/src/Controller/Air.php, line: 2940
-# File: module/ages/src/Controller/Air.php, line: 2976
+# File: module/ages/src/Controller/Air.php, line: 2760
+# File: module/ages/src/Controller/Air.php, line: 2875
+# File: module/ages/src/Controller/Air.php, line: 2926
+# File: module/ages/src/Controller/Air.php, line: 2962
 # File: module/ages/src/Controller/GiftCards.php, line: 1465
 # File: module/ages/src/Controller/GiftCards.php, line: 1973
 # File: module/setup/src/Controller/toxicairlines.php, line: 129
@@ -1999,8 +1999,8 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Air.php, line: 398
 # File: module/ages/src/Controller/Air.php, line: 1399
-# File: module/ages/src/Controller/Air.php, line: 2664
-# File: module/ages/src/Controller/Air.php, line: 3025
+# File: module/ages/src/Controller/Air.php, line: 2650
+# File: module/ages/src/Controller/Air.php, line: 3011
 # File: module/setup/src/Controller/toxicairlines.php, line: 426
 # File: module/setup/src/Controller/featuredairlines.php, line: 344
 msgid "Not Available"
@@ -2072,43 +2072,43 @@ msgstr ""
 msgid "Disabled"
 msgstr ""
 #
-# File: module/ages/src/Controller/Air.php, line: 2229
-# File: module/ages/src/Controller/Air.php, line: 2554
+# File: module/ages/src/Controller/Air.php, line: 2222
+# File: module/ages/src/Controller/Air.php, line: 2542
 msgid "All Charters"
 msgstr ""
 #
-# File: module/ages/src/Controller/Air.php, line: 2246
-# File: module/ages/src/Controller/Air.php, line: 2572
+# File: module/ages/src/Controller/Air.php, line: 2239
+# File: module/ages/src/Controller/Air.php, line: 2560
 msgid "Pending Prepaid"
 msgstr ""
 #
-# File: module/ages/src/Controller/Air.php, line: 2250
-# File: module/ages/src/Controller/Air.php, line: 2576
+# File: module/ages/src/Controller/Air.php, line: 2243
+# File: module/ages/src/Controller/Air.php, line: 2564
 msgid "Prepaid"
 msgstr ""
 #
-# File: module/ages/src/Controller/Air.php, line: 2254
-# File: module/ages/src/Controller/Air.php, line: 2580
+# File: module/ages/src/Controller/Air.php, line: 2247
+# File: module/ages/src/Controller/Air.php, line: 2568
 msgid "Paid"
 msgstr ""
 #
-# File: module/ages/src/Controller/Air.php, line: 2258
-# File: module/ages/src/Controller/Air.php, line: 2584
+# File: module/ages/src/Controller/Air.php, line: 2251
+# File: module/ages/src/Controller/Air.php, line: 2572
 msgid "Returned Without Penalty"
 msgstr ""
 #
-# File: module/ages/src/Controller/Air.php, line: 2262
-# File: module/ages/src/Controller/Air.php, line: 2588
+# File: module/ages/src/Controller/Air.php, line: 2255
+# File: module/ages/src/Controller/Air.php, line: 2576
 msgid "Returned With Penalty"
 msgstr ""
 #
-# File: module/ages/src/Controller/Air.php, line: 2266
-# File: module/ages/src/Controller/Air.php, line: 2592
+# File: module/ages/src/Controller/Air.php, line: 2259
+# File: module/ages/src/Controller/Air.php, line: 2580
 msgid "Canceled"
 msgstr ""
 #
-# File: module/ages/src/Controller/Air.php, line: 2270
-# File: module/ages/src/Controller/Air.php, line: 2596
+# File: module/ages/src/Controller/Air.php, line: 2263
+# File: module/ages/src/Controller/Air.php, line: 2584
 msgid "Issued"
 msgstr ""
 #
@@ -3097,8 +3097,8 @@ msgstr ""
 # File: module/ages/view/ages/air/markups.phtml, line: 63
 # File: module/ages/view/ages/air/charters.phtml, line: 51
 # File: module/ages/view/ages/air/charters.phtml, line: 53
-# File: module/ages/view/ages/air/chartersavailability.phtml, line: 65
-# File: module/ages/view/ages/air/chartersavailability.phtml, line: 67
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 73
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 75
 # File: module/ages/view/ages/air/private.phtml, line: 56
 # File: module/ages/view/ages/air/private.phtml, line: 58
 # File: module/ages/view/ages/air/discounts.phtml, line: 45
@@ -4347,8 +4347,8 @@ msgstr ""
 # File: module/ages/view/ages/cruises/add_ships.phtml, line: 17
 # File: module/ages/view/ages/cruises/ships.phtml, line: 13
 # File: module/ages/view/ages/cruises/edit_ships.phtml, line: 18
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 74
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 70
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 77
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 73
 # File: module/ages/view/ages/hotels/add.phtml, line: 36
 # File: module/ages/view/ages/hotels/edit.phtml, line: 36
 # File: module/ages/view/ages/newsletter/editair.phtml, line: 30
@@ -4402,8 +4402,8 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation.phtml, line: 144
 # File: module/ages/view/ages/reports/flights.phtml, line: 40
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 36
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 33
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 52
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 48
 # File: module/ages/view/ages/hotels/edit_taxes.phtml, line: 15
 msgid "Taxes"
 msgstr ""
@@ -4923,9 +4923,9 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredcruises_add.phtml, line: 19
 # File: module/ages/view/ages/cms/featuredcruises.phtml, line: 19
 # File: module/ages/view/ages/reports/communications.phtml, line: 44
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 17
-# File: module/ages/view/ages/air/chartersavailability.phtml, line: 22
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 14
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 38
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 26
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 34
 # File: module/ages/view/ages/packages/add.phtml, line: 23
 # File: module/ages/view/ages/packages/edit.phtml, line: 40
 # File: module/ages/view/ages/packages/edit.phtml, line: 41
@@ -6703,11 +6703,11 @@ msgstr ""
 # File: module/ages/view/ages/reports/hotelssales.phtml, line: 25
 # File: module/ages/view/ages/reports/hotelssales.phtml, line: 60
 # File: module/ages/view/ages/reports/companies.phtml, line: 45
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 29
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 39
 # File: module/ages/view/ages/air/charters_add.phtml, line: 25
 # File: module/ages/view/ages/air/charters_edit.phtml, line: 36
 # File: module/ages/view/ages/air/index.phtml, line: 16
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 26
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 35
 # File: module/ages/view/ages/packages/types.phtml, line: 13
 # File: module/ages/view/ages/packages/availability.phtml, line: 26
 # File: module/ages/view/ages/packages/editavailability.phtml, line: 15
@@ -7738,7 +7738,7 @@ msgstr ""
 # File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 142
 # File: module/ages/view/ages/air/charters_add.phtml, line: 71
 # File: module/ages/view/ages/air/charters_edit.phtml, line: 81
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 126
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 138
 # File: module/ages/view/ages/packages/type_add.phtml, line: 85
 # File: module/ages/view/ages/newsletter/flyers_edit.phtml, line: 97
 # File: module/ages/view/ages/newsletter/flyers_add.phtml, line: 265
@@ -7964,7 +7964,7 @@ msgstr ""
 # File: module/ages/view/ages/air/toxicairlines.phtml, line: 17
 # File: module/ages/view/ages/air/markups.phtml, line: 21
 # File: module/ages/view/ages/air/charters.phtml, line: 16
-# File: module/ages/view/ages/air/chartersavailability.phtml, line: 23
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 27
 # File: module/ages/view/ages/air/searchreservations.phtml, line: 44
 # File: module/ages/view/ages/air/private.phtml, line: 15
 # File: module/ages/view/ages/air/reservations.phtml, line: 21
@@ -8169,7 +8169,7 @@ msgstr ""
 # File: module/ages/view/ages/air/toxicairlines.phtml, line: 47
 # File: module/ages/view/ages/air/markups.phtml, line: 37
 # File: module/ages/view/ages/air/charters.phtml, line: 27
-# File: module/ages/view/ages/air/chartersavailability.phtml, line: 41
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 49
 # File: module/ages/view/ages/air/searchreservations.phtml, line: 60
 # File: module/ages/view/ages/air/private.phtml, line: 32
 # File: module/ages/view/ages/air/discounts.phtml, line: 38
@@ -8368,8 +8368,8 @@ msgstr ""
 # File: module/ages/view/ages/air/markups.phtml, line: 59
 # File: module/ages/view/ages/air/charters.phtml, line: 29
 # File: module/ages/view/ages/air/charters.phtml, line: 49
-# File: module/ages/view/ages/air/chartersavailability.phtml, line: 43
-# File: module/ages/view/ages/air/chartersavailability.phtml, line: 63
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 51
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 71
 # File: module/ages/view/ages/air/private.phtml, line: 34
 # File: module/ages/view/ages/air/private.phtml, line: 54
 # File: module/ages/view/ages/air/discounts.phtml, line: 38
@@ -8584,7 +8584,7 @@ msgstr ""
 # File: module/ages/view/ages/air/toxicairlines.phtml, line: 117
 # File: module/ages/view/ages/air/markups.phtml, line: 107
 # File: module/ages/view/ages/air/charters.phtml, line: 97
-# File: module/ages/view/ages/air/chartersavailability.phtml, line: 111
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 119
 # File: module/ages/view/ages/air/private.phtml, line: 102
 # File: module/ages/view/ages/air/discounts.phtml, line: 99
 # File: module/ages/view/ages/air/reservations.phtml, line: 79
@@ -14004,9 +14004,10 @@ msgstr ""
 # File: module/ages/view/ages/cms/news_add.phtml, line: 25
 # File: module/ages/view/ages/cms/recommendedhotels.phtml, line: 18
 # File: module/ages/view/ages/cms/news_edit.phtml, line: 25
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 92
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 94
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 87
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 95
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 97
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 89
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 91
 # File: module/ages/view/ages/packages/edit_generalconditions.phtml, line: 16
 # File: module/ages/view/ages/packages/edit_generalconditions.phtml, line: 18
 # File: module/ages/view/ages/packages/add_generalconditions.phtml, line: 19
@@ -14706,11 +14707,11 @@ msgstr ""
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 17
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 117
 # File: module/ages/view/ages/cruises/pricing.phtml, line: 17
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 60
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 61
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 63
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 64
 # File: module/ages/view/ages/air/chartersavailability.phtml, line: 14
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 56
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 57
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 59
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 60
 # File: module/ages/view/ages/packages/availability.phtml, line: 24
 # File: module/ages/view/ages/packages/editavailability.phtml, line: 18
 # File: module/ages/view/ages/packages/editavailability.phtml, line: 19
@@ -16924,7 +16925,7 @@ msgstr ""
 # File: module/ages/view/ages/service-fees/list.phtml, line: 16
 # File: module/ages/view/ages/service-fees/edit.phtml, line: 18
 # File: module/ages/view/ages/reports/b2bwallet.phtml, line: 33
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 40
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 18
 # File: module/ages/view/ages/packages/addservice.phtml, line: 12
 # File: module/ages/view/ages/dynamic-packaging/add_itinerary.phtml, line: 12
 # File: module/ages/view/ages/dynamic-packaging/edit_itinerary.phtml, line: 12
@@ -19998,12 +19999,11 @@ msgstr ""
 #
 # File: module/ages/view/ages/reports/airlines.phtml, line: 74
 # File: module/ages/view/ages/reports/airlines.phtml, line: 578
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 20
-# File: module/ages/view/ages/air/chartersavailability.phtml, line: 15
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 26
 # File: module/ages/view/ages/air/searchreservations.phtml, line: 16
 # File: module/ages/view/ages/air/searchreservations.phtml, line: 39
 # File: module/ages/view/ages/air/reservations.phtml, line: 17
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 17
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 22
 # File: module/ages/view/ages/air/listreservations.phtml, line: 18
 # File: module/ages/view/ages/newsletter/addcruise.phtml, line: 15
 # File: module/ages/view/ages/newsletter/editnewsletter.phtml, line: 202
@@ -20713,18 +20713,26 @@ msgstr ""
 msgid "Flight No"
 msgstr ""
 #
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 20
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 16
+msgid "Round Trip"
+msgstr ""
+#
 # File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 21
-# File: module/ages/view/ages/air/chartersavailability.phtml, line: 16
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 18
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 17
+msgid "One Way"
+msgstr ""
+#
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 27
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 23
 msgid "Departure Time"
 msgstr ""
 #
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 22
-# File: module/ages/view/ages/air/chartersavailability.phtml, line: 17
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 28
 # File: module/ages/view/ages/air/searchreservations.phtml, line: 17
 # File: module/ages/view/ages/air/searchreservations.phtml, line: 40
 # File: module/ages/view/ages/air/reservations.phtml, line: 18
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 19
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 24
 # File: module/ages/view/ages/air/listreservations.phtml, line: 19
 # File: module/ages/view/ages/packages/searchreservations.phtml, line: 30
 # File: module/ages/view/ages/packages/reservations.phtml, line: 16
@@ -20732,160 +20740,157 @@ msgstr ""
 msgid "Arrival Date"
 msgstr ""
 #
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 23
-# File: module/ages/view/ages/air/chartersavailability.phtml, line: 18
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 20
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 29
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 25
 msgid "Arrival Time"
 msgstr ""
 #
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 26
-# File: module/ages/view/ages/air/chartersavailability.phtml, line: 19
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 23
-msgid "Price/Adult"
-msgstr ""
-#
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 27
-# File: module/ages/view/ages/air/chartersavailability.phtml, line: 20
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 24
-msgid "Price/Children"
-msgstr ""
-#
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 28
-# File: module/ages/view/ages/air/chartersavailability.phtml, line: 21
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 25
-msgid "Price/Infant"
-msgstr ""
-#
 # File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 32
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 29
-msgid "Surcharges 1"
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 28
+msgid "Return Departure Date"
 msgstr ""
 #
 # File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 33
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 30
-msgid "Surcharges 1 Description"
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 29
+msgid "Return Departure Time"
 msgstr ""
 #
 # File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 34
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 31
-msgid "Surcharges 2"
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 30
+msgid "Return Arrival Date"
 msgstr ""
 #
 # File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 35
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 32
-msgid "Surcharges 2 Description"
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 31
+msgid "Return Arrival Time"
 msgstr ""
 #
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 37
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 34
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 40
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 36
 msgid "Validity of Sale"
 msgstr ""
 #
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 38
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 35
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 41
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 37
 msgid "Ticketing Deadline"
 msgstr ""
 #
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 42
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 38
-msgid "Round Trip"
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 44
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 40
+# File: module/ages/view/ages/packages/add.phtml, line: 91
+# File: module/ages/view/ages/packages/edit.phtml, line: 135
+# File: module/ages/view/ages/transfers/pricing.phtml, line: 5
+msgid "Pricing"
 msgstr ""
 #
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 43
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 39
-msgid "One Way"
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 45
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 23
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 41
+msgid "Price/Adult"
+msgstr ""
+#
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 46
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 24
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 42
+msgid "Price/Children"
+msgstr ""
+#
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 47
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 25
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 43
+msgid "Price/Infant"
 msgstr ""
 #
 # File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 48
 # File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 44
-msgid "Return Departure Date"
+msgid "Surcharges 1"
 msgstr ""
 #
 # File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 49
 # File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 45
-msgid "Return Departure Time"
+msgid "Surcharges 1 Description"
 msgstr ""
 #
 # File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 50
 # File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 46
-msgid "Return Arrival Date"
+msgid "Surcharges 2"
 msgstr ""
 #
 # File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 51
 # File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 47
-msgid "Return Arrival Time"
-msgstr ""
-#
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 54
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 50
-msgid "Time Limit"
-msgstr ""
-#
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 55
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 51
-msgid "Pre Paid Date"
+msgid "Surcharges 2 Description"
 msgstr ""
 #
 # File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 56
 # File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 52
-msgid "Penalty Date"
+msgid "Time Limit"
 msgstr ""
 #
 # File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 57
 # File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 53
+msgid "Pre Paid Date"
+msgstr ""
+#
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 58
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 54
+msgid "Penalty Date"
+msgstr ""
+#
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 59
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 55
 msgid "Total Payment Date"
 msgstr ""
 #
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 62
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 58
-msgid "Free Spaces"
-msgstr ""
-#
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 63
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 59
-msgid "Auction Spaces"
-msgstr ""
-#
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 64
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 60
-msgid "Spaces Returned Without Penalties"
-msgstr ""
-#
 # File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 65
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 67
 # File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 61
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 63
-msgid "Returned Date"
+msgid "Free Spaces"
 msgstr ""
 #
 # File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 66
 # File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 62
+msgid "Auction Spaces"
+msgstr ""
+#
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 67
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 63
+msgid "Spaces Returned Without Penalties"
+msgstr ""
+#
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 68
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 70
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 64
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 66
+msgid "Returned Date"
+msgstr ""
+#
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 69
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 65
 msgid "Spaces Returned With Penalties"
 msgstr ""
 #
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 72
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 68
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 75
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 71
 msgid "Hand/Cabin Luggage"
 msgstr ""
 #
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 73
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 69
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 76
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 72
 msgid "Check-in Luggage"
 msgstr ""
 #
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 78
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 80
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 75
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 81
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 83
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 78
 msgid "Hand/Cabin Luggage Info/Restrictions"
 msgstr ""
 #
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 84
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 86
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 80
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 87
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 89
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 83
 msgid "Check-in Luggage Info/Restrictions"
 msgstr ""
 #
-# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 100
+# File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 103
 msgid "Update Charter Availability"
 msgstr ""
 #
@@ -21181,19 +21186,51 @@ msgstr ""
 msgid "Charter Id"
 msgstr ""
 #
-# File: module/ages/view/ages/air/chartersavailability.phtml, line: 64
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 15
+msgid "Dep. Date"
+msgstr ""
+#
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 16
+msgid "Dep. Time"
+msgstr ""
+#
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 17
+msgid "Arr. Date"
+msgstr ""
+#
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 18
+msgid "Arr. Time"
+msgstr ""
+#
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 19
+msgid "Ret. Dep. Date"
+msgstr ""
+#
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 20
+msgid "Ret. Dep. Time"
+msgstr ""
+#
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 21
+msgid "Ret. Arr. Date"
+msgstr ""
+#
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 22
+msgid "Ret. Arr. Time"
+msgstr ""
+#
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 72
 msgid "Are you sure you want to delete this charter availability?"
 msgstr ""
 #
-# File: module/ages/view/ages/air/chartersavailability.phtml, line: 95
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 103
 # File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 5
-# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 94
+# File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 98
 msgid "Add Charter Availability"
 msgstr ""
 #
-# File: module/ages/view/ages/air/chartersavailability.phtml, line: 105
-# File: module/ages/view/ages/air/chartersavailability.phtml, line: 106
-# File: module/ages/view/ages/air/chartersavailability.phtml, line: 111
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 113
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 114
+# File: module/ages/view/ages/air/chartersavailability.phtml, line: 119
 msgid "List Charters Availability"
 msgstr ""
 #
@@ -22014,12 +22051,6 @@ msgstr ""
 # File: module/ages/view/ages/packages/add.phtml, line: 88
 # File: module/ages/view/ages/packages/edit.phtml, line: 132
 msgid "Policies"
-msgstr ""
-#
-# File: module/ages/view/ages/packages/add.phtml, line: 91
-# File: module/ages/view/ages/packages/edit.phtml, line: 135
-# File: module/ages/view/ages/transfers/pricing.phtml, line: 5
-msgid "Pricing"
 msgstr ""
 #
 # File: module/ages/view/ages/packages/add.phtml, line: 253
