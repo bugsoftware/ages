@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-13 15:38-0500\n"
+"POT-Creation-Date: 2021-01-13 16:28-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2989,6 +2989,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Packages.php, line: 182
 # File: module/ages/view/ages/packages/addservice.phtml, line: 76
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 13
 msgid "Air Offers"
 msgstr ""
 #
@@ -3050,6 +3051,7 @@ msgid "All Hotels Suppliers"
 msgstr ""
 #
 # File: module/ages/src/Controller/Packages.php, line: 541
+# File: module/setup/src/Controller/airlineoffers.php, line: 78
 msgid "All Air Offers"
 msgstr ""
 #
@@ -4677,7 +4679,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation.phtml, line: 263
 # File: module/setup/view/intelligence/lowestpublishdfares.phtml, line: 20
-# File: module/setup/view/intelligence/airlineoffers.phtml, line: 26
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 32
 msgid "Fare"
 msgstr ""
 #
@@ -4856,7 +4858,8 @@ msgstr ""
 # File: module/setup/view/intelligence/citypairs_edit.phtml, line: 13
 # File: module/setup/view/intelligence/lowestpublishdfares.phtml, line: 14
 # File: module/setup/view/intelligence/citypairs.phtml, line: 20
-# File: module/setup/view/intelligence/airlineoffers.phtml, line: 22
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 12
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 28
 msgid "Destination"
 msgstr ""
 #
@@ -5465,7 +5468,7 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit_reservations.phtml, line: 17
 # File: module/ages/view/ages/agents/add_reservations.phtml, line: 17
 # File: module/ages/view/ages/customers/editreservations.phtml, line: 16
-# File: module/setup/view/intelligence/airlineoffers.phtml, line: 25
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 31
 msgid "Total"
 msgstr ""
 #
@@ -8716,7 +8719,7 @@ msgstr ""
 # File: module/setup/view/intelligence/lowestpublishdfares.phtml, line: 87
 # File: module/setup/view/intelligence/citypairs.phtml, line: 84
 # File: module/setup/view/intelligence/topdestinations.phtml, line: 82
-# File: module/setup/view/intelligence/airlineoffers.phtml, line: 80
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 86
 # File: module/setup/view/intelligence/hotels.phtml, line: 79
 # File: module/setup/view/settings/fraudlayer.phtml, line: 63
 # File: module/setup/view/settings/enterpriseratesetup.phtml, line: 71
@@ -13031,7 +13034,7 @@ msgstr ""
 # File: module/manager/view/contracts/index.phtml, line: 14
 # File: module/manager/view/hotel/cancellationpolicies_edit.phtml, line: 24
 # File: module/setup/view/intelligence/lowestpublishdfares.phtml, line: 18
-# File: module/setup/view/intelligence/airlineoffers.phtml, line: 23
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 29
 # File: module/setup/view/intelligence/hotels.phtml, line: 14
 msgid "Date From"
 msgstr ""
@@ -13116,7 +13119,7 @@ msgstr ""
 # File: module/manager/view/contracts/index.phtml, line: 15
 # File: module/manager/view/hotel/cancellationpolicies_edit.phtml, line: 27
 # File: module/setup/view/intelligence/lowestpublishdfares.phtml, line: 19
-# File: module/setup/view/intelligence/airlineoffers.phtml, line: 24
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 30
 # File: module/setup/view/intelligence/hotels.phtml, line: 15
 msgid "Date To"
 msgstr ""
@@ -15812,6 +15815,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/editnewsletter.phtml, line: 107
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 168
 # File: module/ages/view/ages/agents/transactions.phtml, line: 19
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 16
 msgid "Search"
 msgstr ""
 #
@@ -17165,7 +17169,7 @@ msgstr ""
 # File: module/ages/view/ages/customers/add.phtml, line: 37
 # File: module/ages/view/ages/customers/edit.phtml, line: 72
 # File: module/setup/view/intelligence/lowestpublishdfares.phtml, line: 15
-# File: module/setup/view/intelligence/airlineoffers.phtml, line: 20
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 26
 # File: module/setup/view/air/editfeaturedairlines.phtml, line: 12
 # File: module/setup/view/air/editfeaturedairlines.phtml, line: 13
 # File: module/setup/view/air/addtoxicairlines.phtml, line: 11
@@ -20108,7 +20112,8 @@ msgstr ""
 # File: module/setup/view/intelligence/lowestpublishdfares.phtml, line: 13
 # File: module/setup/view/intelligence/citypairs.phtml, line: 19
 # File: module/setup/view/intelligence/topdestinations.phtml, line: 12
-# File: module/setup/view/intelligence/airlineoffers.phtml, line: 21
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 11
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 27
 msgid "Origin"
 msgstr ""
 #
@@ -22296,9 +22301,9 @@ msgstr ""
 #
 # File: module/ages/view/ages/packages/addservice.phtml, line: 67
 # File: module/setup/view/intelligence/airlineoffers.phtml, line: 5
-# File: module/setup/view/intelligence/airlineoffers.phtml, line: 74
-# File: module/setup/view/intelligence/airlineoffers.phtml, line: 75
 # File: module/setup/view/intelligence/airlineoffers.phtml, line: 80
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 81
+# File: module/setup/view/intelligence/airlineoffers.phtml, line: 86
 msgid "Airline Offers"
 msgstr ""
 #
