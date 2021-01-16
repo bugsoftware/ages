@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-16 09:34-0500\n"
+"POT-Creation-Date: 2021-01-16 12:30-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15810,12 +15810,15 @@ msgstr ""
 #
 # File: module/ages/view/ages/tours/itineraryimages_add.phtml, line: 38
 # File: module/ages/view/ages/tours/images_add.phtml, line: 37
+# File: module/ages/view/ages/packages/edit_modals.phtml, line: 126
 # File: module/ages/view/ages/newsletter/editnewsletter.phtml, line: 104
 msgid "Search Image"
 msgstr ""
 #
 # File: module/ages/view/ages/tours/itineraryimages_add.phtml, line: 40
 # File: module/ages/view/ages/tours/images_add.phtml, line: 39
+# File: module/ages/view/ages/packages/edit_modals.phtml, line: 126
+# File: module/ages/view/ages/packages/edit_modals.phtml, line: 130
 # File: module/ages/view/ages/newsletter/editnewsletter.phtml, line: 106
 msgid "Keyword"
 msgstr ""
@@ -15826,6 +15829,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/profit.phtml, line: 18
 # File: module/ages/view/ages/reports/agents.phtml, line: 31
 # File: module/ages/view/ages/reports/companies.phtml, line: 24
+# File: module/ages/view/ages/packages/edit_modals.phtml, line: 132
 # File: module/ages/view/ages/newsletter/editnewsletter.phtml, line: 107
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 168
 # File: module/ages/view/ages/agents/transactions.phtml, line: 19
@@ -15835,6 +15839,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/tours/itineraryimages_add.phtml, line: 47
 # File: module/ages/view/ages/tours/images_add.phtml, line: 46
+# File: module/ages/view/ages/packages/edit_modals.phtml, line: 140
 # File: module/ages/view/ages/newsletter/editnewsletter.phtml, line: 113
 msgid "Image Results"
 msgstr ""
@@ -15842,6 +15847,7 @@ msgstr ""
 # File: module/ages/view/ages/tours/itineraryimages_add.phtml, line: 52
 # File: module/ages/view/ages/tours/images_add.phtml, line: 51
 # File: module/ages/view/ages/air/index.phtml, line: 32
+# File: module/ages/view/ages/packages/edit_modals.phtml, line: 145
 # File: module/ages/view/ages/hotels/search.phtml, line: 45
 # File: module/ages/view/ages/hotels/index.phtml, line: 53
 # File: module/ages/view/ages/hotels/index.phtml, line: 57
@@ -15852,6 +15858,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/tours/itineraryimages_add.phtml, line: 53
 # File: module/ages/view/ages/tours/images_add.phtml, line: 52
+# File: module/ages/view/ages/packages/edit_modals.phtml, line: 146
 # File: module/ages/view/ages/newsletter/editnewsletter.phtml, line: 119
 msgid "Tags"
 msgstr ""
@@ -15861,6 +15868,7 @@ msgstr ""
 # File: module/ages/view/ages/air/discounts.phtml, line: 17
 # File: module/ages/view/ages/air/pcc.phtml, line: 16
 # File: module/ages/view/ages/air/priorities.phtml, line: 15
+# File: module/ages/view/ages/packages/edit_modals.phtml, line: 147
 # File: module/ages/view/ages/packages/addservice.phtml, line: 155
 # File: module/ages/view/ages/newsletter/editnewsletter.phtml, line: 120
 # File: module/ages/view/ages/newsletter/editnewsletter.phtml, line: 208
@@ -15883,6 +15891,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/tours/itineraryimages_add.phtml, line: 198
 # File: module/ages/view/ages/tours/images_add.phtml, line: 197
+# File: module/ages/view/ages/packages/edit_modals.phtml, line: 175
 msgid "Select"
 msgstr ""
 #
@@ -19926,7 +19935,7 @@ msgstr ""
 # File: module/ages/view/ages/packages/edit_modals.phtml, line: 45
 # File: module/ages/view/ages/packages/edit_modals.phtml, line: 63
 # File: module/ages/view/ages/packages/edit_modals.phtml, line: 81
-# File: module/ages/view/ages/packages/edit_modals.phtml, line: 116
+# File: module/ages/view/ages/packages/edit_modals.phtml, line: 159
 # File: module/ages/view/ages/packages/addavailability_modals.phtml, line: 25
 # File: module/ages/view/ages/packages/addavailability_modals.phtml, line: 63
 # File: module/ages/view/ages/packages/addavailability_modals.phtml, line: 91
@@ -21786,7 +21795,7 @@ msgid "Please input the number of the day. Eg: 1 for Day 1,2 for Day 2 and so on
 msgstr ""
 #
 # File: module/ages/view/ages/packages/edit_modals.phtml, line: 39
-# File: module/ages/view/ages/packages/edit_modals.phtml, line: 111
+# File: module/ages/view/ages/packages/edit_modals.phtml, line: 120
 # File: module/ages/view/ages/packages/add_modals.phtml, line: 39
 # File: module/ages/view/ages/packages/add_modals.phtml, line: 111
 # File: module/ages/view/ages/dynamic-packaging/edit_modals.phtml, line: 47
@@ -21827,11 +21836,15 @@ msgstr ""
 msgid "Add Exclusion"
 msgstr ""
 #
-# File: module/ages/view/ages/packages/edit_modals.phtml, line: 116
+# File: module/ages/view/ages/packages/edit_modals.phtml, line: 159
 # File: module/ages/view/ages/packages/add_modals.phtml, line: 116
 # File: module/ages/view/ages/dynamic-packaging/edit_modals.phtml, line: 52
 # File: module/ages/view/ages/dynamic-packaging/add_modals.phtml, line: 57
 msgid "Add Image"
+msgstr ""
+#
+# File: module/ages/view/ages/packages/edit_modals.phtml, line: 184
+msgid "Please input image description before selecting the image."
 msgstr ""
 #
 # File: module/ages/view/ages/packages/types.phtml, line: 5
