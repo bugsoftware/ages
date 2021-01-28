@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-28 05:15-0500\n"
+"POT-Creation-Date: 2021-01-28 06:51-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -525,10 +525,10 @@ msgstr ""
 # File: module/setup/src/Controller/cabincategories.php, line: 192
 # File: module/setup/src/Controller/cabincategories.php, line: 207
 # File: module/setup/src/Controller/preferredhotels.php, line: 193
-# File: module/setup/src/Controller/preferredhotels.php, line: 290
-# File: module/setup/src/Controller/preferredhotels.php, line: 296
-# File: module/setup/src/Controller/preferredhotels.php, line: 313
-# File: module/setup/src/Controller/preferredhotels.php, line: 320
+# File: module/setup/src/Controller/preferredhotels.php, line: 295
+# File: module/setup/src/Controller/preferredhotels.php, line: 301
+# File: module/setup/src/Controller/preferredhotels.php, line: 318
+# File: module/setup/src/Controller/preferredhotels.php, line: 325
 # File: module/setup/src/Controller/geotargetmarkup.php, line: 102
 # File: module/setup/src/Controller/decksimages.php, line: 163
 # File: module/setup/src/Controller/decksimages.php, line: 179
@@ -1762,8 +1762,8 @@ msgstr ""
 # File: module/setup/src/Controller/toxicairlines.php, line: 343
 # File: module/setup/src/Controller/toxicairlines.php, line: 367
 # File: module/setup/src/Controller/toxicairlines.php, line: 438
-# File: module/setup/src/Controller/preferredhotels.php, line: 302
-# File: module/setup/src/Controller/preferredhotels.php, line: 335
+# File: module/setup/src/Controller/preferredhotels.php, line: 307
+# File: module/setup/src/Controller/preferredhotels.php, line: 340
 # File: module/setup/view/cars/cartrawler.phtml, line: 216
 # File: module/setup/view/air/toxicairlines.phtml, line: 27
 # File: module/setup/view/air/toxicairlines.phtml, line: 35
@@ -1944,6 +1944,7 @@ msgstr ""
 # File: module/ages/src/Controller/Air.php, line: 190
 # File: module/ages/src/Controller/Packages.php, line: 759
 # File: module/setup/src/Controller/airlineoffers.php, line: 131
+# File: module/setup/src/Controller/hotels.php, line: 19
 # File: module/setup/src/Controller/preferredhotels.php, line: 46
 msgid "All Air Offers"
 msgstr ""
@@ -2994,8 +2995,8 @@ msgstr ""
 # File: module/ages/view/ages/transfers/pricing_add.phtml, line: 55
 # File: module/setup/view/intelligence/preferredhotels_add.phtml, line: 11
 # File: module/setup/view/intelligence/preferredhotels_edit.phtml, line: 12
-# File: module/setup/view/intelligence/hotels.phtml, line: 13
-# File: module/setup/view/intelligence/preferredhotels.phtml, line: 19
+# File: module/setup/view/intelligence/hotels.phtml, line: 24
+# File: module/setup/view/intelligence/preferredhotels.phtml, line: 29
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 11
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 13
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 11
@@ -3081,6 +3082,8 @@ msgstr ""
 # File: module/ages/view/ages/air/offers.phtml, line: 13
 # File: module/ages/view/ages/packages/addservice.phtml, line: 77
 # File: module/setup/view/intelligence/airlineoffers.phtml, line: 13
+# File: module/setup/view/intelligence/hotels.phtml, line: 12
+# File: module/setup/view/intelligence/preferredhotels.phtml, line: 20
 msgid "Air Offers"
 msgstr ""
 #
@@ -4091,9 +4094,9 @@ msgstr ""
 # File: module/ages/view/ages/transfers/pricing_add.phtml, line: 80
 # File: module/manager/view/hotel/cancellationpolicies.phtml, line: 5
 # File: module/setup/view/intelligence/hotels.phtml, line: 5
-# File: module/setup/view/intelligence/hotels.phtml, line: 73
-# File: module/setup/view/intelligence/hotels.phtml, line: 74
-# File: module/setup/view/intelligence/hotels.phtml, line: 79
+# File: module/setup/view/intelligence/hotels.phtml, line: 84
+# File: module/setup/view/intelligence/hotels.phtml, line: 85
+# File: module/setup/view/intelligence/hotels.phtml, line: 90
 # File: module/setup/view/settings/businessintelligence.phtml, line: 25
 # File: module/setup/view/index/index.phtml, line: 4
 msgid "Hotels"
@@ -5827,7 +5830,7 @@ msgstr ""
 # File: module/ages/view/ages/transfers/vehicles_edit.phtml, line: 38
 # File: module/setup/view/intelligence/preferredhotels_add.phtml, line: 12
 # File: module/setup/view/intelligence/preferredhotels_edit.phtml, line: 13
-# File: module/setup/view/intelligence/preferredhotels.phtml, line: 20
+# File: module/setup/view/intelligence/preferredhotels.phtml, line: 30
 # File: module/setup/view/settings/geotargetmarkup.phtml, line: 19
 # File: module/setup/view/settings/geotargetmarkup_edit.phtml, line: 18
 # File: module/setup/view/settings/geotargetmarkup_edit.phtml, line: 19
@@ -8300,7 +8303,7 @@ msgstr ""
 # File: module/manager/view/rooms/index.phtml, line: 16
 # File: module/manager/view/hotel/cancellationpolicies.phtml, line: 16
 # File: module/setup/view/intelligence/citypairs.phtml, line: 24
-# File: module/setup/view/intelligence/preferredhotels.phtml, line: 24
+# File: module/setup/view/intelligence/preferredhotels.phtml, line: 34
 # File: module/setup/view/cruises/decks.phtml, line: 18
 # File: module/setup/view/cruises/decksimages.phtml, line: 18
 # File: module/setup/view/cruises/publicareas.phtml, line: 17
@@ -8476,7 +8479,7 @@ msgstr ""
 # File: module/manager/view/rooms/index.phtml, line: 31
 # File: module/manager/view/hotel/cancellationpolicies.phtml, line: 31
 # File: module/setup/view/intelligence/citypairs.phtml, line: 39
-# File: module/setup/view/intelligence/preferredhotels.phtml, line: 39
+# File: module/setup/view/intelligence/preferredhotels.phtml, line: 49
 # File: module/setup/view/settings/fraudlayer.phtml, line: 22
 # File: module/setup/view/settings/enterpriseratesetup.phtml, line: 30
 # File: module/setup/view/settings/geotargetmarkup.phtml, line: 38
@@ -8741,7 +8744,7 @@ msgstr ""
 # File: module/manager/view/rooms/index.phtml, line: 32
 # File: module/manager/view/rooms/index.phtml, line: 130
 # File: module/manager/view/hotel/cancellationpolicies.phtml, line: 31
-# File: module/setup/view/intelligence/preferredhotels.phtml, line: 39
+# File: module/setup/view/intelligence/preferredhotels.phtml, line: 49
 # File: module/setup/view/settings/globalware.phtml, line: 40
 # File: module/setup/view/settings/globalware.phtml, line: 60
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 32
@@ -8874,8 +8877,8 @@ msgstr ""
 # File: module/setup/view/intelligence/citypairs.phtml, line: 84
 # File: module/setup/view/intelligence/topdestinations.phtml, line: 82
 # File: module/setup/view/intelligence/airlineoffers.phtml, line: 88
-# File: module/setup/view/intelligence/hotels.phtml, line: 79
-# File: module/setup/view/intelligence/preferredhotels.phtml, line: 84
+# File: module/setup/view/intelligence/hotels.phtml, line: 90
+# File: module/setup/view/intelligence/preferredhotels.phtml, line: 94
 # File: module/setup/view/settings/fraudlayer.phtml, line: 63
 # File: module/setup/view/settings/enterpriseratesetup.phtml, line: 71
 # File: module/setup/view/settings/geotargetmarkup.phtml, line: 79
@@ -13245,7 +13248,7 @@ msgstr ""
 # File: module/manager/view/hotel/cancellationpolicies_edit.phtml, line: 24
 # File: module/setup/view/intelligence/lowestpublishdfares.phtml, line: 18
 # File: module/setup/view/intelligence/airlineoffers.phtml, line: 31
-# File: module/setup/view/intelligence/hotels.phtml, line: 14
+# File: module/setup/view/intelligence/hotels.phtml, line: 25
 msgid "Date From"
 msgstr ""
 #
@@ -13334,7 +13337,7 @@ msgstr ""
 # File: module/manager/view/hotel/cancellationpolicies_edit.phtml, line: 27
 # File: module/setup/view/intelligence/lowestpublishdfares.phtml, line: 19
 # File: module/setup/view/intelligence/airlineoffers.phtml, line: 32
-# File: module/setup/view/intelligence/hotels.phtml, line: 15
+# File: module/setup/view/intelligence/hotels.phtml, line: 26
 msgid "Date To"
 msgstr ""
 #
@@ -15662,7 +15665,7 @@ msgstr ""
 # File: module/ages/view/ages/transfers/pricing_add.phtml, line: 19
 # File: module/ages/view/ages/transfers/pricing_add.phtml, line: 20
 # File: module/manager/view/hotel/childpolicies.phtml, line: 101
-# File: module/setup/view/intelligence/hotels.phtml, line: 18
+# File: module/setup/view/intelligence/hotels.phtml, line: 29
 msgid "Price"
 msgstr ""
 #
@@ -16777,7 +16780,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/cms/featureddestinations_edit.phtml, line: 27
 # File: module/ages/view/ages/cms/featureddestinations_add.phtml, line: 27
-# File: module/setup/view/intelligence/hotels.phtml, line: 16
+# File: module/setup/view/intelligence/hotels.phtml, line: 27
 msgid "Stars"
 msgstr ""
 #
@@ -18655,12 +18658,12 @@ msgstr ""
 # File: module/ages/view/ages/customers/list.phtml, line: 24
 # File: module/ages/view/ages/customers/index.phtml, line: 24
 # File: module/ages/view/ages/customers/duplicatedemails.phtml, line: 19
-# File: module/setup/view/intelligence/preferredhotels.phtml, line: 22
+# File: module/setup/view/intelligence/preferredhotels.phtml, line: 32
 msgid "Date Created"
 msgstr ""
 #
 # File: module/ages/view/ages/cruises/ships.phtml, line: 15
-# File: module/setup/view/intelligence/preferredhotels.phtml, line: 23
+# File: module/setup/view/intelligence/preferredhotels.phtml, line: 33
 msgid "Date Updated"
 msgstr ""
 #
@@ -22489,7 +22492,7 @@ msgstr ""
 # File: module/ages/view/ages/packages/index.phtml, line: 36
 # File: module/ages/view/ages/dynamic-packaging/search.phtml, line: 30
 # File: module/setup/view/intelligence/lowestpublishdfares.phtml, line: 22
-# File: module/setup/view/intelligence/hotels.phtml, line: 17
+# File: module/setup/view/intelligence/hotels.phtml, line: 28
 msgid "Days"
 msgstr ""
 #
@@ -29355,7 +29358,7 @@ msgid "National"
 msgstr ""
 #
 # File: module/setup/src/Controller/citypairs.php, line: 238
-# File: module/setup/src/Controller/preferredhotels.php, line: 338
+# File: module/setup/src/Controller/preferredhotels.php, line: 343
 msgid "Default"
 msgstr ""
 #
@@ -32326,7 +32329,7 @@ msgid "Preferred Hotel Details"
 msgstr ""
 #
 # File: module/setup/view/intelligence/preferredhotels_add.phtml, line: 13
-# File: module/setup/view/intelligence/preferredhotels.phtml, line: 21
+# File: module/setup/view/intelligence/preferredhotels.phtml, line: 31
 msgid "Airline Offer"
 msgstr ""
 #
@@ -32392,7 +32395,7 @@ msgid "Region Name"
 msgstr ""
 #
 # File: module/setup/view/intelligence/topdestinations.phtml, line: 21
-# File: module/setup/view/intelligence/hotels.phtml, line: 12
+# File: module/setup/view/intelligence/hotels.phtml, line: 23
 # File: module/setup/view/cars/eih.phtml, line: 75
 # File: module/setup/view/cars/eih.phtml, line: 76
 msgid "City Name"
@@ -32403,13 +32406,13 @@ msgid "Metropolitan Area Name"
 msgstr ""
 #
 # File: module/setup/view/intelligence/preferredhotels.phtml, line: 6
-# File: module/setup/view/intelligence/preferredhotels.phtml, line: 78
-# File: module/setup/view/intelligence/preferredhotels.phtml, line: 79
-# File: module/setup/view/intelligence/preferredhotels.phtml, line: 84
+# File: module/setup/view/intelligence/preferredhotels.phtml, line: 88
+# File: module/setup/view/intelligence/preferredhotels.phtml, line: 89
+# File: module/setup/view/intelligence/preferredhotels.phtml, line: 94
 msgid "Preferred Hotels"
 msgstr ""
 #
-# File: module/setup/view/intelligence/preferredhotels.phtml, line: 11
+# File: module/setup/view/intelligence/preferredhotels.phtml, line: 13
 msgid "Add New Preferred Hotel"
 msgstr ""
 #
