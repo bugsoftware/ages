@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-10 05:58-0500\n"
+"POT-Creation-Date: 2021-02-10 08:14-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -223,13 +223,13 @@ msgstr ""
 # File: module/setup/src/Controller/paymentsexclude.php, line: 71
 # File: module/setup/src/Controller/paymentsexclude.php, line: 179
 # File: module/setup/src/Controller/cabincategories.php, line: 77
-# File: module/setup/src/Controller/featuredairlines.php, line: 101
-# File: module/setup/src/Controller/featuredairlines.php, line: 126
-# File: module/setup/src/Controller/featuredairlines.php, line: 151
-# File: module/setup/src/Controller/featuredairlines.php, line: 281
-# File: module/setup/src/Controller/featuredairlines.php, line: 306
-# File: module/setup/src/Controller/featuredairlines.php, line: 359
-# File: module/setup/src/Controller/featuredairlines.php, line: 374
+# File: module/setup/src/Controller/featuredairlines.php, line: 124
+# File: module/setup/src/Controller/featuredairlines.php, line: 149
+# File: module/setup/src/Controller/featuredairlines.php, line: 174
+# File: module/setup/src/Controller/featuredairlines.php, line: 319
+# File: module/setup/src/Controller/featuredairlines.php, line: 344
+# File: module/setup/src/Controller/featuredairlines.php, line: 398
+# File: module/setup/src/Controller/featuredairlines.php, line: 413
 # File: module/setup/view/settings/settings.phtml, line: 694
 msgid "None"
 msgstr ""
@@ -1873,7 +1873,11 @@ msgstr ""
 # File: module/setup/src/Controller/cruiseships.php, line: 91
 # File: module/setup/src/Controller/globalware.php, line: 69
 # File: module/setup/src/Controller/globalware.php, line: 85
+# File: module/setup/src/Controller/featuredairlines.php, line: 38
+# File: module/setup/src/Controller/featuredairlines.php, line: 74
+# File: module/setup/src/Controller/featuredairlines.php, line: 258
 # File: module/setup/view/settings/globalware.phtml, line: 31
+# File: module/setup/view/air/featuredairlines.phtml, line: 27
 msgid "Active"
 msgstr ""
 #
@@ -1990,7 +1994,7 @@ msgstr ""
 # File: module/setup/src/Controller/toxicairlines.php, line: 129
 # File: module/setup/src/Controller/toxicairlines.php, line: 326
 # File: module/setup/src/Controller/airlineoffers.php, line: 156
-# File: module/setup/src/Controller/featuredairlines.php, line: 256
+# File: module/setup/src/Controller/featuredairlines.php, line: 294
 msgid "All Airlines"
 msgstr ""
 #
@@ -2088,7 +2092,7 @@ msgstr ""
 # File: module/ages/src/Controller/Air.php, line: 3396
 # File: module/ages/src/Controller/Hotels.php, line: 670
 # File: module/setup/src/Controller/toxicairlines.php, line: 426
-# File: module/setup/src/Controller/featuredairlines.php, line: 344
+# File: module/setup/src/Controller/featuredairlines.php, line: 383
 msgid "Not Available"
 msgstr ""
 #
@@ -2160,6 +2164,9 @@ msgstr ""
 # File: module/ages/view/ages/hotels/contractsavailability.phtml, line: 35
 # File: module/ages/view/ages/dynamic-packaging/search.phtml, line: 43
 # File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 31
+# File: module/setup/src/Controller/featuredairlines.php, line: 42
+# File: module/setup/src/Controller/featuredairlines.php, line: 76
+# File: module/setup/src/Controller/featuredairlines.php, line: 262
 # File: module/setup/view/settings/geotargetmarkup.phtml, line: 31
 # File: module/setup/view/cruises/cruiselines.phtml, line: 28
 # File: module/setup/view/cruises/cruiseships.phtml, line: 33
@@ -2171,6 +2178,7 @@ msgstr ""
 # File: module/setup/view/index/index.phtml, line: 229
 # File: module/setup/view/index/index.phtml, line: 266
 # File: module/setup/view/index/index.phtml, line: 302
+# File: module/setup/view/air/featuredairlines.phtml, line: 27
 msgid "Disabled"
 msgstr ""
 #
@@ -7088,6 +7096,10 @@ msgstr ""
 # File: module/setup/view/index/index.phtml, line: 215
 # File: module/setup/view/index/index.phtml, line: 253
 # File: module/setup/view/index/index.phtml, line: 289
+# File: module/setup/view/air/editfeaturedairlines.phtml, line: 26
+# File: module/setup/view/air/editfeaturedairlines.phtml, line: 27
+# File: module/setup/view/air/featuredairlines.phtml, line: 16
+# File: module/setup/view/air/addfeaturedairlines.phtml, line: 16
 msgid "Status"
 msgstr ""
 #
@@ -8407,7 +8419,7 @@ msgstr ""
 # File: module/setup/view/air/airlines.phtml, line: 14
 # File: module/setup/view/air/airports.phtml, line: 16
 # File: module/setup/view/air/branches.phtml, line: 15
-# File: module/setup/view/air/featuredairlines.phtml, line: 16
+# File: module/setup/view/air/featuredairlines.phtml, line: 17
 msgid "Options"
 msgstr ""
 #
@@ -8588,7 +8600,7 @@ msgstr ""
 # File: module/setup/view/cruises/cabincategories.phtml, line: 32
 # File: module/setup/view/air/toxicairlines.phtml, line: 47
 # File: module/setup/view/air/branches.phtml, line: 24
-# File: module/setup/view/air/featuredairlines.phtml, line: 26
+# File: module/setup/view/air/featuredairlines.phtml, line: 28
 msgid "Edit"
 msgstr ""
 #
@@ -8998,7 +9010,7 @@ msgstr ""
 # File: module/setup/view/air/airlines.phtml, line: 64
 # File: module/setup/view/air/airports.phtml, line: 68
 # File: module/setup/view/air/branches.phtml, line: 72
-# File: module/setup/view/air/featuredairlines.phtml, line: 74
+# File: module/setup/view/air/featuredairlines.phtml, line: 76
 msgid "(Press ESC to close)"
 msgstr ""
 #
@@ -21592,7 +21604,7 @@ msgstr ""
 # File: module/ages/view/ages/air/edittoxicairlines.phtml, line: 60
 # File: module/ages/view/ages/air/add_private.phtml, line: 50
 # File: module/ages/view/ages/air/edit_private.phtml, line: 53
-# File: module/setup/view/air/editfeaturedairlines.phtml, line: 56
+# File: module/setup/view/air/editfeaturedairlines.phtml, line: 61
 # File: module/setup/view/air/edittoxicairlines.phtml, line: 59
 msgid "Please enter airline"
 msgstr ""
@@ -36691,7 +36703,7 @@ msgstr ""
 msgid "Edit Featured Airline"
 msgstr ""
 #
-# File: module/setup/view/air/editfeaturedairlines.phtml, line: 25
+# File: module/setup/view/air/editfeaturedairlines.phtml, line: 30
 msgid "Update Featured Airline"
 msgstr ""
 #
@@ -37293,14 +37305,14 @@ msgid "Airports"
 msgstr ""
 #
 # File: module/setup/view/air/featuredairlines.phtml, line: 5
-# File: module/setup/view/air/featuredairlines.phtml, line: 68
-# File: module/setup/view/air/featuredairlines.phtml, line: 69
-# File: module/setup/view/air/featuredairlines.phtml, line: 74
+# File: module/setup/view/air/featuredairlines.phtml, line: 70
+# File: module/setup/view/air/featuredairlines.phtml, line: 71
+# File: module/setup/view/air/featuredairlines.phtml, line: 76
 msgid "Featured Airlines"
 msgstr ""
 #
-# File: module/setup/view/air/featuredairlines.phtml, line: 58
-# File: module/setup/view/air/addfeaturedairlines.phtml, line: 17
+# File: module/setup/view/air/featuredairlines.phtml, line: 60
+# File: module/setup/view/air/addfeaturedairlines.phtml, line: 20
 msgid "Add New Featured Airline"
 msgstr ""
 #
@@ -37371,7 +37383,7 @@ msgstr ""
 msgid "Add Featured Airline"
 msgstr ""
 #
-# File: module/setup/view/air/addfeaturedairlines.phtml, line: 50
+# File: module/setup/view/air/addfeaturedairlines.phtml, line: 53
 msgid "Please enter featured airline"
 msgstr ""
 #
