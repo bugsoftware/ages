@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-09 14:44-0500\n"
+"POT-Creation-Date: 2021-02-10 05:58-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14589,9 +14589,9 @@ msgstr ""
 # File: module/ages/view/ages/agents/deletetelemarketing.phtml, line: 74
 # File: module/ages/view/ages/agents/admin.phtml, line: 35
 # File: module/ages/view/ages/customers/supervisereport.phtml, line: 19
-# File: module/setup/view/intelligence/citypairs_add.phtml, line: 42
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 125
 # File: module/setup/view/intelligence/preferredhotels_add.phtml, line: 17
-# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 46
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 128
 # File: module/setup/view/intelligence/preferredhotels_edit.phtml, line: 18
 # File: module/setup/view/settings/livehelp.phtml, line: 37
 # File: module/setup/view/settings/fraudsettings.phtml, line: 97
@@ -29754,7 +29754,7 @@ msgstr ""
 msgid "National"
 msgstr ""
 #
-# File: module/setup/src/Controller/citypairs.php, line: 238
+# File: module/setup/src/Controller/citypairs.php, line: 310
 msgid "Default"
 msgstr ""
 #
@@ -32689,33 +32689,93 @@ msgstr ""
 msgid "Office ID"
 msgstr ""
 #
-# File: module/setup/view/intelligence/citypairs_add.phtml, line: 24
-# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 24
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 25
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 25
+msgid "Beach"
+msgstr ""
+#
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 31
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 31
+msgid "Caribbean"
+msgstr ""
+#
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 37
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 37
+msgid "Disney"
+msgstr ""
+#
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 43
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 43
+msgid "Gambling/Bets"
+msgstr ""
+#
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 49
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 49
+msgid "Historical"
+msgstr ""
+#
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 55
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 55
+msgid "Mountains"
+msgstr ""
+#
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 65
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 65
+msgid "National Parks"
+msgstr ""
+#
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 71
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 71
+msgid "Fresh Air"
+msgstr ""
+#
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 77
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 77
+msgid "Romantic"
+msgstr ""
+#
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 83
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 83
+msgid "Shopping"
+msgstr ""
+#
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 89
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 89
+msgid "Ski"
+msgstr ""
+#
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 95
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 95
+msgid "Theme Parks"
+msgstr ""
+#
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 107
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 106
 msgid "Departure Date Range"
 msgstr ""
 #
-# File: module/setup/view/intelligence/citypairs_add.phtml, line: 25
-# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 27
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 108
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 109
 msgid "Min Days"
 msgstr ""
 #
-# File: module/setup/view/intelligence/citypairs_add.phtml, line: 26
-# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 28
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 109
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 110
 msgid "Max Days"
 msgstr ""
 #
-# File: module/setup/view/intelligence/citypairs_add.phtml, line: 33
-# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 35
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 116
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 117
 msgid "Stay Duration Range"
 msgstr ""
 #
-# File: module/setup/view/intelligence/citypairs_add.phtml, line: 34
-# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 38
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 117
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 120
 msgid "Min Stay"
 msgstr ""
 #
-# File: module/setup/view/intelligence/citypairs_add.phtml, line: 35
-# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 39
+# File: module/setup/view/intelligence/citypairs_add.phtml, line: 118
+# File: module/setup/view/intelligence/citypairs_edit.phtml, line: 121
 msgid "Max Stay"
 msgstr ""
 #
