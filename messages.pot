@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-10 11:51-0500\n"
+"POT-Creation-Date: 2021-03-10 12:18-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -8406,7 +8406,6 @@ msgstr ""
 # File: module/ages/view/ages/packages/types.phtml, line: 15
 # File: module/ages/view/ages/packages/edit_inclusion.phtml, line: 8
 # File: module/ages/view/ages/packages/addavailability_childrenrates_extra.phtml, line: 16
-# File: module/ages/view/ages/packages/preferredhotelsmissing.phtml, line: 24
 # File: module/ages/view/ages/packages/addavailability_adultrates.phtml, line: 16
 # File: module/ages/view/ages/packages/addavailability_childrenrates_high.phtml, line: 16
 # File: module/ages/view/ages/packages/generalconditions.phtml, line: 16
@@ -8618,7 +8617,6 @@ msgstr ""
 # File: module/ages/view/ages/air/pcc.phtml, line: 35
 # File: module/ages/view/ages/air/listreservations.phtml, line: 52
 # File: module/ages/view/ages/air/priorities.phtml, line: 34
-# File: module/ages/view/ages/packages/preferredhotelsmissing.phtml, line: 39
 # File: module/ages/view/ages/packages/generalconditions.phtml, line: 27
 # File: module/ages/view/ages/packages/searchreservations.phtml, line: 49
 # File: module/ages/view/ages/packages/preferredcruises.phtml, line: 43
@@ -9062,7 +9060,7 @@ msgstr ""
 # File: module/ages/view/ages/air/listreservations.phtml, line: 97
 # File: module/ages/view/ages/air/priorities.phtml, line: 93
 # File: module/ages/view/ages/packages/types.phtml, line: 107
-# File: module/ages/view/ages/packages/preferredhotelsmissing.phtml, line: 84
+# File: module/ages/view/ages/packages/preferredhotelsmissing.phtml, line: 82
 # File: module/ages/view/ages/packages/generalconditions.phtml, line: 96
 # File: module/ages/view/ages/packages/availability.phtml, line: 83
 # File: module/ages/view/ages/packages/preferredcruises.phtml, line: 89
@@ -22695,11 +22693,16 @@ msgid "Add New Child Rate - Extra Night"
 msgstr ""
 #
 # File: module/ages/view/ages/packages/preferredhotelsmissing.phtml, line: 6
-# File: module/ages/view/ages/packages/preferredhotelsmissing.phtml, line: 11
-# File: module/ages/view/ages/packages/preferredhotelsmissing.phtml, line: 78
-# File: module/ages/view/ages/packages/preferredhotelsmissing.phtml, line: 79
-# File: module/ages/view/ages/packages/preferredhotelsmissing.phtml, line: 84
+# File: module/ages/view/ages/packages/preferredhotelsmissing.phtml, line: 76
+# File: module/ages/view/ages/packages/preferredhotelsmissing.phtml, line: 77
+# File: module/ages/view/ages/packages/preferredhotelsmissing.phtml, line: 82
 msgid "Preferred Hotels Missing"
+msgstr ""
+#
+# File: module/ages/view/ages/packages/preferredhotelsmissing.phtml, line: 11
+# File: module/ages/view/ages/packages/preferredhotels.phtml, line: 9
+# File: module/setup/view/intelligence/preferredhotels.phtml, line: 10
+msgid "Add New Preferred Hotel"
 msgstr ""
 #
 # File: module/ages/view/ages/packages/preferredhotelsmissing.phtml, line: 23
@@ -23306,11 +23309,6 @@ msgstr ""
 # File: module/setup/view/intelligence/preferredhotels.phtml, line: 85
 # File: module/setup/view/intelligence/preferredhotels.phtml, line: 90
 msgid "Preferred Hotels"
-msgstr ""
-#
-# File: module/ages/view/ages/packages/preferredhotels.phtml, line: 9
-# File: module/setup/view/intelligence/preferredhotels.phtml, line: 10
-msgid "Add New Preferred Hotel"
 msgstr ""
 #
 # File: module/ages/view/ages/packages/add_map.phtml, line: 2
