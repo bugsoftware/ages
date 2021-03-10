@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-09 04:18-0500\n"
+"POT-Creation-Date: 2021-03-10 05:34-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14736,7 +14736,7 @@ msgstr ""
 # File: module/setup/view/settings/globalware_add.phtml, line: 26
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 28
 # File: module/setup/view/settings/payments.phtml, line: 352
-# File: module/setup/view/settings/settings.phtml, line: 811
+# File: module/setup/view/settings/settings.phtml, line: 816
 # File: module/setup/view/settings/businessintelligence.phtml, line: 148
 # File: module/setup/view/settings/payments-b2b.phtml, line: 362
 # File: module/setup/view/settings/insurance.phtml, line: 19
@@ -35866,56 +35866,61 @@ msgstr ""
 msgid "Tours Markup Fallback"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 751
+# File: module/setup/view/settings/settings.phtml, line: 745
+# File: module/setup/view/settings/settings.phtml, line: 746
+msgid "Remove % recovery fee in booking workflow"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 756
 msgid "Enable Ekata Reverse Phone"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 755
-# File: module/setup/view/settings/settings.phtml, line: 756
+# File: module/setup/view/settings/settings.phtml, line: 760
+# File: module/setup/view/settings/settings.phtml, line: 761
 msgid "Ekata API Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 763
+# File: module/setup/view/settings/settings.phtml, line: 768
 msgid "Enable EveryoneAPI Reverse Phone"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 767
-# File: module/setup/view/settings/settings.phtml, line: 768
+# File: module/setup/view/settings/settings.phtml, line: 772
+# File: module/setup/view/settings/settings.phtml, line: 773
 msgid "EveryoneAPI Key"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 775
-# File: module/setup/view/settings/settings.phtml, line: 776
-msgid "Cancellation Timeout for Confirmed Air Departure Bookings (In minutes) "
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 780
 # File: module/setup/view/settings/settings.phtml, line: 781
-msgid "Cancellation Timeout for Airline Bookings Cancellations (In minutes)"
+msgid "Cancellation Timeout for Confirmed Air Departure Bookings (In minutes) "
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 785
 # File: module/setup/view/settings/settings.phtml, line: 786
-msgid "Cancellation Timeout for Hotel Bookings Cancellations (In minutes)"
+msgid "Cancellation Timeout for Airline Bookings Cancellations (In minutes)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 790
 # File: module/setup/view/settings/settings.phtml, line: 791
-msgid "Cancellation Timeout for Activities Bookings Cancellations (In minutes) "
+msgid "Cancellation Timeout for Hotel Bookings Cancellations (In minutes)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 795
 # File: module/setup/view/settings/settings.phtml, line: 796
-msgid "Cancellation Timeout for Transfer Bookings Cancellations (In minutes)"
+msgid "Cancellation Timeout for Activities Bookings Cancellations (In minutes) "
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 800
 # File: module/setup/view/settings/settings.phtml, line: 801
-msgid "Cancellation Timeout for Car Rental Bookings Cancellations (In minutes)"
+msgid "Cancellation Timeout for Transfer Bookings Cancellations (In minutes)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 805
 # File: module/setup/view/settings/settings.phtml, line: 806
+msgid "Cancellation Timeout for Car Rental Bookings Cancellations (In minutes)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 810
+# File: module/setup/view/settings/settings.phtml, line: 811
 msgid "Cancellation Timeout for Packages Bookings Cancellations (In minutes)"
 msgstr ""
 #
