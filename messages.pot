@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-18 07:03-0400\n"
+"POT-Creation-Date: 2021-03-18 09:50-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,9 +27,9 @@ msgstr ""
 # File: module/ages/src/Controller/Newsletter.php, line: 4234
 # File: module/ages/src/Controller/Newsletter.php, line: 5076
 # File: module/ages/src/Controller/Customers.php, line: 193
-# File: module/ages/src/Controller/Customers.php, line: 3879
-# File: module/ages/src/Controller/Customers.php, line: 5452
-# File: module/ages/src/Controller/Customers.php, line: 6301
+# File: module/ages/src/Controller/Customers.php, line: 3888
+# File: module/ages/src/Controller/Customers.php, line: 5461
+# File: module/ages/src/Controller/Customers.php, line: 6310
 # File: module/ages/src/Controller/ServiceFees.php, line: 754
 # File: module/ages/src/Controller/CMS.php, line: 833
 # File: module/ages/src/Controller/CMS.php, line: 2197
@@ -82,11 +82,11 @@ msgstr ""
 # File: module/ages/src/Controller/Newsletter.php, line: 1565
 # File: module/ages/src/Controller/Newsletter.php, line: 4292
 # File: module/ages/src/Controller/Newsletter.php, line: 5134
-# File: module/ages/src/Controller/Customers.php, line: 2921
-# File: module/ages/src/Controller/Customers.php, line: 3062
-# File: module/ages/src/Controller/Customers.php, line: 4893
-# File: module/ages/src/Controller/Customers.php, line: 5510
-# File: module/ages/src/Controller/Customers.php, line: 6359
+# File: module/ages/src/Controller/Customers.php, line: 2930
+# File: module/ages/src/Controller/Customers.php, line: 3071
+# File: module/ages/src/Controller/Customers.php, line: 4902
+# File: module/ages/src/Controller/Customers.php, line: 5519
+# File: module/ages/src/Controller/Customers.php, line: 6368
 # File: module/ages/src/Controller/Hotels.php, line: 892
 # File: module/ages/src/Controller/Hotels.php, line: 1069
 # File: module/ages/src/Controller/Hotels.php, line: 5111
@@ -192,10 +192,10 @@ msgstr ""
 # File: module/ages/src/Controller/Cruises.php, line: 1565
 # File: module/ages/src/Controller/Cruises.php, line: 1743
 # File: module/ages/src/Controller/Cruises.php, line: 1968
-# File: module/ages/src/Controller/Customers.php, line: 5182
-# File: module/ages/src/Controller/Customers.php, line: 5183
-# File: module/ages/src/Controller/Customers.php, line: 5184
-# File: module/ages/src/Controller/Customers.php, line: 5647
+# File: module/ages/src/Controller/Customers.php, line: 5191
+# File: module/ages/src/Controller/Customers.php, line: 5192
+# File: module/ages/src/Controller/Customers.php, line: 5193
+# File: module/ages/src/Controller/Customers.php, line: 5656
 # File: module/ages/src/Controller/Activities.php, line: 1926
 # File: module/ages/src/Controller/Activities.php, line: 2735
 # File: module/ages/src/Controller/Activities.php, line: 2961
@@ -444,17 +444,17 @@ msgstr ""
 # File: module/ages/src/Controller/Cruises.php, line: 1980
 # File: module/ages/src/Controller/Newsletter.php, line: 1542
 # File: module/ages/src/Controller/Customers.php, line: 204
-# File: module/ages/src/Controller/Customers.php, line: 2024
-# File: module/ages/src/Controller/Customers.php, line: 2070
-# File: module/ages/src/Controller/Customers.php, line: 2395
-# File: module/ages/src/Controller/Customers.php, line: 2441
-# File: module/ages/src/Controller/Customers.php, line: 2931
-# File: module/ages/src/Controller/Customers.php, line: 3072
-# File: module/ages/src/Controller/Customers.php, line: 3890
-# File: module/ages/src/Controller/Customers.php, line: 5658
-# File: module/ages/src/Controller/Customers.php, line: 6781
-# File: module/ages/src/Controller/Customers.php, line: 7035
-# File: module/ages/src/Controller/Customers.php, line: 7065
+# File: module/ages/src/Controller/Customers.php, line: 2033
+# File: module/ages/src/Controller/Customers.php, line: 2079
+# File: module/ages/src/Controller/Customers.php, line: 2404
+# File: module/ages/src/Controller/Customers.php, line: 2450
+# File: module/ages/src/Controller/Customers.php, line: 2940
+# File: module/ages/src/Controller/Customers.php, line: 3081
+# File: module/ages/src/Controller/Customers.php, line: 3899
+# File: module/ages/src/Controller/Customers.php, line: 5667
+# File: module/ages/src/Controller/Customers.php, line: 6790
+# File: module/ages/src/Controller/Customers.php, line: 7044
+# File: module/ages/src/Controller/Customers.php, line: 7074
 # File: module/ages/src/Controller/Activities.php, line: 103
 # File: module/ages/src/Controller/Activities.php, line: 446
 # File: module/ages/src/Controller/Activities.php, line: 1751
@@ -1479,7 +1479,7 @@ msgid "B2C"
 msgstr ""
 #
 # File: module/ages/src/Controller/Reports.php, line: 1805
-# File: module/ages/src/Controller/Customers.php, line: 6587
+# File: module/ages/src/Controller/Customers.php, line: 6596
 msgid "All Countries"
 msgstr ""
 #
@@ -1683,7 +1683,7 @@ msgstr ""
 # File: module/ages/view/ages/customers/supervise.phtml, line: 100
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 72
 # File: module/ages/view/ages/customers/edit.phtml, line: 513
-# File: module/ages/view/ages/customers/listgoogle.phtml, line: 100
+# File: module/ages/view/ages/customers/listgoogle.phtml, line: 110
 # File: module/ages/view/ages/customers/search.phtml, line: 70
 # File: module/ages/view/ages/customers/index.phtml, line: 185
 # File: module/ages/view/ages/customers/duplicatedemails.phtml, line: 180
@@ -2190,8 +2190,8 @@ msgstr ""
 # File: module/ages/src/Controller/Packages.php, line: 3510
 # File: module/ages/src/Controller/Packages.php, line: 4845
 # File: module/ages/src/Controller/Customers.php, line: 915
-# File: module/ages/src/Controller/Customers.php, line: 5308
-# File: module/ages/src/Controller/Customers.php, line: 6172
+# File: module/ages/src/Controller/Customers.php, line: 5317
+# File: module/ages/src/Controller/Customers.php, line: 6181
 # File: module/ages/src/Controller/Activities.php, line: 1493
 # File: module/ages/src/Controller/Activities.php, line: 2203
 # File: module/ages/src/Controller/Hotels.php, line: 249
@@ -2376,8 +2376,8 @@ msgstr ""
 # File: module/ages/src/Controller/GiftCards.php, line: 2099
 # File: module/ages/src/Controller/Newsletter.php, line: 4262
 # File: module/ages/src/Controller/Newsletter.php, line: 5104
-# File: module/ages/src/Controller/Customers.php, line: 5480
-# File: module/ages/src/Controller/Customers.php, line: 6329
+# File: module/ages/src/Controller/Customers.php, line: 5489
+# File: module/ages/src/Controller/Customers.php, line: 6338
 # File: module/ages/src/Controller/ServiceFees.php, line: 793
 # File: module/ages/src/Controller/ServiceFees.php, line: 1069
 # File: module/ages/src/Controller/ServiceFees.php, line: 1270
@@ -2554,20 +2554,20 @@ msgstr ""
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 9022
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 9047
 # File: module/ages/src/Controller/Customers.php, line: 708
-# File: module/ages/src/Controller/Customers.php, line: 2058
-# File: module/ages/src/Controller/Customers.php, line: 2073
-# File: module/ages/src/Controller/Customers.php, line: 2240
-# File: module/ages/src/Controller/Customers.php, line: 2429
-# File: module/ages/src/Controller/Customers.php, line: 2444
-# File: module/ages/src/Controller/Customers.php, line: 2611
+# File: module/ages/src/Controller/Customers.php, line: 2067
+# File: module/ages/src/Controller/Customers.php, line: 2082
+# File: module/ages/src/Controller/Customers.php, line: 2249
+# File: module/ages/src/Controller/Customers.php, line: 2438
+# File: module/ages/src/Controller/Customers.php, line: 2453
+# File: module/ages/src/Controller/Customers.php, line: 2620
 msgid "Direct Booking"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 9618
 # File: module/ages/src/Controller/Customers.php, line: 1188
 # File: module/ages/src/Controller/Customers.php, line: 1431
-# File: module/ages/src/Controller/Customers.php, line: 5261
-# File: module/ages/src/Controller/Customers.php, line: 6124
+# File: module/ages/src/Controller/Customers.php, line: 5270
+# File: module/ages/src/Controller/Customers.php, line: 6133
 # File: module/ages/src/Controller/Hotels.php, line: 5507
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 23
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 26
@@ -2577,8 +2577,8 @@ msgstr ""
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 9619
 # File: module/ages/src/Controller/Customers.php, line: 1196
 # File: module/ages/src/Controller/Customers.php, line: 1439
-# File: module/ages/src/Controller/Customers.php, line: 5269
-# File: module/ages/src/Controller/Customers.php, line: 6132
+# File: module/ages/src/Controller/Customers.php, line: 5278
+# File: module/ages/src/Controller/Customers.php, line: 6141
 # File: module/ages/src/Controller/Hotels.php, line: 5511
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 28
 msgid "Mrs"
@@ -2645,22 +2645,22 @@ msgid "No Business Unit assigned"
 msgstr ""
 #
 # File: module/ages/src/Controller/Agents.php, line: 2055
-# File: module/ages/src/Controller/Customers.php, line: 4606
+# File: module/ages/src/Controller/Customers.php, line: 4615
 msgid "Column count doesn't match"
 msgstr ""
 #
 # File: module/ages/src/Controller/Agents.php, line: 2162
-# File: module/ages/src/Controller/Customers.php, line: 4722
+# File: module/ages/src/Controller/Customers.php, line: 4731
 msgid "Unable to find country"
 msgstr ""
 #
 # File: module/ages/src/Controller/Agents.php, line: 2168
-# File: module/ages/src/Controller/Customers.php, line: 4728
+# File: module/ages/src/Controller/Customers.php, line: 4737
 msgid "Unable to find state/zone"
 msgstr ""
 #
 # File: module/ages/src/Controller/Agents.php, line: 2174
-# File: module/ages/src/Controller/Customers.php, line: 4734
+# File: module/ages/src/Controller/Customers.php, line: 4743
 msgid "Unable to find city"
 msgstr ""
 #
@@ -2674,7 +2674,7 @@ msgid "Agent Id:"
 msgstr ""
 #
 # File: module/ages/src/Controller/Agents.php, line: 6426
-# File: module/ages/src/Controller/Customers.php, line: 5663
+# File: module/ages/src/Controller/Customers.php, line: 5672
 # File: module/ages/view/ages/newsletter/listbroadcasts.phtml, line: 63
 # File: module/ages/view/ages/newsletter/exceptions.phtml, line: 69
 # File: module/ages/view/ages/newsletter/searchbroadcasts.phtml, line: 52
@@ -2695,7 +2695,7 @@ msgid "View"
 msgstr ""
 #
 # File: module/ages/src/Controller/Agents.php, line: 6429
-# File: module/ages/src/Controller/Customers.php, line: 5666
+# File: module/ages/src/Controller/Customers.php, line: 5675
 # File: module/ages/view/ages/users/edit.phtml, line: 802
 # File: module/ages/view/ages/cms/regions_details_edit.phtml, line: 47
 # File: module/ages/view/ages/hotels/editusers.phtml, line: 89
@@ -3502,8 +3502,8 @@ msgstr ""
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 74
 # File: module/ages/view/ages/customers/edit.phtml, line: 513
 # File: module/ages/view/ages/customers/edit.phtml, line: 515
-# File: module/ages/view/ages/customers/listgoogle.phtml, line: 100
-# File: module/ages/view/ages/customers/listgoogle.phtml, line: 102
+# File: module/ages/view/ages/customers/listgoogle.phtml, line: 110
+# File: module/ages/view/ages/customers/listgoogle.phtml, line: 112
 # File: module/ages/view/ages/customers/search.phtml, line: 70
 # File: module/ages/view/ages/customers/search.phtml, line: 72
 # File: module/ages/view/ages/customers/index.phtml, line: 185
@@ -3925,16 +3925,16 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 733
 # File: module/ages/src/Controller/Customers.php, line: 946
 # File: module/ages/src/Controller/Customers.php, line: 1700
-# File: module/ages/src/Controller/Customers.php, line: 1871
-# File: module/ages/src/Controller/Customers.php, line: 4238
-# File: module/ages/src/Controller/Customers.php, line: 7168
+# File: module/ages/src/Controller/Customers.php, line: 1879
+# File: module/ages/src/Controller/Customers.php, line: 4247
+# File: module/ages/src/Controller/Customers.php, line: 7177
 msgid "All agents"
 msgstr ""
 #
 # File: module/ages/src/Controller/Customers.php, line: 1177
 # File: module/ages/src/Controller/Customers.php, line: 1475
-# File: module/ages/src/Controller/Customers.php, line: 5320
-# File: module/ages/src/Controller/Customers.php, line: 6184
+# File: module/ages/src/Controller/Customers.php, line: 5329
+# File: module/ages/src/Controller/Customers.php, line: 6193
 msgid "International passport"
 msgstr ""
 #
@@ -3946,8 +3946,8 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Customers.php, line: 1192
 # File: module/ages/src/Controller/Customers.php, line: 1435
-# File: module/ages/src/Controller/Customers.php, line: 5265
-# File: module/ages/src/Controller/Customers.php, line: 6128
+# File: module/ages/src/Controller/Customers.php, line: 5274
+# File: module/ages/src/Controller/Customers.php, line: 6137
 # File: module/ages/src/Controller/Hotels.php, line: 5515
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 23
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 27
@@ -3956,8 +3956,8 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Customers.php, line: 1200
 # File: module/ages/src/Controller/Customers.php, line: 1443
-# File: module/ages/src/Controller/Customers.php, line: 5273
-# File: module/ages/src/Controller/Customers.php, line: 6136
+# File: module/ages/src/Controller/Customers.php, line: 5282
+# File: module/ages/src/Controller/Customers.php, line: 6145
 # File: module/ages/src/Controller/Hotels.php, line: 5519
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 29
 msgid "Miss"
@@ -3965,8 +3965,8 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Customers.php, line: 1204
 # File: module/ages/src/Controller/Customers.php, line: 1447
-# File: module/ages/src/Controller/Customers.php, line: 5277
-# File: module/ages/src/Controller/Customers.php, line: 6140
+# File: module/ages/src/Controller/Customers.php, line: 5286
+# File: module/ages/src/Controller/Customers.php, line: 6149
 # File: module/ages/src/Controller/Hotels.php, line: 5523
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 30
 msgid "Master"
@@ -3974,8 +3974,8 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Customers.php, line: 1208
 # File: module/ages/src/Controller/Customers.php, line: 1451
-# File: module/ages/src/Controller/Customers.php, line: 5281
-# File: module/ages/src/Controller/Customers.php, line: 6144
+# File: module/ages/src/Controller/Customers.php, line: 5290
+# File: module/ages/src/Controller/Customers.php, line: 6153
 # File: module/ages/src/Controller/Hotels.php, line: 5527
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 31
 msgid "Dr"
@@ -3983,8 +3983,8 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Customers.php, line: 1212
 # File: module/ages/src/Controller/Customers.php, line: 1455
-# File: module/ages/src/Controller/Customers.php, line: 5285
-# File: module/ages/src/Controller/Customers.php, line: 6148
+# File: module/ages/src/Controller/Customers.php, line: 5294
+# File: module/ages/src/Controller/Customers.php, line: 6157
 # File: module/ages/src/Controller/Hotels.php, line: 5531
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 32
 msgid "Lord"
@@ -3992,8 +3992,8 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Customers.php, line: 1216
 # File: module/ages/src/Controller/Customers.php, line: 1459
-# File: module/ages/src/Controller/Customers.php, line: 5289
-# File: module/ages/src/Controller/Customers.php, line: 6152
+# File: module/ages/src/Controller/Customers.php, line: 5298
+# File: module/ages/src/Controller/Customers.php, line: 6161
 # File: module/ages/src/Controller/Hotels.php, line: 5535
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 33
 msgid "Lady"
@@ -4001,8 +4001,8 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Customers.php, line: 1220
 # File: module/ages/src/Controller/Customers.php, line: 1463
-# File: module/ages/src/Controller/Customers.php, line: 5293
-# File: module/ages/src/Controller/Customers.php, line: 6156
+# File: module/ages/src/Controller/Customers.php, line: 5302
+# File: module/ages/src/Controller/Customers.php, line: 6165
 # File: module/ages/src/Controller/Hotels.php, line: 5539
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 34
 msgid "Inf"
@@ -4010,8 +4010,8 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Customers.php, line: 1224
 # File: module/ages/src/Controller/Customers.php, line: 1467
-# File: module/ages/src/Controller/Customers.php, line: 5297
-# File: module/ages/src/Controller/Customers.php, line: 6160
+# File: module/ages/src/Controller/Customers.php, line: 5306
+# File: module/ages/src/Controller/Customers.php, line: 6169
 # File: module/ages/src/Controller/Hotels.php, line: 5543
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 35
 msgid "Rev"
@@ -4090,40 +4090,40 @@ msgstr ""
 msgid "Children"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 4514
+# File: module/ages/src/Controller/Customers.php, line: 4523
 msgid "All Customers"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 4740
+# File: module/ages/src/Controller/Customers.php, line: 4749
 msgid "This is a customer of "
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 4805
+# File: module/ages/src/Controller/Customers.php, line: 4814
 msgid "Telemarketing Id:"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 4873
+# File: module/ages/src/Controller/Customers.php, line: 4882
 msgid "Customer Id:"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 5304
-# File: module/ages/src/Controller/Customers.php, line: 6168
+# File: module/ages/src/Controller/Customers.php, line: 5313
+# File: module/ages/src/Controller/Customers.php, line: 6177
 msgid "Allow the customer to make booking"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 5312
-# File: module/ages/src/Controller/Customers.php, line: 6176
+# File: module/ages/src/Controller/Customers.php, line: 5321
+# File: module/ages/src/Controller/Customers.php, line: 6185
 msgid "Customer can only view rates"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 5324
-# File: module/ages/src/Controller/Customers.php, line: 6188
+# File: module/ages/src/Controller/Customers.php, line: 5333
+# File: module/ages/src/Controller/Customers.php, line: 6197
 msgid "Bilhete de Identidade Nacional"
 msgstr ""
 #
-# File: module/ages/src/Controller/Customers.php, line: 5531
-# File: module/ages/src/Controller/Customers.php, line: 5871
-# File: module/ages/src/Controller/Customers.php, line: 6383
+# File: module/ages/src/Controller/Customers.php, line: 5540
+# File: module/ages/src/Controller/Customers.php, line: 5880
+# File: module/ages/src/Controller/Customers.php, line: 6392
 msgid "Not Set"
 msgstr ""
 #
@@ -6804,7 +6804,7 @@ msgstr ""
 # File: module/ages/view/ages/customers/edit.phtml, line: 64
 # File: module/ages/view/ages/customers/edit.phtml, line: 65
 # File: module/ages/view/ages/customers/edit.phtml, line: 217
-# File: module/ages/view/ages/customers/listgoogle.phtml, line: 23
+# File: module/ages/view/ages/customers/listgoogle.phtml, line: 26
 # File: module/ages/view/ages/customers/import.phtml, line: 63
 # File: module/ages/view/ages/customers/search.phtml, line: 17
 # File: module/ages/view/ages/customers/search.phtml, line: 34
@@ -6941,7 +6941,7 @@ msgstr ""
 # File: module/ages/view/ages/customers/list.phtml, line: 22
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 16
 # File: module/ages/view/ages/customers/edit.phtml, line: 57
-# File: module/ages/view/ages/customers/listgoogle.phtml, line: 22
+# File: module/ages/view/ages/customers/listgoogle.phtml, line: 25
 # File: module/ages/view/ages/customers/import.phtml, line: 20
 # File: module/ages/view/ages/customers/import.phtml, line: 63
 # File: module/ages/view/ages/customers/search.phtml, line: 16
@@ -8295,7 +8295,7 @@ msgstr ""
 # File: module/ages/view/ages/customers/list.phtml, line: 21
 # File: module/ages/view/ages/customers/edit.phtml, line: 56
 # File: module/ages/view/ages/customers/edit.phtml, line: 61
-# File: module/ages/view/ages/customers/listgoogle.phtml, line: 21
+# File: module/ages/view/ages/customers/listgoogle.phtml, line: 24
 # File: module/ages/view/ages/customers/import.phtml, line: 63
 # File: module/ages/view/ages/customers/search.phtml, line: 15
 # File: module/ages/view/ages/customers/search.phtml, line: 32
@@ -8506,7 +8506,7 @@ msgstr ""
 # File: module/ages/view/ages/customers/list.phtml, line: 25
 # File: module/ages/view/ages/customers/supervise.phtml, line: 19
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 20
-# File: module/ages/view/ages/customers/listgoogle.phtml, line: 25
+# File: module/ages/view/ages/customers/listgoogle.phtml, line: 28
 # File: module/ages/view/ages/customers/search.phtml, line: 35
 # File: module/ages/view/ages/customers/index.phtml, line: 25
 # File: module/ages/view/ages/customers/duplicatedemails.phtml, line: 21
@@ -8685,7 +8685,7 @@ msgstr ""
 # File: module/ages/view/ages/customers/duplicated.phtml, line: 38
 # File: module/ages/view/ages/customers/list.phtml, line: 38
 # File: module/ages/view/ages/customers/editreservations.phtml, line: 94
-# File: module/ages/view/ages/customers/listgoogle.phtml, line: 38
+# File: module/ages/view/ages/customers/listgoogle.phtml, line: 41
 # File: module/ages/view/ages/customers/import.phtml, line: 36
 # File: module/ages/view/ages/customers/import.phtml, line: 38
 # File: module/ages/view/ages/customers/search.phtml, line: 48
@@ -8961,8 +8961,8 @@ msgstr ""
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 54
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 70
 # File: module/ages/view/ages/customers/edit.phtml, line: 511
-# File: module/ages/view/ages/customers/listgoogle.phtml, line: 38
-# File: module/ages/view/ages/customers/listgoogle.phtml, line: 98
+# File: module/ages/view/ages/customers/listgoogle.phtml, line: 41
+# File: module/ages/view/ages/customers/listgoogle.phtml, line: 108
 # File: module/ages/view/ages/customers/search.phtml, line: 50
 # File: module/ages/view/ages/customers/search.phtml, line: 68
 # File: module/ages/view/ages/customers/index.phtml, line: 40
@@ -10557,7 +10557,7 @@ msgstr ""
 # File: module/ages/view/ages/customers/duplicated.phtml, line: 13
 # File: module/ages/view/ages/customers/list.phtml, line: 20
 # File: module/ages/view/ages/customers/edit.phtml, line: 52
-# File: module/ages/view/ages/customers/listgoogle.phtml, line: 20
+# File: module/ages/view/ages/customers/listgoogle.phtml, line: 23
 # File: module/ages/view/ages/customers/import.phtml, line: 21
 # File: module/ages/view/ages/customers/import.phtml, line: 63
 # File: module/ages/view/ages/customers/search.phtml, line: 11
@@ -10619,7 +10619,7 @@ msgstr ""
 # File: module/ages/view/ages/customers/duplicated.phtml, line: 12
 # File: module/ages/view/ages/customers/list.phtml, line: 19
 # File: module/ages/view/ages/customers/edit.phtml, line: 53
-# File: module/ages/view/ages/customers/listgoogle.phtml, line: 19
+# File: module/ages/view/ages/customers/listgoogle.phtml, line: 22
 # File: module/ages/view/ages/customers/import.phtml, line: 22
 # File: module/ages/view/ages/customers/import.phtml, line: 63
 # File: module/ages/view/ages/customers/search.phtml, line: 12
@@ -11098,7 +11098,7 @@ msgstr ""
 # File: module/ages/view/ages/customers/export.phtml, line: 11
 # File: module/ages/view/ages/customers/edit.phtml, line: 46
 # File: module/ages/view/ages/customers/edit.phtml, line: 47
-# File: module/ages/view/ages/customers/listgoogle.phtml, line: 10
+# File: module/ages/view/ages/customers/listgoogle.phtml, line: 11
 # File: module/ages/view/ages/customers/index.phtml, line: 10
 # File: module/ages/view/ages/customers/duplicatedemails.phtml, line: 15
 # File: module/setup/view/settings/geotargetmarkup.phtml, line: 17
@@ -18122,7 +18122,7 @@ msgstr ""
 # File: module/ages/view/ages/customers/duplicated.phtml, line: 76
 # File: module/ages/view/ages/customers/list.phtml, line: 74
 # File: module/ages/view/ages/customers/edit.phtml, line: 512
-# File: module/ages/view/ages/customers/listgoogle.phtml, line: 99
+# File: module/ages/view/ages/customers/listgoogle.phtml, line: 109
 # File: module/ages/view/ages/customers/search.phtml, line: 69
 # File: module/ages/view/ages/customers/index.phtml, line: 184
 # File: module/ages/view/ages/customers/duplicatedemails.phtml, line: 179
@@ -18953,7 +18953,7 @@ msgstr ""
 # File: module/ages/view/ages/packages/preferredhotels.phtml, line: 26
 # File: module/ages/view/ages/customers/duplicated.phtml, line: 19
 # File: module/ages/view/ages/customers/list.phtml, line: 24
-# File: module/ages/view/ages/customers/listgoogle.phtml, line: 24
+# File: module/ages/view/ages/customers/listgoogle.phtml, line: 27
 # File: module/ages/view/ages/customers/index.phtml, line: 24
 # File: module/ages/view/ages/customers/duplicatedemails.phtml, line: 19
 # File: module/setup/view/intelligence/preferredcruises.phtml, line: 27
@@ -29008,6 +29008,10 @@ msgstr ""
 #
 # File: module/ages/view/ages/customers/listgoogle.phtml, line: 5
 msgid "List Customers (Google)"
+msgstr ""
+#
+# File: module/ages/view/ages/customers/listgoogle.phtml, line: 13
+msgid "Without agent"
 msgstr ""
 #
 # File: module/ages/view/ages/customers/editstatisticsair.phtml, line: 14
