@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-24 07:33-0400\n"
+"POT-Creation-Date: 2021-03-24 13:12-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14764,7 +14764,7 @@ msgstr ""
 # File: module/setup/view/settings/payments.phtml, line: 362
 # File: module/setup/view/settings/settings.phtml, line: 870
 # File: module/setup/view/settings/businessintelligence.phtml, line: 148
-# File: module/setup/view/settings/payments-b2b.phtml, line: 362
+# File: module/setup/view/settings/payments-b2b.phtml, line: 372
 # File: module/setup/view/settings/insurance.phtml, line: 19
 # File: module/setup/view/settings/enterpriseratesetup_edit.phtml, line: 33
 # File: module/setup/view/settings/geotargetmarkup_edit.phtml, line: 28
@@ -24041,6 +24041,13 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit_points_origin.phtml, line: 67
 # File: module/ages/view/ages/agents/edit_points_origin.phtml, line: 71
 msgid "Enter Origin"
+msgstr ""
+#
+# File: module/ages/view/ages/sub-agents/add_payments.phtml, line: 126
+# File: module/ages/view/ages/sub-agents/edit_payments.phtml, line: 126
+# File: module/ages/view/ages/agents/add_payments.phtml, line: 126
+# File: module/ages/view/ages/agents/edit_payments.phtml, line: 126
+msgid "Enable Pagoefectivo"
 msgstr ""
 #
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 13
@@ -35358,6 +35365,7 @@ msgid "Enable wire transfer"
 msgstr ""
 #
 # File: module/setup/view/settings/payments.phtml, line: 357
+# File: module/setup/view/settings/payments-b2b.phtml, line: 367
 msgid "Enable PagoEfectivo"
 msgstr ""
 #
