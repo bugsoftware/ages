@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-23 02:17-0400\n"
+"POT-Creation-Date: 2021-04-23 09:24-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -194,6 +194,8 @@ msgstr ""
 # File: module/ages/src/Controller/Cruises.php, line: 1565
 # File: module/ages/src/Controller/Cruises.php, line: 1743
 # File: module/ages/src/Controller/Cruises.php, line: 1968
+# File: module/ages/src/Controller/Newsletter.php, line: 6582
+# File: module/ages/src/Controller/Newsletter.php, line: 6603
 # File: module/ages/src/Controller/Customers.php, line: 5197
 # File: module/ages/src/Controller/Customers.php, line: 5198
 # File: module/ages/src/Controller/Customers.php, line: 5199
@@ -449,6 +451,7 @@ msgstr ""
 # File: module/ages/src/Controller/Cruises.php, line: 1965
 # File: module/ages/src/Controller/Cruises.php, line: 1980
 # File: module/ages/src/Controller/Newsletter.php, line: 1547
+# File: module/ages/src/Controller/Newsletter.php, line: 6566
 # File: module/ages/src/Controller/Customers.php, line: 204
 # File: module/ages/src/Controller/Customers.php, line: 2033
 # File: module/ages/src/Controller/Customers.php, line: 2079
@@ -3877,7 +3880,7 @@ msgid "Unknown - Possible deleted"
 msgstr ""
 #
 # File: module/ages/src/Controller/Newsletter.php, line: 966
-# File: module/ages/src/Controller/Newsletter.php, line: 6748
+# File: module/ages/src/Controller/Newsletter.php, line: 6967
 # File: module/ages/view/ages/newsletter/exceptions.phtml, line: 11
 msgid "All Newsletters"
 msgstr ""
@@ -6355,6 +6358,7 @@ msgstr ""
 # File: module/ages/view/ages/hotels/searchreservations.phtml, line: 31
 # File: module/ages/view/ages/hotels/reservations.phtml, line: 13
 # File: module/ages/view/ages/hotels/listreservations.phtml, line: 13
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 32
 # File: module/ages/view/ages/newsletter/searchbroadcasts.phtml, line: 25
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 116
 # File: module/ages/view/ages/newsletter/spam.phtml, line: 14
@@ -6636,6 +6640,7 @@ msgstr ""
 # File: module/ages/view/ages/hotels/edit_markups.phtml, line: 18
 # File: module/ages/view/ages/hotels/markups.phtml, line: 17
 # File: module/ages/view/ages/hotels/add_markups.phtml, line: 18
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 35
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1707
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1708
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2305
@@ -7063,6 +7068,7 @@ msgstr ""
 # File: module/ages/view/ages/hotels/adduser.phtml, line: 19
 # File: module/ages/view/ages/hotels/edit.phtml, line: 26
 # File: module/ages/view/ages/hotels/account_information_edit.phtml, line: 5
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 38
 # File: module/ages/view/ages/newsletter/add.phtml, line: 25
 # File: module/ages/view/ages/newsletter/stats.phtml, line: 60
 # File: module/ages/view/ages/newsletter/list.phtml, line: 17
@@ -7314,6 +7320,17 @@ msgstr ""
 # File: module/ages/view/ages/affiliates/edit_socialmedia.phtml, line: 11
 # File: module/ages/view/ages/sub-agents/add_socialmedia.phtml, line: 11
 # File: module/ages/view/ages/sub-agents/edit_socialmedia.phtml, line: 11
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 25
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 41
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 172
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 173
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 178
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 186
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 195
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 202
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 209
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 216
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 217
 # File: module/ages/view/ages/agents/add_socialmedia.phtml, line: 11
 # File: module/ages/view/ages/agents/edit_socialmedia.phtml, line: 11
 msgid "Whatsapp"
@@ -7421,6 +7438,7 @@ msgstr ""
 # File: module/ages/view/ages/hotels/index.phtml, line: 17
 # File: module/ages/view/ages/hotels/contractsavailability_add.phtml, line: 20
 # File: module/ages/view/ages/hotels/listreservations.phtml, line: 20
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 40
 # File: module/ages/view/ages/newsletter/listbroadcasts.phtml, line: 32
 # File: module/ages/view/ages/newsletter/create.phtml, line: 28
 # File: module/ages/view/ages/newsletter/add.phtml, line: 30
@@ -9424,6 +9442,7 @@ msgstr ""
 # File: module/ages/view/ages/hotels/reservations.phtml, line: 84
 # File: module/ages/view/ages/hotels/index.phtml, line: 133
 # File: module/ages/view/ages/hotels/listreservations.phtml, line: 101
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 178
 # File: module/ages/view/ages/newsletter/flyers.phtml, line: 93
 # File: module/ages/view/ages/newsletter/listbroadcasts.phtml, line: 118
 # File: module/ages/view/ages/newsletter/list.phtml, line: 102
@@ -9653,6 +9672,7 @@ msgid "Date/Time"
 msgstr ""
 #
 # File: module/ages/view/ages/users/eventviewer.phtml, line: 17
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 36
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1991
 # File: module/ages/view/ages/agents/edit_events.phtml, line: 13
 # File: module/setup/view/activities/projectexpedition.phtml, line: 20
@@ -11406,6 +11426,9 @@ msgstr ""
 # File: module/ages/view/ages/hotels/edit_markups.phtml, line: 17
 # File: module/ages/view/ages/hotels/markups.phtml, line: 16
 # File: module/ages/view/ages/hotels/add_markups.phtml, line: 17
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 10
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 11
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 33
 # File: module/ages/view/ages/newsletter/stats.phtml, line: 61
 # File: module/ages/view/ages/dynamic-packaging/offlinebooking.phtml, line: 35
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 18
@@ -11473,6 +11496,7 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 22
 # File: module/ages/view/ages/cms/featuredflights_edit.phtml, line: 24
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 15
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 12
 # File: module/ages/view/ages/agents/telemarketing.phtml, line: 15
 # File: module/ages/view/ages/agents/telemarketing.phtml, line: 17
 # File: module/ages/view/ages/agents/transfercustomers.phtml, line: 15
@@ -14069,6 +14093,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/companies.phtml, line: 231
 # File: module/ages/view/ages/air/chartersreport.phtml, line: 60
 # File: module/ages/view/ages/sub-agents/index.phtml, line: 135
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 131
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 205
 # File: module/ages/view/ages/agents/zombie.phtml, line: 69
 # File: module/ages/view/ages/agents/detailedreport.phtml, line: 90
@@ -14116,6 +14141,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/companies.phtml, line: 231
 # File: module/ages/view/ages/air/chartersreport.phtml, line: 60
 # File: module/ages/view/ages/sub-agents/index.phtml, line: 135
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 131
 # File: module/ages/view/ages/newsletter/sendcitypair.phtml, line: 226
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 205
 # File: module/ages/view/ages/agents/zombie.phtml, line: 69
@@ -14167,6 +14193,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/companies.phtml, line: 231
 # File: module/ages/view/ages/air/chartersreport.phtml, line: 60
 # File: module/ages/view/ages/sub-agents/index.phtml, line: 135
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 131
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 205
 # File: module/ages/view/ages/agents/zombie.phtml, line: 69
 # File: module/ages/view/ages/agents/detailedreport.phtml, line: 90
@@ -14232,6 +14259,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/companies.phtml, line: 233
 # File: module/ages/view/ages/air/chartersreport.phtml, line: 62
 # File: module/ages/view/ages/sub-agents/index.phtml, line: 137
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 133
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 207
 # File: module/ages/view/ages/agents/zombie.phtml, line: 71
 # File: module/ages/view/ages/agents/detailedreport.phtml, line: 92
@@ -14299,6 +14327,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/companies.phtml, line: 236
 # File: module/ages/view/ages/air/chartersreport.phtml, line: 64
 # File: module/ages/view/ages/sub-agents/index.phtml, line: 140
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 136
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 210
 # File: module/ages/view/ages/agents/zombie.phtml, line: 74
 # File: module/ages/view/ages/agents/detailedreport.phtml, line: 95
@@ -14346,6 +14375,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/companies.phtml, line: 237
 # File: module/ages/view/ages/air/chartersreport.phtml, line: 64
 # File: module/ages/view/ages/sub-agents/index.phtml, line: 141
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 137
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 211
 # File: module/ages/view/ages/agents/zombie.phtml, line: 75
 # File: module/ages/view/ages/agents/detailedreport.phtml, line: 96
@@ -15102,6 +15132,7 @@ msgstr ""
 # File: module/ages/view/ages/hotels/add_accounting.phtml, line: 23
 # File: module/ages/view/ages/hotels/add_markups.phtml, line: 26
 # File: module/ages/view/ages/hotels/add_taxes.phtml, line: 29
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 19
 # File: module/ages/view/ages/dynamic-packaging/add_flight.phtml, line: 30
 # File: module/ages/view/ages/dynamic-packaging/add_activity.phtml, line: 27
 # File: module/ages/view/ages/dynamic-packaging/add_car.phtml, line: 29
@@ -15293,6 +15324,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/communications.phtml, line: 44
 # File: module/ages/view/ages/reports/airlines.phtml, line: 68
 # File: module/ages/view/ages/reports/searches.phtml, line: 41
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 34
 # File: module/ages/view/ages/newsletter/stats.phtml, line: 58
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 15
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 34
@@ -15537,6 +15569,7 @@ msgstr ""
 # File: module/ages/view/ages/activities/add_languages.phtml, line: 9
 # File: module/ages/view/ages/login/index.phtml, line: 68
 # File: module/ages/view/ages/newsletter/sendtoagent.phtml, line: 45
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 37
 # File: module/ages/view/ages/newsletter/send.phtml, line: 42
 # File: module/ages/view/ages/newsletter/sendcitypair.phtml, line: 48
 # File: module/ages/view/ages/customers/questions_edit.phtml, line: 15
@@ -17655,6 +17688,7 @@ msgstr ""
 # File: module/ages/view/ages/service-fees/add.phtml, line: 22
 # File: module/ages/view/ages/service-fees/list.phtml, line: 18
 # File: module/ages/view/ages/service-fees/edit.phtml, line: 28
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 42
 # File: module/ages/view/ages/customers/editstatistics.phtml, line: 11
 # File: module/ages/view/ages/customers/editstatisticsair.phtml, line: 11
 msgid "Section"
@@ -17675,6 +17709,7 @@ msgstr ""
 # File: module/ages/view/ages/cms/banners_edit.phtml, line: 26
 # File: module/ages/view/ages/hotels/add.phtml, line: 14
 # File: module/ages/view/ages/hotels/edit.phtml, line: 18
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 43
 # File: module/manager/view/hotel/index.phtml, line: 18
 msgid "Area"
 msgstr ""
@@ -20391,6 +20426,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/transfers.phtml, line: 27
 # File: module/ages/view/ages/reports/hotelssales.phtml, line: 33
 # File: module/ages/view/ages/reports/companies.phtml, line: 18
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 15
 # File: module/ages/view/ages/customers/supervisereport.phtml, line: 15
 # File: module/ages/view/ages/customers/travellingtomorrow.phtml, line: 14
 # File: module/ages/view/ages/customers/travelling.phtml, line: 14
@@ -20413,6 +20449,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/transfers.phtml, line: 28
 # File: module/ages/view/ages/reports/hotelssales.phtml, line: 34
 # File: module/ages/view/ages/reports/companies.phtml, line: 19
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 16
 # File: module/ages/view/ages/customers/supervisereport.phtml, line: 16
 # File: module/ages/view/ages/customers/travellingtomorrow.phtml, line: 15
 # File: module/ages/view/ages/customers/travelling.phtml, line: 15
@@ -25540,6 +25577,7 @@ msgid "Broadcast to Agents"
 msgstr ""
 #
 # File: module/ages/view/ages/newsletter/sendtoagent.phtml, line: 12
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 25
 # File: module/ages/view/ages/newsletter/flyers.phtml, line: 5
 # File: module/ages/view/ages/newsletter/listbroadcasts.phtml, line: 5
 # File: module/ages/view/ages/newsletter/send.phtml, line: 12
@@ -25638,6 +25676,31 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/addpackage.phtml, line: 5
 # File: module/ages/view/ages/newsletter/editnewsletter.phtml, line: 187
 msgid "Add Package"
+msgstr ""
+#
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 39
+# File: module/setup/view/settings/globalware_add.phtml, line: 18
+# File: module/setup/view/settings/globalware.phtml, line: 16
+# File: module/setup/view/settings/globalware_edit.phtml, line: 16
+msgid "Hostname"
+msgstr ""
+#
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 131
+msgid "whatsapp(s)"
+msgstr ""
+#
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 132
+# File: module/ages/view/ages/customers/supervisereport.phtml, line: 123
+msgid "No report"
+msgstr ""
+#
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 133
+msgid "whatsapp"
+msgstr ""
+#
+# File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 134
+# File: module/ages/view/ages/customers/supervisereport.phtml, line: 125
+msgid "No report to display"
 msgstr ""
 #
 # File: module/ages/view/ages/newsletter/editair.phtml, line: 5
@@ -28672,14 +28735,6 @@ msgstr ""
 #
 # File: module/ages/view/ages/customers/supervisereport.phtml, line: 34
 msgid "Changes Made"
-msgstr ""
-#
-# File: module/ages/view/ages/customers/supervisereport.phtml, line: 123
-msgid "No report"
-msgstr ""
-#
-# File: module/ages/view/ages/customers/supervisereport.phtml, line: 125
-msgid "No report to display"
 msgstr ""
 #
 # File: module/ages/view/ages/customers/addpassdocuments.phtml, line: 5
@@ -35915,12 +35970,6 @@ msgstr ""
 # File: module/setup/view/settings/b2bwallet.phtml, line: 248
 # File: module/setup/view/hotels/amadeus.phtml, line: 297
 msgid "Please enter multi single availability"
-msgstr ""
-#
-# File: module/setup/view/settings/globalware_add.phtml, line: 18
-# File: module/setup/view/settings/globalware.phtml, line: 16
-# File: module/setup/view/settings/globalware_edit.phtml, line: 16
-msgid "Hostname"
 msgstr ""
 #
 # File: module/setup/view/settings/globalware_add.phtml, line: 21
