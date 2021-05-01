@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-01 15:31-0400\n"
+"POT-Creation-Date: 2021-05-01 16:06-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2915,7 +2915,7 @@ msgstr ""
 # File: module/setup/view/hotels/specialtours.phtml, line: 80
 # File: module/setup/view/hotels/hoteldo.phtml, line: 190
 # File: module/setup/view/hotels/snaptravel.phtml, line: 103
-# File: module/setup/view/hotels/premierinn.phtml, line: 86
+# File: module/setup/view/hotels/premierinn.phtml, line: 90
 # File: module/setup/view/transfers/actiontravel.phtml, line: 63
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 85
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 69
@@ -6811,7 +6811,7 @@ msgstr ""
 # File: module/setup/view/hotels/specialtours.phtml, line: 26
 # File: module/setup/view/hotels/hoteldo.phtml, line: 33
 # File: module/setup/view/hotels/snaptravel.phtml, line: 15
-# File: module/setup/view/hotels/premierinn.phtml, line: 30
+# File: module/setup/view/hotels/premierinn.phtml, line: 34
 # File: module/setup/view/transfers/actiontravel.phtml, line: 23
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 17
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 23
@@ -10876,7 +10876,7 @@ msgstr ""
 # File: module/setup/view/hotels/ocean.phtml, line: 169
 # File: module/setup/view/hotels/ati.phtml, line: 136
 # File: module/setup/view/hotels/specialtours.phtml, line: 140
-# File: module/setup/view/hotels/premierinn.phtml, line: 149
+# File: module/setup/view/hotels/premierinn.phtml, line: 153
 # File: module/setup/view/transfers/actiontravel.phtml, line: 117
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 129
 # File: module/setup/view/transfers/trapsatur.phtml, line: 133
@@ -11568,6 +11568,8 @@ msgstr ""
 # File: module/setup/view/cruises/cabincategories.phtml, line: 12
 # File: module/setup/view/air/airlines.phtml, line: 12
 # File: module/setup/view/air/airports.phtml, line: 12
+# File: module/setup/view/hotels/premierinn.phtml, line: 26
+# File: module/setup/view/hotels/premierinn.phtml, line: 27
 msgid "Code"
 msgstr ""
 #
@@ -19782,7 +19784,7 @@ msgstr ""
 # File: module/setup/view/hotels/specialtours.phtml, line: 37
 # File: module/setup/view/hotels/hoteldo.phtml, line: 44
 # File: module/setup/view/hotels/snaptravel.phtml, line: 26
-# File: module/setup/view/hotels/premierinn.phtml, line: 41
+# File: module/setup/view/hotels/premierinn.phtml, line: 45
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 28
 # File: module/setup/view/transfers/nexustours.phtml, line: 35
 msgid "Branch"
@@ -30991,7 +30993,7 @@ msgstr ""
 # File: module/setup/view/hotels/specialtours.phtml, line: 29
 # File: module/setup/view/hotels/hoteldo.phtml, line: 36
 # File: module/setup/view/hotels/snaptravel.phtml, line: 18
-# File: module/setup/view/hotels/premierinn.phtml, line: 33
+# File: module/setup/view/hotels/premierinn.phtml, line: 37
 # File: module/setup/view/transfers/actiontravel.phtml, line: 26
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 20
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 26
@@ -31108,7 +31110,7 @@ msgstr ""
 # File: module/setup/view/hotels/specialtours.phtml, line: 40
 # File: module/setup/view/hotels/hoteldo.phtml, line: 47
 # File: module/setup/view/hotels/snaptravel.phtml, line: 29
-# File: module/setup/view/hotels/premierinn.phtml, line: 44
+# File: module/setup/view/hotels/premierinn.phtml, line: 48
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 31
 # File: module/setup/view/transfers/nexustours.phtml, line: 38
 msgid "Default - All Branch"
@@ -31319,8 +31321,8 @@ msgstr ""
 # File: module/setup/view/hotels/hoteldo.phtml, line: 104
 # File: module/setup/view/hotels/snaptravel.phtml, line: 41
 # File: module/setup/view/hotels/snaptravel.phtml, line: 42
-# File: module/setup/view/hotels/premierinn.phtml, line: 54
-# File: module/setup/view/hotels/premierinn.phtml, line: 55
+# File: module/setup/view/hotels/premierinn.phtml, line: 58
+# File: module/setup/view/hotels/premierinn.phtml, line: 59
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 41
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 42
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 52
@@ -31436,7 +31438,7 @@ msgstr ""
 # File: module/setup/view/hotels/specialtours.phtml, line: 51
 # File: module/setup/view/hotels/hoteldo.phtml, line: 160
 # File: module/setup/view/hotels/snaptravel.phtml, line: 44
-# File: module/setup/view/hotels/premierinn.phtml, line: 57
+# File: module/setup/view/hotels/premierinn.phtml, line: 61
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 43
 # File: module/setup/view/transfers/nexustours.phtml, line: 57
 msgid "Parallel Search"
@@ -31698,8 +31700,8 @@ msgstr ""
 # File: module/setup/view/hotels/hoteldo.phtml, line: 165
 # File: module/setup/view/hotels/snaptravel.phtml, line: 78
 # File: module/setup/view/hotels/snaptravel.phtml, line: 79
-# File: module/setup/view/hotels/premierinn.phtml, line: 61
-# File: module/setup/view/hotels/premierinn.phtml, line: 62
+# File: module/setup/view/hotels/premierinn.phtml, line: 65
+# File: module/setup/view/hotels/premierinn.phtml, line: 66
 # File: module/setup/view/transfers/actiontravel.phtml, line: 40
 # File: module/setup/view/transfers/actiontravel.phtml, line: 41
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 62
@@ -31975,8 +31977,8 @@ msgstr ""
 # File: module/setup/view/hotels/hoteldo.phtml, line: 169
 # File: module/setup/view/hotels/snaptravel.phtml, line: 81
 # File: module/setup/view/hotels/snaptravel.phtml, line: 82
-# File: module/setup/view/hotels/premierinn.phtml, line: 64
-# File: module/setup/view/hotels/premierinn.phtml, line: 65
+# File: module/setup/view/hotels/premierinn.phtml, line: 68
+# File: module/setup/view/hotels/premierinn.phtml, line: 69
 # File: module/setup/view/transfers/actiontravel.phtml, line: 43
 # File: module/setup/view/transfers/actiontravel.phtml, line: 44
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 65
@@ -32248,8 +32250,8 @@ msgstr ""
 # File: module/setup/view/hotels/hoteldo.phtml, line: 172
 # File: module/setup/view/hotels/snaptravel.phtml, line: 84
 # File: module/setup/view/hotels/snaptravel.phtml, line: 85
-# File: module/setup/view/hotels/premierinn.phtml, line: 67
-# File: module/setup/view/hotels/premierinn.phtml, line: 68
+# File: module/setup/view/hotels/premierinn.phtml, line: 71
+# File: module/setup/view/hotels/premierinn.phtml, line: 72
 # File: module/setup/view/transfers/actiontravel.phtml, line: 46
 # File: module/setup/view/transfers/actiontravel.phtml, line: 47
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 68
@@ -32523,8 +32525,8 @@ msgstr ""
 # File: module/setup/view/hotels/hoteldo.phtml, line: 176
 # File: module/setup/view/hotels/snaptravel.phtml, line: 88
 # File: module/setup/view/hotels/snaptravel.phtml, line: 89
-# File: module/setup/view/hotels/premierinn.phtml, line: 71
-# File: module/setup/view/hotels/premierinn.phtml, line: 72
+# File: module/setup/view/hotels/premierinn.phtml, line: 75
+# File: module/setup/view/hotels/premierinn.phtml, line: 76
 # File: module/setup/view/transfers/actiontravel.phtml, line: 49
 # File: module/setup/view/transfers/actiontravel.phtml, line: 50
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 71
@@ -32718,8 +32720,8 @@ msgstr ""
 # File: module/setup/view/hotels/hoteldo.phtml, line: 185
 # File: module/setup/view/hotels/snaptravel.phtml, line: 96
 # File: module/setup/view/hotels/snaptravel.phtml, line: 98
-# File: module/setup/view/hotels/premierinn.phtml, line: 79
-# File: module/setup/view/hotels/premierinn.phtml, line: 81
+# File: module/setup/view/hotels/premierinn.phtml, line: 83
+# File: module/setup/view/hotels/premierinn.phtml, line: 85
 # File: module/setup/view/transfers/actiontravel.phtml, line: 56
 # File: module/setup/view/transfers/actiontravel.phtml, line: 58
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 78
@@ -32884,7 +32886,7 @@ msgstr ""
 # File: module/setup/view/hotels/specialtours.phtml, line: 143
 # File: module/setup/view/hotels/hoteldo.phtml, line: 313
 # File: module/setup/view/hotels/snaptravel.phtml, line: 205
-# File: module/setup/view/hotels/premierinn.phtml, line: 152
+# File: module/setup/view/hotels/premierinn.phtml, line: 156
 # File: module/setup/view/transfers/actiontravel.phtml, line: 123
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 157
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 138
@@ -32936,7 +32938,7 @@ msgstr ""
 # File: module/setup/view/hotels/ocean.phtml, line: 175
 # File: module/setup/view/hotels/iberostar.phtml, line: 141
 # File: module/setup/view/hotels/specialtours.phtml, line: 137
-# File: module/setup/view/hotels/premierinn.phtml, line: 155
+# File: module/setup/view/hotels/premierinn.phtml, line: 159
 # File: module/setup/view/transfers/nexustours.phtml, line: 153
 msgid "Please enter Service URL"
 msgstr ""
@@ -33099,7 +33101,7 @@ msgstr ""
 # File: module/setup/view/hotels/specialtours.phtml, line: 146
 # File: module/setup/view/hotels/hoteldo.phtml, line: 316
 # File: module/setup/view/hotels/snaptravel.phtml, line: 211
-# File: module/setup/view/hotels/premierinn.phtml, line: 158
+# File: module/setup/view/hotels/premierinn.phtml, line: 162
 # File: module/setup/view/transfers/actiontravel.phtml, line: 126
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 160
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 144
@@ -33242,7 +33244,7 @@ msgstr ""
 # File: module/setup/view/hotels/specialtours.phtml, line: 149
 # File: module/setup/view/hotels/hoteldo.phtml, line: 319
 # File: module/setup/view/hotels/snaptravel.phtml, line: 214
-# File: module/setup/view/hotels/premierinn.phtml, line: 161
+# File: module/setup/view/hotels/premierinn.phtml, line: 165
 # File: module/setup/view/transfers/actiontravel.phtml, line: 129
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 163
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 147
@@ -33385,7 +33387,7 @@ msgstr ""
 # File: module/setup/view/hotels/specialtours.phtml, line: 152
 # File: module/setup/view/hotels/hoteldo.phtml, line: 322
 # File: module/setup/view/hotels/snaptravel.phtml, line: 217
-# File: module/setup/view/hotels/premierinn.phtml, line: 164
+# File: module/setup/view/hotels/premierinn.phtml, line: 168
 # File: module/setup/view/transfers/actiontravel.phtml, line: 132
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 166
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 150
@@ -33803,7 +33805,7 @@ msgstr ""
 # File: module/setup/view/hotels/bahiaprincipe.phtml, line: 167
 # File: module/setup/view/hotels/ocean.phtml, line: 166
 # File: module/setup/view/hotels/specialtours.phtml, line: 134
-# File: module/setup/view/hotels/premierinn.phtml, line: 143
+# File: module/setup/view/hotels/premierinn.phtml, line: 147
 msgid "Please enter User ID"
 msgstr ""
 #
@@ -33811,7 +33813,7 @@ msgstr ""
 # File: module/setup/view/hotels/aictravel.phtml, line: 146
 # File: module/setup/view/hotels/coming2.phtml, line: 162
 # File: module/setup/view/hotels/eetglobal.phtml, line: 153
-# File: module/setup/view/hotels/premierinn.phtml, line: 146
+# File: module/setup/view/hotels/premierinn.phtml, line: 150
 msgid "Please enter Company"
 msgstr ""
 #
@@ -41677,6 +41679,11 @@ msgstr ""
 #
 # File: module/setup/view/hotels/premierinn.phtml, line: 13
 msgid "Enable Premier Inn"
+msgstr ""
+#
+# File: module/setup/view/hotels/premierinn.phtml, line: 30
+# File: module/setup/view/hotels/premierinn.phtml, line: 31
+msgid "Company Chain Code"
 msgstr ""
 #
 # File: module/setup/view/transfers/actiontravel.phtml, line: 13
