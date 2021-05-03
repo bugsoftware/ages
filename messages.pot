@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-03 11:28-0400\n"
+"POT-Creation-Date: 2021-05-03 12:36-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2848,7 +2848,7 @@ msgstr ""
 # File: module/setup/view/hotels/actiontravel.phtml, line: 86
 # File: module/setup/view/hotels/karisma.phtml, line: 86
 # File: module/setup/view/hotels/restel.phtml, line: 113
-# File: module/setup/view/hotels/yalago.phtml, line: 73
+# File: module/setup/view/hotels/yalago.phtml, line: 120
 # File: module/setup/view/hotels/roomer.phtml, line: 99
 # File: module/setup/view/hotels/sabre.phtml, line: 112
 # File: module/setup/view/hotels/rts.phtml, line: 101
@@ -7142,6 +7142,8 @@ msgstr ""
 # File: module/setup/view/activities/hotelbeds.phtml, line: 54
 # File: module/setup/view/settings/settings.phtml, line: 291
 # File: module/setup/view/settings/settings.phtml, line: 292
+# File: module/setup/view/hotels/yalago.phtml, line: 83
+# File: module/setup/view/hotels/yalago.phtml, line: 84
 # File: module/setup/view/hotels/enjoycuba.phtml, line: 55
 # File: module/setup/view/hotels/enjoycuba.phtml, line: 56
 # File: module/setup/view/hotels/expedia.phtml, line: 162
@@ -7287,6 +7289,8 @@ msgstr ""
 # File: module/setup/view/packages/europamundo.phtml, line: 56
 # File: module/setup/view/packages/europamundo.phtml, line: 57
 # File: module/setup/view/hotels/travolutionary.phtml, line: 62
+# File: module/setup/view/hotels/yalago.phtml, line: 79
+# File: module/setup/view/hotels/yalago.phtml, line: 80
 # File: module/setup/view/hotels/getaroom.phtml, line: 93
 # File: module/setup/view/hotels/getaroom.phtml, line: 94
 # File: module/setup/view/hotels/youtravel.phtml, line: 47
@@ -10962,6 +10966,8 @@ msgstr ""
 # File: module/ages/view/ages/customers/index.phtml, line: 20
 # File: module/ages/view/ages/customers/duplicatedemails.phtml, line: 13
 # File: module/setup/view/packages/europamundo.phtml, line: 43
+# File: module/setup/view/hotels/yalago.phtml, line: 55
+# File: module/setup/view/hotels/yalago.phtml, line: 56
 # File: module/setup/view/hotels/hotelmundial.phtml, line: 130
 # File: module/setup/view/hotels/hotelmundial.phtml, line: 131
 # File: module/setup/view/hotels/hoteldo.phtml, line: 57
@@ -11024,6 +11030,8 @@ msgstr ""
 # File: module/ages/view/ages/customers/index.phtml, line: 19
 # File: module/ages/view/ages/customers/duplicatedemails.phtml, line: 12
 # File: module/setup/view/packages/europamundo.phtml, line: 47
+# File: module/setup/view/hotels/yalago.phtml, line: 59
+# File: module/setup/view/hotels/yalago.phtml, line: 60
 # File: module/setup/view/hotels/hotelmundial.phtml, line: 134
 # File: module/setup/view/hotels/hotelmundial.phtml, line: 135
 # File: module/setup/view/hotels/hoteldo.phtml, line: 61
@@ -11163,6 +11171,8 @@ msgstr ""
 # File: module/setup/view/settings/enterpriseratesetup_add.phtml, line: 14
 # File: module/setup/view/settings/geotargetmarkup_add.phtml, line: 11
 # File: module/setup/view/air/airports.phtml, line: 14
+# File: module/setup/view/hotels/yalago.phtml, line: 75
+# File: module/setup/view/hotels/yalago.phtml, line: 76
 # File: module/setup/view/hotels/tbo.phtml, line: 104
 # File: module/setup/view/hotels/tbo.phtml, line: 105
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 104
@@ -15271,6 +15281,8 @@ msgstr ""
 # File: module/setup/view/hotels/actiontravel.phtml, line: 55
 # File: module/setup/view/hotels/karisma.phtml, line: 54
 # File: module/setup/view/hotels/karisma.phtml, line: 55
+# File: module/setup/view/hotels/yalago.phtml, line: 87
+# File: module/setup/view/hotels/yalago.phtml, line: 88
 # File: module/setup/view/hotels/roomer.phtml, line: 54
 # File: module/setup/view/hotels/roomer.phtml, line: 55
 # File: module/setup/view/hotels/tourico.phtml, line: 68
@@ -25325,11 +25337,15 @@ msgstr ""
 #
 # File: module/ages/view/ages/hotels/add.phtml, line: 23
 # File: module/ages/view/ages/customers/editglobalware.phtml, line: 19
+# File: module/setup/view/hotels/yalago.phtml, line: 63
+# File: module/setup/view/hotels/yalago.phtml, line: 64
 msgid "Address 1"
 msgstr ""
 #
 # File: module/ages/view/ages/hotels/add.phtml, line: 24
 # File: module/ages/view/ages/customers/editglobalware.phtml, line: 20
+# File: module/setup/view/hotels/yalago.phtml, line: 67
+# File: module/setup/view/hotels/yalago.phtml, line: 68
 msgid "Address 2"
 msgstr ""
 #
@@ -31578,8 +31594,8 @@ msgstr ""
 # File: module/setup/view/hotels/karisma.phtml, line: 62
 # File: module/setup/view/hotels/restel.phtml, line: 88
 # File: module/setup/view/hotels/restel.phtml, line: 89
-# File: module/setup/view/hotels/yalago.phtml, line: 48
-# File: module/setup/view/hotels/yalago.phtml, line: 49
+# File: module/setup/view/hotels/yalago.phtml, line: 95
+# File: module/setup/view/hotels/yalago.phtml, line: 96
 # File: module/setup/view/hotels/roomer.phtml, line: 74
 # File: module/setup/view/hotels/roomer.phtml, line: 75
 # File: module/setup/view/hotels/sabre.phtml, line: 88
@@ -31855,8 +31871,8 @@ msgstr ""
 # File: module/setup/view/hotels/karisma.phtml, line: 65
 # File: module/setup/view/hotels/restel.phtml, line: 91
 # File: module/setup/view/hotels/restel.phtml, line: 92
-# File: module/setup/view/hotels/yalago.phtml, line: 51
-# File: module/setup/view/hotels/yalago.phtml, line: 52
+# File: module/setup/view/hotels/yalago.phtml, line: 98
+# File: module/setup/view/hotels/yalago.phtml, line: 99
 # File: module/setup/view/hotels/roomer.phtml, line: 77
 # File: module/setup/view/hotels/roomer.phtml, line: 78
 # File: module/setup/view/hotels/sabre.phtml, line: 91
@@ -32129,8 +32145,8 @@ msgstr ""
 # File: module/setup/view/hotels/karisma.phtml, line: 68
 # File: module/setup/view/hotels/restel.phtml, line: 94
 # File: module/setup/view/hotels/restel.phtml, line: 95
-# File: module/setup/view/hotels/yalago.phtml, line: 54
-# File: module/setup/view/hotels/yalago.phtml, line: 55
+# File: module/setup/view/hotels/yalago.phtml, line: 101
+# File: module/setup/view/hotels/yalago.phtml, line: 102
 # File: module/setup/view/hotels/roomer.phtml, line: 80
 # File: module/setup/view/hotels/roomer.phtml, line: 81
 # File: module/setup/view/hotels/sabre.phtml, line: 94
@@ -32403,8 +32419,8 @@ msgstr ""
 # File: module/setup/view/hotels/karisma.phtml, line: 72
 # File: module/setup/view/hotels/restel.phtml, line: 98
 # File: module/setup/view/hotels/restel.phtml, line: 99
-# File: module/setup/view/hotels/yalago.phtml, line: 58
-# File: module/setup/view/hotels/yalago.phtml, line: 59
+# File: module/setup/view/hotels/yalago.phtml, line: 105
+# File: module/setup/view/hotels/yalago.phtml, line: 106
 # File: module/setup/view/hotels/roomer.phtml, line: 84
 # File: module/setup/view/hotels/roomer.phtml, line: 85
 # File: module/setup/view/hotels/sabre.phtml, line: 97
@@ -32592,8 +32608,8 @@ msgstr ""
 # File: module/setup/view/hotels/karisma.phtml, line: 81
 # File: module/setup/view/hotels/restel.phtml, line: 106
 # File: module/setup/view/hotels/restel.phtml, line: 108
-# File: module/setup/view/hotels/yalago.phtml, line: 66
-# File: module/setup/view/hotels/yalago.phtml, line: 68
+# File: module/setup/view/hotels/yalago.phtml, line: 113
+# File: module/setup/view/hotels/yalago.phtml, line: 115
 # File: module/setup/view/hotels/roomer.phtml, line: 92
 # File: module/setup/view/hotels/roomer.phtml, line: 94
 # File: module/setup/view/hotels/sabre.phtml, line: 105
@@ -32825,7 +32841,7 @@ msgstr ""
 # File: module/setup/view/hotels/actiontravel.phtml, line: 152
 # File: module/setup/view/hotels/karisma.phtml, line: 152
 # File: module/setup/view/hotels/restel.phtml, line: 188
-# File: module/setup/view/hotels/yalago.phtml, line: 130
+# File: module/setup/view/hotels/yalago.phtml, line: 204
 # File: module/setup/view/hotels/roomer.phtml, line: 171
 # File: module/setup/view/hotels/sabre.phtml, line: 205
 # File: module/setup/view/hotels/rts.phtml, line: 188
@@ -33040,7 +33056,7 @@ msgstr ""
 # File: module/setup/view/hotels/actiontravel.phtml, line: 164
 # File: module/setup/view/hotels/karisma.phtml, line: 164
 # File: module/setup/view/hotels/restel.phtml, line: 197
-# File: module/setup/view/hotels/yalago.phtml, line: 133
+# File: module/setup/view/hotels/yalago.phtml, line: 207
 # File: module/setup/view/hotels/roomer.phtml, line: 189
 # File: module/setup/view/hotels/sabre.phtml, line: 208
 # File: module/setup/view/hotels/rts.phtml, line: 197
@@ -33183,7 +33199,7 @@ msgstr ""
 # File: module/setup/view/hotels/actiontravel.phtml, line: 167
 # File: module/setup/view/hotels/karisma.phtml, line: 167
 # File: module/setup/view/hotels/restel.phtml, line: 200
-# File: module/setup/view/hotels/yalago.phtml, line: 136
+# File: module/setup/view/hotels/yalago.phtml, line: 210
 # File: module/setup/view/hotels/roomer.phtml, line: 192
 # File: module/setup/view/hotels/sabre.phtml, line: 211
 # File: module/setup/view/hotels/rts.phtml, line: 200
@@ -33326,7 +33342,7 @@ msgstr ""
 # File: module/setup/view/hotels/actiontravel.phtml, line: 170
 # File: module/setup/view/hotels/karisma.phtml, line: 170
 # File: module/setup/view/hotels/restel.phtml, line: 203
-# File: module/setup/view/hotels/yalago.phtml, line: 139
+# File: module/setup/view/hotels/yalago.phtml, line: 240
 # File: module/setup/view/hotels/roomer.phtml, line: 195
 # File: module/setup/view/hotels/sabre.phtml, line: 214
 # File: module/setup/view/hotels/rts.phtml, line: 203
@@ -33562,7 +33578,7 @@ msgstr ""
 # File: module/setup/view/hotels/citytours.phtml, line: 153
 # File: module/setup/view/hotels/w2m.phtml, line: 166
 # File: module/setup/view/hotels/mikitravel.phtml, line: 160
-# File: module/setup/view/hotels/yalago.phtml, line: 124
+# File: module/setup/view/hotels/yalago.phtml, line: 198
 # File: module/setup/view/hotels/rts.phtml, line: 176
 # File: module/setup/view/hotels/tourico.phtml, line: 204
 # File: module/setup/view/hotels/symrooms.phtml, line: 176
@@ -33934,7 +33950,7 @@ msgstr ""
 # File: module/setup/view/cars/priceline.phtml, line: 161
 # File: module/setup/view/air/sky.phtml, line: 98
 # File: module/setup/view/air/priceline.phtml, line: 161
-# File: module/setup/view/hotels/yalago.phtml, line: 127
+# File: module/setup/view/hotels/yalago.phtml, line: 201
 # File: module/setup/view/hotels/symrooms.phtml, line: 164
 # File: module/setup/view/hotels/rakuten.phtml, line: 156
 # File: module/setup/view/hotels/priceline.phtml, line: 180
@@ -39356,6 +39372,62 @@ msgstr ""
 msgid "Enable Yalago XML Feed"
 msgstr ""
 #
+# File: module/setup/view/hotels/yalago.phtml, line: 48
+msgid "Contact Details"
+msgstr ""
+#
+# File: module/setup/view/hotels/yalago.phtml, line: 51
+# File: module/setup/view/hotels/yalago.phtml, line: 52
+# File: module/setup/view/hotels/hotelmundial.phtml, line: 126
+# File: module/setup/view/hotels/hotelmundial.phtml, line: 127
+msgid "Title (Mr.)"
+msgstr ""
+#
+# File: module/setup/view/hotels/yalago.phtml, line: 71
+# File: module/setup/view/hotels/yalago.phtml, line: 72
+msgid "Zip / Postal Code"
+msgstr ""
+#
+# File: module/setup/view/hotels/yalago.phtml, line: 213
+msgid "Please enter Contact Title"
+msgstr ""
+#
+# File: module/setup/view/hotels/yalago.phtml, line: 216
+# File: module/setup/view/hotels/didatravel.phtml, line: 185
+msgid "Please enter Contact First Name"
+msgstr ""
+#
+# File: module/setup/view/hotels/yalago.phtml, line: 219
+# File: module/setup/view/hotels/didatravel.phtml, line: 188
+msgid "Please enter Contact Last Name"
+msgstr ""
+#
+# File: module/setup/view/hotels/yalago.phtml, line: 222
+msgid "Please enter Contact Address"
+msgstr ""
+#
+# File: module/setup/view/hotels/yalago.phtml, line: 225
+msgid "Please enter Contact Zip Postal Code"
+msgstr ""
+#
+# File: module/setup/view/hotels/yalago.phtml, line: 228
+msgid "Please enter Contact Country"
+msgstr ""
+#
+# File: module/setup/view/hotels/yalago.phtml, line: 231
+# File: module/setup/view/hotels/didatravel.phtml, line: 191
+msgid "Please enter Contact Email"
+msgstr ""
+#
+# File: module/setup/view/hotels/yalago.phtml, line: 234
+# File: module/setup/view/hotels/didatravel.phtml, line: 194
+msgid "Please enter Contact Phone"
+msgstr ""
+#
+# File: module/setup/view/hotels/yalago.phtml, line: 237
+msgid "Please enter Contact Currency"
+msgstr ""
+#
 # File: module/setup/view/hotels/roomer.phtml, line: 13
 msgid "Enable Roomer"
 msgstr ""
@@ -40068,22 +40140,6 @@ msgstr ""
 #
 # File: module/setup/view/hotels/didatravel.phtml, line: 179
 msgid "Please enter Default Residence Code"
-msgstr ""
-#
-# File: module/setup/view/hotels/didatravel.phtml, line: 185
-msgid "Please enter Contact First Name"
-msgstr ""
-#
-# File: module/setup/view/hotels/didatravel.phtml, line: 188
-msgid "Please enter Contact Last Name"
-msgstr ""
-#
-# File: module/setup/view/hotels/didatravel.phtml, line: 191
-msgid "Please enter Contact Email"
-msgstr ""
-#
-# File: module/setup/view/hotels/didatravel.phtml, line: 194
-msgid "Please enter Contact Phone"
 msgstr ""
 #
 # File: module/setup/view/hotels/didatravel.phtml, line: 200
@@ -41099,11 +41155,6 @@ msgstr ""
 # File: module/setup/view/hotels/hotelmundial.phtml, line: 117
 # File: module/setup/view/hotels/hotelmundial.phtml, line: 118
 msgid "Issuing Bank"
-msgstr ""
-#
-# File: module/setup/view/hotels/hotelmundial.phtml, line: 126
-# File: module/setup/view/hotels/hotelmundial.phtml, line: 127
-msgid "Title (Mr.)"
 msgstr ""
 #
 # File: module/setup/view/hotels/hotelmundial.phtml, line: 142
