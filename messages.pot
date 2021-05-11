@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-10 18:06-0400\n"
+"POT-Creation-Date: 2021-05-11 01:54-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4797,6 +4797,7 @@ msgid "Traveller: "
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/invoice_order_receipt.phtml, line: 181
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 156
 # File: module/ages/view/ages/reports/invoices.phtml, line: 15
 # File: module/ages/view/ages/packages/addservice.phtml, line: 159
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 27
@@ -5121,8 +5122,8 @@ msgid "details"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/quote_1.phtml, line: 451
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 163
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 338
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 157
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 260
 msgid "total"
 msgstr ""
 #
@@ -5435,6 +5436,7 @@ msgid "Cruise Line"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation.phtml, line: 263
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 177
 # File: module/ages/view/ages/air/offers.phtml, line: 34
 # File: module/setup/view/intelligence/lowestpublishdfares.phtml, line: 20
 # File: module/setup/view/intelligence/airlineoffers.phtml, line: 34
@@ -6352,30 +6354,22 @@ msgid "Guest Information"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 97
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 159
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 326
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 383
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 248
 msgid "Guest #1"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 98
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 160
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 329
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 386
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 251
 msgid "Guest #2"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 99
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 161
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 332
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 389
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 254
 msgid "Guest #3"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 100
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 162
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 335
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 392
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 257
 msgid "Guest #4"
 msgstr ""
 #
@@ -6405,59 +6399,77 @@ msgstr ""
 msgid "Only Waitlist Airport"
 msgstr ""
 #
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 155
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 154
 msgid "Charges"
 msgstr ""
 #
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 166
-msgid "Cruise Fare"
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 165
+msgid "Balance Due"
 msgstr ""
 #
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 249
-msgid "Taxes, fees, and port expenses"
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 168
+# File: module/ages/view/ages/packages/add.phtml, line: 48
+# File: module/ages/view/ages/packages/edit.phtml, line: 48
+msgid "Deposit"
 msgstr ""
 #
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 270
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 171
+msgid "Gross Total"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 174
+# File: module/ages/view/ages/affiliates/commissions.phtml, line: 19
+# File: module/ages/view/ages/reports/sales.phtml, line: 39
+# File: module/ages/view/ages/reports/profit.phtml, line: 43
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2890
+msgid "Net Total"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 180
+msgid "Gratuities"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 183
+msgid "Total Commission Amount"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 198
 msgid "Total Charge"
 msgstr ""
 #
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 299
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 210
+msgid "Promotions Applied"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 221
 msgid "The minimum deposit for this reservation is Non-Refundable. A change fee of 100 USD per guest will apply for ship or sail date changes."
 msgstr ""
 #
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 319
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 241
 msgid "on board credit"
 msgstr ""
 #
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 374
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 295
 msgid "Travel arrangements"
 msgstr ""
 #
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 375
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 296
 msgid "Local Times"
 msgstr ""
 #
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 395
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 300
 msgid "Arrive"
 msgstr ""
 #
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 398
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 301
 msgid "Depart"
 msgstr ""
 #
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 404
-msgid "Pre Cruise Arrangements:"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 410
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 303
 msgid "Cruise Itinerary:"
 msgstr ""
 #
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 590
-msgid "Post Cruise Arrangements:"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 591
+# File: module/ages/src/Controller/Templates/voucher3.phtml, line: 311
 msgid "Cruise itinerary may change without notice as conditions warrant."
 msgstr ""
 #
@@ -14423,13 +14435,6 @@ msgstr ""
 # File: module/setup/view/intelligence/airlineoffers.phtml, line: 32
 # File: module/setup/view/intelligence/hotels.phtml, line: 26
 msgid "Date To"
-msgstr ""
-#
-# File: module/ages/view/ages/affiliates/commissions.phtml, line: 19
-# File: module/ages/view/ages/reports/sales.phtml, line: 39
-# File: module/ages/view/ages/reports/profit.phtml, line: 43
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2890
-msgid "Net Total"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 24
@@ -23860,11 +23865,6 @@ msgstr ""
 # File: module/ages/view/ages/packages/add.phtml, line: 45
 # File: module/ages/view/ages/packages/edit.phtml, line: 45
 msgid "Pricing Rules"
-msgstr ""
-#
-# File: module/ages/view/ages/packages/add.phtml, line: 48
-# File: module/ages/view/ages/packages/edit.phtml, line: 48
-msgid "Deposit"
 msgstr ""
 #
 # File: module/ages/view/ages/packages/add.phtml, line: 56
