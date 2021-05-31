@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-29 04:27-0400\n"
+"POT-Creation-Date: 2021-05-31 12:24-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -178,8 +178,8 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 9759
 # File: module/ages/src/Controller/Agents.php, line: 9842
 # File: module/ages/src/Controller/Agents.php, line: 9901
-# File: module/ages/src/Controller/Tours.php, line: 3318
-# File: module/ages/src/Controller/Tours.php, line: 3421
+# File: module/ages/src/Controller/Tours.php, line: 3361
+# File: module/ages/src/Controller/Tours.php, line: 3464
 # File: module/ages/src/Controller/Packages.php, line: 5802
 # File: module/ages/src/Controller/Cars.php, line: 185
 # File: module/ages/src/Controller/Cars.php, line: 343
@@ -827,7 +827,7 @@ msgstr ""
 # File: module/ages/src/Controller/Tours.php, line: 2015
 # File: module/ages/src/Controller/Tours.php, line: 2235
 # File: module/ages/src/Controller/Tours.php, line: 2456
-# File: module/ages/src/Controller/Tours.php, line: 2696
+# File: module/ages/src/Controller/Tours.php, line: 2739
 # File: module/ages/src/Controller/Packages.php, line: 395
 # File: module/ages/src/Controller/Packages.php, line: 544
 # File: module/ages/src/Controller/Packages.php, line: 983
@@ -2647,8 +2647,8 @@ msgstr ""
 # File: module/ages/src/Controller/Air.php, line: 2792
 # File: module/ages/src/Controller/Air.php, line: 3105
 # File: module/ages/src/Controller/Air.php, line: 3442
-# File: module/ages/src/Controller/Tours.php, line: 3329
-# File: module/ages/src/Controller/Tours.php, line: 3432
+# File: module/ages/src/Controller/Tours.php, line: 3372
+# File: module/ages/src/Controller/Tours.php, line: 3475
 # File: module/ages/src/Controller/Hotels.php, line: 245
 # File: module/ages/src/Controller/Hotels.php, line: 552
 # File: module/ages/src/Controller/Hotels.php, line: 946
@@ -2681,8 +2681,8 @@ msgstr ""
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 12880
 # File: module/ages/src/Controller/Tours.php, line: 542
 # File: module/ages/src/Controller/Tours.php, line: 947
-# File: module/ages/src/Controller/Tours.php, line: 3330
-# File: module/ages/src/Controller/Tours.php, line: 3433
+# File: module/ages/src/Controller/Tours.php, line: 3373
+# File: module/ages/src/Controller/Tours.php, line: 3476
 # File: module/ages/src/Controller/Packages.php, line: 3510
 # File: module/ages/src/Controller/Packages.php, line: 4845
 # File: module/ages/src/Controller/Customers.php, line: 925
@@ -2777,8 +2777,8 @@ msgstr ""
 # File: module/ages/src/Controller/Transfers.php, line: 370
 # File: module/ages/src/Controller/Transfers.php, line: 1326
 # File: module/ages/src/Controller/Tours.php, line: 222
-# File: module/ages/src/Controller/Tours.php, line: 2685
-# File: module/ages/src/Controller/Tours.php, line: 2714
+# File: module/ages/src/Controller/Tours.php, line: 2728
+# File: module/ages/src/Controller/Tours.php, line: 2757
 # File: module/ages/src/Controller/CMS.php, line: 7934
 # File: module/ages/view/ages/tours/edititinerary.phtml, line: 24
 # File: module/ages/view/ages/tours/edititinerary.phtml, line: 25
@@ -3398,77 +3398,77 @@ msgid "Debit"
 msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 149
-# File: module/ages/src/Controller/Tours.php, line: 2820
+# File: module/ages/src/Controller/Tours.php, line: 2863
 msgid "No Meals Included"
 msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 153
-# File: module/ages/src/Controller/Tours.php, line: 2824
+# File: module/ages/src/Controller/Tours.php, line: 2867
 msgid "Breakfast"
 msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 157
-# File: module/ages/src/Controller/Tours.php, line: 2828
+# File: module/ages/src/Controller/Tours.php, line: 2871
 msgid "Breakfast & Lunch"
 msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 161
-# File: module/ages/src/Controller/Tours.php, line: 2832
+# File: module/ages/src/Controller/Tours.php, line: 2875
 msgid "Breakfast & Dinner"
 msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 165
-# File: module/ages/src/Controller/Tours.php, line: 2836
+# File: module/ages/src/Controller/Tours.php, line: 2879
 msgid "Breakfast, Lunch & Dinner"
 msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 169
-# File: module/ages/src/Controller/Tours.php, line: 2840
+# File: module/ages/src/Controller/Tours.php, line: 2883
 msgid "Lunch"
 msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 173
-# File: module/ages/src/Controller/Tours.php, line: 2844
+# File: module/ages/src/Controller/Tours.php, line: 2887
 msgid "Dinner"
 msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 177
-# File: module/ages/src/Controller/Tours.php, line: 2848
+# File: module/ages/src/Controller/Tours.php, line: 2891
 msgid "Lunch & Dinner"
 msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 187
-# File: module/ages/src/Controller/Tours.php, line: 2856
+# File: module/ages/src/Controller/Tours.php, line: 2899
 msgid "No Hotels Included"
 msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 191
-# File: module/ages/src/Controller/Tours.php, line: 2860
+# File: module/ages/src/Controller/Tours.php, line: 2903
 msgid "Hotel Included"
 msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 195
-# File: module/ages/src/Controller/Tours.php, line: 2864
+# File: module/ages/src/Controller/Tours.php, line: 2907
 msgid "1* Hotel"
 msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 199
-# File: module/ages/src/Controller/Tours.php, line: 2868
+# File: module/ages/src/Controller/Tours.php, line: 2911
 msgid "2** Hotel"
 msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 203
-# File: module/ages/src/Controller/Tours.php, line: 2872
+# File: module/ages/src/Controller/Tours.php, line: 2915
 msgid "3*** Hotel"
 msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 207
-# File: module/ages/src/Controller/Tours.php, line: 2876
+# File: module/ages/src/Controller/Tours.php, line: 2919
 msgid "4**** Hotel"
 msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 211
-# File: module/ages/src/Controller/Tours.php, line: 2880
+# File: module/ages/src/Controller/Tours.php, line: 2923
 msgid "5***** Hotel"
 msgstr ""
 #
@@ -3492,8 +3492,8 @@ msgstr ""
 # File: module/ages/src/Controller/Tours.php, line: 2253
 # File: module/ages/src/Controller/Tours.php, line: 2345
 # File: module/ages/src/Controller/Tours.php, line: 2474
-# File: module/ages/src/Controller/Tours.php, line: 2582
-# File: module/ages/src/Controller/Tours.php, line: 2888
+# File: module/ages/src/Controller/Tours.php, line: 2626
+# File: module/ages/src/Controller/Tours.php, line: 2931
 msgid "All Tours"
 msgstr ""
 #
@@ -4605,6 +4605,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/prices.phtml, line: 24
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 308
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 573
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 242
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 507
 # File: module/ages/view/ages/tours/price.phtml, line: 19
 # File: module/ages/view/ages/tours/prices_add.phtml, line: 15
 # File: module/ages/view/ages/cms/featureddestinations_edit.phtml, line: 26
@@ -5689,6 +5691,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/prices.phtml, line: 23
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 238
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 503
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 172
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 437
 # File: module/ages/view/ages/tours/price.phtml, line: 18
 # File: module/ages/view/ages/tours/prices_add.phtml, line: 14
 # File: module/ages/view/ages/cms/featureddestinations_edit.phtml, line: 25
@@ -16404,6 +16408,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 87
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 53
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 86
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 45
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 78
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 46
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 80
 # File: module/ages/view/ages/hotels/finantial_information_edit.phtml, line: 60
@@ -16418,6 +16424,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 53
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 53
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 45
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 46
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 100
 # File: module/manager/view/contracts/new.phtml, line: 102
@@ -16427,6 +16434,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 89
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 88
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 80
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 82
 # File: module/ages/view/ages/air/edit_pcc.phtml, line: 65
 # File: module/ages/view/ages/air/add_pcc.phtml, line: 50
@@ -16457,7 +16465,6 @@ msgstr ""
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 123
 # File: module/ages/view/ages/activities/images_add.phtml, line: 110
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 122
-# File: module/ages/view/ages/tours/availability_add.phtml, line: 54
 # File: module/ages/view/ages/tours/inclusion_add.phtml, line: 67
 # File: module/ages/view/ages/tours/exclusion_add.phtml, line: 67
 # File: module/ages/view/ages/tours/prices_add.phtml, line: 60
@@ -16468,6 +16475,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 205
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 204
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 138
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 112
 # File: module/ages/view/ages/transfers/pricing_edit.phtml, line: 344
 # File: module/manager/view/contracts/new.phtml, line: 244
@@ -16476,6 +16484,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 206
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 205
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 139
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 113
 # File: module/ages/view/ages/hotels/contractsavailability_edit.phtml, line: 16
 # File: module/ages/view/ages/hotels/contractsavailability_edit.phtml, line: 207
@@ -16499,6 +16508,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 209
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 208
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 142
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 116
 # File: module/ages/view/ages/transfers/pricing_edit.phtml, line: 348
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 14
@@ -16511,6 +16521,7 @@ msgstr ""
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 210
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 209
 # File: module/ages/view/ages/tours/availability_add.phtml, line: 16
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 143
 # File: module/ages/view/ages/tours/availability.phtml, line: 20
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 17
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 17
@@ -16542,6 +16553,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 210
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 209
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 143
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 117
 # File: module/ages/view/ages/transfers/pricing_edit.phtml, line: 349
 # File: module/manager/view/contracts/new.phtml, line: 71
@@ -16551,6 +16563,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 211
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 210
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 144
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 118
 # File: module/ages/view/ages/transfers/pricing_edit.phtml, line: 350
 # File: module/manager/view/contracts/new.phtml, line: 74
@@ -16560,6 +16573,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 212
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 211
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 145
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 119
 # File: module/ages/view/ages/transfers/pricing_edit.phtml, line: 351
 # File: module/manager/view/contracts/new.phtml, line: 75
@@ -16569,6 +16583,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 213
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 212
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 146
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 120
 # File: module/ages/view/ages/transfers/pricing_edit.phtml, line: 352
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 15
@@ -16580,6 +16595,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 214
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 213
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 147
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 121
 # File: module/ages/view/ages/transfers/pricing_edit.phtml, line: 353
 # File: module/manager/view/contracts/editspecialoffers.phtml, line: 16
@@ -16593,6 +16609,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 503
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 237
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 502
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 171
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 436
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 132
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 391
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 145
@@ -16621,6 +16639,12 @@ msgstr ""
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 503
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 573
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 581
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 172
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 242
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 250
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 437
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 507
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 515
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 133
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 203
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 211
@@ -16672,6 +16696,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 513
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 247
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 512
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 181
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 446
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 142
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 401
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 155
@@ -16690,6 +16716,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 527
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 261
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 526
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 195
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 460
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 156
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 415
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 169
@@ -16708,6 +16736,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 544
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 278
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 543
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 212
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 477
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 173
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 432
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 186
@@ -16727,6 +16757,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 573
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 307
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 572
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 241
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 506
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 202
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 461
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 215
@@ -16744,6 +16776,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 574
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 308
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 573
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 242
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 507
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 203
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 462
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 216
@@ -16768,6 +16802,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 574
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 308
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 573
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 242
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 507
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 203
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 462
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 216
@@ -16792,6 +16828,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 574
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 308
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 573
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 242
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 507
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 203
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 462
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 216
@@ -16813,6 +16851,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 582
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 316
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 581
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 250
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 515
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 211
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 470
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 224
@@ -16831,6 +16871,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 582
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 316
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 581
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 250
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 515
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 211
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 470
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 224
@@ -16849,6 +16891,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 592
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 326
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 591
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 260
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 525
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 221
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 480
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 234
@@ -16866,6 +16910,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 615
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 354
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 614
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 288
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 548
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 249
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 503
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 262
@@ -16883,6 +16929,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 641
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 380
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 640
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 314
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 574
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 275
 # File: module/ages/view/ages/cruises/add_pricing.phtml, line: 529
 # File: module/ages/view/ages/cruises/edit_pricing.phtml, line: 288
@@ -17566,6 +17614,7 @@ msgid "Update Itinerary"
 msgstr ""
 #
 # File: module/ages/view/ages/tours/edititinerary.phtml, line: 86
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 107
 # File: module/ages/view/ages/tours/itineraryimages_add.phtml, line: 102
 # File: module/ages/view/ages/tours/images_add.phtml, line: 101
 # File: module/ages/view/ages/tours/itinerary_add.phtml, line: 87
@@ -17573,7 +17622,7 @@ msgid "Please select tour"
 msgstr ""
 #
 # File: module/ages/view/ages/tours/availability_add.phtml, line: 5
-# File: module/ages/view/ages/tours/availability_add.phtml, line: 21
+# File: module/ages/view/ages/tours/availability_add.phtml, line: 34
 # File: module/ages/view/ages/tours/availability.phtml, line: 49
 msgid "Add Availability"
 msgstr ""
