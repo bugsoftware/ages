@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-17 09:20-0400\n"
+"POT-Creation-Date: 2021-06-18 09:27-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2567,6 +2567,7 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit_flights.phtml, line: 32
 # File: module/ages/view/ages/agents/add_flights.phtml, line: 7
 # File: module/ages/view/ages/agents/add_flights.phtml, line: 32
+# File: module/ages/view/ages/agents/branches.phtml, line: 16
 # File: module/setup/src/Controller/toxicairlines.php, line: 179
 # File: module/setup/src/Controller/toxicairlines.php, line: 401
 # File: module/setup/view/settings/settings.phtml, line: 813
@@ -2606,6 +2607,9 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit_flights.phtml, line: 31
 # File: module/ages/view/ages/agents/add_flights.phtml, line: 6
 # File: module/ages/view/ages/agents/add_flights.phtml, line: 31
+# File: module/ages/view/ages/agents/branches_add.phtml, line: 26
+# File: module/ages/view/ages/agents/branches_edit.phtml, line: 26
+# File: module/ages/view/ages/agents/branches.phtml, line: 21
 # File: module/setup/src/Controller/toxicairlines.php, line: 187
 # File: module/setup/src/Controller/toxicairlines.php, line: 409
 # File: module/setup/view/settings/settings.phtml, line: 812
@@ -29942,7 +29946,6 @@ msgstr ""
 #
 # File: module/ages/view/ages/agents/branches_add.phtml, line: 17
 # File: module/ages/view/ages/agents/branches_edit.phtml, line: 17
-# File: module/ages/view/ages/agents/branches.phtml, line: 16
 msgid "Status Delete"
 msgstr ""
 #
@@ -29970,16 +29973,11 @@ msgstr ""
 msgid "Main Office Iata"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/branches_add.phtml, line: 26
-# File: module/ages/view/ages/agents/branches_edit.phtml, line: 26
-# File: module/ages/view/ages/agents/branches.phtml, line: 21
-msgid "Main Office Status"
-msgstr ""
-#
 # File: module/ages/view/ages/agents/branches_add.phtml, line: 27
 # File: module/ages/view/ages/agents/branches_edit.phtml, line: 27
 # File: module/ages/view/ages/agents/branches.phtml, line: 22
-msgid "Main Office Status Father"
+# File: module/setup/view/air/travelport.phtml, line: 84
+msgid "Worldspan"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/import.phtml, line: 5
@@ -40070,10 +40068,6 @@ msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 81
 msgid "Galileo"
-msgstr ""
-#
-# File: module/setup/view/air/travelport.phtml, line: 84
-msgid "Worldspan"
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 89
