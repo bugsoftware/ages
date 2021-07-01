@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-01 09:35-0400\n"
+"POT-Creation-Date: 2021-07-01 16:23-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -548,6 +548,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/searchbroadcasts.phtml, line: 25
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 116
 # File: module/ages/view/ages/newsletter/spam.phtml, line: 14
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 13
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 10
 # File: module/ages/view/ages/dynamic-packaging/add_activity.phtml, line: 18
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 29
@@ -974,6 +975,8 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/exceptions.phtml, line: 62
 # File: module/ages/view/ages/newsletter/searchbroadcasts.phtml, line: 48
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 33
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 142
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 175
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 92
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 112
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 154
@@ -1075,6 +1078,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/companies.phtml, line: 67
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 37
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 37
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 48
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 60
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 50
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 50
@@ -1117,6 +1121,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/companies.phtml, line: 69
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 39
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 39
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 50
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 62
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 52
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 52
@@ -1159,6 +1164,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/companies.phtml, line: 71
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 41
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 41
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 52
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 64
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 54
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 54
@@ -1201,6 +1207,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/companies.phtml, line: 73
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 43
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 43
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 54
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 66
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 56
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 56
@@ -1243,6 +1250,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/companies.phtml, line: 75
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 45
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 45
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 56
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 68
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 58
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 58
@@ -1286,6 +1294,8 @@ msgstr ""
 # File: module/ages/view/ages/reports/companies.phtml, line: 77
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 47
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 47
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 58
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 124
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 74
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 94
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 70
@@ -1338,6 +1348,8 @@ msgstr ""
 # File: module/ages/view/ages/reports/companies.phtml, line: 79
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 49
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 49
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 60
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 126
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 76
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 96
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 72
@@ -1387,6 +1399,8 @@ msgstr ""
 # File: module/ages/view/ages/reports/companies.phtml, line: 81
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 51
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 51
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 62
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 128
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 78
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 98
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 74
@@ -1437,6 +1451,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/companies.phtml, line: 83
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 53
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 53
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 64
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 76
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 66
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 66
@@ -1489,6 +1504,8 @@ msgstr ""
 # File: module/ages/view/ages/reports/companies.phtml, line: 116
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 55
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 55
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 66
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 101
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 51
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 71
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 78
@@ -1550,6 +1567,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/companies.phtml, line: 87
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 57
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 57
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 68
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 80
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 70
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 70
@@ -1590,6 +1608,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/companies.phtml, line: 89
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 59
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 59
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 70
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 82
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 72
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 72
@@ -1625,6 +1644,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/charters.phtml, line: 59
 # File: module/ages/view/ages/reports/hotelssales.phtml, line: 112
 # File: module/ages/view/ages/reports/companies.phtml, line: 96
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 81
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 31
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 51
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 93
@@ -1660,6 +1680,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/charters.phtml, line: 61
 # File: module/ages/view/ages/reports/hotelssales.phtml, line: 114
 # File: module/ages/view/ages/reports/companies.phtml, line: 98
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 83
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 33
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 53
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 95
@@ -1695,6 +1716,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/charters.phtml, line: 63
 # File: module/ages/view/ages/reports/hotelssales.phtml, line: 116
 # File: module/ages/view/ages/reports/companies.phtml, line: 100
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 85
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 35
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 55
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 97
@@ -1729,6 +1751,8 @@ msgstr ""
 # File: module/ages/view/ages/reports/charters.phtml, line: 65
 # File: module/ages/view/ages/reports/hotelssales.phtml, line: 118
 # File: module/ages/view/ages/reports/companies.phtml, line: 102
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 87
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 153
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 37
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 57
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 99
@@ -1770,6 +1794,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/charters.phtml, line: 67
 # File: module/ages/view/ages/reports/hotelssales.phtml, line: 120
 # File: module/ages/view/ages/reports/companies.phtml, line: 104
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 89
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 39
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 59
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 101
@@ -1805,6 +1830,9 @@ msgstr ""
 # File: module/ages/view/ages/reports/charters.phtml, line: 69
 # File: module/ages/view/ages/reports/hotelssales.phtml, line: 122
 # File: module/ages/view/ages/reports/companies.phtml, line: 106
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 91
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 157
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 188
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 41
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 61
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 103
@@ -1846,6 +1874,8 @@ msgstr ""
 # File: module/ages/view/ages/reports/charters.phtml, line: 71
 # File: module/ages/view/ages/reports/hotelssales.phtml, line: 124
 # File: module/ages/view/ages/reports/companies.phtml, line: 108
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 93
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 159
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 43
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 63
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 105
@@ -1887,6 +1917,8 @@ msgstr ""
 # File: module/ages/view/ages/reports/charters.phtml, line: 73
 # File: module/ages/view/ages/reports/hotelssales.phtml, line: 126
 # File: module/ages/view/ages/reports/companies.phtml, line: 110
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 95
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 161
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 45
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 65
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 107
@@ -1928,6 +1960,8 @@ msgstr ""
 # File: module/ages/view/ages/reports/charters.phtml, line: 75
 # File: module/ages/view/ages/reports/hotelssales.phtml, line: 128
 # File: module/ages/view/ages/reports/companies.phtml, line: 112
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 97
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 190
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 47
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 67
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 109
@@ -1960,6 +1994,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/profit.phtml, line: 91
 # File: module/ages/view/ages/reports/hotelssales.phtml, line: 130
 # File: module/ages/view/ages/reports/companies.phtml, line: 114
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 99
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 49
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 69
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 111
@@ -1994,6 +2029,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/charters.phtml, line: 81
 # File: module/ages/view/ages/reports/hotelssales.phtml, line: 134
 # File: module/ages/view/ages/reports/companies.phtml, line: 118
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 103
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 53
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 73
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 115
@@ -2028,6 +2064,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/charters.phtml, line: 83
 # File: module/ages/view/ages/reports/hotelssales.phtml, line: 136
 # File: module/ages/view/ages/reports/companies.phtml, line: 120
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 105
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 55
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 75
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 117
@@ -2715,7 +2752,7 @@ msgstr ""
 # File: module/ages/src/Controller/Air.php, line: 3109
 # File: module/ages/src/Controller/Air.php, line: 3446
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1920
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 12913
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13167
 # File: module/ages/src/Controller/Tours.php, line: 542
 # File: module/ages/src/Controller/Tours.php, line: 947
 # File: module/ages/src/Controller/Tours.php, line: 3610
@@ -2925,7 +2962,7 @@ msgid "All Affiliates"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1670
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 12809
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13063
 # File: module/ages/src/Controller/Packages.php, line: 3900
 # File: module/ages/src/Controller/Packages.php, line: 5108
 # File: module/ages/view/ages/packages/editavailability.phtml, line: 84
@@ -2934,7 +2971,7 @@ msgid "Non-refundable"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1684
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 12823
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13077
 # File: module/ages/src/Controller/Packages.php, line: 3917
 # File: module/ages/src/Controller/Packages.php, line: 5122
 # File: module/ages/view/ages/packages/editavailability.phtml, line: 84
@@ -2944,7 +2981,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1698
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 10394
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 12841
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13095
 # File: module/ages/src/Controller/Tours.php, line: 672
 # File: module/ages/src/Controller/Packages.php, line: 3928
 # File: module/ages/src/Controller/Packages.php, line: 4158
@@ -2966,14 +3003,14 @@ msgid "All Companies/Markets"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1885
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 12878
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13132
 # File: module/ages/src/Controller/Packages.php, line: 3602
 # File: module/ages/src/Controller/Packages.php, line: 4937
 msgid "No star rating"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1889
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 12882
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13136
 # File: module/ages/src/Controller/Packages.php, line: 3606
 # File: module/ages/src/Controller/Packages.php, line: 4941
 # File: module/ages/src/Controller/CMS.php, line: 9097
@@ -2982,7 +3019,7 @@ msgid "1"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1893
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 12886
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13140
 # File: module/ages/src/Controller/Packages.php, line: 3610
 # File: module/ages/src/Controller/Packages.php, line: 4945
 # File: module/setup/src/Controller/cruiseships.php, line: 111
@@ -2990,7 +3027,7 @@ msgid "2"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1897
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 12890
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13144
 # File: module/ages/src/Controller/Packages.php, line: 3614
 # File: module/ages/src/Controller/Packages.php, line: 4949
 # File: module/ages/src/Controller/CMS.php, line: 9101
@@ -2999,7 +3036,7 @@ msgid "3"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1901
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 12894
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13148
 # File: module/ages/src/Controller/Packages.php, line: 3618
 # File: module/ages/src/Controller/Packages.php, line: 4953
 # File: module/ages/src/Controller/CMS.php, line: 9105
@@ -3008,7 +3045,7 @@ msgid "4"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1905
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 12898
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13152
 # File: module/ages/src/Controller/Packages.php, line: 3622
 # File: module/ages/src/Controller/Packages.php, line: 4957
 # File: module/ages/src/Controller/CMS.php, line: 9109
@@ -3017,7 +3054,7 @@ msgid "5"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1912
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 12905
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13159
 # File: module/ages/src/Controller/Tours.php, line: 534
 # File: module/ages/src/Controller/Tours.php, line: 939
 # File: module/ages/src/Controller/Packages.php, line: 3573
@@ -3040,7 +3077,7 @@ msgid "Available"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1916
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 12909
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13163
 # File: module/ages/src/Controller/Tours.php, line: 538
 # File: module/ages/src/Controller/Tours.php, line: 943
 # File: module/ages/src/Controller/Packages.php, line: 3577
@@ -3320,7 +3357,7 @@ msgstr ""
 # File: module/setup/view/hotels/sabre.phtml, line: 112
 # File: module/setup/view/hotels/rts.phtml, line: 101
 # File: module/setup/view/hotels/tourico.phtml, line: 126
-# File: module/setup/view/hotels/palladium.phtml, line: 82
+# File: module/setup/view/hotels/palladium.phtml, line: 80
 # File: module/setup/view/hotels/jumbotoursgroup.phtml, line: 89
 # File: module/setup/view/hotels/aictravel.phtml, line: 86
 # File: module/setup/view/hotels/symrooms.phtml, line: 95
@@ -3336,7 +3373,7 @@ msgstr ""
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 93
 # File: module/setup/view/hotels/aio.phtml, line: 91
 # File: module/setup/view/hotels/rakuten.phtml, line: 90
-# File: module/setup/view/hotels/gtbeds.phtml, line: 80
+# File: module/setup/view/hotels/gtbeds.phtml, line: 77
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 113
 # File: module/setup/view/hotels/amadeus.phtml, line: 177
 # File: module/setup/view/hotels/eetglobal.phtml, line: 90
@@ -3356,7 +3393,7 @@ msgstr ""
 # File: module/setup/view/hotels/palaceresorts.phtml, line: 95
 # File: module/setup/view/hotels/nexustours.phtml, line: 86
 # File: module/setup/view/hotels/bonotel.phtml, line: 86
-# File: module/setup/view/hotels/riu.phtml, line: 109
+# File: module/setup/view/hotels/riu.phtml, line: 107
 # File: module/setup/view/hotels/roomsxml.phtml, line: 126
 # File: module/setup/view/hotels/markinternational.phtml, line: 101
 # File: module/setup/view/hotels/nuitee.phtml, line: 135
@@ -3374,10 +3411,10 @@ msgstr ""
 # File: module/setup/view/hotels/tbo.phtml, line: 147
 # File: module/setup/view/hotels/jactravel.phtml, line: 143
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 147
-# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 118
+# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 116
 # File: module/setup/view/hotels/expedia.phtml, line: 223
 # File: module/setup/view/hotels/ocean.phtml, line: 112
-# File: module/setup/view/hotels/iberostar.phtml, line: 82
+# File: module/setup/view/hotels/iberostar.phtml, line: 80
 # File: module/setup/view/hotels/ati.phtml, line: 79
 # File: module/setup/view/hotels/specialtours.phtml, line: 80
 # File: module/setup/view/hotels/hoteldo.phtml, line: 190
@@ -3631,6 +3668,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/edit_modals.phtml, line: 23
 # File: module/ages/view/ages/dynamic-packaging/edit_quotes.phtml, line: 40
 # File: module/ages/view/ages/dynamic-packaging/edit_quotes.phtml, line: 64
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 36
 # File: module/ages/view/ages/dynamic-packaging/add_modals.phtml, line: 19
 # File: module/ages/view/ages/dynamic-packaging/add_modals.phtml, line: 23
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 48
@@ -3703,6 +3741,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/edit_itinerary.phtml, line: 42
 # File: module/ages/view/ages/dynamic-packaging/edit_modals.phtml, line: 19
 # File: module/ages/view/ages/dynamic-packaging/edit_quotes.phtml, line: 16
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 37
 # File: module/ages/view/ages/dynamic-packaging/add_modals.phtml, line: 19
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 49
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 39
@@ -3723,6 +3762,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/gds.phtml, line: 41
 # File: module/ages/view/ages/air/listreservations.phtml, line: 14
 # File: module/ages/view/ages/packages/addservice.phtml, line: 71
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 173
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 185
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 175
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 175
@@ -3775,6 +3815,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/invoices.phtml, line: 35
 # File: module/ages/view/ages/packages/addservice.phtml, line: 114
 # File: module/ages/view/ages/dynamic-packaging/edit_quotes.phtml, line: 28
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 40
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 52
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 42
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 42
@@ -4193,6 +4234,7 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/edit_activities.phtml, line: 1
 # File: module/ages/view/ages/newsletter/create.phtml, line: 58
 # File: module/ages/view/ages/newsletter/editnewsletter.phtml, line: 60
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 41
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 53
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 43
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 43
@@ -4337,6 +4379,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/invoices.phtml, line: 38
 # File: module/ages/view/ages/reports/businessunits.phtml, line: 239
 # File: module/ages/view/ages/reports/tours.phtml, line: 40
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 43
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 55
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 45
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 45
@@ -4347,6 +4390,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/GiftCards.php, line: 1430
 # File: module/ages/src/Controller/GiftCards.php, line: 2037
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 5
 # File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 5
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 15
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 5
@@ -4415,6 +4459,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/searchbroadcasts.phtml, line: 42
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 27
 # File: module/ages/view/ages/newsletter/spam.phtml, line: 30
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 116
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 66
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 86
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 128
@@ -5313,6 +5358,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 156
 # File: module/ages/view/ages/reports/invoices.phtml, line: 15
 # File: module/ages/view/ages/packages/addservice.phtml, line: 164
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 17
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 27
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 17
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 17
@@ -5930,6 +5976,7 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/edit_giftcards.phtml, line: 16
 # File: module/ages/view/ages/hotels/searchreservations.phtml, line: 32
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 11
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 15
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 11
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 30
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 25
@@ -5973,6 +6020,7 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/edit_giftcards.phtml, line: 17
 # File: module/ages/view/ages/hotels/searchreservations.phtml, line: 33
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 12
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 16
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 12
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 31
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 26
@@ -6282,6 +6330,8 @@ msgstr ""
 # File: module/ages/view/ages/reports/sales.phtml, line: 123
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 61
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 61
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 72
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 138
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 88
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 108
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 84
@@ -6342,6 +6392,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/companies.phtml, line: 91
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 65
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 65
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 76
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 88
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 78
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 78
@@ -6648,6 +6699,7 @@ msgstr ""
 # File: module/ages/view/ages/air/listreservations.phtml, line: 16
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 17
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 17
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 23
 # File: module/ages/view/ages/dynamic-packaging/offlinebooking.phtml, line: 27
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 35
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 25
@@ -6704,6 +6756,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 17
 # File: module/ages/view/ages/reports/invoices.phtml, line: 34
 # File: module/ages/view/ages/dynamic-packaging/edit_itinerary.phtml, line: 54
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 39
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 51
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 41
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 41
@@ -7408,6 +7461,8 @@ msgstr ""
 # File: module/ages/language/languages.php, line: 44
 # File: module/ages/view/ages/index/index.phtml, line: 171
 # File: module/ages/view/ages/reports/charters.phtml, line: 77
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 130
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 165
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 80
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 100
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 142
@@ -8376,6 +8431,8 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 15
 # File: module/ages/view/ages/newsletter/editnewsletter.phtml, line: 26
 # File: module/ages/view/ages/newsletter/spam.phtml, line: 17
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 18
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 20
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 14
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 33
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 28
@@ -9775,6 +9832,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/searchglobalware.phtml, line: 37
 # File: module/ages/view/ages/dynamic-packaging/edit_images.phtml, line: 9
 # File: module/ages/view/ages/dynamic-packaging/edit_itinerary.phtml, line: 17
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 24
 # File: module/ages/view/ages/dynamic-packaging/add_images.phtml, line: 9
 # File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 29
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 19
@@ -9975,6 +10033,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/searchglobalware.phtml, line: 51
 # File: module/ages/view/ages/dynamic-packaging/edit_itinerary.phtml, line: 70
 # File: module/ages/view/ages/dynamic-packaging/edit_itinerary.phtml, line: 191
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 196
 # File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 44
 # File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 77
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 99
@@ -10446,6 +10505,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/list.phtml, line: 102
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 130
 # File: module/ages/view/ages/newsletter/spam.phtml, line: 78
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 254
 # File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 119
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 264
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 242
@@ -11878,7 +11938,7 @@ msgstr ""
 # File: module/setup/view/hotels/oasis.phtml, line: 163
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 159
 # File: module/setup/view/hotels/aio.phtml, line: 157
-# File: module/setup/view/hotels/gtbeds.phtml, line: 140
+# File: module/setup/view/hotels/gtbeds.phtml, line: 137
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 170
 # File: module/setup/view/hotels/amadeus.phtml, line: 267
 # File: module/setup/view/hotels/eetglobal.phtml, line: 156
@@ -11893,7 +11953,7 @@ msgstr ""
 # File: module/setup/view/hotels/palaceresorts.phtml, line: 161
 # File: module/setup/view/hotels/nexustours.phtml, line: 149
 # File: module/setup/view/hotels/bonotel.phtml, line: 146
-# File: module/setup/view/hotels/riu.phtml, line: 175
+# File: module/setup/view/hotels/riu.phtml, line: 173
 # File: module/setup/view/hotels/roomsxml.phtml, line: 201
 # File: module/setup/view/hotels/markinternational.phtml, line: 173
 # File: module/setup/view/hotels/nuitee.phtml, line: 225
@@ -11904,7 +11964,7 @@ msgstr ""
 # File: module/setup/view/hotels/majesticusa.phtml, line: 135
 # File: module/setup/view/hotels/travelplan.phtml, line: 178
 # File: module/setup/view/hotels/belive.phtml, line: 170
-# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 178
+# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 176
 # File: module/setup/view/hotels/ocean.phtml, line: 169
 # File: module/setup/view/hotels/ati.phtml, line: 136
 # File: module/setup/view/hotels/specialtours.phtml, line: 140
@@ -12079,6 +12139,8 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 86
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 87
 # File: module/ages/view/ages/sub-agents/edit.phtml, line: 94
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 132
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 167
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 82
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 102
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 144
@@ -14776,6 +14838,7 @@ msgstr ""
 # File: module/ages/view/ages/air/chartersreport.phtml, line: 21
 # File: module/ages/view/ages/hotels/reservations.phtml, line: 12
 # File: module/ages/view/ages/hotels/listreservations.phtml, line: 12
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 12
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 9
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 13
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 27
@@ -15025,6 +15088,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/charters.phtml, line: 87
 # File: module/ages/view/ages/reports/hotelssales.phtml, line: 138
 # File: module/ages/view/ages/reports/companies.phtml, line: 122
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 109
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 59
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 79
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 121
@@ -17641,6 +17705,7 @@ msgstr ""
 # File: module/ages/view/ages/tours/listreservations.phtml, line: 60
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 63
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 63
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 74
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 86
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 76
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 76
@@ -17676,6 +17741,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/invoices.phtml, line: 14
 # File: module/ages/view/ages/hotels/reservations.phtml, line: 14
 # File: module/ages/view/ages/hotels/listreservations.phtml, line: 14
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 14
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 24
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 14
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 14
@@ -17710,6 +17776,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/listreservations.phtml, line: 20
 # File: module/ages/view/ages/reports/hotelssales.phtml, line: 61
 # File: module/ages/view/ages/reports/companies.phtml, line: 46
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 19
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 21
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 13
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 32
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 29
@@ -17735,6 +17803,7 @@ msgstr ""
 # File: module/ages/view/ages/activities/listreservations.phtml, line: 97
 # File: module/ages/view/ages/index/index.phtml, line: 175
 # File: module/ages/view/ages/reports/charters.phtml, line: 85
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 107
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 57
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 77
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 119
@@ -19682,6 +19751,7 @@ msgstr ""
 # File: module/ages/view/ages/packages/addservice.phtml, line: 16
 # File: module/ages/view/ages/packages/addavailability.phtml, line: 11
 # File: module/ages/view/ages/newsletter/addpackage.phtml, line: 11
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 42
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 54
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 44
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 44
@@ -20657,6 +20727,8 @@ msgstr ""
 #
 # File: module/ages/view/ages/index/index.phtml, line: 199
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 29
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 134
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 171
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 84
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 104
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 146
@@ -20676,6 +20748,7 @@ msgid "Queue"
 msgstr ""
 #
 # File: module/ages/view/ages/index/index.phtml, line: 200
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 136
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 86
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 106
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 148
@@ -21981,6 +22054,7 @@ msgid "Invoice Number"
 msgstr ""
 #
 # File: module/ages/view/ages/reports/invoices.phtml, line: 33
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 38
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 50
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 40
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 40
@@ -28079,6 +28153,168 @@ msgstr ""
 msgid "Quote Details"
 msgstr ""
 #
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 5
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 248
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 249
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 254
+msgid "Supplier Payments"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 22
+msgid "Supplier Payment Status"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 114
+# File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 64
+# File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 84
+# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 126
+# File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 64
+# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 116
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 116
+# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 112
+# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 116
+# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 117
+msgid "New"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 118
+# File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 68
+# File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 88
+# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 130
+# File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 68
+# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 120
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 120
+# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 116
+# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 120
+# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 121
+msgid "Confirmed"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 120
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 163
+# File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 70
+# File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 90
+# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 132
+# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 175
+# File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 70
+# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 122
+# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 165
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 122
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 165
+# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 118
+# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 161
+# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 122
+# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 165
+# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 123
+# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 166
+msgid "Cancelled"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 122
+# File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 72
+# File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 92
+# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 134
+# File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 72
+# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 124
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 124
+# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 120
+# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 124
+# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 125
+msgid "Waiting Confirmation"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 140
+# File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 90
+# File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 110
+# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 152
+# File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 90
+# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 142
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 142
+# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 138
+# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 142
+# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 143
+msgid "Recovered"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 147
+# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 159
+# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 149
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 149
+# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 145
+# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 149
+# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 150
+msgid "Awaiting"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 149
+# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 161
+# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 151
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 151
+# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 147
+# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 151
+# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 152
+msgid "Received"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 151
+# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 163
+# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 153
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 153
+# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 149
+# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 153
+# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 154
+msgid "Refunded"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 155
+# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 167
+# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 157
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 157
+# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 153
+# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 157
+# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 158
+msgid "On Hold"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 169
+# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 181
+# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 171
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 171
+# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 167
+# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 171
+# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 172
+msgid "Failed"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 180
+msgid "Waiting Payment"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 182
+msgid "Payment Sent"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 184
+msgid "Waiting Refund"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 186
+msgid "Payment Refund"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 192
+msgid "Unknown Payment"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 215
+# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 213
+# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 203
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 203
+# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 203
+# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 204
+msgid "External Reservation"
+msgstr ""
+#
 # File: module/ages/view/ages/dynamic-packaging/offlinebooking.phtml, line: 5
 # File: module/ages/view/ages/dynamic-packaging/offlinebooking.phtml, line: 43
 msgid "Create Booking"
@@ -28143,72 +28379,6 @@ msgstr ""
 msgid "Book Agent"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 64
-# File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 84
-# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 126
-# File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 64
-# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 116
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 116
-# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 112
-# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 116
-# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 117
-msgid "New"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 68
-# File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 88
-# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 130
-# File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 68
-# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 120
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 120
-# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 116
-# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 120
-# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 121
-msgid "Confirmed"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 70
-# File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 90
-# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 132
-# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 175
-# File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 70
-# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 122
-# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 165
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 122
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 165
-# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 118
-# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 161
-# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 122
-# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 165
-# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 123
-# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 166
-msgid "Cancelled"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 72
-# File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 92
-# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 134
-# File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 72
-# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 124
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 124
-# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 120
-# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 124
-# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 125
-msgid "Waiting Confirmation"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 90
-# File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 110
-# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 152
-# File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 90
-# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 142
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 142
-# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 138
-# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 142
-# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 143
-msgid "Recovered"
-msgstr ""
-#
 # File: module/ages/view/ages/dynamic-packaging/add.phtml, line: 6
 # File: module/ages/view/ages/dynamic-packaging/add.phtml, line: 100
 msgid "Add New Dynamic Package"
@@ -28261,59 +28431,6 @@ msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 15
 msgid "Reservations Expiring"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 159
-# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 149
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 149
-# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 145
-# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 149
-# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 150
-msgid "Awaiting"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 161
-# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 151
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 151
-# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 147
-# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 151
-# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 152
-msgid "Received"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 163
-# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 153
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 153
-# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 149
-# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 153
-# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 154
-msgid "Refunded"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 167
-# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 157
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 157
-# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 153
-# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 157
-# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 158
-msgid "On Hold"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 181
-# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 171
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 171
-# File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 167
-# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 171
-# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 172
-msgid "Failed"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 213
-# File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 203
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 203
-# File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 203
-# File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 204
-msgid "External Reservation"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 5
@@ -30452,7 +30569,7 @@ msgstr ""
 # File: module/setup/view/cars/bookinggo.phtml, line: 145
 # File: module/setup/view/cars/eih.phtml, line: 373
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 165
-# File: module/setup/view/hotels/gtbeds.phtml, line: 146
+# File: module/setup/view/hotels/gtbeds.phtml, line: 143
 # File: module/setup/view/hotels/youtravel.phtml, line: 156
 # File: module/setup/view/hotels/enjoycuba.phtml, line: 153
 # File: module/setup/view/hotels/hoteldo.phtml, line: 301
@@ -33074,8 +33191,8 @@ msgstr ""
 # File: module/setup/view/hotels/rts.phtml, line: 77
 # File: module/setup/view/hotels/tourico.phtml, line: 99
 # File: module/setup/view/hotels/tourico.phtml, line: 100
-# File: module/setup/view/hotels/palladium.phtml, line: 57
-# File: module/setup/view/hotels/palladium.phtml, line: 58
+# File: module/setup/view/hotels/palladium.phtml, line: 55
+# File: module/setup/view/hotels/palladium.phtml, line: 56
 # File: module/setup/view/hotels/jumbotoursgroup.phtml, line: 64
 # File: module/setup/view/hotels/jumbotoursgroup.phtml, line: 65
 # File: module/setup/view/hotels/aictravel.phtml, line: 61
@@ -33105,8 +33222,8 @@ msgstr ""
 # File: module/setup/view/hotels/aio.phtml, line: 67
 # File: module/setup/view/hotels/rakuten.phtml, line: 65
 # File: module/setup/view/hotels/rakuten.phtml, line: 66
-# File: module/setup/view/hotels/gtbeds.phtml, line: 55
-# File: module/setup/view/hotels/gtbeds.phtml, line: 56
+# File: module/setup/view/hotels/gtbeds.phtml, line: 52
+# File: module/setup/view/hotels/gtbeds.phtml, line: 53
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 86
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 87
 # File: module/setup/view/hotels/amadeus.phtml, line: 161
@@ -33141,8 +33258,8 @@ msgstr ""
 # File: module/setup/view/hotels/nexustours.phtml, line: 62
 # File: module/setup/view/hotels/bonotel.phtml, line: 60
 # File: module/setup/view/hotels/bonotel.phtml, line: 61
-# File: module/setup/view/hotels/riu.phtml, line: 83
-# File: module/setup/view/hotels/riu.phtml, line: 84
+# File: module/setup/view/hotels/riu.phtml, line: 81
+# File: module/setup/view/hotels/riu.phtml, line: 82
 # File: module/setup/view/hotels/roomsxml.phtml, line: 99
 # File: module/setup/view/hotels/roomsxml.phtml, line: 100
 # File: module/setup/view/hotels/markinternational.phtml, line: 76
@@ -33176,14 +33293,14 @@ msgstr ""
 # File: module/setup/view/hotels/jactravel.phtml, line: 117
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 122
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 123
-# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 91
-# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 92
+# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 89
+# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 90
 # File: module/setup/view/hotels/expedia.phtml, line: 198
 # File: module/setup/view/hotels/expedia.phtml, line: 199
 # File: module/setup/view/hotels/ocean.phtml, line: 85
 # File: module/setup/view/hotels/ocean.phtml, line: 86
-# File: module/setup/view/hotels/iberostar.phtml, line: 57
-# File: module/setup/view/hotels/iberostar.phtml, line: 58
+# File: module/setup/view/hotels/iberostar.phtml, line: 55
+# File: module/setup/view/hotels/iberostar.phtml, line: 56
 # File: module/setup/view/hotels/ati.phtml, line: 54
 # File: module/setup/view/hotels/ati.phtml, line: 55
 # File: module/setup/view/hotels/specialtours.phtml, line: 55
@@ -33353,8 +33470,8 @@ msgstr ""
 # File: module/setup/view/hotels/rts.phtml, line: 80
 # File: module/setup/view/hotels/tourico.phtml, line: 102
 # File: module/setup/view/hotels/tourico.phtml, line: 103
-# File: module/setup/view/hotels/palladium.phtml, line: 60
-# File: module/setup/view/hotels/palladium.phtml, line: 61
+# File: module/setup/view/hotels/palladium.phtml, line: 58
+# File: module/setup/view/hotels/palladium.phtml, line: 59
 # File: module/setup/view/hotels/jumbotoursgroup.phtml, line: 67
 # File: module/setup/view/hotels/jumbotoursgroup.phtml, line: 68
 # File: module/setup/view/hotels/aictravel.phtml, line: 64
@@ -33384,8 +33501,8 @@ msgstr ""
 # File: module/setup/view/hotels/aio.phtml, line: 70
 # File: module/setup/view/hotels/rakuten.phtml, line: 68
 # File: module/setup/view/hotels/rakuten.phtml, line: 69
-# File: module/setup/view/hotels/gtbeds.phtml, line: 58
-# File: module/setup/view/hotels/gtbeds.phtml, line: 59
+# File: module/setup/view/hotels/gtbeds.phtml, line: 55
+# File: module/setup/view/hotels/gtbeds.phtml, line: 56
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 90
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 91
 # File: module/setup/view/hotels/amadeus.phtml, line: 162
@@ -33420,8 +33537,8 @@ msgstr ""
 # File: module/setup/view/hotels/nexustours.phtml, line: 65
 # File: module/setup/view/hotels/bonotel.phtml, line: 64
 # File: module/setup/view/hotels/bonotel.phtml, line: 65
-# File: module/setup/view/hotels/riu.phtml, line: 86
-# File: module/setup/view/hotels/riu.phtml, line: 87
+# File: module/setup/view/hotels/riu.phtml, line: 84
+# File: module/setup/view/hotels/riu.phtml, line: 85
 # File: module/setup/view/hotels/roomsxml.phtml, line: 103
 # File: module/setup/view/hotels/roomsxml.phtml, line: 104
 # File: module/setup/view/hotels/markinternational.phtml, line: 79
@@ -33455,14 +33572,14 @@ msgstr ""
 # File: module/setup/view/hotels/jactravel.phtml, line: 121
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 125
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 126
-# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 95
-# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 96
+# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 93
+# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 94
 # File: module/setup/view/hotels/expedia.phtml, line: 201
 # File: module/setup/view/hotels/expedia.phtml, line: 202
 # File: module/setup/view/hotels/ocean.phtml, line: 89
 # File: module/setup/view/hotels/ocean.phtml, line: 90
-# File: module/setup/view/hotels/iberostar.phtml, line: 60
-# File: module/setup/view/hotels/iberostar.phtml, line: 61
+# File: module/setup/view/hotels/iberostar.phtml, line: 58
+# File: module/setup/view/hotels/iberostar.phtml, line: 59
 # File: module/setup/view/hotels/ati.phtml, line: 57
 # File: module/setup/view/hotels/ati.phtml, line: 58
 # File: module/setup/view/hotels/specialtours.phtml, line: 58
@@ -33628,8 +33745,8 @@ msgstr ""
 # File: module/setup/view/hotels/rts.phtml, line: 82
 # File: module/setup/view/hotels/rts.phtml, line: 83
 # File: module/setup/view/hotels/tourico.phtml, line: 107
-# File: module/setup/view/hotels/palladium.phtml, line: 63
-# File: module/setup/view/hotels/palladium.phtml, line: 64
+# File: module/setup/view/hotels/palladium.phtml, line: 61
+# File: module/setup/view/hotels/palladium.phtml, line: 62
 # File: module/setup/view/hotels/jumbotoursgroup.phtml, line: 70
 # File: module/setup/view/hotels/jumbotoursgroup.phtml, line: 71
 # File: module/setup/view/hotels/aictravel.phtml, line: 67
@@ -33659,8 +33776,8 @@ msgstr ""
 # File: module/setup/view/hotels/aio.phtml, line: 73
 # File: module/setup/view/hotels/rakuten.phtml, line: 71
 # File: module/setup/view/hotels/rakuten.phtml, line: 72
-# File: module/setup/view/hotels/gtbeds.phtml, line: 61
-# File: module/setup/view/hotels/gtbeds.phtml, line: 62
+# File: module/setup/view/hotels/gtbeds.phtml, line: 58
+# File: module/setup/view/hotels/gtbeds.phtml, line: 59
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 94
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 95
 # File: module/setup/view/hotels/amadeus.phtml, line: 163
@@ -33695,8 +33812,8 @@ msgstr ""
 # File: module/setup/view/hotels/nexustours.phtml, line: 68
 # File: module/setup/view/hotels/bonotel.phtml, line: 67
 # File: module/setup/view/hotels/bonotel.phtml, line: 68
-# File: module/setup/view/hotels/riu.phtml, line: 89
-# File: module/setup/view/hotels/riu.phtml, line: 90
+# File: module/setup/view/hotels/riu.phtml, line: 87
+# File: module/setup/view/hotels/riu.phtml, line: 88
 # File: module/setup/view/hotels/roomsxml.phtml, line: 107
 # File: module/setup/view/hotels/roomsxml.phtml, line: 108
 # File: module/setup/view/hotels/markinternational.phtml, line: 82
@@ -33730,14 +33847,14 @@ msgstr ""
 # File: module/setup/view/hotels/jactravel.phtml, line: 125
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 128
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 129
-# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 99
-# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 100
+# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 97
+# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 98
 # File: module/setup/view/hotels/expedia.phtml, line: 204
 # File: module/setup/view/hotels/expedia.phtml, line: 205
 # File: module/setup/view/hotels/ocean.phtml, line: 93
 # File: module/setup/view/hotels/ocean.phtml, line: 94
-# File: module/setup/view/hotels/iberostar.phtml, line: 63
-# File: module/setup/view/hotels/iberostar.phtml, line: 64
+# File: module/setup/view/hotels/iberostar.phtml, line: 61
+# File: module/setup/view/hotels/iberostar.phtml, line: 62
 # File: module/setup/view/hotels/ati.phtml, line: 60
 # File: module/setup/view/hotels/ati.phtml, line: 61
 # File: module/setup/view/hotels/specialtours.phtml, line: 61
@@ -33905,8 +34022,8 @@ msgstr ""
 # File: module/setup/view/hotels/rts.phtml, line: 87
 # File: module/setup/view/hotels/tourico.phtml, line: 110
 # File: module/setup/view/hotels/tourico.phtml, line: 111
-# File: module/setup/view/hotels/palladium.phtml, line: 67
-# File: module/setup/view/hotels/palladium.phtml, line: 68
+# File: module/setup/view/hotels/palladium.phtml, line: 65
+# File: module/setup/view/hotels/palladium.phtml, line: 66
 # File: module/setup/view/hotels/jumbotoursgroup.phtml, line: 74
 # File: module/setup/view/hotels/jumbotoursgroup.phtml, line: 75
 # File: module/setup/view/hotels/aictravel.phtml, line: 71
@@ -33936,8 +34053,8 @@ msgstr ""
 # File: module/setup/view/hotels/aio.phtml, line: 77
 # File: module/setup/view/hotels/rakuten.phtml, line: 75
 # File: module/setup/view/hotels/rakuten.phtml, line: 76
-# File: module/setup/view/hotels/gtbeds.phtml, line: 65
-# File: module/setup/view/hotels/gtbeds.phtml, line: 66
+# File: module/setup/view/hotels/gtbeds.phtml, line: 62
+# File: module/setup/view/hotels/gtbeds.phtml, line: 63
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 98
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 99
 # File: module/setup/view/hotels/amadeus.phtml, line: 164
@@ -33972,8 +34089,8 @@ msgstr ""
 # File: module/setup/view/hotels/nexustours.phtml, line: 72
 # File: module/setup/view/hotels/bonotel.phtml, line: 71
 # File: module/setup/view/hotels/bonotel.phtml, line: 72
-# File: module/setup/view/hotels/riu.phtml, line: 93
-# File: module/setup/view/hotels/riu.phtml, line: 94
+# File: module/setup/view/hotels/riu.phtml, line: 91
+# File: module/setup/view/hotels/riu.phtml, line: 92
 # File: module/setup/view/hotels/roomsxml.phtml, line: 111
 # File: module/setup/view/hotels/roomsxml.phtml, line: 112
 # File: module/setup/view/hotels/markinternational.phtml, line: 86
@@ -34007,14 +34124,14 @@ msgstr ""
 # File: module/setup/view/hotels/jactravel.phtml, line: 129
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 132
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 133
-# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 103
-# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 104
+# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 101
+# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 102
 # File: module/setup/view/hotels/expedia.phtml, line: 208
 # File: module/setup/view/hotels/expedia.phtml, line: 209
 # File: module/setup/view/hotels/ocean.phtml, line: 97
 # File: module/setup/view/hotels/ocean.phtml, line: 98
-# File: module/setup/view/hotels/iberostar.phtml, line: 67
-# File: module/setup/view/hotels/iberostar.phtml, line: 68
+# File: module/setup/view/hotels/iberostar.phtml, line: 65
+# File: module/setup/view/hotels/iberostar.phtml, line: 66
 # File: module/setup/view/hotels/ati.phtml, line: 64
 # File: module/setup/view/hotels/ati.phtml, line: 65
 # File: module/setup/view/hotels/specialtours.phtml, line: 65
@@ -34096,8 +34213,8 @@ msgstr ""
 # File: module/setup/view/hotels/rts.phtml, line: 96
 # File: module/setup/view/hotels/tourico.phtml, line: 119
 # File: module/setup/view/hotels/tourico.phtml, line: 121
+# File: module/setup/view/hotels/palladium.phtml, line: 73
 # File: module/setup/view/hotels/palladium.phtml, line: 75
-# File: module/setup/view/hotels/palladium.phtml, line: 77
 # File: module/setup/view/hotels/jumbotoursgroup.phtml, line: 82
 # File: module/setup/view/hotels/jumbotoursgroup.phtml, line: 84
 # File: module/setup/view/hotels/aictravel.phtml, line: 79
@@ -34128,8 +34245,8 @@ msgstr ""
 # File: module/setup/view/hotels/aio.phtml, line: 86
 # File: module/setup/view/hotels/rakuten.phtml, line: 83
 # File: module/setup/view/hotels/rakuten.phtml, line: 85
-# File: module/setup/view/hotels/gtbeds.phtml, line: 73
-# File: module/setup/view/hotels/gtbeds.phtml, line: 75
+# File: module/setup/view/hotels/gtbeds.phtml, line: 70
+# File: module/setup/view/hotels/gtbeds.phtml, line: 72
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 106
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 108
 # File: module/setup/view/hotels/amadeus.phtml, line: 170
@@ -34168,8 +34285,8 @@ msgstr ""
 # File: module/setup/view/hotels/nexustours.phtml, line: 81
 # File: module/setup/view/hotels/bonotel.phtml, line: 79
 # File: module/setup/view/hotels/bonotel.phtml, line: 81
+# File: module/setup/view/hotels/riu.phtml, line: 100
 # File: module/setup/view/hotels/riu.phtml, line: 102
-# File: module/setup/view/hotels/riu.phtml, line: 104
 # File: module/setup/view/hotels/roomsxml.phtml, line: 119
 # File: module/setup/view/hotels/roomsxml.phtml, line: 121
 # File: module/setup/view/hotels/markinternational.phtml, line: 94
@@ -34204,14 +34321,14 @@ msgstr ""
 # File: module/setup/view/hotels/jactravel.phtml, line: 138
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 140
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 142
+# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 109
 # File: module/setup/view/hotels/bahiaprincipe.phtml, line: 111
-# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 113
 # File: module/setup/view/hotels/expedia.phtml, line: 216
 # File: module/setup/view/hotels/expedia.phtml, line: 218
 # File: module/setup/view/hotels/ocean.phtml, line: 105
 # File: module/setup/view/hotels/ocean.phtml, line: 107
+# File: module/setup/view/hotels/iberostar.phtml, line: 73
 # File: module/setup/view/hotels/iberostar.phtml, line: 75
-# File: module/setup/view/hotels/iberostar.phtml, line: 77
 # File: module/setup/view/hotels/ati.phtml, line: 72
 # File: module/setup/view/hotels/ati.phtml, line: 74
 # File: module/setup/view/hotels/specialtours.phtml, line: 73
@@ -34246,11 +34363,11 @@ msgstr ""
 # File: module/setup/view/hotels/travolutionary.phtml, line: 160
 # File: module/setup/view/hotels/actiontravel.phtml, line: 146
 # File: module/setup/view/hotels/karisma.phtml, line: 146
-# File: module/setup/view/hotels/gtbeds.phtml, line: 137
+# File: module/setup/view/hotels/gtbeds.phtml, line: 134
 # File: module/setup/view/hotels/majesticusadisney.phtml, line: 134
 # File: module/setup/view/hotels/goglobal.phtml, line: 164
 # File: module/setup/view/hotels/nexustours.phtml, line: 146
-# File: module/setup/view/hotels/riu.phtml, line: 172
+# File: module/setup/view/hotels/riu.phtml, line: 170
 # File: module/setup/view/hotels/majesticusa.phtml, line: 132
 # File: module/setup/view/transfers/nexustours.phtml, line: 144
 msgid "Please enter Login/Email"
@@ -34326,7 +34443,7 @@ msgstr ""
 # File: module/setup/view/hotels/sabre.phtml, line: 205
 # File: module/setup/view/hotels/rts.phtml, line: 188
 # File: module/setup/view/hotels/tourico.phtml, line: 216
-# File: module/setup/view/hotels/palladium.phtml, line: 145
+# File: module/setup/view/hotels/palladium.phtml, line: 143
 # File: module/setup/view/hotels/jumbotoursgroup.phtml, line: 155
 # File: module/setup/view/hotels/aictravel.phtml, line: 152
 # File: module/setup/view/hotels/symrooms.phtml, line: 188
@@ -34342,7 +34459,7 @@ msgstr ""
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 171
 # File: module/setup/view/hotels/aio.phtml, line: 166
 # File: module/setup/view/hotels/rakuten.phtml, line: 150
-# File: module/setup/view/hotels/gtbeds.phtml, line: 143
+# File: module/setup/view/hotels/gtbeds.phtml, line: 140
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 173
 # File: module/setup/view/hotels/amadeus.phtml, line: 303
 # File: module/setup/view/hotels/eetglobal.phtml, line: 159
@@ -34362,7 +34479,7 @@ msgstr ""
 # File: module/setup/view/hotels/palaceresorts.phtml, line: 164
 # File: module/setup/view/hotels/nexustours.phtml, line: 152
 # File: module/setup/view/hotels/bonotel.phtml, line: 155
-# File: module/setup/view/hotels/riu.phtml, line: 178
+# File: module/setup/view/hotels/riu.phtml, line: 176
 # File: module/setup/view/hotels/roomsxml.phtml, line: 222
 # File: module/setup/view/hotels/markinternational.phtml, line: 182
 # File: module/setup/view/hotels/nuitee.phtml, line: 228
@@ -34380,10 +34497,10 @@ msgstr ""
 # File: module/setup/view/hotels/tbo.phtml, line: 243
 # File: module/setup/view/hotels/jactravel.phtml, line: 272
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 243
-# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 181
+# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 179
 # File: module/setup/view/hotels/expedia.phtml, line: 319
 # File: module/setup/view/hotels/ocean.phtml, line: 172
-# File: module/setup/view/hotels/iberostar.phtml, line: 145
+# File: module/setup/view/hotels/iberostar.phtml, line: 143
 # File: module/setup/view/hotels/ati.phtml, line: 142
 # File: module/setup/view/hotels/specialtours.phtml, line: 143
 # File: module/setup/view/hotels/hoteldo.phtml, line: 313
@@ -34410,14 +34527,14 @@ msgstr ""
 # File: module/setup/view/hotels/karisma.phtml, line: 155
 # File: module/setup/view/hotels/restel.phtml, line: 191
 # File: module/setup/view/hotels/roomer.phtml, line: 174
-# File: module/setup/view/hotels/palladium.phtml, line: 148
+# File: module/setup/view/hotels/palladium.phtml, line: 146
 # File: module/setup/view/hotels/jumbotoursgroup.phtml, line: 158
 # File: module/setup/view/hotels/aictravel.phtml, line: 155
 # File: module/setup/view/hotels/iterpec.phtml, line: 141
 # File: module/setup/view/hotels/playaresorts.phtml, line: 176
 # File: module/setup/view/hotels/coming2.phtml, line: 171
 # File: module/setup/view/hotels/rakuten.phtml, line: 153
-# File: module/setup/view/hotels/gtbeds.phtml, line: 149
+# File: module/setup/view/hotels/gtbeds.phtml, line: 146
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 176
 # File: module/setup/view/hotels/eetglobal.phtml, line: 162
 # File: module/setup/view/hotels/didatravel.phtml, line: 197
@@ -34428,7 +34545,7 @@ msgstr ""
 # File: module/setup/view/hotels/travco.phtml, line: 137
 # File: module/setup/view/hotels/palaceresorts.phtml, line: 167
 # File: module/setup/view/hotels/nexustours.phtml, line: 155
-# File: module/setup/view/hotels/riu.phtml, line: 181
+# File: module/setup/view/hotels/riu.phtml, line: 179
 # File: module/setup/view/hotels/roomsxml.phtml, line: 228
 # File: module/setup/view/hotels/dotw.phtml, line: 176
 # File: module/setup/view/hotels/majesticusa.phtml, line: 141
@@ -34437,9 +34554,9 @@ msgstr ""
 # File: module/setup/view/hotels/belive.phtml, line: 176
 # File: module/setup/view/hotels/tbo.phtml, line: 246
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 246
-# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 184
+# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 182
 # File: module/setup/view/hotels/ocean.phtml, line: 175
-# File: module/setup/view/hotels/iberostar.phtml, line: 148
+# File: module/setup/view/hotels/iberostar.phtml, line: 146
 # File: module/setup/view/hotels/specialtours.phtml, line: 137
 # File: module/setup/view/hotels/premierinn.phtml, line: 159
 # File: module/setup/view/transfers/nexustours.phtml, line: 153
@@ -34542,7 +34659,7 @@ msgstr ""
 # File: module/setup/view/hotels/sabre.phtml, line: 208
 # File: module/setup/view/hotels/rts.phtml, line: 197
 # File: module/setup/view/hotels/tourico.phtml, line: 219
-# File: module/setup/view/hotels/palladium.phtml, line: 151
+# File: module/setup/view/hotels/palladium.phtml, line: 149
 # File: module/setup/view/hotels/jumbotoursgroup.phtml, line: 170
 # File: module/setup/view/hotels/aictravel.phtml, line: 158
 # File: module/setup/view/hotels/symrooms.phtml, line: 191
@@ -34558,7 +34675,7 @@ msgstr ""
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 177
 # File: module/setup/view/hotels/aio.phtml, line: 175
 # File: module/setup/view/hotels/rakuten.phtml, line: 168
-# File: module/setup/view/hotels/gtbeds.phtml, line: 152
+# File: module/setup/view/hotels/gtbeds.phtml, line: 149
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 179
 # File: module/setup/view/hotels/amadeus.phtml, line: 306
 # File: module/setup/view/hotels/eetglobal.phtml, line: 168
@@ -34578,7 +34695,7 @@ msgstr ""
 # File: module/setup/view/hotels/palaceresorts.phtml, line: 176
 # File: module/setup/view/hotels/nexustours.phtml, line: 164
 # File: module/setup/view/hotels/bonotel.phtml, line: 158
-# File: module/setup/view/hotels/riu.phtml, line: 193
+# File: module/setup/view/hotels/riu.phtml, line: 191
 # File: module/setup/view/hotels/roomsxml.phtml, line: 231
 # File: module/setup/view/hotels/markinternational.phtml, line: 197
 # File: module/setup/view/hotels/nuitee.phtml, line: 267
@@ -34596,10 +34713,10 @@ msgstr ""
 # File: module/setup/view/hotels/tbo.phtml, line: 285
 # File: module/setup/view/hotels/jactravel.phtml, line: 275
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 285
-# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 190
+# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 188
 # File: module/setup/view/hotels/expedia.phtml, line: 325
 # File: module/setup/view/hotels/ocean.phtml, line: 178
-# File: module/setup/view/hotels/iberostar.phtml, line: 151
+# File: module/setup/view/hotels/iberostar.phtml, line: 149
 # File: module/setup/view/hotels/ati.phtml, line: 145
 # File: module/setup/view/hotels/specialtours.phtml, line: 146
 # File: module/setup/view/hotels/hoteldo.phtml, line: 316
@@ -34686,7 +34803,7 @@ msgstr ""
 # File: module/setup/view/hotels/sabre.phtml, line: 211
 # File: module/setup/view/hotels/rts.phtml, line: 200
 # File: module/setup/view/hotels/tourico.phtml, line: 231
-# File: module/setup/view/hotels/palladium.phtml, line: 157
+# File: module/setup/view/hotels/palladium.phtml, line: 155
 # File: module/setup/view/hotels/jumbotoursgroup.phtml, line: 173
 # File: module/setup/view/hotels/aictravel.phtml, line: 161
 # File: module/setup/view/hotels/symrooms.phtml, line: 194
@@ -34702,7 +34819,7 @@ msgstr ""
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 180
 # File: module/setup/view/hotels/aio.phtml, line: 178
 # File: module/setup/view/hotels/rakuten.phtml, line: 171
-# File: module/setup/view/hotels/gtbeds.phtml, line: 155
+# File: module/setup/view/hotels/gtbeds.phtml, line: 152
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 182
 # File: module/setup/view/hotels/amadeus.phtml, line: 309
 # File: module/setup/view/hotels/eetglobal.phtml, line: 171
@@ -34722,7 +34839,7 @@ msgstr ""
 # File: module/setup/view/hotels/palaceresorts.phtml, line: 179
 # File: module/setup/view/hotels/nexustours.phtml, line: 167
 # File: module/setup/view/hotels/bonotel.phtml, line: 161
-# File: module/setup/view/hotels/riu.phtml, line: 196
+# File: module/setup/view/hotels/riu.phtml, line: 194
 # File: module/setup/view/hotels/roomsxml.phtml, line: 234
 # File: module/setup/view/hotels/markinternational.phtml, line: 200
 # File: module/setup/view/hotels/nuitee.phtml, line: 270
@@ -34740,10 +34857,10 @@ msgstr ""
 # File: module/setup/view/hotels/tbo.phtml, line: 288
 # File: module/setup/view/hotels/jactravel.phtml, line: 278
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 288
-# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 193
+# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 191
 # File: module/setup/view/hotels/expedia.phtml, line: 328
 # File: module/setup/view/hotels/ocean.phtml, line: 181
-# File: module/setup/view/hotels/iberostar.phtml, line: 154
+# File: module/setup/view/hotels/iberostar.phtml, line: 152
 # File: module/setup/view/hotels/ati.phtml, line: 148
 # File: module/setup/view/hotels/specialtours.phtml, line: 149
 # File: module/setup/view/hotels/hoteldo.phtml, line: 319
@@ -34830,7 +34947,7 @@ msgstr ""
 # File: module/setup/view/hotels/sabre.phtml, line: 214
 # File: module/setup/view/hotels/rts.phtml, line: 203
 # File: module/setup/view/hotels/tourico.phtml, line: 234
-# File: module/setup/view/hotels/palladium.phtml, line: 160
+# File: module/setup/view/hotels/palladium.phtml, line: 158
 # File: module/setup/view/hotels/jumbotoursgroup.phtml, line: 176
 # File: module/setup/view/hotels/aictravel.phtml, line: 164
 # File: module/setup/view/hotels/symrooms.phtml, line: 197
@@ -34846,7 +34963,7 @@ msgstr ""
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 183
 # File: module/setup/view/hotels/aio.phtml, line: 181
 # File: module/setup/view/hotels/rakuten.phtml, line: 174
-# File: module/setup/view/hotels/gtbeds.phtml, line: 158
+# File: module/setup/view/hotels/gtbeds.phtml, line: 155
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 185
 # File: module/setup/view/hotels/amadeus.phtml, line: 312
 # File: module/setup/view/hotels/eetglobal.phtml, line: 174
@@ -34866,7 +34983,7 @@ msgstr ""
 # File: module/setup/view/hotels/palaceresorts.phtml, line: 182
 # File: module/setup/view/hotels/nexustours.phtml, line: 170
 # File: module/setup/view/hotels/bonotel.phtml, line: 164
-# File: module/setup/view/hotels/riu.phtml, line: 199
+# File: module/setup/view/hotels/riu.phtml, line: 197
 # File: module/setup/view/hotels/roomsxml.phtml, line: 237
 # File: module/setup/view/hotels/markinternational.phtml, line: 203
 # File: module/setup/view/hotels/nuitee.phtml, line: 273
@@ -34884,10 +35001,10 @@ msgstr ""
 # File: module/setup/view/hotels/tbo.phtml, line: 291
 # File: module/setup/view/hotels/jactravel.phtml, line: 281
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 291
-# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 196
+# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 194
 # File: module/setup/view/hotels/expedia.phtml, line: 331
 # File: module/setup/view/hotels/ocean.phtml, line: 184
-# File: module/setup/view/hotels/iberostar.phtml, line: 160
+# File: module/setup/view/hotels/iberostar.phtml, line: 158
 # File: module/setup/view/hotels/ati.phtml, line: 151
 # File: module/setup/view/hotels/specialtours.phtml, line: 152
 # File: module/setup/view/hotels/hoteldo.phtml, line: 322
@@ -35309,7 +35426,7 @@ msgstr ""
 # File: module/setup/view/hotels/roomsxml.phtml, line: 198
 # File: module/setup/view/hotels/dotw.phtml, line: 167
 # File: module/setup/view/hotels/belive.phtml, line: 167
-# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 175
+# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 173
 # File: module/setup/view/hotels/ocean.phtml, line: 166
 # File: module/setup/view/hotels/specialtours.phtml, line: 134
 # File: module/setup/view/hotels/premierinn.phtml, line: 147
@@ -41172,20 +41289,20 @@ msgstr ""
 msgid "Cancellation Policy (Days)"
 msgstr ""
 #
-# File: module/setup/view/hotels/palladium.phtml, line: 139
-# File: module/setup/view/hotels/iberostar.phtml, line: 139
+# File: module/setup/view/hotels/palladium.phtml, line: 137
+# File: module/setup/view/hotels/iberostar.phtml, line: 137
 msgid "Please enter Booking Channel"
 msgstr ""
 #
-# File: module/setup/view/hotels/palladium.phtml, line: 142
-# File: module/setup/view/hotels/iberostar.phtml, line: 142
+# File: module/setup/view/hotels/palladium.phtml, line: 140
+# File: module/setup/view/hotels/iberostar.phtml, line: 140
 msgid "Please enter Requestor ID"
 msgstr ""
 #
-# File: module/setup/view/hotels/palladium.phtml, line: 154
-# File: module/setup/view/hotels/riu.phtml, line: 190
-# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 187
-# File: module/setup/view/hotels/iberostar.phtml, line: 157
+# File: module/setup/view/hotels/palladium.phtml, line: 152
+# File: module/setup/view/hotels/riu.phtml, line: 188
+# File: module/setup/view/hotels/bahiaprincipe.phtml, line: 185
+# File: module/setup/view/hotels/iberostar.phtml, line: 155
 msgid "Please enter Cancellation Policy"
 msgstr ""
 #
@@ -42265,11 +42382,11 @@ msgstr ""
 msgid "Commissionable Rates"
 msgstr ""
 #
-# File: module/setup/view/hotels/riu.phtml, line: 184
+# File: module/setup/view/hotels/riu.phtml, line: 182
 msgid "Please enter Notifications Email"
 msgstr ""
 #
-# File: module/setup/view/hotels/riu.phtml, line: 187
+# File: module/setup/view/hotels/riu.phtml, line: 185
 msgid "Please enter Booking Lead Time"
 msgstr ""
 #
