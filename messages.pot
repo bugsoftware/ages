@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-03 11:38-0400\n"
+"POT-Creation-Date: 2021-07-03 12:08-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -562,8 +562,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/add_transfers.phtml, line: 19
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1068
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2139
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4153
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4964
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4190
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5001
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 13
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 17
 # File: module/ages/view/ages/agents/edit_telemarketing.phtml, line: 10
@@ -692,8 +692,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2140
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2375
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2401
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5053
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5076
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5090
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5113
 # File: module/ages/view/ages/agents/telemarketing.phtml, line: 14
 # File: module/ages/view/ages/agents/telemarketing.phtml, line: 16
 # File: module/ages/view/ages/agents/transfercustomers.phtml, line: 14
@@ -763,7 +763,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 21
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 22
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2376
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5099
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5136
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 22
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 19
 # File: module/ages/view/ages/agents/telemarketing.phtml, line: 48
@@ -816,8 +816,8 @@ msgstr ""
 # File: module/ages/src/Controller/Air.php, line: 4110
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 162
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 299
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 8135
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 12483
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 8382
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 12730
 # File: module/ages/src/Controller/Transfers.php, line: 1157
 # File: module/ages/src/Controller/Transfers.php, line: 1172
 # File: module/ages/src/Controller/Transfers.php, line: 1194
@@ -2298,12 +2298,14 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2574
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2598
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2615
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2647
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2664
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2635
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2651
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2684
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2700
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2791
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2950
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2701
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2721
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2737
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2828
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2987
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 99
 # File: module/ages/view/ages/agents/telemarketing.phtml, line: 94
 # File: module/ages/view/ages/agents/telemarketing.phtml, line: 124
@@ -2745,7 +2747,7 @@ msgstr ""
 # File: module/ages/src/Controller/Air.php, line: 3109
 # File: module/ages/src/Controller/Air.php, line: 3446
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1920
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 13270
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13517
 # File: module/ages/src/Controller/Tours.php, line: 542
 # File: module/ages/src/Controller/Tours.php, line: 947
 # File: module/ages/src/Controller/Tours.php, line: 3610
@@ -2862,8 +2864,8 @@ msgstr ""
 # File: module/ages/view/ages/reports/b2bwallet.phtml, line: 31
 # File: module/ages/view/ages/sub-agents/add_payments.phtml, line: 5
 # File: module/ages/view/ages/sub-agents/edit_payments.phtml, line: 5
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4955
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5001
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4992
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5038
 # File: module/ages/view/ages/agents/add_payments.phtml, line: 5
 # File: module/ages/view/ages/agents/edit_payments.phtml, line: 5
 # File: module/setup/view/settings/payments.phtml, line: 12
@@ -2877,7 +2879,7 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/add_payments.phtml, line: 47
 # File: module/ages/view/ages/sub-agents/edit_payments.phtml, line: 47
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2435
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5004
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5041
 # File: module/ages/view/ages/agents/add_payments.phtml, line: 47
 # File: module/ages/view/ages/agents/edit_payments.phtml, line: 47
 # File: module/setup/view/settings/payments.phtml, line: 93
@@ -2893,7 +2895,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 527
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2438
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5013
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5050
 # File: module/setup/view/settings/payments.phtml, line: 185
 # File: module/setup/view/settings/payments-b2b.phtml, line: 185
 msgid "PayU"
@@ -2905,7 +2907,7 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/add_payments.phtml, line: 120
 # File: module/ages/view/ages/sub-agents/edit_payments.phtml, line: 120
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2439
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5018
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5055
 # File: module/ages/view/ages/agents/add_payments.phtml, line: 120
 # File: module/ages/view/ages/agents/edit_payments.phtml, line: 120
 # File: module/setup/view/settings/payments.phtml, line: 311
@@ -2919,7 +2921,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 542
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2441
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5024
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5061
 msgid "Sadad"
 msgstr ""
 #
@@ -2955,7 +2957,7 @@ msgid "All Affiliates"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1670
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 13166
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13413
 # File: module/ages/src/Controller/Packages.php, line: 3900
 # File: module/ages/src/Controller/Packages.php, line: 5108
 # File: module/ages/view/ages/packages/editavailability.phtml, line: 84
@@ -2964,7 +2966,7 @@ msgid "Non-refundable"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1684
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 13180
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13427
 # File: module/ages/src/Controller/Packages.php, line: 3917
 # File: module/ages/src/Controller/Packages.php, line: 5122
 # File: module/ages/view/ages/packages/editavailability.phtml, line: 84
@@ -2973,8 +2975,8 @@ msgid "Custom Cancellation Policy"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1698
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 10419
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 13198
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 10666
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13445
 # File: module/ages/src/Controller/Tours.php, line: 672
 # File: module/ages/src/Controller/Packages.php, line: 3928
 # File: module/ages/src/Controller/Packages.php, line: 4158
@@ -2996,14 +2998,14 @@ msgid "All Companies/Markets"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1885
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 13235
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13482
 # File: module/ages/src/Controller/Packages.php, line: 3602
 # File: module/ages/src/Controller/Packages.php, line: 4937
 msgid "No star rating"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1889
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 13239
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13486
 # File: module/ages/src/Controller/Packages.php, line: 3606
 # File: module/ages/src/Controller/Packages.php, line: 4941
 # File: module/ages/src/Controller/CMS.php, line: 9097
@@ -3012,7 +3014,7 @@ msgid "1"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1893
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 13243
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13490
 # File: module/ages/src/Controller/Packages.php, line: 3610
 # File: module/ages/src/Controller/Packages.php, line: 4945
 # File: module/setup/src/Controller/cruiseships.php, line: 111
@@ -3020,7 +3022,7 @@ msgid "2"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1897
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 13247
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13494
 # File: module/ages/src/Controller/Packages.php, line: 3614
 # File: module/ages/src/Controller/Packages.php, line: 4949
 # File: module/ages/src/Controller/CMS.php, line: 9101
@@ -3029,7 +3031,7 @@ msgid "3"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1901
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 13251
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13498
 # File: module/ages/src/Controller/Packages.php, line: 3618
 # File: module/ages/src/Controller/Packages.php, line: 4953
 # File: module/ages/src/Controller/CMS.php, line: 9105
@@ -3038,7 +3040,7 @@ msgid "4"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1905
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 13255
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13502
 # File: module/ages/src/Controller/Packages.php, line: 3622
 # File: module/ages/src/Controller/Packages.php, line: 4957
 # File: module/ages/src/Controller/CMS.php, line: 9109
@@ -3047,7 +3049,7 @@ msgid "5"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1912
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 13262
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13509
 # File: module/ages/src/Controller/Tours.php, line: 534
 # File: module/ages/src/Controller/Tours.php, line: 939
 # File: module/ages/src/Controller/Packages.php, line: 3573
@@ -3070,7 +3072,7 @@ msgid "Available"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1916
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 13266
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13513
 # File: module/ages/src/Controller/Tours.php, line: 538
 # File: module/ages/src/Controller/Tours.php, line: 943
 # File: module/ages/src/Controller/Packages.php, line: 3577
@@ -3094,7 +3096,7 @@ msgstr ""
 msgid "Unable to upload document"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 9919
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 10166
 # File: module/ages/src/Controller/Packages.php, line: 1546
 # File: module/ages/src/Controller/Packages.php, line: 1667
 # File: module/ages/src/Controller/Packages.php, line: 1681
@@ -3106,12 +3108,12 @@ msgstr ""
 msgid "Direct Contract"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 10334
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 10581
 msgid "All Departments"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 10357
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 10382
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 10604
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 10629
 # File: module/ages/src/Controller/Customers.php, line: 714
 # File: module/ages/src/Controller/Customers.php, line: 2091
 # File: module/ages/src/Controller/Customers.php, line: 2106
@@ -3122,7 +3124,7 @@ msgstr ""
 msgid "Direct Booking"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 10952
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 11199
 # File: module/ages/src/Controller/Customers.php, line: 1198
 # File: module/ages/src/Controller/Customers.php, line: 1441
 # File: module/ages/src/Controller/Customers.php, line: 5360
@@ -3138,7 +3140,7 @@ msgstr ""
 msgid "Mr"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 10953
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 11200
 # File: module/ages/src/Controller/Customers.php, line: 1206
 # File: module/ages/src/Controller/Customers.php, line: 1449
 # File: module/ages/src/Controller/Customers.php, line: 5368
@@ -3246,10 +3248,10 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/searchexceptions.phtml, line: 44
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 37
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2061
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2753
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2807
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5303
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5308
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2790
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2844
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5340
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5345
 # File: module/ages/view/ages/customers/travellingtomorrow.phtml, line: 53
 # File: module/ages/view/ages/customers/travelling.phtml, line: 53
 # File: module/manager/view/rooms/add.phtml, line: 25
@@ -3266,19 +3268,19 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/editair.phtml, line: 35
 # File: module/ages/view/ages/newsletter/edithotel.phtml, line: 28
 # File: module/ages/view/ages/newsletter/editairline.phtml, line: 35
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3577
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3644
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3716
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3775
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3834
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3894
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3953
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4013
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4839
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4864
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4890
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4908
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4925
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3614
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3681
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3753
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3812
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3871
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3931
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3990
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4050
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4876
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4901
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4927
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4945
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4962
 # File: module/setup/view/activities/actiontravel.phtml, line: 86
 # File: module/setup/view/activities/tourico.phtml, line: 89
 # File: module/setup/view/activities/destinationservices.phtml, line: 67
@@ -4052,14 +4054,16 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2576
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2598
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2600
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2647
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2649
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2635
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2637
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2684
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2686
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2791
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2793
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2950
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2952
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2721
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2723
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2828
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2830
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2987
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2989
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 99
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 101
 # File: module/ages/view/ages/agents/telemarketing.phtml, line: 94
@@ -4390,7 +4394,7 @@ msgid "Dynamic Packages"
 msgstr ""
 #
 # File: module/ages/src/Controller/Payments.php, line: 81
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4954
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4991
 msgid "Cash"
 msgstr ""
 #
@@ -4404,22 +4408,22 @@ msgid "Unknown Payment Type"
 msgstr ""
 #
 # File: module/ages/src/Controller/Payments.php, line: 97
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4947
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4984
 msgid "Total Payment"
 msgstr ""
 #
 # File: module/ages/src/Controller/Payments.php, line: 100
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4948
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4985
 msgid "1st Payment"
 msgstr ""
 #
 # File: module/ages/src/Controller/Payments.php, line: 103
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4949
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4986
 msgid "2nd Payment"
 msgstr ""
 #
 # File: module/ages/src/Controller/Payments.php, line: 106
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4950
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4987
 msgid "3rd Payment"
 msgstr ""
 #
@@ -4719,11 +4723,11 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/add.phtml, line: 26
 # File: module/ages/view/ages/dynamic-packaging/edit.phtml, line: 27
 # File: module/ages/view/ages/dynamic-packaging/search.phtml, line: 29
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3534
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4089
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4159
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4275
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4483
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3571
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4126
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4196
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4312
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4520
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 39
 # File: module/ages/view/ages/transfers/pricing.phtml, line: 21
 # File: module/ages/view/ages/transfers/pricing_edit.phtml, line: 17
@@ -5535,7 +5539,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/edit_modals.phtml, line: 21
 # File: module/ages/view/ages/dynamic-packaging/add_modals.phtml, line: 21
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1634
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4241
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4278
 # File: module/ages/view/ages/agents/edit_accounting.phtml, line: 31
 # File: module/ages/view/ages/agents/add_airsearches.phtml, line: 11
 # File: module/ages/view/ages/agents/edit_airsearches.phtml, line: 11
@@ -5836,11 +5840,11 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/edit.phtml, line: 26
 # File: module/ages/view/ages/dynamic-packaging/search.phtml, line: 13
 # File: module/ages/view/ages/dynamic-packaging/search.phtml, line: 28
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3528
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4086
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4156
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4269
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4477
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3565
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4123
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4193
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4306
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4514
 # File: module/ages/view/ages/transfers/pricing.phtml, line: 18
 # File: module/ages/view/ages/transfers/pricing_edit.phtml, line: 14
 # File: module/ages/view/ages/transfers/pricing_edit.phtml, line: 15
@@ -5861,11 +5865,11 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation.phtml, line: 411
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 246
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 545
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3564
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4110
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4177
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4293
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4405
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3601
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4147
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4214
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4330
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4442
 msgid "Cancellation Policy"
 msgstr ""
 #
@@ -6051,7 +6055,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 360
 # File: module/ages/src/Controller/Templates/invoice.phtml, line: 171
 # File: module/ages/src/Controller/Templates/invoice.phtml, line: 198
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4489
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4526
 msgid "Infants"
 msgstr ""
 #
@@ -6286,20 +6290,20 @@ msgstr ""
 # File: module/ages/view/ages/reports/hotels.phtml, line: 32
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1784
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1785
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3620
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3623
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3692
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3695
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3751
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3754
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3810
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3813
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3870
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3873
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3929
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3932
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3989
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3992
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3657
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3660
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3729
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3732
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3788
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3791
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3847
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3850
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3907
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3910
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3966
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3969
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4026
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4029
 msgid "Reservation Status"
 msgstr ""
 #
@@ -6469,16 +6473,16 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1184
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1226
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1363
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3598
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3737
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3796
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3856
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3915
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3975
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4095
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4174
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4287
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4416
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3635
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3774
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3833
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3893
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3952
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4012
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4132
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4211
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4324
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4453
 # File: module/ages/view/ages/transfers/searchreservations.phtml, line: 11
 # File: module/ages/view/ages/transfers/searchreservations.phtml, line: 31
 # File: module/ages/view/ages/transfers/reservations.phtml, line: 13
@@ -6500,10 +6504,10 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1192
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1227
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1364
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4092
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4171
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4281
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4399
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4129
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4208
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4318
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4436
 msgid "Confirmation"
 msgstr ""
 #
@@ -6537,7 +6541,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 287
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2138
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4970
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5007
 msgid "Reference"
 msgstr ""
 #
@@ -6692,15 +6696,15 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1639
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2115
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2148
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2964
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3546
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4101
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4165
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4263
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4383
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4501
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4561
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4832
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3001
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3583
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4138
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4202
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4300
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4420
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4538
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4598
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4869
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 25
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 23
 # File: module/ages/view/ages/agents/edit_reservations.phtml, line: 17
@@ -6783,7 +6787,7 @@ msgstr ""
 # File: module/ages/view/ages/packages/editpreferredcruises.phtml, line: 12
 # File: module/ages/view/ages/packages/preferredcruises.phtml, line: 22
 # File: module/ages/view/ages/packages/addpreferredcruises.phtml, line: 11
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4555
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4592
 # File: module/setup/view/intelligence/preferredcruises.phtml, line: 23
 # File: module/setup/view/intelligence/preferredcruises_edit.phtml, line: 12
 # File: module/setup/view/intelligence/preferredcruises_add.phtml, line: 11
@@ -6951,7 +6955,7 @@ msgstr ""
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 19
 # File: module/ages/view/ages/reports/sales.phtml, line: 39
 # File: module/ages/view/ages/reports/profit.phtml, line: 43
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2986
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3023
 msgid "Net Total"
 msgstr ""
 #
@@ -7198,8 +7202,8 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/add_hotels.phtml, line: 4
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 93
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1625
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4129
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4937
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4166
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4974
 # File: module/ages/view/ages/agents/edit_hotels.phtml, line: 4
 # File: module/ages/view/ages/agents/add_hotels.phtml, line: 4
 msgid "Settlement"
@@ -7270,10 +7274,10 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 16
 # File: module/ages/view/ages/dynamic-packaging/add.phtml, line: 57
 # File: module/ages/view/ages/dynamic-packaging/edit.phtml, line: 59
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3558
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3612
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3614
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4107
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3595
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3649
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3651
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4144
 # File: module/ages/view/ages/transfers/vehicles_add.phtml, line: 47
 # File: module/ages/view/ages/transfers/vehicles_edit.phtml, line: 38
 # File: module/setup/view/intelligence/preferredhotels_add.phtml, line: 12
@@ -7751,7 +7755,7 @@ msgstr ""
 # File: module/ages/view/ages/hotels/add_markups.phtml, line: 21
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1809
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1810
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4792
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4829
 # File: module/ages/view/ages/customers/editpassdocuments.phtml, line: 17
 # File: module/ages/view/ages/customers/addpassdocuments.phtml, line: 17
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 17
@@ -7875,8 +7879,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 12
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2046
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2110
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5152
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5166
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5189
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5203
 # File: module/ages/view/ages/agents/distributions.phtml, line: 12
 # File: module/ages/view/ages/agents/detailedreport.phtml, line: 14
 # File: module/ages/view/ages/agents/edit_telemarketing.phtml, line: 17
@@ -8014,7 +8018,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 253
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2112
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2115
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4798
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4835
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 23
 # File: module/ages/view/ages/dynamic-packaging/add_quotes.phtml, line: 16
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 21
@@ -8161,7 +8165,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1764
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2111
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2403
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4795
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4832
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 24
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 22
 # File: module/ages/view/ages/agents/telemarketing.phtml, line: 49
@@ -10308,7 +10312,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2068
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2534
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2572
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2948
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2985
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 75
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 97
 # File: module/ages/view/ages/agents/distributions.phtml, line: 24
@@ -10645,7 +10649,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/edit.phtml, line: 87
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2086
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2211
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4310
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4347
 # File: module/ages/view/ages/agents/edit_auditing.phtml, line: 11
 # File: module/ages/view/ages/agents/add_giftcards.phtml, line: 11
 # File: module/ages/view/ages/agents/distributions_add.phtml, line: 11
@@ -12007,7 +12011,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/edit.phtml, line: 12
 # File: module/ages/view/ages/newsletter/edit.phtml, line: 13
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 10
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4774
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4811
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 96
 # File: module/ages/view/ages/agents/zombie.phtml, line: 31
 # File: module/ages/view/ages/agents/add.phtml, line: 14
@@ -12073,7 +12077,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/edit.phtml, line: 15
 # File: module/ages/view/ages/newsletter/edit.phtml, line: 16
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 11
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4777
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4814
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 97
 # File: module/ages/view/ages/agents/zombie.phtml, line: 30
 # File: module/ages/view/ages/agents/add.phtml, line: 15
@@ -12224,8 +12228,8 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/edit.phtml, line: 32
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1936
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2143
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4943
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4944
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4980
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4981
 # File: module/ages/view/ages/dynamic-packaging/add_quotes.phtml, line: 25
 # File: module/ages/view/ages/agents/zombie.phtml, line: 34
 # File: module/ages/view/ages/agents/detailedreport.phtml, line: 18
@@ -15039,20 +15043,20 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/offlinebooking.phtml, line: 13
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1780
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1781
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3631
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3634
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3703
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3706
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3762
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3765
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3821
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3824
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3881
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3884
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3940
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3943
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4000
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4003
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3668
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3671
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3740
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3743
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3799
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3802
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3858
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3861
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3918
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3921
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3977
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3980
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4037
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4040
 # File: module/ages/view/ages/customers/editreservations.phtml, line: 15
 msgid "Payment Status"
 msgstr ""
@@ -16035,12 +16039,12 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1985
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2014
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2320
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3569
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4042
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4113
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4976
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5126
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5155
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3606
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4079
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4150
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5013
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5163
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5192
 # File: module/ages/view/ages/agents/addtransaction.phtml, line: 24
 # File: module/ages/view/ages/agents/edit_transactions.phtml, line: 15
 # File: module/ages/view/ages/agents/add.phtml, line: 149
@@ -16226,7 +16230,7 @@ msgstr ""
 # File: module/ages/view/ages/hotels/finantial_information_edit.phtml, line: 189
 # File: module/ages/view/ages/newsletter/create.phtml, line: 27
 # File: module/ages/view/ages/newsletter/editnewsletter.phtml, line: 25
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3552
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3589
 # File: module/ages/view/ages/agents/addtransaction.phtml, line: 21
 # File: module/ages/view/ages/agents/add.phtml, line: 78
 # File: module/ages/view/ages/agents/edit.phtml, line: 90
@@ -16435,8 +16439,8 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 18
 # File: module/ages/view/ages/sub-agents/edit.phtml, line: 18
 # File: module/ages/view/ages/sub-agents/edit_seo.phtml, line: 4
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4036
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5123
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4073
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5160
 # File: module/ages/view/ages/agents/add.phtml, line: 13
 # File: module/ages/view/ages/agents/edit.phtml, line: 16
 # File: module/ages/view/ages/agents/edit_seo.phtml, line: 4
@@ -17316,7 +17320,7 @@ msgstr ""
 # File: module/ages/view/ages/activities/searchreservations.phtml, line: 29
 # File: module/ages/view/ages/activities/reservations.phtml, line: 15
 # File: module/ages/view/ages/activities/listreservations.phtml, line: 16
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4150
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4187
 msgid "Activity Name"
 msgstr ""
 #
@@ -18242,9 +18246,9 @@ msgstr ""
 # File: module/ages/view/ages/air/index.phtml, line: 12
 # File: module/ages/view/ages/hotels/search.phtml, line: 25
 # File: module/ages/view/ages/hotels/index.phtml, line: 12
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3495
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3498
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4071
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3532
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3535
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4108
 # File: module/ages/view/ages/transfers/searchreservations.phtml, line: 12
 msgid "Hotel Name"
 msgstr ""
@@ -19143,7 +19147,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/cms/featuredtransfers.phtml, line: 13
 # File: module/ages/view/ages/newsletter/addtransfer.phtml, line: 11
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4298
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4335
 # File: module/ages/view/ages/transfers/pricing_edit.phtml, line: 68
 # File: module/ages/view/ages/transfers/pricing_edit.phtml, line: 69
 # File: module/ages/view/ages/transfers/pricing_add.phtml, line: 56
@@ -20034,7 +20038,7 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/add_transactions.phtml, line: 13
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1069
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2318
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4967
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5004
 # File: module/ages/view/ages/agents/addtransaction.phtml, line: 17
 # File: module/ages/view/ages/agents/edit_transactions.phtml, line: 13
 # File: module/ages/view/ages/agents/add_giftcards.phtml, line: 12
@@ -20494,8 +20498,8 @@ msgstr ""
 # File: module/ages/view/ages/cruises/pricing.phtml, line: 15
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 12
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 12
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4341
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4465
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4378
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4502
 # File: module/ages/view/ages/agents/edit_reservations.phtml, line: 12
 # File: module/ages/view/ages/agents/add_reservations.phtml, line: 12
 msgid "Date Time From"
@@ -20504,8 +20508,8 @@ msgstr ""
 # File: module/ages/view/ages/cruises/pricing.phtml, line: 16
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 13
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 13
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4353
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4471
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4390
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4508
 # File: module/ages/view/ages/agents/edit_reservations.phtml, line: 13
 # File: module/ages/view/ages/agents/add_reservations.phtml, line: 13
 msgid "Date Time To"
@@ -21154,7 +21158,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/paymentsterms_add.phtml, line: 16
 # File: module/ages/view/ages/companies/payments_add.phtml, line: 16
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 93
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4937
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4974
 msgid "Add Payment"
 msgstr ""
 #
@@ -21786,8 +21790,8 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/add_searches.phtml, line: 12
 # File: module/ages/view/ages/hotels/reservations.phtml, line: 15
 # File: module/ages/view/ages/hotels/listreservations.phtml, line: 15
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3504
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4074
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3541
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4111
 # File: module/ages/view/ages/agents/edit_searches.phtml, line: 12
 # File: module/ages/view/ages/agents/add_searches.phtml, line: 12
 msgid "Check In"
@@ -21811,8 +21815,8 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/add_searches.phtml, line: 13
 # File: module/ages/view/ages/hotels/reservations.phtml, line: 16
 # File: module/ages/view/ages/hotels/listreservations.phtml, line: 16
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3510
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4077
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3547
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4114
 # File: module/ages/view/ages/agents/edit_searches.phtml, line: 13
 # File: module/ages/view/ages/agents/add_searches.phtml, line: 13
 msgid "Check Out"
@@ -22020,7 +22024,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/searchglobalware.phtml, line: 11
 # File: module/ages/view/ages/dynamic-packaging/searchglobalware.phtml, line: 30
 # File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 21
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4905
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4942
 # File: module/ages/view/ages/agents/edit_accounting.phtml, line: 26
 # File: module/ages/view/ages/customers/editglobalwareinvoice.phtml, line: 15
 # File: module/ages/view/ages/customers/editaccounting.phtml, line: 10
@@ -22034,7 +22038,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 40
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 38
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 40
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4365
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4402
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 40
 # File: module/ages/view/ages/customers/travellingtomorrow.phtml, line: 47
 # File: module/ages/view/ages/customers/travelling.phtml, line: 47
@@ -22147,8 +22151,8 @@ msgstr ""
 # File: module/ages/view/ages/hotels/contractsavailability.phtml, line: 13
 # File: module/ages/view/ages/hotels/contractsavailability_add.phtml, line: 13
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 272
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3664
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4970
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3701
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5007
 # File: module/ages/view/ages/agents/edit_accounting.phtml, line: 29
 # File: module/ages/view/ages/customers/editaccounting.phtml, line: 13
 # File: module/ages/view/ages/customers/editaccountingconnectivity.phtml, line: 13
@@ -22212,43 +22216,43 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/add_modals.phtml, line: 29
 # File: module/ages/view/ages/dynamic-packaging/add_modals.phtml, line: 57
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 72
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2715
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2734
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2753
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2772
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2807
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2965
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2987
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3575
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3643
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3715
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3774
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3833
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3893
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3952
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4012
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4048
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4119
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4186
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4316
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4435
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4513
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4597
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4813
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4838
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4863
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4889
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4907
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4924
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4982
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5036
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5057
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5080
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5103
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5132
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5172
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5267
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5303
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2752
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2771
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2790
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2809
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2844
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3002
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3024
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3612
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3680
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3752
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3811
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3870
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3930
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3989
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4049
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4085
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4156
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4223
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4353
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4472
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4550
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4634
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4850
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4875
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4900
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4926
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4944
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4961
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5019
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5073
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5094
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5117
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5140
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5169
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5209
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5304
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5340
 # File: module/ages/view/ages/agents/edit_featured_specialist.phtml, line: 69
 # File: module/ages/view/ages/agents/edit_points_origin.phtml, line: 68
 # File: module/ages/view/ages/agents/supervise.phtml, line: 90
@@ -22484,9 +22488,9 @@ msgstr ""
 #
 # File: module/ages/view/ages/reports/cruisessales.phtml, line: 45
 # File: module/ages/view/ages/reports/carssales.phtml, line: 45
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4162
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4257
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4377
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4199
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4294
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4414
 msgid "Net Price"
 msgstr ""
 #
@@ -22600,7 +22604,7 @@ msgstr ""
 # File: module/ages/view/ages/packages/addservice.phtml, line: 126
 # File: module/ages/view/ages/packages/addservice.phtml, line: 171
 # File: module/ages/view/ages/newsletter/editnewsletter.phtml, line: 199
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4235
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4272
 # File: module/ages/view/ages/customers/editcitypairs.phtml, line: 10
 # File: module/ages/view/ages/transfers/searchreservations.phtml, line: 16
 # File: module/ages/view/ages/transfers/searchreservations.phtml, line: 36
@@ -22640,7 +22644,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/airlines.phtml, line: 83
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 40
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 53
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4133
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4170
 msgid "Close"
 msgstr ""
 #
@@ -22783,16 +22787,16 @@ msgstr ""
 # File: module/ages/view/ages/reports/airlines.phtml, line: 591
 # File: module/ages/view/ages/sub-agents/edit.phtml, line: 1605
 # File: module/ages/view/ages/sub-agents/edit.phtml, line: 1610
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2715
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2720
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2734
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2739
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2758
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2772
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2777
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2812
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5267
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5272
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2752
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2757
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2771
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2776
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2795
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2809
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2814
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2849
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5304
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5309
 # File: module/ages/view/ages/agents/edit.phtml, line: 1617
 # File: module/ages/view/ages/agents/edit.phtml, line: 1622
 msgid "Send"
@@ -22894,13 +22898,13 @@ msgstr ""
 #
 # File: module/ages/view/ages/reports/charters.phtml, line: 39
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 6
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4780
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4817
 msgid "DOB"
 msgstr ""
 #
 # File: module/ages/view/ages/reports/charters.phtml, line: 40
 # File: module/ages/view/ages/air/chartersreport.phtml, line: 27
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4783
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4820
 # File: module/ages/view/ages/customers/editpassdocuments.phtml, line: 28
 # File: module/ages/view/ages/customers/addpassdocuments.phtml, line: 28
 msgid "Passport"
@@ -23258,8 +23262,8 @@ msgstr ""
 # File: module/ages/view/ages/reports/hotelssales.phtml, line: 64
 # File: module/ages/view/ages/reports/companies.phtml, line: 49
 # File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 20
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3540
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4098
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3577
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4135
 msgid "Net"
 msgstr ""
 #
@@ -23685,7 +23689,7 @@ msgid "Passport Exp."
 msgstr ""
 #
 # File: module/ages/view/ages/air/chartersreport.phtml, line: 29
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4789
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4826
 # File: module/ages/view/ages/customers/editpassdocuments.phtml, line: 18
 # File: module/ages/view/ages/customers/addpassdocuments.phtml, line: 18
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 15
@@ -25833,7 +25837,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/sub-agents/add_giftcards.phtml, line: 14
 # File: module/ages/view/ages/sub-agents/edit_giftcards.phtml, line: 14
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4543
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4580
 # File: module/ages/view/ages/agents/add_giftcards.phtml, line: 14
 # File: module/ages/view/ages/agents/edit_giftcards.phtml, line: 14
 msgid "Travel From"
@@ -25841,7 +25845,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/sub-agents/add_giftcards.phtml, line: 15
 # File: module/ages/view/ages/sub-agents/edit_giftcards.phtml, line: 15
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4549
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4586
 # File: module/ages/view/ages/agents/add_giftcards.phtml, line: 15
 # File: module/ages/view/ages/agents/edit_giftcards.phtml, line: 15
 msgid "Travel To"
@@ -25868,16 +25872,16 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/addcruise.phtml, line: 26
 # File: module/ages/view/ages/newsletter/addtransfer.phtml, line: 25
 # File: module/ages/view/ages/newsletter/addactivity.phtml, line: 23
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4050
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4120
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4187
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4317
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4436
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4514
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4598
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4814
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4983
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5133
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4087
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4157
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4224
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4354
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4473
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4551
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4635
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4851
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5020
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5170
 # File: module/ages/view/ages/agents/edit_featured_specialist.phtml, line: 69
 # File: module/ages/view/ages/agents/edit_featured_specialist.phtml, line: 74
 # File: module/ages/view/ages/agents/edit_points_origin.phtml, line: 68
@@ -26213,18 +26217,18 @@ msgstr ""
 #
 # File: module/ages/view/ages/sub-agents/edit.phtml, line: 1604
 # File: module/ages/view/ages/sub-agents/edit.phtml, line: 1608
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2714
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2718
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2733
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2737
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2752
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2756
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2771
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2775
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2806
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2810
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5266
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5270
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2751
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2755
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2770
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2774
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2789
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2793
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2808
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2812
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2843
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2847
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5303
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5307
 # File: module/ages/view/ages/agents/edit.phtml, line: 1616
 # File: module/ages/view/ages/agents/edit.phtml, line: 1620
 msgid "Enter email address"
@@ -26290,7 +26294,7 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/index.phtml, line: 40
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2109
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2142
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4973
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5010
 # File: module/ages/view/ages/agents/search.phtml, line: 16
 # File: module/ages/view/ages/agents/search.phtml, line: 33
 msgid "Account Id"
@@ -27251,7 +27255,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/edit_quotes.phtml, line: 70
 # File: module/ages/view/ages/dynamic-packaging/add_hotel.phtml, line: 4
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 105
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4065
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4102
 msgid "Add Hotel"
 msgstr ""
 #
@@ -27399,42 +27403,42 @@ msgid "Add Car"
 msgstr ""
 #
 # File: module/ages/view/ages/newsletter/addcar.phtml, line: 11
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4422
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4459
 msgid "Pick Up Location"
 msgstr ""
 #
 # File: module/ages/view/ages/newsletter/addcar.phtml, line: 12
 # File: module/ages/view/ages/newsletter/addtransfer.phtml, line: 14
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4217
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4347
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4254
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4384
 msgid "Pick Up Time"
 msgstr ""
 #
 # File: module/ages/view/ages/newsletter/addcar.phtml, line: 13
 # File: module/ages/view/ages/newsletter/addtransfer.phtml, line: 17
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4428
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4465
 msgid "Drop Off Location"
 msgstr ""
 #
 # File: module/ages/view/ages/newsletter/addcar.phtml, line: 14
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4229
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4359
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4266
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4396
 msgid "Drop Off Time"
 msgstr ""
 #
 # File: module/ages/view/ages/newsletter/addcar.phtml, line: 17
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4371
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4408
 msgid "Driver Age"
 msgstr ""
 #
 # File: module/ages/view/ages/newsletter/addcar.phtml, line: 18
 # File: module/ages/view/ages/newsletter/addtransfer.phtml, line: 13
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4211
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4248
 msgid "Pick Up Date"
 msgstr ""
 #
 # File: module/ages/view/ages/newsletter/addcar.phtml, line: 19
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4223
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4260
 msgid "Drop Off Date"
 msgstr ""
 #
@@ -27584,7 +27588,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/addcruise.phtml, line: 5
 # File: module/ages/view/ages/newsletter/editnewsletter.phtml, line: 181
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 110
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4530
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4567
 msgid "Add Cruise"
 msgstr ""
 #
@@ -27867,7 +27871,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/edit_quotes.phtml, line: 73
 # File: module/ages/view/ages/dynamic-packaging/add_transfers.phtml, line: 4
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 107
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4203
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4240
 msgid "Add Transfer"
 msgstr ""
 #
@@ -27908,7 +27912,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/edit_quotes.phtml, line: 72
 # File: module/ages/view/ages/dynamic-packaging/add_activity.phtml, line: 4
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 106
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4144
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4181
 msgid "Add Activity"
 msgstr ""
 #
@@ -27932,7 +27936,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/edit_quotes.phtml, line: 74
 # File: module/ages/view/ages/dynamic-packaging/add_car.phtml, line: 4
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 108
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4333
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4370
 msgid "Add Car Rental"
 msgstr ""
 #
@@ -28108,7 +28112,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/add_flight.phtml, line: 4
 # File: module/ages/view/ages/dynamic-packaging/edit_quotes.phtml, line: 71
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 109
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4452
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4489
 msgid "Add Flight"
 msgstr ""
 #
@@ -28170,7 +28174,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/offlinebooking.phtml, line: 14
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2433
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4952
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4989
 msgid "Payment Method"
 msgstr ""
 #
@@ -28483,7 +28487,7 @@ msgid "Send invoice"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 66
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2770
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2807
 msgid "Send payment link"
 msgstr ""
 #
@@ -28492,62 +28496,62 @@ msgid "View invoice"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 68
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4028
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4065
 msgid "Add Internal Memo"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 69
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5117
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5154
 msgid "Add External Memo"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 70
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5146
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5165
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5183
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5202
 msgid "Upload document"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 71
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4766
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4803
 msgid "Add Passenger"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 77
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4851
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4888
 msgid "Update Fraud Score"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 78
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2965
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2970
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4826
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3002
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3007
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4863
 msgid "Update Total"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 79
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4877
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4914
 msgid "Update Total Due"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 80
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4903
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4940
 msgid "Update Invoice Number"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 81
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5048
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5085
 # File: module/ages/view/ages/customers/editglobalwareinvoice.phtml, line: 78
 msgid "Change Agent"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 82
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5094
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5131
 # File: module/ages/view/ages/customers/edit.phtml, line: 656
 msgid "Change Customer"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 83
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2789
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2826
 msgid "Generate invoice"
 msgstr ""
 #
@@ -28556,7 +28560,7 @@ msgid "Change Payment Method"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 95
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4920
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4957
 msgid "Set Payment Due Date"
 msgstr ""
 #
@@ -28618,7 +28622,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 230
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 259
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5071
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5108
 msgid "Set Selling Agent"
 msgstr ""
 #
@@ -28694,7 +28698,7 @@ msgid "TOTAL"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 350
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3685
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3722
 msgid "Ticketed"
 msgstr ""
 #
@@ -28845,7 +28849,7 @@ msgid "Adjust Net"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 586
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2963
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3000
 msgid "Adjust Total"
 msgstr ""
 #
@@ -28970,12 +28974,12 @@ msgid "GRATUITIES"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1041
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4578
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4615
 msgid "Cabin Code"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1042
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4584
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4621
 msgid "Cabin Number"
 msgstr ""
 #
@@ -29244,7 +29248,7 @@ msgid "Address/Departure Date"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2144
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4945
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4982
 # File: module/setup/view/activities/tourico.phtml, line: 33
 # File: module/setup/view/cars/tourico.phtml, line: 34
 # File: module/setup/view/cruises/tourico.phtml, line: 34
@@ -29257,12 +29261,12 @@ msgid "Payment Type"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2146
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4958
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4995
 msgid "Receipt Number"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2147
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4961
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4998
 msgid "Approval Number"
 msgstr ""
 #
@@ -29307,19 +29311,19 @@ msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2436
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2437
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5007
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5044
 msgid "SafetyPay"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2440
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5021
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5058
 # File: module/setup/view/settings/payments.phtml, line: 239
 # File: module/setup/view/settings/payments-b2b.phtml, line: 239
 msgid "PAYFORT"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2442
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5027
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5064
 # File: module/setup/view/settings/payments.phtml, line: 272
 # File: module/setup/view/settings/payments-b2b.phtml, line: 272
 msgid "Payeezy"
@@ -29407,169 +29411,181 @@ msgid "Are you sure you want to update payment status for this reservation?"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2597
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2646
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2683
 msgid "Do not send email to agent and customer"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2603
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2640
 msgid "Updating Payment Status..."
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2623
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2672
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2703
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2659
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2709
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2740
 msgid "Action Cancelled"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2633
-msgid "Queue reservation for fraud check"
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2639
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2658
+msgid "Update Supplier Payment Status"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2634
-msgid "Reservation has been queued to check for fraud"
+msgid "Are you sure you want to update supplier payment status for this reservation?"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2645
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2651
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2670
+msgid "Queue reservation for fraud check"
+msgstr ""
+#
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2671
-msgid "Update Reservation Status"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2646
-msgid "Are you sure you want to update reservation status for this reservation?"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2652
-msgid "Updating Reservation Status..."
+msgid "Reservation has been queued to check for fraud"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2682
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2688
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2697
-msgid "Cancel Reservation"
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2708
+msgid "Update Reservation Status"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2683
-msgid "Are you sure you want to cancel this reservation?"
+msgid "Are you sure you want to update reservation status for this reservation?"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2689
+msgid "Updating Reservation Status..."
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2719
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2725
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2734
+msgid "Cancel Reservation"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2720
+msgid "Are you sure you want to cancel this reservation?"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2726
 msgid "Cancelling Reservation..."
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2702
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2739
 msgid "Cancel Reservation Cancelled"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2713
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5265
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2750
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5302
 msgid "Send reservation voucher"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2732
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2769
 msgid "Send reservation invoice"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2751
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2788
 msgid "View reservation voucher"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2790
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2827
 msgid "Are you sure you want to generate an accounting invoice for this reservation?"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2805
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2842
 msgid "View reservation invoice"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2949
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2986
 msgid "Are you sure you want to delete this hotel from the reservation?"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2968
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3005
 msgid "Enter Total"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2985
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3022
 msgid "Adjust Net Price"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2987
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2992
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3024
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3029
 msgid "Update Net Price"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2990
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3027
 msgid "Enter Net Price"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3487
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3524
 msgid "Edit Hotel Reservation Details"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3516
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4080
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3553
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4117
 msgid "Room Name"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3522
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4083
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3559
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4120
 # File: module/manager/view/contracts/mealsupplements.phtml, line: 103
 msgid "Meal/Board Type"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3590
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3627
 msgid "Edit Hotel Reservation"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3604
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3743
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3802
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3862
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3921
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3981
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3641
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3780
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3839
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3899
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3958
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4018
 msgid "Confirmation Id"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3657
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3694
 msgid "Edit Air Reservation"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3670
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4807
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3707
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4844
 msgid "eTicket"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3676
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3678
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3713
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3715
 msgid "GDS/Supplier"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3729
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3766
 msgid "Edit Car Reservation"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3788
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3825
 msgid "Edit Tour Reservation"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3848
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3885
 msgid "Edit Transfer Reservation"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3907
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3944
 msgid "Edit Cruise Reservation"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3967
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4004
 msgid "Edit Activity Reservation"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4132
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4169
 msgid "Download Settlement"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4304
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4341
 # File: module/ages/view/ages/transfers/vehicles.phtml, line: 13
 # File: module/ages/view/ages/transfers/vehicles_add.phtml, line: 11
 # File: module/ages/view/ages/transfers/vehicles_edit.phtml, line: 12
@@ -29584,87 +29600,87 @@ msgstr ""
 msgid "Vehicle"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4410
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4447
 msgid "Vendor"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4495
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4532
 msgid "Validating Carrier"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4572
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4609
 msgid "Cruise line"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4590
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4627
 msgid "Dining Seating"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4772
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4809
 msgid "Assign to hotel"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4786
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4823
 msgid "Exp.Date"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4801
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4838
 # File: module/ages/view/ages/customers/editpassdocuments.phtml, line: 24
 # File: module/ages/view/ages/customers/addpassdocuments.phtml, line: 24
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 12
 msgid "Age"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4804
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4841
 # File: module/ages/view/ages/agents/detailedreport.phtml, line: 26
 msgid "Frequent Flyer Number"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4857
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4894
 msgid "Fraud Score"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4883
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4920
 msgid "Due"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4922
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4959
 msgid "Date Due"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4995
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5032
 msgid "Change Payment"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5010
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5047
 msgid "SafetyPay Online Banking"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5030
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5067
 msgid "Credit Card - myPOS"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5037
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5058
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5081
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5104
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5074
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5095
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5118
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5141
 # File: module/ages/view/ages/customers/edit.phtml, line: 667
 msgid "Change"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5158
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5195
 msgid "Display document in customer area"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5173
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5210
 msgid "Upload"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5301
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5338
 msgid "View Credit Card Number"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5302
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5339
 msgid "Why do you want to see the credit card number?"
 msgstr ""
 #
