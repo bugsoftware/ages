@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-07 17:41-0400\n"
+"POT-Creation-Date: 2021-07-08 10:29-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3456,7 +3456,7 @@ msgstr ""
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 85
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 69
 # File: module/setup/view/transfers/trapsatur.phtml, line: 76
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 134
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 137
 # File: module/setup/view/transfers/nexustours.phtml, line: 84
 # File: module/setup/view/transfers/gltours.phtml, line: 62
 msgid "Update"
@@ -6289,6 +6289,10 @@ msgstr ""
 msgid "for your trip! You'll find everything you need to know about your reservation below. We wish you the best travel experience during your stay."
 msgstr ""
 #
+# File: module/ages/src/Controller/Templates/voucher.phtml, line: 39
+msgid "Thanks for choosing us for your trip! You'll find everything you need to know about your reservation below. We wish you the best travel experience during your stay."
+msgstr ""
+#
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 43
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 227
 # File: module/ages/view/ages/users/eventviewer.phtml, line: 16
@@ -6759,8 +6763,12 @@ msgstr ""
 msgid "Total"
 msgstr ""
 #
-# File: module/ages/src/Controller/Templates/voucher.phtml, line: 837
+# File: module/ages/src/Controller/Templates/voucher.phtml, line: 838
 msgid "This is a pre-paid reservation. If the customer's length of stay matches the itinerary above, there is no charge to the customer. Depending on the property, you may incur other charges that we do not collect. Excluded surcharges will be collected by property. Examples of fees not included in the prices are hotel resort fees, hotel energy surcharges, parking fees, pet fees, and incidental charges (such as room service, mini-bar, gratuities). These amounts will be collected from you directly by the hotel unless otherwise indicated at the time of booking."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/voucher.phtml, line: 840
+msgid "As a result of local government measures established by service providers - including hotels and activities - guests may find some facilities or services unavailable."
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 13
@@ -8300,8 +8308,8 @@ msgstr ""
 # File: module/setup/view/hotels/snaptravel.phtml, line: 51
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 48
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 49
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 37
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 38
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 39
 msgid "Email"
 msgstr ""
 #
@@ -30687,7 +30695,7 @@ msgstr ""
 # File: module/setup/view/hotels/enjoycuba.phtml, line: 153
 # File: module/setup/view/hotels/hoteldo.phtml, line: 301
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 141
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 206
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 209
 msgid "Please enter email"
 msgstr ""
 #
@@ -33713,8 +33721,8 @@ msgstr ""
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 38
 # File: module/setup/view/transfers/trapsatur.phtml, line: 56
 # File: module/setup/view/transfers/trapsatur.phtml, line: 57
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 113
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 114
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 115
 # File: module/setup/view/transfers/nexustours.phtml, line: 62
 # File: module/setup/view/transfers/nexustours.phtml, line: 63
 # File: module/setup/view/transfers/gltours.phtml, line: 42
@@ -33988,8 +33996,8 @@ msgstr ""
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 41
 # File: module/setup/view/transfers/trapsatur.phtml, line: 59
 # File: module/setup/view/transfers/trapsatur.phtml, line: 60
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 116
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 117
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 118
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 119
 # File: module/setup/view/transfers/nexustours.phtml, line: 65
 # File: module/setup/view/transfers/nexustours.phtml, line: 66
 # File: module/setup/view/transfers/gltours.phtml, line: 45
@@ -34265,8 +34273,8 @@ msgstr ""
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 46
 # File: module/setup/view/transfers/trapsatur.phtml, line: 62
 # File: module/setup/view/transfers/trapsatur.phtml, line: 63
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 119
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 120
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 122
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 123
 # File: module/setup/view/transfers/nexustours.phtml, line: 69
 # File: module/setup/view/transfers/nexustours.phtml, line: 70
 # File: module/setup/view/transfers/gltours.phtml, line: 48
@@ -34462,8 +34470,8 @@ msgstr ""
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 64
 # File: module/setup/view/transfers/trapsatur.phtml, line: 69
 # File: module/setup/view/transfers/trapsatur.phtml, line: 71
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 127
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 129
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 130
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 132
 # File: module/setup/view/transfers/nexustours.phtml, line: 77
 # File: module/setup/view/transfers/nexustours.phtml, line: 79
 # File: module/setup/view/transfers/gltours.phtml, line: 55
@@ -34624,7 +34632,7 @@ msgstr ""
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 157
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 138
 # File: module/setup/view/transfers/trapsatur.phtml, line: 142
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 227
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 230
 # File: module/setup/view/transfers/nexustours.phtml, line: 150
 # File: module/setup/view/transfers/gltours.phtml, line: 122
 msgid "Please enter B2B markup"
@@ -34840,7 +34848,7 @@ msgstr ""
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 160
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 144
 # File: module/setup/view/transfers/trapsatur.phtml, line: 145
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 233
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 236
 # File: module/setup/view/transfers/nexustours.phtml, line: 162
 # File: module/setup/view/transfers/gltours.phtml, line: 125
 msgid "Please enter B2C markup"
@@ -34984,7 +34992,7 @@ msgstr ""
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 163
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 147
 # File: module/setup/view/transfers/trapsatur.phtml, line: 148
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 236
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 239
 # File: module/setup/view/transfers/nexustours.phtml, line: 165
 # File: module/setup/view/transfers/gltours.phtml, line: 128
 msgid "Please enter search time out"
@@ -35128,7 +35136,7 @@ msgstr ""
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 166
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 150
 # File: module/setup/view/transfers/trapsatur.phtml, line: 151
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 239
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 242
 # File: module/setup/view/transfers/nexustours.phtml, line: 168
 # File: module/setup/view/transfers/gltours.phtml, line: 131
 msgid "Please enter search order"
@@ -35319,7 +35327,7 @@ msgstr ""
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 142
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 132
 # File: module/setup/view/transfers/trapsatur.phtml, line: 136
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 215
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 218
 # File: module/setup/view/transfers/gltours.phtml, line: 119
 msgid "Please enter service url"
 msgstr ""
@@ -35499,7 +35507,7 @@ msgstr ""
 # File: module/setup/view/activities/mmc.phtml, line: 117
 # File: module/setup/view/activities/hotelbeds.phtml, line: 166
 # File: module/setup/view/hotels/hotelbeds.phtml, line: 163
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 203
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 206
 msgid "Please enter username or API KEY"
 msgstr ""
 #
@@ -35508,7 +35516,7 @@ msgstr ""
 # File: module/setup/view/activities/hotelbeds.phtml, line: 169
 # File: module/setup/view/hotels/hotelbeds.phtml, line: 166
 # File: module/setup/view/hotels/travelport.phtml, line: 172
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 212
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 215
 msgid "Please enter password or shared secret"
 msgstr ""
 #
@@ -35799,7 +35807,7 @@ msgstr ""
 # File: module/setup/view/hotels/belive.phtml, line: 193
 # File: module/setup/view/hotels/expedia.phtml, line: 338
 # File: module/setup/view/hotels/ocean.phtml, line: 192
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 218
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 221
 msgid "Please enter Cancellation Policy (Days)"
 msgstr ""
 #
@@ -35825,7 +35833,7 @@ msgstr ""
 # File: module/setup/view/hotels/expedia.phtml, line: 341
 # File: module/setup/view/hotels/ocean.phtml, line: 195
 # File: module/setup/view/hotels/iberostar.phtml, line: 165
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 221
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 224
 msgid "Please enter Post Pay Payment Policy (Days)"
 msgstr ""
 #
@@ -35910,7 +35918,7 @@ msgstr ""
 # File: module/setup/view/hotels/hoteldo.phtml, line: 310
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 154
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 135
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 224
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 227
 msgid "Please enter language"
 msgstr ""
 #
@@ -35918,7 +35926,7 @@ msgstr ""
 # File: module/setup/view/cars/bookinggo.phtml, line: 148
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 187
 # File: module/setup/view/hotels/symrooms.phtml, line: 179
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 230
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 233
 msgid "Please enter currency code"
 msgstr ""
 #
@@ -43750,8 +43758,8 @@ msgstr ""
 msgid "Enable Hotelbeds - Transfers"
 msgstr ""
 #
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 42
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 43
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 44
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 45
 msgid "Welcome Message"
 msgstr ""
 #
@@ -43879,7 +43887,7 @@ msgstr ""
 msgid "Singaporean"
 msgstr ""
 #
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 209
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 212
 msgid "Please enter welcome message"
 msgstr ""
 #
