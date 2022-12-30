@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-28 14:31+0000\n"
+"POT-Creation-Date: 2022-12-30 07:44+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -221,9 +221,9 @@ msgstr ""
 # File: module/ages/src/Controller/GiftCards.php, line: 1042
 # File: module/ages/src/Controller/Payments.php, line: 51
 # File: module/ages/src/Controller/Payments.php, line: 112
-# File: module/ages/src/Controller/Cruises.php, line: 4781
-# File: module/ages/src/Controller/Cruises.php, line: 5002
-# File: module/ages/src/Controller/Cruises.php, line: 5227
+# File: module/ages/src/Controller/Cruises.php, line: 5702
+# File: module/ages/src/Controller/Cruises.php, line: 5923
+# File: module/ages/src/Controller/Cruises.php, line: 6148
 # File: module/ages/src/Controller/Newsletter.php, line: 6661
 # File: module/ages/src/Controller/Newsletter.php, line: 6682
 # File: module/ages/src/Controller/Customers.php, line: 466
@@ -397,11 +397,11 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 2228
 # File: module/ages/src/Controller/Agents.php, line: 8236
 # File: module/ages/src/Controller/Agents.php, line: 10618
-# File: module/ages/src/Controller/Cruises.php, line: 1300
-# File: module/ages/src/Controller/Cruises.php, line: 1475
-# File: module/ages/src/Controller/Cruises.php, line: 2032
-# File: module/ages/src/Controller/Cruises.php, line: 3216
-# File: module/ages/src/Controller/Cruises.php, line: 3390
+# File: module/ages/src/Controller/Cruises.php, line: 2221
+# File: module/ages/src/Controller/Cruises.php, line: 2396
+# File: module/ages/src/Controller/Cruises.php, line: 2953
+# File: module/ages/src/Controller/Cruises.php, line: 4137
+# File: module/ages/src/Controller/Cruises.php, line: 4311
 # File: module/ages/src/Controller/Hotels.php, line: 903
 # File: module/ages/src/Controller/Hotels.php, line: 2211
 # File: module/ages/src/Controller/Hotels.php, line: 2317
@@ -567,15 +567,15 @@ msgid "Forbidden"
 msgstr ""
 #
 # File: module/ages/src/Controller/Reports.php, line: 532
-# File: module/ages/src/Controller/Cruises.php, line: 89
-# File: module/ages/src/Controller/Cruises.php, line: 2152
-# File: module/ages/src/Controller/Cruises.php, line: 2265
-# File: module/ages/src/Controller/Cruises.php, line: 2378
-# File: module/ages/src/Controller/Cruises.php, line: 2491
-# File: module/ages/src/Controller/Cruises.php, line: 2506
-# File: module/ages/src/Controller/Cruises.php, line: 2668
-# File: module/ages/src/Controller/Cruises.php, line: 2688
-# File: module/ages/src/Controller/Cruises.php, line: 2813
+# File: module/ages/src/Controller/Cruises.php, line: 1010
+# File: module/ages/src/Controller/Cruises.php, line: 3073
+# File: module/ages/src/Controller/Cruises.php, line: 3186
+# File: module/ages/src/Controller/Cruises.php, line: 3299
+# File: module/ages/src/Controller/Cruises.php, line: 3412
+# File: module/ages/src/Controller/Cruises.php, line: 3427
+# File: module/ages/src/Controller/Cruises.php, line: 3589
+# File: module/ages/src/Controller/Cruises.php, line: 3609
+# File: module/ages/src/Controller/Cruises.php, line: 3734
 msgid "Not Found"
 msgstr ""
 #
@@ -759,10 +759,10 @@ msgstr ""
 # File: module/ages/src/Controller/GiftCards.php, line: 1055
 # File: module/ages/src/Controller/GiftCards.php, line: 1398
 # File: module/ages/src/Controller/GiftCards.php, line: 2009
-# File: module/ages/src/Controller/Cruises.php, line: 2923
-# File: module/ages/src/Controller/Cruises.php, line: 4795
-# File: module/ages/src/Controller/Cruises.php, line: 5017
-# File: module/ages/src/Controller/Cruises.php, line: 5242
+# File: module/ages/src/Controller/Cruises.php, line: 3844
+# File: module/ages/src/Controller/Cruises.php, line: 5716
+# File: module/ages/src/Controller/Cruises.php, line: 5938
+# File: module/ages/src/Controller/Cruises.php, line: 6163
 # File: module/ages/src/Controller/Activities.php, line: 594
 # File: module/ages/src/Controller/Activities.php, line: 987
 # File: module/ages/src/Controller/Hotels.php, line: 183
@@ -1028,6 +1028,9 @@ msgstr ""
 # File: module/ages/view/ages/gift-cards/edit.phtml, line: 55
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 28
 # File: module/ages/view/ages/gift-cards/earningsettings_add.phtml, line: 11
+# File: module/ages/view/ages/cruises/searches.phtml, line: 11
+# File: module/ages/view/ages/cruises/searches.phtml, line: 12
+# File: module/ages/view/ages/cruises/searches.phtml, line: 43
 # File: module/ages/view/ages/service-fees/geotargetmarkup.phtml, line: 17
 # File: module/ages/view/ages/service-fees/geotargetmarkup_edit.phtml, line: 12
 # File: module/ages/view/ages/service-fees/geotargetmarkup_add.phtml, line: 12
@@ -1168,6 +1171,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/searchreservations.phtml, line: 25
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 13
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 16
+# File: module/ages/view/ages/cruises/searches.phtml, line: 44
 # File: module/ages/view/ages/reports/insurancessales.phtml, line: 41
 # File: module/ages/view/ages/reports/distributions.phtml, line: 35
 # File: module/ages/view/ages/reports/invoices.phtml, line: 16
@@ -1316,16 +1320,24 @@ msgstr ""
 # File: module/ages/src/Controller/GiftCards.php, line: 1328
 # File: module/ages/src/Controller/Payments.php, line: 62
 # File: module/ages/src/Controller/Payments.php, line: 123
-# File: module/ages/src/Controller/Cruises.php, line: 2934
-# File: module/ages/src/Controller/Cruises.php, line: 4764
-# File: module/ages/src/Controller/Cruises.php, line: 4778
-# File: module/ages/src/Controller/Cruises.php, line: 4792
-# File: module/ages/src/Controller/Cruises.php, line: 4984
-# File: module/ages/src/Controller/Cruises.php, line: 4999
-# File: module/ages/src/Controller/Cruises.php, line: 5014
-# File: module/ages/src/Controller/Cruises.php, line: 5207
-# File: module/ages/src/Controller/Cruises.php, line: 5224
-# File: module/ages/src/Controller/Cruises.php, line: 5239
+# File: module/ages/src/Controller/Cruises.php, line: 299
+# File: module/ages/src/Controller/Cruises.php, line: 330
+# File: module/ages/src/Controller/Cruises.php, line: 338
+# File: module/ages/src/Controller/Cruises.php, line: 371
+# File: module/ages/src/Controller/Cruises.php, line: 621
+# File: module/ages/src/Controller/Cruises.php, line: 652
+# File: module/ages/src/Controller/Cruises.php, line: 660
+# File: module/ages/src/Controller/Cruises.php, line: 684
+# File: module/ages/src/Controller/Cruises.php, line: 3855
+# File: module/ages/src/Controller/Cruises.php, line: 5685
+# File: module/ages/src/Controller/Cruises.php, line: 5699
+# File: module/ages/src/Controller/Cruises.php, line: 5713
+# File: module/ages/src/Controller/Cruises.php, line: 5905
+# File: module/ages/src/Controller/Cruises.php, line: 5920
+# File: module/ages/src/Controller/Cruises.php, line: 5935
+# File: module/ages/src/Controller/Cruises.php, line: 6128
+# File: module/ages/src/Controller/Cruises.php, line: 6145
+# File: module/ages/src/Controller/Cruises.php, line: 6160
 # File: module/ages/src/Controller/Newsletter.php, line: 1583
 # File: module/ages/src/Controller/Newsletter.php, line: 6645
 # File: module/ages/src/Controller/Customers.php, line: 157
@@ -1554,6 +1566,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Reports.php, line: 2299
 # File: module/ages/src/Controller/Reports.php, line: 4276
+# File: module/ages/src/Controller/Cruises.php, line: 920
 # File: module/ages/src/Controller/Customers.php, line: 7813
 msgid "All Countries"
 msgstr ""
@@ -3586,11 +3599,11 @@ msgstr ""
 # File: module/ages/src/Controller/GiftCards.php, line: 288
 # File: module/ages/src/Controller/GiftCards.php, line: 1386
 # File: module/ages/src/Controller/GiftCards.php, line: 1997
-# File: module/ages/src/Controller/Cruises.php, line: 1292
-# File: module/ages/src/Controller/Cruises.php, line: 1467
-# File: module/ages/src/Controller/Cruises.php, line: 2024
-# File: module/ages/src/Controller/Cruises.php, line: 3208
-# File: module/ages/src/Controller/Cruises.php, line: 3382
+# File: module/ages/src/Controller/Cruises.php, line: 2213
+# File: module/ages/src/Controller/Cruises.php, line: 2388
+# File: module/ages/src/Controller/Cruises.php, line: 2945
+# File: module/ages/src/Controller/Cruises.php, line: 4129
+# File: module/ages/src/Controller/Cruises.php, line: 4303
 # File: module/ages/src/Controller/Newsletter.php, line: 3459
 # File: module/ages/src/Controller/Newsletter.php, line: 3909
 # File: module/ages/src/Controller/Hotels.php, line: 402
@@ -3711,11 +3724,11 @@ msgstr ""
 # File: module/ages/src/Controller/GiftCards.php, line: 292
 # File: module/ages/src/Controller/GiftCards.php, line: 1390
 # File: module/ages/src/Controller/GiftCards.php, line: 2001
-# File: module/ages/src/Controller/Cruises.php, line: 1296
-# File: module/ages/src/Controller/Cruises.php, line: 1471
-# File: module/ages/src/Controller/Cruises.php, line: 2028
-# File: module/ages/src/Controller/Cruises.php, line: 3212
-# File: module/ages/src/Controller/Cruises.php, line: 3386
+# File: module/ages/src/Controller/Cruises.php, line: 2217
+# File: module/ages/src/Controller/Cruises.php, line: 2392
+# File: module/ages/src/Controller/Cruises.php, line: 2949
+# File: module/ages/src/Controller/Cruises.php, line: 4133
+# File: module/ages/src/Controller/Cruises.php, line: 4307
 # File: module/ages/src/Controller/Hotels.php, line: 406
 # File: module/ages/src/Controller/Hotels.php, line: 899
 # File: module/ages/src/Controller/Hotels.php, line: 1801
@@ -4608,9 +4621,9 @@ msgstr ""
 # File: module/ages/src/Controller/Cars.php, line: 182
 # File: module/ages/src/Controller/Cars.php, line: 382
 # File: module/ages/src/Controller/Cars.php, line: 582
-# File: module/ages/src/Controller/Cruises.php, line: 4767
-# File: module/ages/src/Controller/Cruises.php, line: 4987
-# File: module/ages/src/Controller/Cruises.php, line: 5210
+# File: module/ages/src/Controller/Cruises.php, line: 5688
+# File: module/ages/src/Controller/Cruises.php, line: 5908
+# File: module/ages/src/Controller/Cruises.php, line: 6131
 # File: module/ages/src/Controller/Customers.php, line: 438
 # File: module/ages/src/Controller/Customers.php, line: 452
 # File: module/ages/src/Controller/Activities.php, line: 2539
@@ -4731,7 +4744,7 @@ msgstr ""
 # File: module/setup/view/trains/sat.phtml, line: 61
 # File: module/setup/view/trains/era.phtml, line: 61
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 106
-# File: module/setup/view/cruises/sabre.phtml, line: 116
+# File: module/setup/view/cruises/sabre.phtml, line: 75
 # File: module/setup/view/cruises/tourico.phtml, line: 156
 # File: module/setup/view/cruises/royalcaribbean.phtml, line: 155
 # File: module/setup/view/cruises/politours.phtml, line: 77
@@ -5925,6 +5938,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/staticcabins.phtml, line: 5
 # File: module/ages/view/ages/cruises/staticcabins.phtml, line: 11
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 5
+# File: module/ages/view/ages/cruises/searches.phtml, line: 36
 # File: module/ages/view/ages/reports/cruises.phtml, line: 40
 # File: module/ages/view/ages/reports/businessunits.phtml, line: 213
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 165
@@ -6030,26 +6044,26 @@ msgstr ""
 msgid "3rd Payment"
 msgstr ""
 #
-# File: module/ages/src/Controller/Cruises.php, line: 115
-# File: module/ages/src/Controller/Cruises.php, line: 2178
-# File: module/ages/src/Controller/Cruises.php, line: 2404
-# File: module/ages/src/Controller/Cruises.php, line: 2716
+# File: module/ages/src/Controller/Cruises.php, line: 1036
+# File: module/ages/src/Controller/Cruises.php, line: 3099
+# File: module/ages/src/Controller/Cruises.php, line: 3325
+# File: module/ages/src/Controller/Cruises.php, line: 3637
 msgid "All Cruise"
 msgstr ""
 #
-# File: module/ages/src/Controller/Cruises.php, line: 1824
-# File: module/ages/src/Controller/Cruises.php, line: 2592
-# File: module/ages/src/Controller/Cruises.php, line: 2827
+# File: module/ages/src/Controller/Cruises.php, line: 2745
+# File: module/ages/src/Controller/Cruises.php, line: 3513
+# File: module/ages/src/Controller/Cruises.php, line: 3748
 msgid "All Cruise Line"
 msgstr ""
 #
-# File: module/ages/src/Controller/Cruises.php, line: 2281
+# File: module/ages/src/Controller/Cruises.php, line: 3202
 msgid "Please select cruise ship"
 msgstr ""
 #
-# File: module/ages/src/Controller/Cruises.php, line: 2474
-# File: module/ages/src/Controller/Cruises.php, line: 2573
-# File: module/ages/src/Controller/Cruises.php, line: 2798
+# File: module/ages/src/Controller/Cruises.php, line: 3395
+# File: module/ages/src/Controller/Cruises.php, line: 3494
+# File: module/ages/src/Controller/Cruises.php, line: 3719
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1383
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1390
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1529
@@ -6059,8 +6073,8 @@ msgstr ""
 msgid "N/A"
 msgstr ""
 #
-# File: module/ages/src/Controller/Cruises.php, line: 2952
-# File: module/ages/src/Controller/Cruises.php, line: 3089
+# File: module/ages/src/Controller/Cruises.php, line: 3873
+# File: module/ages/src/Controller/Cruises.php, line: 4010
 msgid "All Ships"
 msgstr ""
 #
@@ -6883,6 +6897,7 @@ msgstr ""
 # File: module/ages/view/ages/cms/featureddynamicpackages_add.phtml, line: 12
 # File: module/ages/view/ages/cms/featureddestinations_add.phtml, line: 13
 # File: module/ages/view/ages/cms/trendingdestinations.phtml, line: 13
+# File: module/ages/view/ages/cruises/searches.phtml, line: 47
 # File: module/ages/view/ages/reports/communications.phtml, line: 46
 # File: module/ages/view/ages/reports/airlines.phtml, line: 72
 # File: module/ages/view/ages/reports/distributionssearches.phtml, line: 37
@@ -10541,7 +10556,7 @@ msgstr ""
 # File: module/setup/view/trains/sat.phtml, line: 30
 # File: module/setup/view/trains/era.phtml, line: 30
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 34
-# File: module/setup/view/cruises/sabre.phtml, line: 26
+# File: module/setup/view/cruises/sabre.phtml, line: 17
 # File: module/setup/view/cruises/tourico.phtml, line: 23
 # File: module/setup/view/cruises/royalcaribbean.phtml, line: 26
 # File: module/setup/view/cruises/politours.phtml, line: 26
@@ -18861,6 +18876,7 @@ msgstr ""
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 60
 # File: module/ages/view/ages/cruises/images.phtml, line: 49
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 62
+# File: module/ages/view/ages/cruises/searches.phtml, line: 163
 # File: module/ages/view/ages/reports/insurancessales.phtml, line: 189
 # File: module/ages/view/ages/reports/sales.phtml, line: 219
 # File: module/ages/view/ages/reports/supervisorsales.phtml, line: 84
@@ -18925,6 +18941,7 @@ msgstr ""
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 60
 # File: module/ages/view/ages/cruises/images.phtml, line: 49
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 62
+# File: module/ages/view/ages/cruises/searches.phtml, line: 163
 # File: module/ages/view/ages/reports/insurancessales.phtml, line: 189
 # File: module/ages/view/ages/reports/sales.phtml, line: 219
 # File: module/ages/view/ages/reports/supervisorsales.phtml, line: 84
@@ -18993,6 +19010,7 @@ msgstr ""
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 60
 # File: module/ages/view/ages/cruises/images.phtml, line: 49
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 62
+# File: module/ages/view/ages/cruises/searches.phtml, line: 163
 # File: module/ages/view/ages/reports/insurancessales.phtml, line: 189
 # File: module/ages/view/ages/reports/sales.phtml, line: 219
 # File: module/ages/view/ages/reports/supervisorsales.phtml, line: 84
@@ -19042,6 +19060,7 @@ msgid "of"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 134
+# File: module/ages/view/ages/cruises/searches.phtml, line: 163
 # File: module/ages/view/ages/reports/sales.phtml, line: 219
 # File: module/ages/view/ages/reports/profit.phtml, line: 211
 # File: module/ages/view/ages/reports/searches.phtml, line: 163
@@ -19050,6 +19069,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 135
 # File: module/ages/view/ages/activities/checkin.phtml, line: 222
+# File: module/ages/view/ages/cruises/searches.phtml, line: 164
 # File: module/ages/view/ages/reports/insurancessales.phtml, line: 190
 # File: module/ages/view/ages/reports/sales.phtml, line: 220
 # File: module/ages/view/ages/reports/b2bwallet.phtml, line: 136
@@ -19084,6 +19104,7 @@ msgstr ""
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 62
 # File: module/ages/view/ages/cruises/images.phtml, line: 51
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 64
+# File: module/ages/view/ages/cruises/searches.phtml, line: 165
 # File: module/ages/view/ages/reports/insurancessales.phtml, line: 191
 # File: module/ages/view/ages/reports/sales.phtml, line: 221
 # File: module/ages/view/ages/reports/supervisorsales.phtml, line: 86
@@ -19133,6 +19154,7 @@ msgid "Show"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 136
+# File: module/ages/view/ages/cruises/searches.phtml, line: 165
 # File: module/ages/view/ages/reports/sales.phtml, line: 221
 # File: module/ages/view/ages/reports/profit.phtml, line: 213
 # File: module/ages/view/ages/reports/payments.phtml, line: 193
@@ -19147,6 +19169,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 137
 # File: module/ages/view/ages/activities/checkin.phtml, line: 224
+# File: module/ages/view/ages/cruises/searches.phtml, line: 166
 # File: module/ages/view/ages/reports/insurancessales.phtml, line: 192
 # File: module/ages/view/ages/reports/sales.phtml, line: 222
 # File: module/ages/view/ages/reports/b2bwallet.phtml, line: 138
@@ -19181,6 +19204,7 @@ msgstr ""
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 64
 # File: module/ages/view/ages/cruises/images.phtml, line: 54
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 67
+# File: module/ages/view/ages/cruises/searches.phtml, line: 168
 # File: module/ages/view/ages/reports/insurancessales.phtml, line: 194
 # File: module/ages/view/ages/reports/sales.phtml, line: 224
 # File: module/ages/view/ages/reports/supervisorsales.phtml, line: 89
@@ -19245,6 +19269,7 @@ msgstr ""
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 64
 # File: module/ages/view/ages/cruises/images.phtml, line: 55
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 68
+# File: module/ages/view/ages/cruises/searches.phtml, line: 169
 # File: module/ages/view/ages/reports/insurancessales.phtml, line: 195
 # File: module/ages/view/ages/reports/sales.phtml, line: 225
 # File: module/ages/view/ages/reports/supervisorsales.phtml, line: 90
@@ -21965,6 +21990,7 @@ msgid "Check In"
 msgstr ""
 #
 # File: module/ages/view/ages/activities/checkin.phtml, line: 14
+# File: module/ages/view/ages/cruises/searches.phtml, line: 27
 # File: module/ages/view/ages/reports/cars.phtml, line: 33
 # File: module/ages/view/ages/reports/insurancessales.phtml, line: 23
 # File: module/ages/view/ages/reports/distributions.phtml, line: 20
@@ -22132,6 +22158,7 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 21
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 13
 # File: module/ages/view/ages/cms/pageshotels_edit.phtml, line: 16
+# File: module/ages/view/ages/cruises/searches.phtml, line: 22
 # File: module/ages/view/ages/reports/distributions.phtml, line: 16
 # File: module/ages/view/ages/reports/communications.phtml, line: 10
 # File: module/ages/view/ages/reports/airlines.phtml, line: 46
@@ -22171,6 +22198,7 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredhotels_edit.phtml, line: 22
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 14
 # File: module/ages/view/ages/cms/pageshotels_edit.phtml, line: 17
+# File: module/ages/view/ages/cruises/searches.phtml, line: 23
 # File: module/ages/view/ages/reports/distributions.phtml, line: 17
 # File: module/ages/view/ages/reports/communications.phtml, line: 11
 # File: module/ages/view/ages/reports/airlines.phtml, line: 47
@@ -26137,6 +26165,117 @@ msgstr ""
 msgid "Edit Cabins"
 msgstr ""
 #
+# File: module/ages/view/ages/cruises/searches.phtml, line: 16
+# File: module/ages/view/ages/reports/searches.phtml, line: 16
+msgid "Country of Origin"
+msgstr ""
+#
+# File: module/ages/view/ages/cruises/searches.phtml, line: 17
+# File: module/ages/view/ages/reports/searches.phtml, line: 17
+# File: module/ages/view/ages/newsletter/sendcitypair.phtml, line: 31
+# File: module/setup/view/intelligence/topdestinations.phtml, line: 15
+msgid "Destination Country"
+msgstr ""
+#
+# File: module/ages/view/ages/cruises/searches.phtml, line: 20
+# File: module/ages/view/ages/reports/searches.phtml, line: 20
+msgid "Search date from"
+msgstr ""
+#
+# File: module/ages/view/ages/cruises/searches.phtml, line: 21
+# File: module/ages/view/ages/reports/searches.phtml, line: 21
+msgid "Search date to"
+msgstr ""
+#
+# File: module/ages/view/ages/cruises/searches.phtml, line: 36
+# File: module/ages/view/ages/cruises/searches.phtml, line: 178
+# File: module/ages/view/ages/cruises/searches.phtml, line: 187
+# File: module/ages/view/ages/cruises/searches.phtml, line: 194
+# File: module/ages/view/ages/cruises/searches.phtml, line: 201
+# File: module/ages/view/ages/cruises/searches.phtml, line: 208
+# File: module/ages/view/ages/cruises/searches.phtml, line: 209
+# File: module/ages/view/ages/reports/statistics.phtml, line: 50
+# File: module/ages/view/ages/reports/statistics.phtml, line: 205
+# File: module/ages/view/ages/reports/statistics.phtml, line: 250
+# File: module/ages/view/ages/reports/agentsusage.phtml, line: 46
+# File: module/ages/view/ages/reports/searches.phtml, line: 36
+# File: module/ages/view/ages/reports/searches.phtml, line: 178
+# File: module/ages/view/ages/reports/searches.phtml, line: 187
+# File: module/ages/view/ages/reports/searches.phtml, line: 194
+# File: module/ages/view/ages/reports/searches.phtml, line: 201
+# File: module/ages/view/ages/reports/searches.phtml, line: 209
+# File: module/ages/view/ages/sub-agents/add_airsearches.phtml, line: 4
+# File: module/ages/view/ages/sub-agents/edit_airsearches.phtml, line: 4
+# File: module/ages/view/ages/sub-agents/edit_searches.phtml, line: 4
+# File: module/ages/view/ages/sub-agents/add_searches.phtml, line: 4
+# File: module/ages/view/ages/agents/add_airsearches.phtml, line: 4
+# File: module/ages/view/ages/agents/edit_airsearches.phtml, line: 4
+# File: module/ages/view/ages/agents/edit_searches.phtml, line: 4
+# File: module/ages/view/ages/agents/add_searches.phtml, line: 4
+msgid "Searches"
+msgstr ""
+#
+# File: module/ages/view/ages/cruises/searches.phtml, line: 42
+# File: module/ages/view/ages/reports/searches.phtml, line: 42
+# File: module/ages/view/ages/sub-agents/add_airsearches.phtml, line: 10
+# File: module/ages/view/ages/sub-agents/edit_airsearches.phtml, line: 10
+# File: module/ages/view/ages/sub-agents/edit_searches.phtml, line: 10
+# File: module/ages/view/ages/sub-agents/add_searches.phtml, line: 10
+# File: module/ages/view/ages/agents/add_airsearches.phtml, line: 10
+# File: module/ages/view/ages/agents/edit_airsearches.phtml, line: 10
+# File: module/ages/view/ages/agents/edit_searches.phtml, line: 10
+# File: module/ages/view/ages/agents/add_searches.phtml, line: 10
+msgid "Search Date"
+msgstr ""
+#
+# File: module/ages/view/ages/cruises/searches.phtml, line: 45
+# File: module/ages/view/ages/reports/searches.phtml, line: 45
+msgid "Origin/Location"
+msgstr ""
+#
+# File: module/ages/view/ages/cruises/searches.phtml, line: 46
+# File: module/ages/view/ages/reports/searches.phtml, line: 46
+# File: module/manager/view/hotel/cancellationpolicies_add.phtml, line: 25
+# File: module/manager/view/hotel/cancellationpolicies.phtml, line: 15
+# File: module/manager/view/hotel/cancellationpolicies_edit.phtml, line: 22
+msgid "Travel Window"
+msgstr ""
+#
+# File: module/ages/view/ages/cruises/searches.phtml, line: 233
+# File: module/ages/view/ages/reports/cars.phtml, line: 144
+# File: module/ages/view/ages/reports/cruises.phtml, line: 140
+# File: module/ages/view/ages/reports/communications.phtml, line: 197
+# File: module/ages/view/ages/reports/packages.phtml, line: 144
+# File: module/ages/view/ages/reports/airlines.phtml, line: 552
+# File: module/ages/view/ages/reports/statistics.phtml, line: 486
+# File: module/ages/view/ages/reports/newcustomers.phtml, line: 223
+# File: module/ages/view/ages/reports/settlements.phtml, line: 89
+# File: module/ages/view/ages/reports/activities.phtml, line: 144
+# File: module/ages/view/ages/reports/gds.phtml, line: 145
+# File: module/ages/view/ages/reports/newagents.phtml, line: 220
+# File: module/ages/view/ages/reports/businessunits.phtml, line: 275
+# File: module/ages/view/ages/reports/hotels.phtml, line: 436
+# File: module/ages/view/ages/reports/tours.phtml, line: 144
+# File: module/ages/view/ages/reports/transfers.phtml, line: 144
+# File: module/ages/view/ages/reports/searches.phtml, line: 233
+# File: module/ages/view/ages/newsletter/sendtoagent.phtml, line: 354
+# File: module/ages/view/ages/newsletter/send.phtml, line: 301
+# File: module/ages/view/ages/newsletter/stats.phtml, line: 221
+# File: module/ages/view/ages/newsletter/globalstats.phtml, line: 379
+# File: module/ages/view/ages/newsletter/sendcitypair.phtml, line: 369
+# File: module/ages/view/ages/agents/telemarketing.phtml, line: 230
+# File: module/ages/view/ages/agents/transfercustomers.phtml, line: 187
+# File: module/ages/view/ages/agents/countries.phtml, line: 130
+# File: module/ages/view/ages/agents/returncustomers.phtml, line: 165
+# File: module/ages/view/ages/agents/deletetelemarketing.phtml, line: 165
+# File: module/ages/view/ages/agents/index.phtml, line: 304
+# File: module/ages/view/ages/customers/travellingtomorrow.phtml, line: 97
+# File: module/ages/view/ages/customers/travelling.phtml, line: 97
+# File: module/ages/view/ages/customers/zombie.phtml, line: 301
+# File: module/ages/view/layout/layout.phtml, line: 96
+msgid "Loading..."
+msgstr ""
+#
 # File: module/ages/view/ages/index/index.phtml, line: 4
 # File: module/ages/view/layout/layout.phtml, line: 255
 # File: module/manager/view/layout/layout.phtml, line: 295
@@ -26752,7 +26891,7 @@ msgstr ""
 # File: module/setup/view/cars/eih.phtml, line: 36
 # File: module/setup/view/settings/b2bwallet.phtml, line: 34
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 45
-# File: module/setup/view/cruises/sabre.phtml, line: 37
+# File: module/setup/view/cruises/sabre.phtml, line: 28
 # File: module/setup/view/cruises/royalcaribbean.phtml, line: 37
 # File: module/setup/view/cruises/politours.phtml, line: 37
 # File: module/setup/view/cruises/amadeus.phtml, line: 37
@@ -27737,40 +27876,6 @@ msgstr ""
 msgid "Cars Report"
 msgstr ""
 #
-# File: module/ages/view/ages/reports/cars.phtml, line: 144
-# File: module/ages/view/ages/reports/cruises.phtml, line: 140
-# File: module/ages/view/ages/reports/communications.phtml, line: 197
-# File: module/ages/view/ages/reports/packages.phtml, line: 144
-# File: module/ages/view/ages/reports/airlines.phtml, line: 552
-# File: module/ages/view/ages/reports/statistics.phtml, line: 486
-# File: module/ages/view/ages/reports/newcustomers.phtml, line: 223
-# File: module/ages/view/ages/reports/settlements.phtml, line: 89
-# File: module/ages/view/ages/reports/activities.phtml, line: 144
-# File: module/ages/view/ages/reports/gds.phtml, line: 145
-# File: module/ages/view/ages/reports/newagents.phtml, line: 220
-# File: module/ages/view/ages/reports/businessunits.phtml, line: 275
-# File: module/ages/view/ages/reports/hotels.phtml, line: 436
-# File: module/ages/view/ages/reports/tours.phtml, line: 144
-# File: module/ages/view/ages/reports/transfers.phtml, line: 144
-# File: module/ages/view/ages/reports/searches.phtml, line: 233
-# File: module/ages/view/ages/newsletter/sendtoagent.phtml, line: 354
-# File: module/ages/view/ages/newsletter/send.phtml, line: 301
-# File: module/ages/view/ages/newsletter/stats.phtml, line: 221
-# File: module/ages/view/ages/newsletter/globalstats.phtml, line: 379
-# File: module/ages/view/ages/newsletter/sendcitypair.phtml, line: 369
-# File: module/ages/view/ages/agents/telemarketing.phtml, line: 230
-# File: module/ages/view/ages/agents/transfercustomers.phtml, line: 187
-# File: module/ages/view/ages/agents/countries.phtml, line: 130
-# File: module/ages/view/ages/agents/returncustomers.phtml, line: 165
-# File: module/ages/view/ages/agents/deletetelemarketing.phtml, line: 165
-# File: module/ages/view/ages/agents/index.phtml, line: 304
-# File: module/ages/view/ages/customers/travellingtomorrow.phtml, line: 97
-# File: module/ages/view/ages/customers/travelling.phtml, line: 97
-# File: module/ages/view/ages/customers/zombie.phtml, line: 301
-# File: module/ages/view/layout/layout.phtml, line: 96
-msgid "Loading..."
-msgstr ""
-#
 # File: module/ages/view/ages/reports/insurancessales.phtml, line: 11
 msgid "Search parameters"
 msgstr ""
@@ -28704,27 +28809,6 @@ msgstr ""
 msgid "Statistics"
 msgstr ""
 #
-# File: module/ages/view/ages/reports/statistics.phtml, line: 50
-# File: module/ages/view/ages/reports/statistics.phtml, line: 205
-# File: module/ages/view/ages/reports/statistics.phtml, line: 250
-# File: module/ages/view/ages/reports/agentsusage.phtml, line: 46
-# File: module/ages/view/ages/reports/searches.phtml, line: 36
-# File: module/ages/view/ages/reports/searches.phtml, line: 178
-# File: module/ages/view/ages/reports/searches.phtml, line: 187
-# File: module/ages/view/ages/reports/searches.phtml, line: 194
-# File: module/ages/view/ages/reports/searches.phtml, line: 201
-# File: module/ages/view/ages/reports/searches.phtml, line: 209
-# File: module/ages/view/ages/sub-agents/add_airsearches.phtml, line: 4
-# File: module/ages/view/ages/sub-agents/edit_airsearches.phtml, line: 4
-# File: module/ages/view/ages/sub-agents/edit_searches.phtml, line: 4
-# File: module/ages/view/ages/sub-agents/add_searches.phtml, line: 4
-# File: module/ages/view/ages/agents/add_airsearches.phtml, line: 4
-# File: module/ages/view/ages/agents/edit_airsearches.phtml, line: 4
-# File: module/ages/view/ages/agents/edit_searches.phtml, line: 4
-# File: module/ages/view/ages/agents/add_searches.phtml, line: 4
-msgid "Searches"
-msgstr ""
-#
 # File: module/ages/view/ages/reports/statistics.phtml, line: 65
 # File: module/ages/view/ages/reports/statistics.phtml, line: 399
 msgid "Top Search Destinations"
@@ -29174,47 +29258,6 @@ msgstr ""
 # File: module/ages/view/ages/reports/companies.phtml, line: 284
 # File: module/ages/view/ages/reports/companies.phtml, line: 285
 msgid "Company Reservations"
-msgstr ""
-#
-# File: module/ages/view/ages/reports/searches.phtml, line: 16
-msgid "Country of Origin"
-msgstr ""
-#
-# File: module/ages/view/ages/reports/searches.phtml, line: 17
-# File: module/ages/view/ages/newsletter/sendcitypair.phtml, line: 31
-# File: module/setup/view/intelligence/topdestinations.phtml, line: 15
-msgid "Destination Country"
-msgstr ""
-#
-# File: module/ages/view/ages/reports/searches.phtml, line: 20
-msgid "Search date from"
-msgstr ""
-#
-# File: module/ages/view/ages/reports/searches.phtml, line: 21
-msgid "Search date to"
-msgstr ""
-#
-# File: module/ages/view/ages/reports/searches.phtml, line: 42
-# File: module/ages/view/ages/sub-agents/add_airsearches.phtml, line: 10
-# File: module/ages/view/ages/sub-agents/edit_airsearches.phtml, line: 10
-# File: module/ages/view/ages/sub-agents/edit_searches.phtml, line: 10
-# File: module/ages/view/ages/sub-agents/add_searches.phtml, line: 10
-# File: module/ages/view/ages/agents/add_airsearches.phtml, line: 10
-# File: module/ages/view/ages/agents/edit_airsearches.phtml, line: 10
-# File: module/ages/view/ages/agents/edit_searches.phtml, line: 10
-# File: module/ages/view/ages/agents/add_searches.phtml, line: 10
-msgid "Search Date"
-msgstr ""
-#
-# File: module/ages/view/ages/reports/searches.phtml, line: 45
-msgid "Origin/Location"
-msgstr ""
-#
-# File: module/ages/view/ages/reports/searches.phtml, line: 46
-# File: module/manager/view/hotel/cancellationpolicies_add.phtml, line: 25
-# File: module/manager/view/hotel/cancellationpolicies.phtml, line: 15
-# File: module/manager/view/hotel/cancellationpolicies_edit.phtml, line: 22
-msgid "Travel Window"
 msgstr ""
 #
 # File: module/ages/view/ages/reports/suppliersusage.phtml, line: 26
@@ -39868,7 +39911,7 @@ msgstr ""
 # File: module/setup/view/trains/sat.phtml, line: 33
 # File: module/setup/view/trains/era.phtml, line: 33
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 37
-# File: module/setup/view/cruises/sabre.phtml, line: 29
+# File: module/setup/view/cruises/sabre.phtml, line: 20
 # File: module/setup/view/cruises/tourico.phtml, line: 26
 # File: module/setup/view/cruises/royalcaribbean.phtml, line: 29
 # File: module/setup/view/cruises/politours.phtml, line: 29
@@ -40022,7 +40065,7 @@ msgstr ""
 # File: module/setup/view/cars/eih.phtml, line: 39
 # File: module/setup/view/settings/b2bwallet.phtml, line: 37
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 48
-# File: module/setup/view/cruises/sabre.phtml, line: 40
+# File: module/setup/view/cruises/sabre.phtml, line: 31
 # File: module/setup/view/cruises/royalcaribbean.phtml, line: 40
 # File: module/setup/view/cruises/politours.phtml, line: 40
 # File: module/setup/view/cruises/amadeus.phtml, line: 40
@@ -40428,7 +40471,7 @@ msgstr ""
 # File: module/setup/view/activities/nexustours.phtml, line: 57
 # File: module/setup/view/activities/kaluahtours.phtml, line: 68
 # File: module/setup/view/cars/priceline.phtml, line: 77
-# File: module/setup/view/cruises/sabre.phtml, line: 97
+# File: module/setup/view/cruises/sabre.phtml, line: 72
 # File: module/setup/view/air/priceline.phtml, line: 77
 # File: module/setup/view/hotels/travolutionary.phtml, line: 65
 # File: module/setup/view/hotels/citytours.phtml, line: 58
@@ -40588,8 +40631,8 @@ msgstr ""
 # File: module/setup/view/trains/era.phtml, line: 48
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 89
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 90
-# File: module/setup/view/cruises/sabre.phtml, line: 102
-# File: module/setup/view/cruises/sabre.phtml, line: 103
+# File: module/setup/view/cruises/sabre.phtml, line: 61
+# File: module/setup/view/cruises/sabre.phtml, line: 62
 # File: module/setup/view/cruises/tourico.phtml, line: 45
 # File: module/setup/view/cruises/tourico.phtml, line: 46
 # File: module/setup/view/cruises/royalcaribbean.phtml, line: 138
@@ -40910,8 +40953,8 @@ msgstr ""
 # File: module/setup/view/trains/era.phtml, line: 51
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 93
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 94
-# File: module/setup/view/cruises/sabre.phtml, line: 105
-# File: module/setup/view/cruises/sabre.phtml, line: 106
+# File: module/setup/view/cruises/sabre.phtml, line: 64
+# File: module/setup/view/cruises/sabre.phtml, line: 65
 # File: module/setup/view/cruises/tourico.phtml, line: 48
 # File: module/setup/view/cruises/tourico.phtml, line: 49
 # File: module/setup/view/cruises/royalcaribbean.phtml, line: 142
@@ -41230,8 +41273,8 @@ msgstr ""
 # File: module/setup/view/trains/era.phtml, line: 54
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 97
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 98
-# File: module/setup/view/cruises/sabre.phtml, line: 108
-# File: module/setup/view/cruises/sabre.phtml, line: 109
+# File: module/setup/view/cruises/sabre.phtml, line: 67
+# File: module/setup/view/cruises/sabre.phtml, line: 68
 # File: module/setup/view/cruises/tourico.phtml, line: 54
 # File: module/setup/view/cruises/tourico.phtml, line: 55
 # File: module/setup/view/cruises/royalcaribbean.phtml, line: 146
@@ -41550,8 +41593,8 @@ msgstr ""
 # File: module/setup/view/trains/era.phtml, line: 58
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 101
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 102
-# File: module/setup/view/cruises/sabre.phtml, line: 111
-# File: module/setup/view/cruises/sabre.phtml, line: 112
+# File: module/setup/view/cruises/sabre.phtml, line: 70
+# File: module/setup/view/cruises/sabre.phtml, line: 71
 # File: module/setup/view/cruises/tourico.phtml, line: 57
 # File: module/setup/view/cruises/tourico.phtml, line: 58
 # File: module/setup/view/cruises/royalcaribbean.phtml, line: 150
@@ -42099,7 +42142,7 @@ msgstr ""
 # File: module/setup/view/trains/sat.phtml, line: 127
 # File: module/setup/view/trains/era.phtml, line: 127
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 193
-# File: module/setup/view/cruises/sabre.phtml, line: 209
+# File: module/setup/view/cruises/sabre.phtml, line: 138
 # File: module/setup/view/cruises/tourico.phtml, line: 243
 # File: module/setup/view/cruises/royalcaribbean.phtml, line: 278
 # File: module/setup/view/cruises/politours.phtml, line: 140
@@ -42353,7 +42396,7 @@ msgstr ""
 # File: module/setup/view/trains/sat.phtml, line: 130
 # File: module/setup/view/trains/era.phtml, line: 130
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 196
-# File: module/setup/view/cruises/sabre.phtml, line: 212
+# File: module/setup/view/cruises/sabre.phtml, line: 141
 # File: module/setup/view/cruises/tourico.phtml, line: 246
 # File: module/setup/view/cruises/royalcaribbean.phtml, line: 281
 # File: module/setup/view/cruises/politours.phtml, line: 143
@@ -42519,7 +42562,7 @@ msgstr ""
 # File: module/setup/view/trains/sat.phtml, line: 133
 # File: module/setup/view/trains/era.phtml, line: 133
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 199
-# File: module/setup/view/cruises/sabre.phtml, line: 215
+# File: module/setup/view/cruises/sabre.phtml, line: 144
 # File: module/setup/view/cruises/tourico.phtml, line: 258
 # File: module/setup/view/cruises/royalcaribbean.phtml, line: 284
 # File: module/setup/view/cruises/politours.phtml, line: 146
@@ -42686,7 +42729,7 @@ msgstr ""
 # File: module/setup/view/trains/sat.phtml, line: 136
 # File: module/setup/view/trains/era.phtml, line: 136
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 202
-# File: module/setup/view/cruises/sabre.phtml, line: 218
+# File: module/setup/view/cruises/sabre.phtml, line: 147
 # File: module/setup/view/cruises/tourico.phtml, line: 261
 # File: module/setup/view/cruises/royalcaribbean.phtml, line: 287
 # File: module/setup/view/cruises/politours.phtml, line: 149
@@ -44563,7 +44606,7 @@ msgid "Please enter CVV"
 msgstr ""
 #
 # File: module/setup/view/cars/sabre.phtml, line: 13
-# File: module/setup/view/cruises/sabre.phtml, line: 13
+# File: module/setup/view/cruises/sabre.phtml, line: 11
 # File: module/setup/view/air/sabre.phtml, line: 25
 # File: module/setup/view/hotels/sabre.phtml, line: 13
 msgid "Sabre Travel Network"
@@ -44571,8 +44614,7 @@ msgstr ""
 #
 # File: module/setup/view/cars/sabre.phtml, line: 15
 # File: module/setup/view/cars/sabre.phtml, line: 16
-# File: module/setup/view/cruises/sabre.phtml, line: 15
-# File: module/setup/view/cruises/sabre.phtml, line: 16
+# File: module/setup/view/cruises/sabre.phtml, line: 12
 # File: module/setup/view/air/sabre.phtml, line: 28
 # File: module/setup/view/air/sabre.phtml, line: 32
 # File: module/setup/view/hotels/sabre.phtml, line: 15
@@ -44582,8 +44624,7 @@ msgstr ""
 #
 # File: module/setup/view/cars/sabre.phtml, line: 18
 # File: module/setup/view/cars/sabre.phtml, line: 19
-# File: module/setup/view/cruises/sabre.phtml, line: 18
-# File: module/setup/view/cruises/sabre.phtml, line: 19
+# File: module/setup/view/cruises/sabre.phtml, line: 13
 # File: module/setup/view/air/sabre.phtml, line: 44
 # File: module/setup/view/air/sabre.phtml, line: 48
 # File: module/setup/view/hotels/sabre.phtml, line: 18
@@ -44593,8 +44634,6 @@ msgstr ""
 #
 # File: module/setup/view/cars/sabre.phtml, line: 21
 # File: module/setup/view/cars/sabre.phtml, line: 22
-# File: module/setup/view/cruises/sabre.phtml, line: 21
-# File: module/setup/view/cruises/sabre.phtml, line: 22
 # File: module/setup/view/air/sabre.phtml, line: 52
 # File: module/setup/view/air/sabre.phtml, line: 56
 # File: module/setup/view/hotels/sabre.phtml, line: 21
@@ -44607,70 +44646,70 @@ msgid "JSON Rest API"
 msgstr ""
 #
 # File: module/setup/view/cars/sabre.phtml, line: 57
-# File: module/setup/view/cruises/sabre.phtml, line: 63
+# File: module/setup/view/cruises/sabre.phtml, line: 42
 # File: module/setup/view/air/sabre.phtml, line: 122
 # File: module/setup/view/hotels/sabre.phtml, line: 63
 msgid "Development (https://sws3-sts.cert.sabre.com/)"
 msgstr ""
 #
 # File: module/setup/view/cars/sabre.phtml, line: 58
-# File: module/setup/view/cruises/sabre.phtml, line: 64
+# File: module/setup/view/cruises/sabre.phtml, line: 43
 # File: module/setup/view/air/sabre.phtml, line: 126
 # File: module/setup/view/hotels/sabre.phtml, line: 64
 msgid "Customer acceptance testing (https://sws3-crt.cert.sabre.com/)"
 msgstr ""
 #
 # File: module/setup/view/cars/sabre.phtml, line: 59
-# File: module/setup/view/cruises/sabre.phtml, line: 65
+# File: module/setup/view/cruises/sabre.phtml, line: 44
 # File: module/setup/view/air/sabre.phtml, line: 130
 # File: module/setup/view/hotels/sabre.phtml, line: 65
 msgid "Test/Certification (https://sws-crt.cert.havail.sabre.com/)"
 msgstr ""
 #
 # File: module/setup/view/cars/sabre.phtml, line: 60
-# File: module/setup/view/cruises/sabre.phtml, line: 66
+# File: module/setup/view/cruises/sabre.phtml, line: 45
 # File: module/setup/view/air/sabre.phtml, line: 134
 # File: module/setup/view/hotels/sabre.phtml, line: 66
 msgid "Test/Certification (https://sws-sts.cert.havail.sabre.com/)"
 msgstr ""
 #
 # File: module/setup/view/cars/sabre.phtml, line: 61
-# File: module/setup/view/cruises/sabre.phtml, line: 67
+# File: module/setup/view/cruises/sabre.phtml, line: 46
 # File: module/setup/view/air/sabre.phtml, line: 138
 # File: module/setup/view/hotels/sabre.phtml, line: 67
 msgid "Test/Certification (https://sws-crt-as.cert.havail.sabre.com/)"
 msgstr ""
 #
 # File: module/setup/view/cars/sabre.phtml, line: 62
-# File: module/setup/view/cruises/sabre.phtml, line: 68
+# File: module/setup/view/cruises/sabre.phtml, line: 47
 # File: module/setup/view/air/sabre.phtml, line: 142
 # File: module/setup/view/hotels/sabre.phtml, line: 68
 msgid "Test/Certification (https://api-crt.cert.havail.sabre.com/)"
 msgstr ""
 #
 # File: module/setup/view/cars/sabre.phtml, line: 63
-# File: module/setup/view/cruises/sabre.phtml, line: 69
+# File: module/setup/view/cruises/sabre.phtml, line: 48
 # File: module/setup/view/air/sabre.phtml, line: 146
 # File: module/setup/view/hotels/sabre.phtml, line: 69
 msgid "Production (https://webservices3.sabre.com/)"
 msgstr ""
 #
 # File: module/setup/view/cars/sabre.phtml, line: 64
-# File: module/setup/view/cruises/sabre.phtml, line: 70
+# File: module/setup/view/cruises/sabre.phtml, line: 49
 # File: module/setup/view/air/sabre.phtml, line: 150
 # File: module/setup/view/hotels/sabre.phtml, line: 70
 msgid "Production (https://webservices.havail.sabre.com/)"
 msgstr ""
 #
 # File: module/setup/view/cars/sabre.phtml, line: 65
-# File: module/setup/view/cruises/sabre.phtml, line: 71
+# File: module/setup/view/cruises/sabre.phtml, line: 50
 # File: module/setup/view/air/sabre.phtml, line: 154
 # File: module/setup/view/hotels/sabre.phtml, line: 71
 msgid "Production (https://webservices-as.havail.sabre.com/)"
 msgstr ""
 #
 # File: module/setup/view/cars/sabre.phtml, line: 66
-# File: module/setup/view/cruises/sabre.phtml, line: 72
+# File: module/setup/view/cruises/sabre.phtml, line: 51
 # File: module/setup/view/air/sabre.phtml, line: 158
 # File: module/setup/view/hotels/sabre.phtml, line: 72
 msgid "Production (https://api.havail.sabre.com/)"
@@ -44678,8 +44717,7 @@ msgstr ""
 #
 # File: module/setup/view/cars/sabre.phtml, line: 71
 # File: module/setup/view/cars/sabre.phtml, line: 72
-# File: module/setup/view/cruises/sabre.phtml, line: 79
-# File: module/setup/view/cruises/sabre.phtml, line: 80
+# File: module/setup/view/cruises/sabre.phtml, line: 56
 # File: module/setup/view/air/sabre.phtml, line: 165
 # File: module/setup/view/air/sabre.phtml, line: 169
 # File: module/setup/view/hotels/sabre.phtml, line: 79
@@ -44689,8 +44727,6 @@ msgstr ""
 #
 # File: module/setup/view/cars/sabre.phtml, line: 74
 # File: module/setup/view/cars/sabre.phtml, line: 75
-# File: module/setup/view/cruises/sabre.phtml, line: 82
-# File: module/setup/view/cruises/sabre.phtml, line: 83
 # File: module/setup/view/air/sabre.phtml, line: 174
 # File: module/setup/view/air/sabre.phtml, line: 178
 # File: module/setup/view/hotels/sabre.phtml, line: 82
@@ -44699,14 +44735,14 @@ msgid "Password 2"
 msgstr ""
 #
 # File: module/setup/view/cars/sabre.phtml, line: 150
-# File: module/setup/view/cruises/sabre.phtml, line: 185
+# File: module/setup/view/cruises/sabre.phtml, line: 129
 # File: module/setup/view/air/sabre.phtml, line: 565
 # File: module/setup/view/hotels/sabre.phtml, line: 181
 msgid "Please enter IPCC"
 msgstr ""
 #
 # File: module/setup/view/cars/sabre.phtml, line: 153
-# File: module/setup/view/cruises/sabre.phtml, line: 188
+# File: module/setup/view/cruises/sabre.phtml, line: 132
 # File: module/setup/view/air/sabre.phtml, line: 574
 # File: module/setup/view/hotels/sabre.phtml, line: 184
 msgid "Please enter User ID 1"
@@ -44717,7 +44753,7 @@ msgid "Please enter Webservices URL"
 msgstr ""
 #
 # File: module/setup/view/cars/sabre.phtml, line: 159
-# File: module/setup/view/cruises/sabre.phtml, line: 203
+# File: module/setup/view/cruises/sabre.phtml, line: 135
 # File: module/setup/view/air/sabre.phtml, line: 592
 # File: module/setup/view/hotels/sabre.phtml, line: 199
 msgid "Please enter password 1"
@@ -46544,8 +46580,6 @@ msgstr ""
 # File: module/setup/view/trains/sat.phtml, line: 21
 # File: module/setup/view/trains/era.phtml, line: 20
 # File: module/setup/view/trains/era.phtml, line: 21
-# File: module/setup/view/cruises/sabre.phtml, line: 90
-# File: module/setup/view/cruises/sabre.phtml, line: 91
 # File: module/setup/view/packages/wamos.phtml, line: 37
 # File: module/setup/view/packages/wamos.phtml, line: 38
 # File: module/setup/view/hotels/pricetravel.phtml, line: 16
@@ -46559,8 +46593,6 @@ msgstr ""
 # File: module/setup/view/trains/sat.phtml, line: 25
 # File: module/setup/view/trains/era.phtml, line: 24
 # File: module/setup/view/trains/era.phtml, line: 25
-# File: module/setup/view/cruises/sabre.phtml, line: 94
-# File: module/setup/view/cruises/sabre.phtml, line: 95
 # File: module/setup/view/hotels/pricetravel.phtml, line: 20
 # File: module/setup/view/hotels/pricetravel.phtml, line: 21
 msgid "Client Secret"
@@ -47128,71 +47160,18 @@ msgstr ""
 msgid "Please enter cruise line seo"
 msgstr ""
 #
-# File: module/setup/view/cruises/sabre.phtml, line: 51
-# File: module/setup/view/cruises/sabre.phtml, line: 52
-# File: module/setup/view/air/sabre.phtml, line: 91
-# File: module/setup/view/air/sabre.phtml, line: 95
-# File: module/setup/view/hotels/sabre.phtml, line: 51
-# File: module/setup/view/hotels/sabre.phtml, line: 52
-msgid "Party ID From"
-msgstr ""
-#
-# File: module/setup/view/cruises/sabre.phtml, line: 54
-# File: module/setup/view/cruises/sabre.phtml, line: 55
-# File: module/setup/view/air/sabre.phtml, line: 99
-# File: module/setup/view/air/sabre.phtml, line: 103
-# File: module/setup/view/hotels/sabre.phtml, line: 54
-# File: module/setup/view/hotels/sabre.phtml, line: 55
-msgid "Party ID To"
-msgstr ""
-#
-# File: module/setup/view/cruises/sabre.phtml, line: 57
-# File: module/setup/view/cruises/sabre.phtml, line: 58
-# File: module/setup/view/air/sabre.phtml, line: 107
-# File: module/setup/view/air/sabre.phtml, line: 111
-# File: module/setup/view/hotels/sabre.phtml, line: 57
-# File: module/setup/view/hotels/sabre.phtml, line: 58
-msgid "Conversation ID"
-msgstr ""
-#
-# File: module/setup/view/cruises/sabre.phtml, line: 60
+# File: module/setup/view/cruises/sabre.phtml, line: 39
 # File: module/setup/view/hotels/sabre.phtml, line: 60
 msgid "Web Services URL"
 msgstr ""
 #
-# File: module/setup/view/cruises/sabre.phtml, line: 86
-# File: module/setup/view/cruises/sabre.phtml, line: 87
+# File: module/setup/view/cruises/sabre.phtml, line: 52
+# File: module/setup/view/air/sabre.phtml, line: 310
+msgid "Production (https://api.sabre.com/)"
+msgstr ""
+#
+# File: module/setup/view/cruises/sabre.phtml, line: 57
 msgid "Credentials (XX:XXXX:XXXX:XX)"
-msgstr ""
-#
-# File: module/setup/view/cruises/sabre.phtml, line: 191
-# File: module/setup/view/air/sabre.phtml, line: 577
-# File: module/setup/view/hotels/sabre.phtml, line: 187
-msgid "Please enter User ID 2"
-msgstr ""
-#
-# File: module/setup/view/cruises/sabre.phtml, line: 194
-# File: module/setup/view/air/sabre.phtml, line: 580
-# File: module/setup/view/hotels/sabre.phtml, line: 190
-msgid "Please enter Conversation ID"
-msgstr ""
-#
-# File: module/setup/view/cruises/sabre.phtml, line: 197
-# File: module/setup/view/air/sabre.phtml, line: 583
-# File: module/setup/view/hotels/sabre.phtml, line: 193
-msgid "Please enter Party ID To"
-msgstr ""
-#
-# File: module/setup/view/cruises/sabre.phtml, line: 200
-# File: module/setup/view/air/sabre.phtml, line: 589
-# File: module/setup/view/hotels/sabre.phtml, line: 196
-msgid "Please enter Party ID From"
-msgstr ""
-#
-# File: module/setup/view/cruises/sabre.phtml, line: 206
-# File: module/setup/view/air/sabre.phtml, line: 595
-# File: module/setup/view/hotels/sabre.phtml, line: 202
-msgid "Please enter password 2"
 msgstr ""
 #
 # File: module/setup/view/cruises/decksimages.phtml, line: 5
@@ -48047,6 +48026,27 @@ msgstr ""
 msgid "Update Featured Airline"
 msgstr ""
 #
+# File: module/setup/view/air/sabre.phtml, line: 91
+# File: module/setup/view/air/sabre.phtml, line: 95
+# File: module/setup/view/hotels/sabre.phtml, line: 51
+# File: module/setup/view/hotels/sabre.phtml, line: 52
+msgid "Party ID From"
+msgstr ""
+#
+# File: module/setup/view/air/sabre.phtml, line: 99
+# File: module/setup/view/air/sabre.phtml, line: 103
+# File: module/setup/view/hotels/sabre.phtml, line: 54
+# File: module/setup/view/hotels/sabre.phtml, line: 55
+msgid "Party ID To"
+msgstr ""
+#
+# File: module/setup/view/air/sabre.phtml, line: 107
+# File: module/setup/view/air/sabre.phtml, line: 111
+# File: module/setup/view/hotels/sabre.phtml, line: 57
+# File: module/setup/view/hotels/sabre.phtml, line: 58
+msgid "Conversation ID"
+msgstr ""
+#
 # File: module/setup/view/air/sabre.phtml, line: 226
 # File: module/setup/view/air/sabre.phtml, line: 230
 # File: module/setup/view/hotels/teamamerica.phtml, line: 47
@@ -48110,10 +48110,6 @@ msgstr ""
 #
 # File: module/setup/view/air/sabre.phtml, line: 306
 msgid "Development (https://api.test.sabre.com/)"
-msgstr ""
-#
-# File: module/setup/view/air/sabre.phtml, line: 310
-msgid "Production (https://api.sabre.com/)"
 msgstr ""
 #
 # File: module/setup/view/air/sabre.phtml, line: 317
@@ -48215,8 +48211,33 @@ msgstr ""
 msgid "Please enter Number of Itinerary Results"
 msgstr ""
 #
+# File: module/setup/view/air/sabre.phtml, line: 577
+# File: module/setup/view/hotels/sabre.phtml, line: 187
+msgid "Please enter User ID 2"
+msgstr ""
+#
+# File: module/setup/view/air/sabre.phtml, line: 580
+# File: module/setup/view/hotels/sabre.phtml, line: 190
+msgid "Please enter Conversation ID"
+msgstr ""
+#
+# File: module/setup/view/air/sabre.phtml, line: 583
+# File: module/setup/view/hotels/sabre.phtml, line: 193
+msgid "Please enter Party ID To"
+msgstr ""
+#
 # File: module/setup/view/air/sabre.phtml, line: 586
 msgid "Please enter Point of Sale"
+msgstr ""
+#
+# File: module/setup/view/air/sabre.phtml, line: 589
+# File: module/setup/view/hotels/sabre.phtml, line: 196
+msgid "Please enter Party ID From"
+msgstr ""
+#
+# File: module/setup/view/air/sabre.phtml, line: 595
+# File: module/setup/view/hotels/sabre.phtml, line: 202
+msgid "Please enter password 2"
 msgstr ""
 #
 # File: module/setup/view/air/editbranches.phtml, line: 46
