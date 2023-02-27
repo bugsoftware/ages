@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-27 14:00+0000\n"
+"POT-Creation-Date: 2023-02-27 14:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10755,7 +10755,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/suppliers_edit.phtml, line: 22
 # File: module/ages/view/ages/cruises/add_cabins.phtml, line: 11
 # File: module/ages/view/ages/cruises/add_ships.phtml, line: 11
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 55
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 87
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 13
 # File: module/ages/view/ages/cruises/edit_cabins.phtml, line: 11
 # File: module/ages/view/ages/cruises/edit_ships.phtml, line: 11
@@ -11695,8 +11695,8 @@ msgstr ""
 # File: module/ages/view/ages/companies/paymentsterms_edit.phtml, line: 11
 # File: module/ages/view/ages/companies/report.phtml, line: 27
 # File: module/ages/view/ages/cruises/add_cabins.phtml, line: 12
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 92
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 94
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 124
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 126
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 15
 # File: module/ages/view/ages/cruises/edit_cabins.phtml, line: 12
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 191
@@ -11886,7 +11886,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/suppliers_edit.phtml, line: 394
 # File: module/ages/view/ages/cruises/add_cabins.phtml, line: 49
 # File: module/ages/view/ages/cruises/add_ships.phtml, line: 179
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 198
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 231
 # File: module/ages/view/ages/cruises/edit_cabins.phtml, line: 50
 # File: module/ages/view/ages/cruises/edit_ships.phtml, line: 181
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 299
@@ -12279,6 +12279,8 @@ msgstr ""
 # File: module/ages/view/ages/companies/locations_edit.phtml, line: 213
 # File: module/ages/view/ages/companies/suppliers_edit.phtml, line: 426
 # File: module/ages/view/ages/companies/suppliers_edit.phtml, line: 452
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 295
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 308
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 363
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 376
 # File: module/ages/view/ages/cruises/editstaticcabinsimages.phtml, line: 178
@@ -13916,9 +13918,14 @@ msgstr ""
 # File: module/ages/view/ages/companies/destinations_edit.phtml, line: 20
 # File: module/ages/view/ages/companies/destinations_edit.phtml, line: 36
 # File: module/ages/view/ages/companies/edit.phtml, line: 70
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 37
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 48
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 52
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 80
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 81
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 152
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 156
+# File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 184
+# File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 185
 # File: module/ages/view/ages/cruises/editstaticcabinsimages.phtml, line: 69
 # File: module/ages/view/ages/cruises/editstaticcabinsimages.phtml, line: 97
 # File: module/ages/view/ages/cruises/editstaticcabinsimages.phtml, line: 98
@@ -14447,6 +14454,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/destinations_add.phtml, line: 22
 # File: module/ages/view/ages/companies/destinations_edit.phtml, line: 22
 # File: module/ages/view/ages/companies/edit.phtml, line: 75
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 56
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 160
 # File: module/ages/view/ages/cruises/editstaticcabinsimages.phtml, line: 72
 # File: module/ages/view/ages/cruises/editstaticshipsimages.phtml, line: 94
@@ -14563,6 +14571,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/destinations_add.phtml, line: 23
 # File: module/ages/view/ages/companies/destinations_edit.phtml, line: 23
 # File: module/ages/view/ages/companies/edit.phtml, line: 76
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 58
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 162
 # File: module/ages/view/ages/cruises/editstaticcabinsimages.phtml, line: 74
 # File: module/ages/view/ages/cruises/editstaticshipsimages.phtml, line: 96
@@ -14933,6 +14942,8 @@ msgstr ""
 # File: module/ages/view/ages/companies/destinations_edit.phtml, line: 129
 # File: module/ages/view/ages/companies/edit.phtml, line: 181
 # File: module/ages/view/ages/companies/edit.phtml, line: 194
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 296
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 309
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 364
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 377
 # File: module/ages/view/ages/cruises/editstaticcabinsimages.phtml, line: 179
@@ -20960,7 +20971,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/add_cabins.phtml, line: 19
 # File: module/ages/view/ages/cruises/add_cruiseslinesaccounting.phtml, line: 16
 # File: module/ages/view/ages/cruises/add_ships.phtml, line: 149
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 141
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 173
 # File: module/ages/view/ages/customers/supervisereport.phtml, line: 19
 # File: module/ages/view/ages/dynamic-packaging/add_activity.phtml, line: 27
 # File: module/ages/view/ages/dynamic-packaging/add_car.phtml, line: 29
@@ -28834,145 +28845,145 @@ msgstr ""
 msgid "Color"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 44
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 37
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 57
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 60
 msgid "Capacity"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 47
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 40
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 64
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 67
 msgid "Reviwed"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 48
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 41
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 70
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 73
 msgid "Interior"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 48
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 41
 msgid "interior"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 49
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 42
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 76
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 79
 msgid "Ocean View"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 50
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 43
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 82
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 85
 msgid "Balcony"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 51
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 44
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 88
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 91
 msgid "Suite"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 59
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 91
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 102
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 104
 msgid "Name ES"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 63
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 95
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 108
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 110
 msgid "Name PT"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 67
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 99
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 114
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 116
 msgid "Name DE"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 71
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 103
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 120
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 122
 msgid "Name FR"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 75
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 107
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 126
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 128
 msgid "Name IT"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 79
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 111
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 132
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 134
 msgid "Name ZH"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 83
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 115
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 138
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 140
 msgid "Name RU"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 87
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 119
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 144
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 146
 msgid "Name AR"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 97
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 99
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 129
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 131
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 198
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 202
 msgid "Description ES"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 102
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 104
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 134
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 136
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 206
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 210
 msgid "Description PT"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 107
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 109
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 139
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 141
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 214
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 218
 msgid "Description DE"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 112
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 114
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 144
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 146
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 222
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 226
 msgid "Description FR"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 117
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 119
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 149
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 151
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 230
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 234
 msgid "Description IT"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 122
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 124
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 154
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 156
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 238
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 242
 msgid "Description ZH"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 127
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 129
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 159
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 161
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 246
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 250
 msgid "Description RU"
 msgstr ""
 #
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 132
-# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 134
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 164
+# File: module/ages/view/ages/cruises/add_staticcabins.phtml, line: 166
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 254
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 258
 msgid "Description AR"
@@ -29049,19 +29060,6 @@ msgstr ""
 #
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 10
 msgid "Edit Static Cabin"
-msgstr ""
-#
-# File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 184
-# File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 185
-# File: module/ages/view/ages/hotels/adduser.phtml, line: 64
-# File: module/ages/view/ages/hotels/adduser.phtml, line: 79
-# File: module/ages/view/ages/hotels/editusers.phtml, line: 68
-# File: module/ages/view/ages/hotels/editusers.phtml, line: 84
-# File: module/ages/view/ages/users/add.phtml, line: 1095
-# File: module/ages/view/ages/users/add.phtml, line: 1110
-# File: module/ages/view/ages/users/edit.phtml, line: 1109
-# File: module/ages/view/ages/users/edit.phtml, line: 1125
-msgid "User photo"
 msgstr ""
 #
 # File: module/ages/view/ages/cruises/editstaticcabinsimages.phtml, line: 31
@@ -34263,6 +34261,17 @@ msgstr ""
 # File: module/ages/view/ages/users/specialists_add.phtml, line: 55
 # File: module/ages/view/ages/users/specialists_edit.phtml, line: 63
 msgid "Photo"
+msgstr ""
+#
+# File: module/ages/view/ages/hotels/adduser.phtml, line: 64
+# File: module/ages/view/ages/hotels/adduser.phtml, line: 79
+# File: module/ages/view/ages/hotels/editusers.phtml, line: 68
+# File: module/ages/view/ages/hotels/editusers.phtml, line: 84
+# File: module/ages/view/ages/users/add.phtml, line: 1095
+# File: module/ages/view/ages/users/add.phtml, line: 1110
+# File: module/ages/view/ages/users/edit.phtml, line: 1109
+# File: module/ages/view/ages/users/edit.phtml, line: 1125
+msgid "User photo"
 msgstr ""
 #
 # File: module/ages/view/ages/hotels/cancelpolicies.phtml, line: 5
