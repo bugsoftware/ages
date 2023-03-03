@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 08:06+0000\n"
+"POT-Creation-Date: 2023-03-03 11:15+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -741,7 +741,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 83
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 90
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 100
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 91
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 96
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 31
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 86
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 87
@@ -763,6 +763,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1384
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1524
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1649
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 96
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 95
 # File: module/ages/view/ages/index/index.phtml, line: 160
@@ -806,7 +807,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 85
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 92
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 102
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 93
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 98
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 33
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 88
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 89
@@ -825,6 +826,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1386
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1526
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1651
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 98
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 97
 # File: module/ages/view/ages/index/index.phtml, line: 161
@@ -868,7 +870,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 87
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 94
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 104
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 95
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 100
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 35
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 90
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 91
@@ -887,6 +889,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1388
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1528
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1653
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 100
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 99
 # File: module/ages/view/ages/index/index.phtml, line: 162
@@ -930,7 +933,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 91
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 98
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 108
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 99
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 104
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 39
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 94
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 95
@@ -949,6 +952,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1392
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1532
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1657
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 104
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 103
 # File: module/ages/view/ages/index/index.phtml, line: 164
@@ -1000,8 +1004,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 168
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 110
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 179
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 101
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 170
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 106
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 175
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 41
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 96
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 165
@@ -1026,6 +1030,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1394
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1534
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1659
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 106
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 175
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 105
 # File: module/ages/view/ages/index/index.phtml, line: 165
@@ -1077,8 +1083,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 170
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 112
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 181
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 103
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 172
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 108
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 177
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 43
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 98
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 167
@@ -1103,6 +1109,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1396
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1536
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1661
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 108
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 177
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 107
 # File: module/ages/view/ages/index/index.phtml, line: 167
@@ -1149,8 +1157,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 172
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 114
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 183
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 105
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 174
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 110
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 179
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 45
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 100
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 169
@@ -1172,6 +1180,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1398
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1538
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1663
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 110
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 179
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 109
 # File: module/ages/view/ages/index/index.phtml, line: 166
@@ -1220,7 +1230,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 99
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 106
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 116
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 107
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 112
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 47
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 102
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 103
@@ -1242,6 +1252,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1400
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1540
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1665
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 112
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 111
 # File: module/ages/view/ages/index/index.phtml, line: 168
@@ -1264,7 +1275,7 @@ msgstr ""
 # File: module/ages/src/Controller/Activities.php, line: 2903
 # File: module/ages/src/Controller/Air.php, line: 477
 # File: module/ages/src/Controller/Cruises.php, line: 6559
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 797
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1064
 # File: module/ages/src/Controller/Hotels.php, line: 3095
 # File: module/ages/src/Controller/Hotels.php, line: 7058
 # File: module/ages/src/Controller/Hotels.php, line: 7335
@@ -1293,7 +1304,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 50
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 51
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 60
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 51
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 56
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 50
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 33
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 47
@@ -1310,6 +1321,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1350
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1489
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1615
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 56
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 66
 # File: module/ages/view/ages/insurances/list.phtml, line: 36
@@ -1334,7 +1346,7 @@ msgstr ""
 # File: module/ages/src/Controller/Activities.php, line: 631
 # File: module/ages/src/Controller/Air.php, line: 481
 # File: module/ages/src/Controller/Cruises.php, line: 6563
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 801
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1068
 # File: module/ages/src/Controller/Hotels.php, line: 3099
 # File: module/ages/src/Controller/Reports.php, line: 3718
 # File: module/ages/src/Controller/Reports.php, line: 6269
@@ -1358,7 +1370,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 52
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 53
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 62
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 53
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 58
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 52
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 35
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 49
@@ -1375,6 +1387,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1352
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1491
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1617
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 58
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 68
 # File: module/ages/view/ages/insurances/list.phtml, line: 38
@@ -1399,7 +1412,7 @@ msgstr ""
 # File: module/ages/src/Controller/Activities.php, line: 635
 # File: module/ages/src/Controller/Air.php, line: 485
 # File: module/ages/src/Controller/Cruises.php, line: 6567
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 805
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1072
 # File: module/ages/src/Controller/Hotels.php, line: 3103
 # File: module/ages/src/Controller/Reports.php, line: 3722
 # File: module/ages/src/Controller/Reports.php, line: 6273
@@ -1423,7 +1436,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 54
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 55
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 64
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 55
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 60
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 54
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 37
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 51
@@ -1440,6 +1453,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1354
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1493
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1619
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 60
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 70
 # File: module/ages/view/ages/insurances/list.phtml, line: 40
@@ -1464,7 +1478,7 @@ msgstr ""
 # File: module/ages/src/Controller/Activities.php, line: 639
 # File: module/ages/src/Controller/Air.php, line: 489
 # File: module/ages/src/Controller/Cruises.php, line: 6571
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 809
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1076
 # File: module/ages/src/Controller/Hotels.php, line: 3107
 # File: module/ages/src/Controller/Reports.php, line: 3726
 # File: module/ages/src/Controller/Reports.php, line: 6277
@@ -1488,7 +1502,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 56
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 57
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 66
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 57
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 62
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 56
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 39
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 53
@@ -1505,6 +1519,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1356
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1495
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1621
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 62
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 72
 # File: module/ages/view/ages/insurances/list.phtml, line: 42
@@ -1529,7 +1544,7 @@ msgstr ""
 # File: module/ages/src/Controller/Activities.php, line: 643
 # File: module/ages/src/Controller/Air.php, line: 493
 # File: module/ages/src/Controller/Cruises.php, line: 6575
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 813
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1080
 # File: module/ages/src/Controller/Hotels.php, line: 3111
 # File: module/ages/src/Controller/Reports.php, line: 3730
 # File: module/ages/src/Controller/Reports.php, line: 6281
@@ -1553,7 +1568,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 58
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 59
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 68
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 59
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 64
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 58
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 41
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 55
@@ -1570,6 +1585,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1358
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1497
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1623
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 64
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 74
 # File: module/ages/view/ages/insurances/list.phtml, line: 44
@@ -1594,7 +1610,7 @@ msgstr ""
 # File: module/ages/src/Controller/Activities.php, line: 647
 # File: module/ages/src/Controller/Air.php, line: 497
 # File: module/ages/src/Controller/Cruises.php, line: 6579
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 817
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1084
 # File: module/ages/src/Controller/Hotels.php, line: 3115
 # File: module/ages/src/Controller/Reports.php, line: 3734
 # File: module/ages/src/Controller/Reports.php, line: 6285
@@ -1621,8 +1637,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 133
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 70
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 143
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 61
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 134
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 66
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 139
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 74
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 60
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 129
@@ -1645,6 +1661,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1360
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1499
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1625
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 66
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 139
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 76
 # File: module/ages/view/ages/index/index.phtml, line: 192
@@ -1670,7 +1688,7 @@ msgstr ""
 # File: module/ages/src/Controller/Activities.php, line: 651
 # File: module/ages/src/Controller/Air.php, line: 501
 # File: module/ages/src/Controller/Cruises.php, line: 6583
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 821
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1088
 # File: module/ages/src/Controller/Hotels.php, line: 3119
 # File: module/ages/src/Controller/Reports.php, line: 3738
 # File: module/ages/src/Controller/Reports.php, line: 6289
@@ -1697,8 +1715,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 135
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 72
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 145
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 63
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 136
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 68
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 141
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 76
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 62
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 131
@@ -1721,6 +1739,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1362
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1501
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1627
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 68
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 141
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 78
 # File: module/ages/view/ages/index/index.phtml, line: 193
@@ -1746,7 +1766,7 @@ msgstr ""
 # File: module/ages/src/Controller/Activities.php, line: 655
 # File: module/ages/src/Controller/Air.php, line: 505
 # File: module/ages/src/Controller/Cruises.php, line: 6587
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 825
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1092
 # File: module/ages/src/Controller/Hotels.php, line: 3123
 # File: module/ages/src/Controller/Reports.php, line: 3742
 # File: module/ages/src/Controller/Reports.php, line: 6293
@@ -1773,8 +1793,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 137
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 74
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 147
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 65
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 138
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 70
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 143
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 78
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 64
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 133
@@ -1797,6 +1817,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1364
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1503
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1629
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 70
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 143
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 80
 # File: module/ages/view/ages/insurances/list.phtml, line: 50
 # File: module/ages/view/ages/reports/companies.phtml, line: 89
@@ -1822,8 +1844,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 176
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 149
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 187
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 140
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 178
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 145
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 183
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 80
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 135
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 173
@@ -1833,6 +1855,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 80
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 166
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 203
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 145
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 183
 # File: module/ages/view/ages/index/index.phtml, line: 169
 # File: module/ages/view/ages/reports/charters.phtml, line: 77
 msgid "Exception"
@@ -1872,7 +1896,7 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 2640
 # File: module/ages/src/Controller/Customers.php, line: 6584
 # File: module/ages/src/Controller/Customers.php, line: 7555
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 991
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1258
 # File: module/ages/src/Controller/GiftCards.php, line: 1530
 # File: module/ages/src/Controller/GiftCards.php, line: 2106
 # File: module/ages/src/Controller/Hotels.php, line: 246
@@ -2318,7 +2342,7 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 6274
 # File: module/ages/src/Controller/Customers.php, line: 6752
 # File: module/ages/src/Controller/Customers.php, line: 6920
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 898
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1165
 # File: module/ages/src/Controller/GiftCards.php, line: 175
 # File: module/ages/src/Controller/GiftCards.php, line: 197
 # File: module/ages/src/Controller/GiftCards.php, line: 307
@@ -2452,7 +2476,7 @@ msgstr ""
 # File: module/ages/src/Controller/Activities.php, line: 659
 # File: module/ages/src/Controller/Air.php, line: 509
 # File: module/ages/src/Controller/Cruises.php, line: 6591
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 829
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1096
 # File: module/ages/src/Controller/Hotels.php, line: 3127
 # File: module/ages/src/Controller/Reports.php, line: 3746
 # File: module/ages/src/Controller/Reports.php, line: 6297
@@ -2476,7 +2500,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 66
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 67
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 76
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 67
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 72
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 66
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 49
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 63
@@ -2493,6 +2517,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1366
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1505
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1631
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 72
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 82
 # File: module/ages/view/ages/insurances/list.phtml, line: 52
@@ -2520,7 +2545,7 @@ msgstr ""
 # File: module/ages/src/Controller/Air.php, line: 576
 # File: module/ages/src/Controller/Cruises.php, line: 6595
 # File: module/ages/src/Controller/Cruises.php, line: 6658
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 833
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1100
 # File: module/ages/src/Controller/Hotels.php, line: 3131
 # File: module/ages/src/Controller/Hotels.php, line: 3194
 # File: module/ages/src/Controller/Reports.php, line: 3750
@@ -2565,8 +2590,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 110
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 78
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 120
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 69
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 111
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 74
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 116
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 51
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 68
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 106
@@ -2601,6 +2626,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1544
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1633
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1669
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 74
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 116
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 84
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 115
@@ -2638,7 +2665,7 @@ msgstr ""
 # File: module/ages/src/Controller/Activities.php, line: 667
 # File: module/ages/src/Controller/Air.php, line: 517
 # File: module/ages/src/Controller/Cruises.php, line: 6599
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 837
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1104
 # File: module/ages/src/Controller/Hotels.php, line: 3135
 # File: module/ages/src/Controller/Reports.php, line: 3754
 # File: module/ages/src/Controller/Reports.php, line: 6305
@@ -2662,7 +2689,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 70
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 71
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 80
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 71
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 76
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 70
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 67
 # File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 68
@@ -2678,6 +2705,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1370
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1509
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1635
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 76
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 86
 # File: module/ages/view/ages/insurances/list.phtml, line: 56
@@ -2701,7 +2729,7 @@ msgstr ""
 # File: module/ages/src/Controller/Activities.php, line: 671
 # File: module/ages/src/Controller/Air.php, line: 521
 # File: module/ages/src/Controller/Cruises.php, line: 6603
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 841
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1108
 # File: module/ages/src/Controller/Hotels.php, line: 3139
 # File: module/ages/src/Controller/Reports.php, line: 3758
 # File: module/ages/src/Controller/Reports.php, line: 6309
@@ -2725,7 +2753,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 72
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 73
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 82
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 73
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 78
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 72
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 69
 # File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 70
@@ -2741,6 +2769,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1372
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1511
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1637
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 78
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 88
 # File: module/ages/view/ages/insurances/list.phtml, line: 58
@@ -2789,8 +2818,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 164
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 106
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 175
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 97
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 166
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 102
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 171
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 37
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 92
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 161
@@ -2812,6 +2841,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1390
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1530
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1655
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 102
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 171
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 101
 # File: module/ages/view/ages/index/index.phtml, line: 163
@@ -2854,7 +2885,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 101
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 108
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 118
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 109
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 114
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 49
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 104
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 105
@@ -2873,6 +2904,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1402
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1542
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1667
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 114
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 113
 # File: module/ages/view/ages/insurances/list.phtml, line: 87
@@ -2913,7 +2945,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 105
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 112
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 122
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 113
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 118
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 53
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 108
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 109
@@ -2932,6 +2964,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1406
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1546
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1671
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 118
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 117
 # File: module/ages/view/ages/index/index.phtml, line: 171
@@ -2974,7 +3007,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 107
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 114
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 124
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 115
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 120
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 55
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 110
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 111
@@ -2993,6 +3026,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1408
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1548
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1673
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 120
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 119
 # File: module/ages/view/ages/index/index.phtml, line: 172
@@ -3138,10 +3172,10 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 8007
 # File: module/ages/src/Controller/Customers.php, line: 8261
 # File: module/ages/src/Controller/Customers.php, line: 8291
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 475
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 612
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 10610
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 14325
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 742
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 879
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 10877
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 14592
 # File: module/ages/src/Controller/GiftCards.php, line: 437
 # File: module/ages/src/Controller/GiftCards.php, line: 457
 # File: module/ages/src/Controller/GiftCards.php, line: 575
@@ -3267,8 +3301,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 186
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 164
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 197
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 155
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 188
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 160
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 193
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 99
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 150
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 183
@@ -3278,6 +3312,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 92
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 180
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 213
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 160
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 193
 # File: module/ages/view/ages/hotels/accounting.phtml, line: 33
 # File: module/ages/view/ages/hotels/ibs.phtml, line: 37
 # File: module/ages/view/ages/hotels/index.phtml, line: 43
@@ -3344,7 +3380,7 @@ msgstr ""
 # File: module/ages/src/Controller/Activities.php, line: 1374
 # File: module/ages/src/Controller/CMS.php, line: 6155
 # File: module/ages/src/Controller/CMS.php, line: 15223
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 874
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1141
 # File: module/ages/src/Controller/Tours.php, line: 506
 # File: module/ages/src/Controller/Tours.php, line: 3249
 # File: module/ages/src/Controller/Tours.php, line: 3278
@@ -3367,8 +3403,8 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Activities.php, line: 2358
 # File: module/ages/src/Controller/Activities.php, line: 3231
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 2350
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 16464
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 2617
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 16731
 # File: module/ages/src/Controller/Packages.php, line: 3858
 # File: module/ages/src/Controller/Packages.php, line: 5190
 # File: module/ages/src/Controller/Packages.php, line: 6881
@@ -3390,8 +3426,8 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Activities.php, line: 2362
 # File: module/ages/src/Controller/Activities.php, line: 3235
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 2354
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 16468
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 2621
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 16735
 # File: module/ages/src/Controller/Packages.php, line: 3862
 # File: module/ages/src/Controller/Packages.php, line: 5194
 # File: module/ages/src/Controller/Packages.php, line: 6885
@@ -3420,8 +3456,8 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 1746
 # File: module/ages/src/Controller/Customers.php, line: 6410
 # File: module/ages/src/Controller/Customers.php, line: 7396
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 2358
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 16472
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 2625
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 16739
 # File: module/ages/src/Controller/Hotels.php, line: 3471
 # File: module/ages/src/Controller/Hotels.php, line: 3778
 # File: module/ages/src/Controller/Hotels.php, line: 4172
@@ -3486,9 +3522,9 @@ msgstr ""
 # File: module/ages/src/Controller/Activities.php, line: 3491
 # File: module/ages/src/Controller/Companies.php, line: 2087
 # File: module/ages/src/Controller/Companies.php, line: 2292
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 2136
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 13002
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 16400
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 2403
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13269
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 16667
 # File: module/ages/src/Controller/Newsletter.php, line: 1572
 # File: module/ages/src/Controller/Packages.php, line: 4213
 # File: module/ages/src/Controller/Packages.php, line: 4443
@@ -3632,9 +3668,9 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 5959
 # File: module/ages/src/Controller/Customers.php, line: 6615
 # File: module/ages/src/Controller/Customers.php, line: 7585
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 465
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 602
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 1018
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 732
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 869
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1285
 # File: module/ages/src/Controller/GiftCards.php, line: 1560
 # File: module/ages/src/Controller/GiftCards.php, line: 2136
 # File: module/ages/src/Controller/Hotels.php, line: 1339
@@ -3755,7 +3791,7 @@ msgstr ""
 # File: module/ages/src/Controller/Cruises.php, line: 3239
 # File: module/ages/src/Controller/Cruises.php, line: 4424
 # File: module/ages/src/Controller/Cruises.php, line: 4598
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 861
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1128
 # File: module/ages/src/Controller/Hotels.php, line: 1188
 # File: module/ages/src/Controller/Hotels.php, line: 2496
 # File: module/ages/src/Controller/Hotels.php, line: 2602
@@ -3774,7 +3810,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/ships.phtml, line: 38
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 83
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 92
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 83
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 88
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 96
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 65
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 79
@@ -3783,6 +3819,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentspay.phtml, line: 84
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentsunknown.phtml, line: 82
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 109
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 88
 # File: module/ages/view/ages/hotels/accounting.phtml, line: 31
 # File: module/ages/view/ages/hotels/ibs.phtml, line: 35
 # File: module/ages/view/ages/hotels/index.phtml, line: 41
@@ -3859,7 +3896,7 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 4871
 # File: module/ages/src/Controller/Customers.php, line: 6554
 # File: module/ages/src/Controller/Customers.php, line: 7525
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 967
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1234
 # File: module/ages/src/Controller/GiftCards.php, line: 1499
 # File: module/ages/src/Controller/GiftCards.php, line: 2065
 # File: module/ages/src/Controller/Newsletter.php, line: 4329
@@ -4821,10 +4858,11 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/edit_quotes.phtml, line: 64
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 38
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 48
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 38
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 43
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 38
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 36
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 64
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 43
 # File: module/ages/view/ages/google/index.phtml, line: 13
 # File: module/ages/view/ages/hotels/accounting.phtml, line: 12
 # File: module/ages/view/ages/hotels/add_accounting.phtml, line: 12
@@ -4992,12 +5030,13 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/edit_quotes.phtml, line: 16
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 39
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 49
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 39
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 44
 # File: module/ages/view/ages/dynamic-packaging/offlinebooking.phtml, line: 23
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 39
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 37
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 65
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1977
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 44
 # File: module/ages/view/ages/newsletter/create.phtml, line: 57
 # File: module/ages/view/ages/newsletter/editnewsletter.phtml, line: 57
 # File: module/ages/view/ages/packages/addservice.phtml, line: 69
@@ -5046,10 +5085,11 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 43
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 43
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 53
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 43
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 48
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 43
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 41
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 69
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 48
 # File: module/ages/view/ages/newsletter/create.phtml, line: 58
 # File: module/ages/view/ages/newsletter/editnewsletter.phtml, line: 60
 # File: module/ages/view/ages/reports/activities.phtml, line: 40
@@ -5314,8 +5354,8 @@ msgstr ""
 #
 # File: module/ages/src/Controller/CMS.php, line: 5872
 # File: module/ages/src/Controller/CMS.php, line: 6002
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 12441
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 12734
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 12708
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13001
 # File: module/ages/src/Controller/Google.php, line: 626
 # File: module/ages/src/Controller/Google.php, line: 771
 # File: module/ages/src/Controller/Google.php, line: 947
@@ -5508,8 +5548,8 @@ msgid "0"
 msgstr ""
 #
 # File: module/ages/src/Controller/CMS.php, line: 16370
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 2327
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 16441
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 2594
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 16708
 # File: module/ages/src/Controller/Packages.php, line: 3891
 # File: module/ages/src/Controller/Packages.php, line: 5223
 # File: module/setup/src/Controller/cruiseships.php, line: 107
@@ -5517,8 +5557,8 @@ msgid "1"
 msgstr ""
 #
 # File: module/ages/src/Controller/CMS.php, line: 16374
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 2335
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 16449
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 2602
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 16716
 # File: module/ages/src/Controller/Packages.php, line: 3899
 # File: module/ages/src/Controller/Packages.php, line: 5231
 # File: module/setup/src/Controller/cruiseships.php, line: 115
@@ -5526,8 +5566,8 @@ msgid "3"
 msgstr ""
 #
 # File: module/ages/src/Controller/CMS.php, line: 16378
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 2339
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 16453
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 2606
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 16720
 # File: module/ages/src/Controller/Packages.php, line: 3903
 # File: module/ages/src/Controller/Packages.php, line: 5235
 # File: module/setup/src/Controller/cruiseships.php, line: 119
@@ -5535,8 +5575,8 @@ msgid "4"
 msgstr ""
 #
 # File: module/ages/src/Controller/CMS.php, line: 16382
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 2343
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 16457
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 2610
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 16724
 # File: module/ages/src/Controller/Packages.php, line: 3907
 # File: module/ages/src/Controller/Packages.php, line: 5239
 # File: module/setup/src/Controller/cruiseships.php, line: 123
@@ -5680,13 +5720,14 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 116
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 123
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 133
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 124
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 129
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 64
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 119
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 120
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 84
 # File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 64
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 150
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 129
 msgid "New"
 msgstr ""
 #
@@ -5698,13 +5739,14 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 118
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 125
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 135
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 126
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 131
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 66
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 121
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 122
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 86
 # File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 66
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 152
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 131
 # File: module/ages/view/ages/newsletter/exceptions.phtml, line: 55
 # File: module/ages/view/ages/newsletter/listbroadcasts.phtml, line: 49
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 27
@@ -5761,8 +5803,8 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 3384
 # File: module/ages/src/Controller/Customers.php, line: 3399
 # File: module/ages/src/Controller/Customers.php, line: 3566
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 12940
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 12965
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13207
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13232
 msgid "Direct Booking"
 msgstr ""
 #
@@ -5792,7 +5834,7 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 2262
 # File: module/ages/src/Controller/Customers.php, line: 6363
 # File: module/ages/src/Controller/Customers.php, line: 7348
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 13572
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13839
 # File: module/ages/src/Controller/Hotels.php, line: 9300
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 37
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 116
@@ -5823,7 +5865,7 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 2270
 # File: module/ages/src/Controller/Customers.php, line: 6371
 # File: module/ages/src/Controller/Customers.php, line: 7356
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 13573
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13840
 # File: module/ages/src/Controller/Hotels.php, line: 9304
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 28
 msgid "Mrs"
@@ -6032,7 +6074,7 @@ msgstr ""
 msgid "Not Set"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 845
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1112
 # File: module/ages/src/Controller/Templates/checkin.phtml, line: 210
 # File: module/ages/src/Controller/Templates/checkinactivities.phtml, line: 234
 # File: module/ages/src/Controller/Templates/checkintransfers.phtml, line: 248
@@ -6049,8 +6091,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 147
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 84
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 157
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 75
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 148
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 80
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 153
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 88
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 74
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 143
@@ -6073,6 +6115,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1374
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1513
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1639
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 80
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 153
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/insurances/list.phtml, line: 60
 # File: module/ages/view/ages/reports/payments.phtml, line: 107
@@ -6087,7 +6131,7 @@ msgstr ""
 msgid "Pending Review - Fraud"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 849
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1116
 # File: module/ages/src/Controller/Templates/checkin.phtml, line: 210
 # File: module/ages/src/Controller/Templates/checkinactivities.phtml, line: 234
 # File: module/ages/src/Controller/Templates/checkintransfers.phtml, line: 248
@@ -6101,13 +6145,14 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 76
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 77
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 86
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 77
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 82
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 76
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 73
 # File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 74
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentspay.phtml, line: 78
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentsunknown.phtml, line: 76
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 103
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 82
 # File: module/ages/view/ages/insurances/list.phtml, line: 62
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 63
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 63
@@ -6119,13 +6164,13 @@ msgstr ""
 msgid "Recovered Booking"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 853
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1120
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 79
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 151
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 88
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 161
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 79
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 152
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 84
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 157
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 92
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 78
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 147
@@ -6147,13 +6192,15 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1378
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1517
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1643
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 84
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 157
 msgid "Partially Confirmed"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 857
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1124
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 81
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 90
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 81
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 86
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 94
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 63
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 77
@@ -6162,10 +6209,11 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentspay.phtml, line: 82
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentsunknown.phtml, line: 80
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 107
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 86
 msgid "Dupplicated"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 918
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1185
 # File: module/ages/src/Controller/Payments.php, line: 84
 # File: module/ages/view/ages/affiliates/add_payments.phtml, line: 5
 # File: module/ages/view/ages/affiliates/edit_payments.phtml, line: 7
@@ -6181,7 +6229,7 @@ msgstr ""
 msgid "Credit Card"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 923
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1190
 # File: module/ages/view/ages/affiliates/add_payments.phtml, line: 47
 # File: module/ages/view/ages/affiliates/edit_payments.phtml, line: 54
 # File: module/ages/view/ages/agents/add_payments.phtml, line: 47
@@ -6197,11 +6245,11 @@ msgstr ""
 msgid "PayPal"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 928
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1195
 msgid "Safety Pay"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 933
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1200
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2665
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5154
 # File: module/setup/view/settings/payments-b2b.phtml, line: 185
@@ -6209,7 +6257,7 @@ msgstr ""
 msgid "PayU"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 938
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1205
 # File: module/ages/view/ages/affiliates/add_payments.phtml, line: 120
 # File: module/ages/view/ages/affiliates/edit_payments.phtml, line: 143
 # File: module/ages/view/ages/agents/add_payments.phtml, line: 120
@@ -6223,22 +6271,22 @@ msgstr ""
 msgid "Book Now and Pay Later"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 943
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1210
 msgid "PayFort"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 948
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1215
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2668
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5165
 msgid "Sadad"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 953
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 1220
 msgid "PayeeZy"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 2108
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 16368
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 2375
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 16635
 # File: module/ages/src/Controller/Packages.php, line: 4185
 # File: module/ages/src/Controller/Packages.php, line: 5390
 # File: module/ages/view/ages/packages/addavailability.phtml, line: 68
@@ -6246,8 +6294,8 @@ msgstr ""
 msgid "Non-refundable"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 2122
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 16382
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 2389
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 16649
 # File: module/ages/src/Controller/Packages.php, line: 4202
 # File: module/ages/src/Controller/Packages.php, line: 5404
 # File: module/ages/view/ages/packages/addavailability.phtml, line: 68
@@ -6255,30 +6303,30 @@ msgstr ""
 msgid "Custom Cancellation Policy"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 2323
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 16437
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 2590
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 16704
 # File: module/ages/src/Controller/Packages.php, line: 3887
 # File: module/ages/src/Controller/Packages.php, line: 5219
 msgid "No star rating"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 2331
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 16445
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 2598
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 16712
 # File: module/ages/src/Controller/Packages.php, line: 3895
 # File: module/ages/src/Controller/Packages.php, line: 5227
 # File: module/setup/src/Controller/cruiseships.php, line: 111
 msgid "2"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 3092
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 3359
 msgid "Unable to upload document"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 12917
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13184
 msgid "All Departments"
 msgstr ""
 #
-# File: module/ages/src/Controller/DynamicPackaging.php, line: 13613
+# File: module/ages/src/Controller/DynamicPackaging.php, line: 13880
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 52
 msgid "Select Language"
 msgstr ""
@@ -6292,9 +6340,10 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 45
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 45
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 55
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 46
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 51
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 45
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 71
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 51
 # File: module/ages/view/ages/reports/businessunits.phtml, line: 239
 # File: module/ages/view/ages/reports/invoices.phtml, line: 38
 # File: module/ages/view/ages/reports/tours.phtml, line: 40
@@ -6326,6 +6375,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentspay.phtml, line: 6
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentsunknown.phtml, line: 6
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 6
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 5
 msgid "Dynamic Packages"
 msgstr ""
 #
@@ -6580,11 +6630,12 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 175
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 184
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 195
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 186
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 191
 # File: module/ages/view/ages/dynamic-packaging/offlinebooking.phtml, line: 28
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 181
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 182
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 211
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 191
 # File: module/ages/view/ages/packages/addservice.phtml, line: 71
 # File: module/ages/view/ages/reports/flights.phtml, line: 52
 # File: module/ages/view/ages/reports/gds.phtml, line: 41
@@ -6641,10 +6692,11 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/edit_quotes.phtml, line: 28
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 42
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 52
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 42
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 47
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 42
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 40
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 68
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 47
 # File: module/ages/view/ages/packages/addservice.phtml, line: 114
 # File: module/ages/view/ages/reports/invoices.phtml, line: 35
 # File: module/ages/view/ages/transfers/checkin.phtml, line: 30
@@ -6973,7 +7025,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 13
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 8
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 23
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 13
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 18
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 10
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 13
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 17
@@ -6990,6 +7042,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2366
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4463
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5105
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 18
 # File: module/ages/view/ages/gift-cards/pointstransactions.phtml, line: 12
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 22
 # File: module/ages/view/ages/hotels/listreservations.phtml, line: 13
@@ -7241,7 +7294,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 22
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 22
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 32
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 22
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 27
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 15
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 22
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 19
@@ -7251,6 +7304,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 46
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2603
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5240
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 27
 # File: module/ages/view/ages/newsletter/stats.phtml, line: 58
 # File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 34
 # File: module/ages/view/ages/reports/airlines.phtml, line: 68
@@ -7581,8 +7635,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 20
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 28
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 30
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 18
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 20
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 23
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 25
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 14
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 18
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 20
@@ -7601,6 +7655,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2395
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2417
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2631
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 23
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 25
 # File: module/ages/view/ages/gift-cards/earningsettings.phtml, line: 16
 # File: module/ages/view/ages/gift-cards/earningsettings_edit.phtml, line: 18
 # File: module/ages/view/ages/gift-cards/edit.phtml, line: 18
@@ -7759,8 +7815,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 21
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 29
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 31
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 19
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 21
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 24
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 26
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 13
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 19
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 21
@@ -7774,6 +7830,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentsunknown.phtml, line: 33
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 43
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 45
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 24
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 26
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 49
 # File: module/ages/view/ages/reports/companies.phtml, line: 54
 # File: module/ages/view/ages/reports/flights.phtml, line: 54
@@ -7845,7 +7903,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 25
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 25
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 35
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 25
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 30
 # File: module/ages/view/ages/dynamic-packaging/offlinebooking.phtml, line: 35
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 25
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 23
@@ -7870,6 +7928,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4670
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4707
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4973
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 30
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 30
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 51
 # File: module/ages/view/ages/index/index.phtml, line: 158
@@ -7908,7 +7967,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 78
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 85
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 95
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 86
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 91
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 81
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 68
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 82
@@ -7925,6 +7984,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1380
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1520
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1645
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 91
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 90
 # File: module/ages/view/ages/insurances/list.phtml, line: 64
@@ -7955,7 +8015,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 109
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 116
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 126
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 117
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 122
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 57
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 112
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 113
@@ -7974,6 +8034,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1410
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1550
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1675
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 122
 # File: module/ages/view/ages/index/index.phtml, line: 173
 # File: module/ages/view/ages/insurances/list.phtml, line: 95
 # File: module/ages/view/ages/reports/charters.phtml, line: 85
@@ -8001,7 +8062,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 111
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 118
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 128
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 119
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 124
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 59
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 114
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 115
@@ -8024,6 +8085,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1412
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1552
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1677
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 124
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 121
 # File: module/ages/view/ages/index/index.phtml, line: 174
@@ -8558,13 +8620,14 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 15
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 15
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 25
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 15
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 20
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 11
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 15
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 14
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 30
 # File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 11
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 39
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 20
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 11
 # File: module/ages/view/ages/hotels/searchreservations.phtml, line: 32
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 11
@@ -8611,13 +8674,14 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 16
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 16
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 26
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 16
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 21
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 12
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 16
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 15
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 31
 # File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 12
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 40
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 21
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 12
 # File: module/ages/view/ages/hotels/searchreservations.phtml, line: 33
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 12
@@ -8715,11 +8779,12 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 17
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 17
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 27
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 17
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 22
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 17
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 16
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 41
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1163
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 22
 # File: module/ages/view/ages/packages/addservice.phtml, line: 164
 # File: module/ages/view/ages/reports/invoices.phtml, line: 15
 msgid "Item"
@@ -9920,7 +9985,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 23
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 23
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 33
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 23
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 28
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 16
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 23
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 21
@@ -9937,6 +10002,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2342
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4939
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 171
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 28
 # File: module/ages/view/ages/hotels/account_information.phtml, line: 5
 # File: module/ages/view/ages/hotels/account_information_edit.phtml, line: 5
 # File: module/ages/view/ages/hotels/add.phtml, line: 88
@@ -10109,10 +10175,11 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/edit_itinerary.phtml, line: 54
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 41
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 51
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 41
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 46
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 41
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 39
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 67
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 46
 # File: module/ages/view/ages/reports/invoices.phtml, line: 34
 msgid "Cruise"
 msgstr ""
@@ -12929,7 +12996,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 19
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 26
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 36
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 26
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 31
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 19
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 26
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 24
@@ -12945,6 +13012,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 50
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2275
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 17
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 31
 # File: module/ages/view/ages/gift-cards/earningsettings.phtml, line: 17
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 31
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 31
@@ -13214,7 +13282,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 33
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 193
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 204
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 195
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 200
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 106
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 190
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 86
@@ -13230,6 +13298,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 222
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 680
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 38
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 200
 # File: module/ages/view/ages/gift-cards/earningsettings.phtml, line: 29
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 45
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
@@ -15438,9 +15507,10 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 104
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 251
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 274
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 253
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 258
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 248
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 280
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 258
 # File: module/ages/view/ages/gift-cards/earningsettings.phtml, line: 99
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 115
 # File: module/ages/view/ages/gift-cards/pointstransactions.phtml, line: 70
@@ -15610,7 +15680,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 12
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 12
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 22
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 12
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 17
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 9
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 12
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 12
@@ -15621,6 +15691,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentspay.phtml, line: 27
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentsunknown.phtml, line: 27
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 34
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 17
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 21
 # File: module/ages/view/ages/hotels/listreservations.phtml, line: 12
 # File: module/ages/view/ages/hotels/reservations.phtml, line: 12
@@ -15661,9 +15732,10 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 14
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 14
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 24
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 14
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 19
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 14
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 36
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 19
 # File: module/ages/view/ages/hotels/editstatichotelsplaces.phtml, line: 128
 # File: module/ages/view/ages/hotels/listreservations.phtml, line: 14
 # File: module/ages/view/ages/hotels/reservations.phtml, line: 14
@@ -17783,7 +17855,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 24
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 24
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 34
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 24
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 29
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 17
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 24
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 22
@@ -17801,6 +17873,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2630
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4936
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 168
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 29
 # File: module/ages/view/ages/hotels/account_information.phtml, line: 6
 # File: module/ages/view/ages/hotels/account_information.phtml, line: 7
 # File: module/ages/view/ages/hotels/account_information_edit.phtml, line: 6
@@ -18317,8 +18390,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 178
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 151
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 189
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 142
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 180
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 147
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 185
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 82
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 137
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 175
@@ -18328,6 +18401,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 82
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 168
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 205
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 147
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 185
 # File: module/ages/view/ages/reports/supervisorsales.phtml, line: 9
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 86
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 87
@@ -21083,7 +21158,7 @@ msgstr ""
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 28
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 31
 # File: module/setup/view/settings/realtimepayments_edit.phtml, line: 29
-# File: module/setup/view/settings/settings.phtml, line: 1177
+# File: module/setup/view/settings/settings.phtml, line: 1194
 msgid "Submit"
 msgstr ""
 #
@@ -21812,9 +21887,10 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit.phtml, line: 157
 # File: module/ages/view/ages/agents/edit_insurance.phtml, line: 1
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 46
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 44
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 49
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 43
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 72
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 49
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 167
 # File: module/ages/view/ages/sub-agents/add_insurance.phtml, line: 1
 # File: module/ages/view/ages/sub-agents/edit.phtml, line: 158
@@ -27028,10 +27104,11 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 44
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 44
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 54
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 45
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 50
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 44
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 42
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 70
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 50
 # File: module/ages/view/ages/newsletter/addpackage.phtml, line: 11
 # File: module/ages/view/ages/packages/addavailability.phtml, line: 11
 # File: module/ages/view/ages/packages/addservice.phtml, line: 16
@@ -30579,6 +30656,8 @@ msgid "Export Customers"
 msgstr ""
 #
 # File: module/ages/view/ages/customers/export.phtml, line: 17
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 9
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 9
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 19
 # File: module/ages/view/ages/reports/distributions.phtml, line: 20
 msgid "Export"
@@ -30856,11 +30935,12 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 40
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 40
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 50
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 40
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 45
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 40
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 38
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 66
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4604
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 45
 # File: module/ages/view/ages/reports/invoices.phtml, line: 33
 msgid "Car"
 msgstr ""
@@ -31401,13 +31481,14 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 120
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 127
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 137
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 128
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 133
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 68
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 123
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 124
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 88
 # File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 68
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 154
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 133
 msgid "Confirmed"
 msgstr ""
 #
@@ -31417,8 +31498,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 174
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 139
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 185
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 130
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 176
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 135
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 181
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 70
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 125
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 171
@@ -31428,19 +31509,22 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 70
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 156
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 201
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 135
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 181
 msgid "Cancelled"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 124
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 131
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 141
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 132
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 137
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 72
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 127
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 128
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 92
 # File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 72
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 158
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 137
 msgid "Waiting Confirmation"
 msgstr ""
 #
@@ -31450,8 +31534,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 182
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 153
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 193
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 144
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 184
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 149
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 189
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 84
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 139
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 179
@@ -31462,6 +31546,8 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 84
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 170
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 209
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 149
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 189
 # File: module/ages/view/ages/index/index.phtml, line: 197
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 29
 msgid "Queue"
@@ -31470,7 +31556,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 138
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 145
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 155
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 146
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 151
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 86
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 141
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 55
@@ -31478,6 +31564,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 106
 # File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 86
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 172
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 151
 # File: module/ages/view/ages/index/index.phtml, line: 198
 msgid "Queue for Cancellation"
 msgstr ""
@@ -31485,7 +31572,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 142
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 149
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 159
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 150
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 155
 # File: module/ages/view/ages/dynamic-packaging/payments.phtml, line: 90
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 145
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 59
@@ -31493,65 +31580,72 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 110
 # File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 90
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 176
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 155
 msgid "Recovered"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 149
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 158
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 169
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 160
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 165
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 155
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 156
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 185
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 165
 msgid "Awaiting"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 151
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 160
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 171
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 162
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 167
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 157
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 158
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 187
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 167
 msgid "Received"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 153
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 162
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 173
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 164
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 169
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 159
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 160
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 189
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 169
 msgid "Refunded"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 157
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 166
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 177
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 168
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 173
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 163
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 164
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 193
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 173
 msgid "On Hold"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 171
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 180
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 191
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 182
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 187
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 177
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 178
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 207
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 187
 msgid "Failed"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 203
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 212
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 223
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 214
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 219
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 209
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 241
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 219
 msgid "External Reservation"
 msgstr ""
 #
@@ -31625,9 +31719,9 @@ msgid "Reservations Expiring"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 5
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 247
-# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 248
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 252
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 253
+# File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 258
 msgid "Missing Invoices"
 msgstr ""
 #
@@ -33435,6 +33529,13 @@ msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 156
 msgid "Exp. Date"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 5
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 252
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 253
+# File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 258
+msgid "Missing Payments"
 msgstr ""
 #
 # File: module/ages/view/ages/gift-cards/add.phtml, line: 5
@@ -53317,8 +53418,22 @@ msgstr ""
 msgid "B2B Google Authenticator Descriptor"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1172
-# File: module/setup/view/settings/settings.phtml, line: 1173
+# File: module/setup/view/settings/settings.phtml, line: 1175
+msgid "Enable HelloSign"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1179
+# File: module/setup/view/settings/settings.phtml, line: 1180
+msgid "Hello Sign API Key"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1184
+# File: module/setup/view/settings/settings.phtml, line: 1185
+msgid "Terms and Conditions File Path"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1189
+# File: module/setup/view/settings/settings.phtml, line: 1190
 msgid "Single Sign On API Key"
 msgstr ""
 #
