@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-04 16:30+0000\n"
+"POT-Creation-Date: 2023-03-08 10:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2448,7 +2448,7 @@ msgstr ""
 # File: module/setup/src/Controller/featuredairlines.php, line: 397
 # File: module/setup/src/Controller/paymentsexclude.php, line: 71
 # File: module/setup/src/Controller/paymentsexclude.php, line: 179
-# File: module/setup/view/settings/settings.phtml, line: 900
+# File: module/setup/view/settings/settings.phtml, line: 906
 msgid "None"
 msgstr ""
 #
@@ -4278,7 +4278,7 @@ msgstr ""
 # File: module/setup/src/Controller/toxicairlines.php, line: 386
 # File: module/setup/view/air/toxicairlines.phtml, line: 41
 # File: module/setup/view/settings/businessintelligence.phtml, line: 115
-# File: module/setup/view/settings/settings.phtml, line: 902
+# File: module/setup/view/settings/settings.phtml, line: 908
 msgid "Sabre"
 msgstr ""
 #
@@ -4320,7 +4320,7 @@ msgstr ""
 # File: module/setup/src/Controller/toxicairlines.php, line: 394
 # File: module/setup/view/air/toxicairlines.phtml, line: 45
 # File: module/setup/view/settings/businessintelligence.phtml, line: 121
-# File: module/setup/view/settings/settings.phtml, line: 901
+# File: module/setup/view/settings/settings.phtml, line: 907
 msgid "Amadeus"
 msgstr ""
 #
@@ -10332,7 +10332,7 @@ msgid "WhatsApp"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 1064
-# File: module/setup/view/settings/settings.phtml, line: 585
+# File: module/setup/view/settings/settings.phtml, line: 591
 msgid "Emergency Email"
 msgstr ""
 #
@@ -11284,8 +11284,8 @@ msgstr ""
 # File: module/setup/view/settings/globalware_add.phtml, line: 11
 # File: module/setup/view/settings/globalware_edit.phtml, line: 11
 # File: module/setup/view/settings/realtimepayments.phtml, line: 13
-# File: module/setup/view/settings/settings.phtml, line: 758
-# File: module/setup/view/settings/settings.phtml, line: 759
+# File: module/setup/view/settings/settings.phtml, line: 764
+# File: module/setup/view/settings/settings.phtml, line: 765
 msgid "Name"
 msgstr ""
 #
@@ -12185,8 +12185,8 @@ msgstr ""
 # File: module/manager/view/rooms/edit.phtml, line: 11
 # File: module/manager/view/rooms/index.phtml, line: 12
 # File: module/setup/view/cruises/edit-cabincategories.phtml, line: 16
-# File: module/setup/view/settings/settings.phtml, line: 763
-# File: module/setup/view/settings/settings.phtml, line: 764
+# File: module/setup/view/settings/settings.phtml, line: 769
+# File: module/setup/view/settings/settings.phtml, line: 770
 msgid "Description"
 msgstr ""
 #
@@ -20181,7 +20181,7 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/edit_flights.phtml, line: 8
 # File: module/ages/view/ages/sub-agents/edit_flights.phtml, line: 34
 # File: module/setup/view/settings/businessintelligence.phtml, line: 127
-# File: module/setup/view/settings/settings.phtml, line: 903
+# File: module/setup/view/settings/settings.phtml, line: 909
 msgid "Travelport"
 msgstr ""
 #
@@ -20288,7 +20288,7 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit_hotels.phtml, line: 9
 # File: module/ages/view/ages/sub-agents/add_hotels.phtml, line: 9
 # File: module/ages/view/ages/sub-agents/edit_hotels.phtml, line: 9
-# File: module/setup/view/settings/settings.phtml, line: 660
+# File: module/setup/view/settings/settings.phtml, line: 666
 msgid "Hotel Booking Lead Time"
 msgstr ""
 #
@@ -20303,7 +20303,7 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/edit_hotels.phtml, line: 9
 # File: module/setup/view/hotels/riu.phtml, line: 62
 # File: module/setup/view/hotels/riu.phtml, line: 63
-# File: module/setup/view/settings/settings.phtml, line: 661
+# File: module/setup/view/settings/settings.phtml, line: 667
 msgid "Booking Lead Time"
 msgstr ""
 #
@@ -21190,7 +21190,7 @@ msgstr ""
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 28
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 31
 # File: module/setup/view/settings/realtimepayments_edit.phtml, line: 29
-# File: module/setup/view/settings/settings.phtml, line: 1194
+# File: module/setup/view/settings/settings.phtml, line: 1200
 msgid "Submit"
 msgstr ""
 #
@@ -27996,9 +27996,9 @@ msgstr ""
 # File: module/setup/view/settings/settings.phtml, line: 242
 # File: module/setup/view/settings/settings.phtml, line: 247
 # File: module/setup/view/settings/settings.phtml, line: 252
-# File: module/setup/view/settings/settings.phtml, line: 1065
-# File: module/setup/view/settings/settings.phtml, line: 1086
-# File: module/setup/view/settings/settings.phtml, line: 1167
+# File: module/setup/view/settings/settings.phtml, line: 1071
+# File: module/setup/view/settings/settings.phtml, line: 1092
+# File: module/setup/view/settings/settings.phtml, line: 1173
 msgid "(For multiple email alerts use semicolon (;) (For example email1@bug-software.com;email2@bug-software.com))"
 msgstr ""
 #
@@ -35384,8 +35384,8 @@ msgstr ""
 # File: module/ages/view/ages/hotels/finantial_information_edit.phtml, line: 189
 # File: module/setup/view/air/mystifly.phtml, line: 15
 # File: module/setup/view/air/mystifly.phtml, line: 16
-# File: module/setup/view/settings/settings.phtml, line: 867
-# File: module/setup/view/settings/settings.phtml, line: 868
+# File: module/setup/view/settings/settings.phtml, line: 873
+# File: module/setup/view/settings/settings.phtml, line: 874
 msgid "Account Number"
 msgstr ""
 #
@@ -42216,8 +42216,8 @@ msgstr ""
 # File: module/setup/view/packages/universalassistance.phtml, line: 111
 # File: module/setup/view/packages/wamos.phtml, line: 54
 # File: module/setup/view/packages/wamos.phtml, line: 55
-# File: module/setup/view/settings/settings.phtml, line: 944
-# File: module/setup/view/settings/settings.phtml, line: 945
+# File: module/setup/view/settings/settings.phtml, line: 950
+# File: module/setup/view/settings/settings.phtml, line: 951
 # File: module/setup/view/trains/era.phtml, line: 50
 # File: module/setup/view/trains/era.phtml, line: 51
 # File: module/setup/view/trains/sat.phtml, line: 50
@@ -44018,8 +44018,8 @@ msgstr ""
 # File: module/setup/view/hotels/nuitee.phtml, line: 51
 # File: module/setup/view/packages/destinationservices.phtml, line: 39
 # File: module/setup/view/packages/destinationservices.phtml, line: 40
-# File: module/setup/view/settings/settings.phtml, line: 748
-# File: module/setup/view/settings/settings.phtml, line: 749
+# File: module/setup/view/settings/settings.phtml, line: 754
+# File: module/setup/view/settings/settings.phtml, line: 755
 # File: module/setup/view/trains/era.phtml, line: 41
 # File: module/setup/view/trains/era.phtml, line: 42
 # File: module/setup/view/trains/sat.phtml, line: 41
@@ -50659,8 +50659,8 @@ msgstr ""
 # File: module/setup/view/hotels/pricetravel.phtml, line: 17
 # File: module/setup/view/packages/wamos.phtml, line: 37
 # File: module/setup/view/packages/wamos.phtml, line: 38
-# File: module/setup/view/settings/settings.phtml, line: 768
-# File: module/setup/view/settings/settings.phtml, line: 769
+# File: module/setup/view/settings/settings.phtml, line: 774
+# File: module/setup/view/settings/settings.phtml, line: 775
 # File: module/setup/view/trains/era.phtml, line: 20
 # File: module/setup/view/trains/era.phtml, line: 21
 # File: module/setup/view/trains/sat.phtml, line: 20
@@ -50670,8 +50670,8 @@ msgstr ""
 #
 # File: module/setup/view/hotels/pricetravel.phtml, line: 20
 # File: module/setup/view/hotels/pricetravel.phtml, line: 21
-# File: module/setup/view/settings/settings.phtml, line: 773
-# File: module/setup/view/settings/settings.phtml, line: 774
+# File: module/setup/view/settings/settings.phtml, line: 779
+# File: module/setup/view/settings/settings.phtml, line: 780
 # File: module/setup/view/trains/era.phtml, line: 24
 # File: module/setup/view/trains/era.phtml, line: 25
 # File: module/setup/view/trains/sat.phtml, line: 24
@@ -52522,7 +52522,7 @@ msgstr ""
 # File: module/setup/view/settings/settings.phtml, line: 74
 # File: module/setup/view/settings/settings.phtml, line: 84
 # File: module/setup/view/settings/settings.phtml, line: 101
-# File: module/setup/view/settings/settings.phtml, line: 676
+# File: module/setup/view/settings/settings.phtml, line: 682
 msgid "Config"
 msgstr ""
 #
@@ -52969,491 +52969,495 @@ msgid "Allow B2C Bookings with valid cancellation policies without payment "
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 554
-msgid "Add page break for each service in voucher"
+msgid "Do not process B2C Bookings if CP Deadline already expired"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 560
-msgid "Always use main account information in the voucher and confirmation message. Do not use the agent's contact information"
+msgid "Add page break for each service in voucher"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 566
-msgid "Replace Contact details text with Travel Agent Contact Details text in Voucher"
+msgid "Always use main account information in the voucher and confirmation message. Do not use the agent's contact information"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 572
-# File: module/setup/view/settings/settings.phtml, line: 573
+msgid "Replace Contact details text with Travel Agent Contact Details text in Voucher"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 578
+# File: module/setup/view/settings/settings.phtml, line: 579
 msgid "WhatsApp Phone #1 to Display in Voucher"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 576
-# File: module/setup/view/settings/settings.phtml, line: 577
+# File: module/setup/view/settings/settings.phtml, line: 582
+# File: module/setup/view/settings/settings.phtml, line: 583
 msgid "WhatsApp Phone #2 to Display in Voucher"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 580
-# File: module/setup/view/settings/settings.phtml, line: 581
+# File: module/setup/view/settings/settings.phtml, line: 586
+# File: module/setup/view/settings/settings.phtml, line: 587
 msgid "WhatsApp Phone #3 to Display in Voucher"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 584
+# File: module/setup/view/settings/settings.phtml, line: 590
 msgid "Emergency email"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 594
+# File: module/setup/view/settings/settings.phtml, line: 600
 msgid "Enable Activities Cross Selling"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 600
+# File: module/setup/view/settings/settings.phtml, line: 606
 msgid "Enable Hotels Cross Selling"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 606
+# File: module/setup/view/settings/settings.phtml, line: 612
 msgid "Enable Flights Cross Selling"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 612
+# File: module/setup/view/settings/settings.phtml, line: 618
 msgid "Enable Transfers Cross Selling"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 618
+# File: module/setup/view/settings/settings.phtml, line: 624
 msgid "Enable Cars Cross Selling"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 624
+# File: module/setup/view/settings/settings.phtml, line: 630
 msgid "Enable Tours Cross Selling"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 630
+# File: module/setup/view/settings/settings.phtml, line: 636
 msgid "Enable Packages Cross Selling"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 636
+# File: module/setup/view/settings/settings.phtml, line: 642
 msgid "Enable Insurances Cross Selling"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 644
-# File: module/setup/view/settings/settings.phtml, line: 645
+# File: module/setup/view/settings/settings.phtml, line: 650
+# File: module/setup/view/settings/settings.phtml, line: 651
 msgid "Reset Password Extra Text"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 652
+# File: module/setup/view/settings/settings.phtml, line: 658
 msgid "Air Booking Lead Time (days)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 653
+# File: module/setup/view/settings/settings.phtml, line: 659
 msgid "Booking Lead Time (days)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 656
+# File: module/setup/view/settings/settings.phtml, line: 662
 msgid "Air B2B Booking Lead Time (days)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 657
+# File: module/setup/view/settings/settings.phtml, line: 663
 msgid "B2B Booking Lead Time (days)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 664
+# File: module/setup/view/settings/settings.phtml, line: 670
 msgid "Lead days prior to cancellation policy for payment purposes"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 665
-# File: module/setup/view/settings/settings.phtml, line: 669
+# File: module/setup/view/settings/settings.phtml, line: 671
+# File: module/setup/view/settings/settings.phtml, line: 675
 msgid "Lead days"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 668
+# File: module/setup/view/settings/settings.phtml, line: 674
 msgid "Lead days cancellation policy"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 672
-# File: module/setup/view/settings/settings.phtml, line: 673
+# File: module/setup/view/settings/settings.phtml, line: 678
+# File: module/setup/view/settings/settings.phtml, line: 679
 msgid "Google Maps Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 687
+# File: module/setup/view/settings/settings.phtml, line: 693
 msgid "Enable Contract Manager Integration"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 691
-# File: module/setup/view/settings/settings.phtml, line: 692
+# File: module/setup/view/settings/settings.phtml, line: 697
+# File: module/setup/view/settings/settings.phtml, line: 698
 msgid "Contract Manager Service URL"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 703
+# File: module/setup/view/settings/settings.phtml, line: 709
 msgid "Credit Account Synchronisation with Costamar Globalware"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 707
-# File: module/setup/view/settings/settings.phtml, line: 708
+# File: module/setup/view/settings/settings.phtml, line: 713
+# File: module/setup/view/settings/settings.phtml, line: 714
 msgid "Costamar Globalware Username"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 712
-# File: module/setup/view/settings/settings.phtml, line: 713
+# File: module/setup/view/settings/settings.phtml, line: 718
+# File: module/setup/view/settings/settings.phtml, line: 719
 msgid "Costamar Globalware Password"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 716
-# File: module/setup/view/settings/settings.phtml, line: 717
+# File: module/setup/view/settings/settings.phtml, line: 722
+# File: module/setup/view/settings/settings.phtml, line: 723
 msgid "Costamar Globalware URL"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 721
-# File: module/setup/view/settings/settings.phtml, line: 722
+# File: module/setup/view/settings/settings.phtml, line: 727
+# File: module/setup/view/settings/settings.phtml, line: 728
 msgid "Costamar Globalware TFA"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 726
-# File: module/setup/view/settings/settings.phtml, line: 727
+# File: module/setup/view/settings/settings.phtml, line: 732
+# File: module/setup/view/settings/settings.phtml, line: 733
 msgid "Costamar Utility %"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 737
+# File: module/setup/view/settings/settings.phtml, line: 743
 msgid "Enable Costamar Travel Online Invoice API"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 744
+# File: module/setup/view/settings/settings.phtml, line: 750
 msgid "Create invoice only when reservation is set to Payment Received"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 753
-# File: module/setup/view/settings/settings.phtml, line: 754
+# File: module/setup/view/settings/settings.phtml, line: 759
+# File: module/setup/view/settings/settings.phtml, line: 760
 msgid "Senju Web Services End Point"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 778
-# File: module/setup/view/settings/settings.phtml, line: 779
+# File: module/setup/view/settings/settings.phtml, line: 784
+# File: module/setup/view/settings/settings.phtml, line: 785
 msgid "Globalware TKT"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 783
-# File: module/setup/view/settings/settings.phtml, line: 784
+# File: module/setup/view/settings/settings.phtml, line: 789
+# File: module/setup/view/settings/settings.phtml, line: 790
 msgid "Main Branch"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 788
-# File: module/setup/view/settings/settings.phtml, line: 789
+# File: module/setup/view/settings/settings.phtml, line: 794
+# File: module/setup/view/settings/settings.phtml, line: 795
 msgid "Send Invoice Creation Notification to the following Email"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 798
+# File: module/setup/view/settings/settings.phtml, line: 804
 msgid "Enable SaleSys Integration"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 802
-# File: module/setup/view/settings/settings.phtml, line: 803
+# File: module/setup/view/settings/settings.phtml, line: 808
+# File: module/setup/view/settings/settings.phtml, line: 809
 msgid "SaleSys Hostname"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 807
-# File: module/setup/view/settings/settings.phtml, line: 808
+# File: module/setup/view/settings/settings.phtml, line: 813
+# File: module/setup/view/settings/settings.phtml, line: 814
 msgid "SaleSys Username"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 812
-# File: module/setup/view/settings/settings.phtml, line: 813
+# File: module/setup/view/settings/settings.phtml, line: 818
+# File: module/setup/view/settings/settings.phtml, line: 819
 msgid "SaleSys Password"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 816
-# File: module/setup/view/settings/settings.phtml, line: 817
+# File: module/setup/view/settings/settings.phtml, line: 822
+# File: module/setup/view/settings/settings.phtml, line: 823
 msgid "SaleSys Database"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 821
-# File: module/setup/view/settings/settings.phtml, line: 822
+# File: module/setup/view/settings/settings.phtml, line: 827
+# File: module/setup/view/settings/settings.phtml, line: 828
 msgid "SaleSys Table"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 828
-# File: module/setup/view/settings/settings.phtml, line: 829
+# File: module/setup/view/settings/settings.phtml, line: 834
+# File: module/setup/view/settings/settings.phtml, line: 835
 msgid "Affirm Financial Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 833
-# File: module/setup/view/settings/settings.phtml, line: 834
+# File: module/setup/view/settings/settings.phtml, line: 839
+# File: module/setup/view/settings/settings.phtml, line: 840
 msgid "Affirm Public Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 838
-# File: module/setup/view/settings/settings.phtml, line: 839
+# File: module/setup/view/settings/settings.phtml, line: 844
+# File: module/setup/view/settings/settings.phtml, line: 845
 msgid "Affirm Private Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 843
-# File: module/setup/view/settings/settings.phtml, line: 844
+# File: module/setup/view/settings/settings.phtml, line: 849
+# File: module/setup/view/settings/settings.phtml, line: 850
 msgid "Affirm VCN Financial Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 848
-# File: module/setup/view/settings/settings.phtml, line: 849
+# File: module/setup/view/settings/settings.phtml, line: 854
+# File: module/setup/view/settings/settings.phtml, line: 855
 msgid "Affirm VCN Public Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 853
-# File: module/setup/view/settings/settings.phtml, line: 854
+# File: module/setup/view/settings/settings.phtml, line: 859
+# File: module/setup/view/settings/settings.phtml, line: 860
 msgid "Affirm VCN Private Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 860
+# File: module/setup/view/settings/settings.phtml, line: 866
 msgid "Bank Transfer Information"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 862
-# File: module/setup/view/settings/settings.phtml, line: 863
+# File: module/setup/view/settings/settings.phtml, line: 868
+# File: module/setup/view/settings/settings.phtml, line: 869
 msgid "Account Holder's Name"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 872
-# File: module/setup/view/settings/settings.phtml, line: 873
+# File: module/setup/view/settings/settings.phtml, line: 878
+# File: module/setup/view/settings/settings.phtml, line: 879
 msgid "Routing Number"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 877
-# File: module/setup/view/settings/settings.phtml, line: 878
+# File: module/setup/view/settings/settings.phtml, line: 883
+# File: module/setup/view/settings/settings.phtml, line: 884
 msgid "IBAN"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 882
-# File: module/setup/view/settings/settings.phtml, line: 883
+# File: module/setup/view/settings/settings.phtml, line: 888
+# File: module/setup/view/settings/settings.phtml, line: 889
 msgid "Additional Information"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 890
-# File: module/setup/view/settings/settings.phtml, line: 891
+# File: module/setup/view/settings/settings.phtml, line: 896
+# File: module/setup/view/settings/settings.phtml, line: 897
 msgid "Custom Credit Card Failed Message"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 898
+# File: module/setup/view/settings/settings.phtml, line: 904
 msgid "Pre Defined Air Supplier:"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 909
-# File: module/setup/view/settings/settings.phtml, line: 910
+# File: module/setup/view/settings/settings.phtml, line: 915
+# File: module/setup/view/settings/settings.phtml, line: 916
 msgid "Hotels Markup Fallback"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 914
-# File: module/setup/view/settings/settings.phtml, line: 915
+# File: module/setup/view/settings/settings.phtml, line: 920
+# File: module/setup/view/settings/settings.phtml, line: 921
 msgid "Packages Markup Fallback"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 919
-# File: module/setup/view/settings/settings.phtml, line: 920
+# File: module/setup/view/settings/settings.phtml, line: 925
+# File: module/setup/view/settings/settings.phtml, line: 926
 msgid "Cars Markup Fallback"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 924
-# File: module/setup/view/settings/settings.phtml, line: 925
+# File: module/setup/view/settings/settings.phtml, line: 930
+# File: module/setup/view/settings/settings.phtml, line: 931
 msgid "Cruises Markup Fallback"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 929
-# File: module/setup/view/settings/settings.phtml, line: 930
+# File: module/setup/view/settings/settings.phtml, line: 935
+# File: module/setup/view/settings/settings.phtml, line: 936
 msgid "Activities Markup Fallback"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 934
-# File: module/setup/view/settings/settings.phtml, line: 935
+# File: module/setup/view/settings/settings.phtml, line: 940
+# File: module/setup/view/settings/settings.phtml, line: 941
 msgid "Transfers Markup Fallback"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 939
-# File: module/setup/view/settings/settings.phtml, line: 940
+# File: module/setup/view/settings/settings.phtml, line: 945
+# File: module/setup/view/settings/settings.phtml, line: 946
 msgid "Tours Markup Fallback"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 949
-# File: module/setup/view/settings/settings.phtml, line: 950
+# File: module/setup/view/settings/settings.phtml, line: 955
+# File: module/setup/view/settings/settings.phtml, line: 956
 msgid "Remove % recovery fee in booking workflow"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 954
-# File: module/setup/view/settings/settings.phtml, line: 955
+# File: module/setup/view/settings/settings.phtml, line: 960
+# File: module/setup/view/settings/settings.phtml, line: 961
 msgid "Global B2B Discount Promotion"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 959
-# File: module/setup/view/settings/settings.phtml, line: 960
+# File: module/setup/view/settings/settings.phtml, line: 965
+# File: module/setup/view/settings/settings.phtml, line: 966
 msgid "Global B2B Discount Promotion Text"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 964
-# File: module/setup/view/settings/settings.phtml, line: 965
+# File: module/setup/view/settings/settings.phtml, line: 970
+# File: module/setup/view/settings/settings.phtml, line: 971
 msgid "Global B2B Discount Tag"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 969
-# File: module/setup/view/settings/settings.phtml, line: 970
+# File: module/setup/view/settings/settings.phtml, line: 975
+# File: module/setup/view/settings/settings.phtml, line: 976
 msgid "Global B2C Discount Promotion"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 974
-# File: module/setup/view/settings/settings.phtml, line: 975
+# File: module/setup/view/settings/settings.phtml, line: 980
+# File: module/setup/view/settings/settings.phtml, line: 981
 msgid "Global B2C Discount Promotion Text"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 979
-# File: module/setup/view/settings/settings.phtml, line: 980
+# File: module/setup/view/settings/settings.phtml, line: 985
+# File: module/setup/view/settings/settings.phtml, line: 986
 msgid "Global B2C Discount Tag"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 991
+# File: module/setup/view/settings/settings.phtml, line: 997
 msgid "Enable Ekata Reverse Phone"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 995
-# File: module/setup/view/settings/settings.phtml, line: 996
+# File: module/setup/view/settings/settings.phtml, line: 1001
+# File: module/setup/view/settings/settings.phtml, line: 1002
 msgid "Ekata API Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1003
+# File: module/setup/view/settings/settings.phtml, line: 1009
 msgid "Enable EveryoneAPI Reverse Phone"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1007
-# File: module/setup/view/settings/settings.phtml, line: 1008
+# File: module/setup/view/settings/settings.phtml, line: 1013
+# File: module/setup/view/settings/settings.phtml, line: 1014
 msgid "EveryoneAPI Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1014
-# File: module/setup/view/settings/settings.phtml, line: 1015
+# File: module/setup/view/settings/settings.phtml, line: 1020
+# File: module/setup/view/settings/settings.phtml, line: 1021
 msgid "Cancellation Timeout for Confirmed Air Departure Bookings (In minutes) "
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1019
-# File: module/setup/view/settings/settings.phtml, line: 1020
+# File: module/setup/view/settings/settings.phtml, line: 1025
+# File: module/setup/view/settings/settings.phtml, line: 1026
 msgid "Cancellation Timeout for Airline Bookings Cancellations (In minutes)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1024
-# File: module/setup/view/settings/settings.phtml, line: 1025
+# File: module/setup/view/settings/settings.phtml, line: 1030
+# File: module/setup/view/settings/settings.phtml, line: 1031
 msgid "Cancellation Timeout for Hotel Bookings Cancellations (In minutes)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1029
-# File: module/setup/view/settings/settings.phtml, line: 1030
+# File: module/setup/view/settings/settings.phtml, line: 1035
+# File: module/setup/view/settings/settings.phtml, line: 1036
 msgid "Cancellation Timeout for Activities Bookings Cancellations (In minutes) "
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1034
-# File: module/setup/view/settings/settings.phtml, line: 1035
+# File: module/setup/view/settings/settings.phtml, line: 1040
+# File: module/setup/view/settings/settings.phtml, line: 1041
 msgid "Cancellation Timeout for Transfer Bookings Cancellations (In minutes)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1039
-# File: module/setup/view/settings/settings.phtml, line: 1040
+# File: module/setup/view/settings/settings.phtml, line: 1045
+# File: module/setup/view/settings/settings.phtml, line: 1046
 msgid "Cancellation Timeout for Car Rental Bookings Cancellations (In minutes)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1044
-# File: module/setup/view/settings/settings.phtml, line: 1045
+# File: module/setup/view/settings/settings.phtml, line: 1050
+# File: module/setup/view/settings/settings.phtml, line: 1051
 msgid "Cancellation Timeout for Packages Bookings Cancellations (In minutes)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1054
+# File: module/setup/view/settings/settings.phtml, line: 1060
 msgid "Automatic Cancell Reservation if not paid"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1058
-# File: module/setup/view/settings/settings.phtml, line: 1059
+# File: module/setup/view/settings/settings.phtml, line: 1064
+# File: module/setup/view/settings/settings.phtml, line: 1065
 msgid "Number of warning days"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1063
-# File: module/setup/view/settings/settings.phtml, line: 1064
+# File: module/setup/view/settings/settings.phtml, line: 1069
+# File: module/setup/view/settings/settings.phtml, line: 1070
 msgid "Send Auto Cancellation Emails To"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1073
+# File: module/setup/view/settings/settings.phtml, line: 1079
 msgid "Enable rePUSHTI reservation check"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1077
-# File: module/setup/view/settings/settings.phtml, line: 1078
+# File: module/setup/view/settings/settings.phtml, line: 1083
+# File: module/setup/view/settings/settings.phtml, line: 1084
 msgid "rePUSH API Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1084
-# File: module/setup/view/settings/settings.phtml, line: 1085
-# File: module/setup/view/settings/settings.phtml, line: 1165
-# File: module/setup/view/settings/settings.phtml, line: 1166
+# File: module/setup/view/settings/settings.phtml, line: 1090
+# File: module/setup/view/settings/settings.phtml, line: 1091
+# File: module/setup/view/settings/settings.phtml, line: 1171
+# File: module/setup/view/settings/settings.phtml, line: 1172
 msgid "Send Air Block Time Limit Warnings To"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1091
-# File: module/setup/view/settings/settings.phtml, line: 1092
-# File: module/setup/view/settings/settings.phtml, line: 1106
-# File: module/setup/view/settings/settings.phtml, line: 1107
+# File: module/setup/view/settings/settings.phtml, line: 1097
+# File: module/setup/view/settings/settings.phtml, line: 1098
+# File: module/setup/view/settings/settings.phtml, line: 1112
+# File: module/setup/view/settings/settings.phtml, line: 1113
 msgid "Cybersource API Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1096
-# File: module/setup/view/settings/settings.phtml, line: 1097
-# File: module/setup/view/settings/settings.phtml, line: 1111
-# File: module/setup/view/settings/settings.phtml, line: 1112
+# File: module/setup/view/settings/settings.phtml, line: 1102
+# File: module/setup/view/settings/settings.phtml, line: 1103
+# File: module/setup/view/settings/settings.phtml, line: 1117
+# File: module/setup/view/settings/settings.phtml, line: 1118
 msgid "Cybersource Secret Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1101
-# File: module/setup/view/settings/settings.phtml, line: 1102
-# File: module/setup/view/settings/settings.phtml, line: 1117
+# File: module/setup/view/settings/settings.phtml, line: 1107
+# File: module/setup/view/settings/settings.phtml, line: 1108
+# File: module/setup/view/settings/settings.phtml, line: 1123
 msgid "Cybersource Merchant Id "
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1116
+# File: module/setup/view/settings/settings.phtml, line: 1122
 msgid "Cybersource Merchant Id"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1126
+# File: module/setup/view/settings/settings.phtml, line: 1132
 msgid "Enable Google Authenticator 2 Factor Authentication"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1133
+# File: module/setup/view/settings/settings.phtml, line: 1139
 msgid "Enable OTP Two-step verification"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1138
-# File: module/setup/view/settings/settings.phtml, line: 1139
+# File: module/setup/view/settings/settings.phtml, line: 1144
+# File: module/setup/view/settings/settings.phtml, line: 1145
 msgid "Twilio Account SID"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1143
-# File: module/setup/view/settings/settings.phtml, line: 1144
+# File: module/setup/view/settings/settings.phtml, line: 1149
+# File: module/setup/view/settings/settings.phtml, line: 1150
 msgid "Twilio Auth Token"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1148
-# File: module/setup/view/settings/settings.phtml, line: 1149
+# File: module/setup/view/settings/settings.phtml, line: 1154
+# File: module/setup/view/settings/settings.phtml, line: 1155
 msgid "Service SID"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1153
-# File: module/setup/view/settings/settings.phtml, line: 1154
+# File: module/setup/view/settings/settings.phtml, line: 1159
+# File: module/setup/view/settings/settings.phtml, line: 1160
 msgid "Google Authenticator Descriptor"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1158
-# File: module/setup/view/settings/settings.phtml, line: 1159
+# File: module/setup/view/settings/settings.phtml, line: 1164
+# File: module/setup/view/settings/settings.phtml, line: 1165
 msgid "B2B Google Authenticator Descriptor"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1175
+# File: module/setup/view/settings/settings.phtml, line: 1181
 msgid "Enable HelloSign"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1179
-# File: module/setup/view/settings/settings.phtml, line: 1180
+# File: module/setup/view/settings/settings.phtml, line: 1185
+# File: module/setup/view/settings/settings.phtml, line: 1186
 msgid "Hello Sign API Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1184
-# File: module/setup/view/settings/settings.phtml, line: 1185
+# File: module/setup/view/settings/settings.phtml, line: 1190
+# File: module/setup/view/settings/settings.phtml, line: 1191
 msgid "Terms and Conditions File Path"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1189
-# File: module/setup/view/settings/settings.phtml, line: 1190
+# File: module/setup/view/settings/settings.phtml, line: 1195
+# File: module/setup/view/settings/settings.phtml, line: 1196
 msgid "Single Sign On API Key"
 msgstr ""
 #
