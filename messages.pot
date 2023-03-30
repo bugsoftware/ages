@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-29 15:41+0100\n"
+"POT-Creation-Date: 2023-03-30 12:39+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3366,6 +3366,9 @@ msgstr ""
 # File: module/setup/src/Controller/preferredhotels.php, line: 344
 # File: module/setup/src/Controller/publicareas.php, line: 163
 # File: module/setup/src/Controller/publicareas.php, line: 177
+# File: module/setup/src/Controller/cities.php, line: 123
+# File: module/setup/src/Controller/cities.php, line: 136
+# File: module/setup/src/Controller/states.php, line: 69
 # File: module/setup/view/settings/globalware.phtml, line: 35
 msgid "Unknown"
 msgstr ""
@@ -11304,6 +11307,10 @@ msgstr ""
 # File: module/setup/view/settings/realtimepayments.phtml, line: 13
 # File: module/setup/view/settings/settings.phtml, line: 764
 # File: module/setup/view/settings/settings.phtml, line: 765
+# File: module/setup/view/settings/cities_edit.phtml, line: 11
+# File: module/setup/view/settings/cities.phtml, line: 18
+# File: module/setup/view/settings/states.phtml, line: 13
+# File: module/setup/view/settings/states_edit.phtml, line: 11
 msgid "Name"
 msgstr ""
 #
@@ -11586,6 +11593,12 @@ msgstr ""
 # File: module/setup/view/settings/geotargetmarkup.phtml, line: 15
 # File: module/setup/view/settings/geotargetmarkup_add.phtml, line: 11
 # File: module/setup/view/settings/geotargetmarkup_edit.phtml, line: 11
+# File: module/setup/view/settings/cities_edit.phtml, line: 12
+# File: module/setup/view/settings/cities.phtml, line: 19
+# File: module/setup/view/settings/countries.phtml, line: 13
+# File: module/setup/view/settings/countries_edit.phtml, line: 11
+# File: module/setup/view/settings/states.phtml, line: 14
+# File: module/setup/view/settings/states_edit.phtml, line: 12
 msgid "Country"
 msgstr ""
 #
@@ -11615,6 +11628,8 @@ msgstr ""
 # File: module/setup/view/hotels/tbo.phtml, line: 101
 # File: module/setup/view/settings/geotargetmarkup_add.phtml, line: 12
 # File: module/setup/view/settings/geotargetmarkup_edit.phtml, line: 12
+# File: module/setup/view/settings/cities.phtml, line: 20
+# File: module/setup/view/settings/states.phtml, line: 5
 msgid "State"
 msgstr ""
 #
@@ -13684,6 +13699,9 @@ msgstr ""
 # File: module/setup/view/settings/globalware.phtml, line: 38
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 30
 # File: module/setup/view/settings/realtimepayments.phtml, line: 22
+# File: module/setup/view/settings/cities.phtml, line: 31
+# File: module/setup/view/settings/countries.phtml, line: 22
+# File: module/setup/view/settings/states.phtml, line: 24
 msgid "Edit"
 msgstr ""
 #
@@ -15226,6 +15244,9 @@ msgstr ""
 # File: module/setup/view/settings/globalware.phtml, line: 18
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 18
 # File: module/setup/view/settings/realtimepayments.phtml, line: 14
+# File: module/setup/view/settings/cities.phtml, line: 21
+# File: module/setup/view/settings/countries.phtml, line: 14
+# File: module/setup/view/settings/states.phtml, line: 15
 msgid "Action"
 msgstr ""
 #
@@ -15894,6 +15915,8 @@ msgstr ""
 # File: module/setup/view/settings/globalware.phtml, line: 108
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 100
 # File: module/setup/view/settings/realtimepayments.phtml, line: 63
+# File: module/setup/view/settings/countries.phtml, line: 61
+# File: module/setup/view/settings/states.phtml, line: 63
 msgid "(Press ESC to close)"
 msgstr ""
 #
@@ -16025,6 +16048,9 @@ msgstr ""
 # File: module/setup/view/settings/globalware.phtml, line: 12
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 12
 # File: module/setup/view/settings/realtimepayments.phtml, line: 12
+# File: module/setup/view/settings/cities.phtml, line: 17
+# File: module/setup/view/settings/countries.phtml, line: 12
+# File: module/setup/view/settings/states.phtml, line: 12
 msgid "Id"
 msgstr ""
 #
@@ -21237,6 +21263,9 @@ msgstr ""
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 31
 # File: module/setup/view/settings/realtimepayments_edit.phtml, line: 29
 # File: module/setup/view/settings/settings.phtml, line: 1200
+# File: module/setup/view/settings/cities_edit.phtml, line: 15
+# File: module/setup/view/settings/countries_edit.phtml, line: 14
+# File: module/setup/view/settings/states_edit.phtml, line: 15
 msgid "Submit"
 msgstr ""
 #
@@ -23463,6 +23492,11 @@ msgstr ""
 # File: module/ages/view/ages/reports/newcustomers.phtml, line: 35
 # File: module/ages/view/ages/reports/newcustomers.phtml, line: 37
 # File: module/ages/view/ages/reports/newcustomers.phtml, line: 104
+# File: module/setup/view/settings/countries.phtml, line: 5
+# File: module/setup/view/settings/countries.phtml, line: 55
+# File: module/setup/view/settings/countries.phtml, line: 56
+# File: module/setup/view/settings/countries.phtml, line: 61
+# File: module/setup/view/settings/countries_edit.phtml, line: 5
 msgid "Countries"
 msgstr ""
 #
@@ -34043,6 +34077,9 @@ msgstr ""
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 5
 # File: module/setup/view/settings/realtimepayments.phtml, line: 5
 # File: module/setup/view/settings/settings.phtml, line: 5
+# File: module/setup/view/settings/cities.phtml, line: 8
+# File: module/setup/view/settings/countries.phtml, line: 5
+# File: module/setup/view/settings/states.phtml, line: 5
 msgid "Settings"
 msgstr ""
 #
@@ -53622,6 +53659,26 @@ msgstr ""
 # File: module/setup/view/settings/settings.phtml, line: 1195
 # File: module/setup/view/settings/settings.phtml, line: 1196
 msgid "Single Sign On API Key"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 5
+# File: module/setup/view/settings/cities.phtml, line: 8
+msgid "Cities"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 45
+msgid "Please enter city name"
+msgstr ""
+#
+# File: module/setup/view/settings/states.phtml, line: 57
+# File: module/setup/view/settings/states.phtml, line: 58
+# File: module/setup/view/settings/states.phtml, line: 63
+# File: module/setup/view/settings/states_edit.phtml, line: 5
+msgid "States"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 45
+msgid "Please enter zone name"
 msgstr ""
 #
 # File: module/setup/view/trains/era.phtml, line: 13
