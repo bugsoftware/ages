@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-04 16:51+0100\n"
+"POT-Creation-Date: 2023-04-04 17:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5005,6 +5005,8 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 539
 # File: module/setup/view/settings/countries_edit.phtml, line: 27
 # File: module/setup/view/settings/countries_edit.phtml, line: 62
+# File: module/setup/view/settings/states_edit.phtml, line: 22
+# File: module/setup/view/settings/states_edit.phtml, line: 55
 msgid "Hotels"
 msgstr ""
 #
@@ -5146,6 +5148,7 @@ msgstr ""
 # File: module/setup/view/settings/businessintelligence.phtml, line: 71
 # File: module/setup/view/settings/cities_edit.phtml, line: 542
 # File: module/setup/view/settings/countries_edit.phtml, line: 65
+# File: module/setup/view/settings/states_edit.phtml, line: 58
 msgid "Cars"
 msgstr ""
 #
@@ -5253,6 +5256,7 @@ msgstr ""
 # File: module/setup/view/settings/businessintelligence.phtml, line: 99
 # File: module/setup/view/settings/cities_edit.phtml, line: 545
 # File: module/setup/view/settings/countries_edit.phtml, line: 68
+# File: module/setup/view/settings/states_edit.phtml, line: 61
 msgid "Cruises"
 msgstr ""
 #
@@ -5295,6 +5299,7 @@ msgstr ""
 # File: module/setup/view/settings/businessintelligence.phtml, line: 93
 # File: module/setup/view/settings/cities_edit.phtml, line: 551
 # File: module/setup/view/settings/countries_edit.phtml, line: 74
+# File: module/setup/view/settings/states_edit.phtml, line: 67
 msgid "Packages"
 msgstr ""
 #
@@ -5621,6 +5626,7 @@ msgstr ""
 # File: module/setup/view/index/index.phtml, line: 81
 # File: module/setup/view/settings/cities_edit.phtml, line: 548
 # File: module/setup/view/settings/countries_edit.phtml, line: 71
+# File: module/setup/view/settings/states_edit.phtml, line: 64
 msgid "Flights"
 msgstr ""
 #
@@ -11373,6 +11379,7 @@ msgstr ""
 # File: module/setup/view/hotels/premierinn.phtml, line: 27
 # File: module/setup/view/settings/currencies.phtml, line: 13
 # File: module/setup/view/settings/cities_edit.phtml, line: 22
+# File: module/setup/view/settings/states_edit.phtml, line: 12
 msgid "Code"
 msgstr ""
 #
@@ -11433,6 +11440,7 @@ msgstr ""
 # File: module/setup/view/settings/globalware_edit.phtml, line: 15
 # File: module/setup/view/settings/cities_edit.phtml, line: 16
 # File: module/setup/view/settings/countries_edit.phtml, line: 99
+# File: module/setup/view/settings/states_edit.phtml, line: 97
 msgid "Location"
 msgstr ""
 #
@@ -11618,7 +11626,7 @@ msgstr ""
 # File: module/setup/view/settings/cities.phtml, line: 14
 # File: module/setup/view/settings/countries.phtml, line: 13
 # File: module/setup/view/settings/states.phtml, line: 14
-# File: module/setup/view/settings/states_edit.phtml, line: 12
+# File: module/setup/view/settings/states_edit.phtml, line: 13
 msgid "Country"
 msgstr ""
 #
@@ -12027,6 +12035,7 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 15
 # File: module/setup/view/settings/countries.phtml, line: 17
 # File: module/setup/view/settings/countries_edit.phtml, line: 16
+# File: module/setup/view/settings/states_edit.phtml, line: 16
 msgid "Latitude"
 msgstr ""
 #
@@ -12055,6 +12064,7 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 14
 # File: module/setup/view/settings/countries.phtml, line: 16
 # File: module/setup/view/settings/countries_edit.phtml, line: 15
+# File: module/setup/view/settings/states_edit.phtml, line: 15
 msgid "Longitude"
 msgstr ""
 #
@@ -12253,6 +12263,8 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 63
 # File: module/setup/view/settings/countries_edit.phtml, line: 37
 # File: module/setup/view/settings/countries_edit.phtml, line: 40
+# File: module/setup/view/settings/states_edit.phtml, line: 30
+# File: module/setup/view/settings/states_edit.phtml, line: 33
 msgid "Description"
 msgstr ""
 #
@@ -18792,6 +18804,7 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/edit.phtml, line: 163
 # File: module/setup/view/settings/cities_edit.phtml, line: 50
 # File: module/setup/view/settings/countries_edit.phtml, line: 102
+# File: module/setup/view/settings/states_edit.phtml, line: 100
 msgid "CMS"
 msgstr ""
 #
@@ -21129,6 +21142,7 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/edit_socialmedia.phtml, line: 9
 # File: module/setup/view/settings/cities_edit.phtml, line: 41
 # File: module/setup/view/settings/countries_edit.phtml, line: 30
+# File: module/setup/view/settings/states_edit.phtml, line: 24
 msgid "Google"
 msgstr ""
 #
@@ -21306,7 +21320,7 @@ msgstr ""
 # File: module/setup/view/settings/settings.phtml, line: 1205
 # File: module/setup/view/settings/cities_edit.phtml, line: 1101
 # File: module/setup/view/settings/countries_edit.phtml, line: 169
-# File: module/setup/view/settings/states_edit.phtml, line: 15
+# File: module/setup/view/settings/states_edit.phtml, line: 138
 msgid "Submit"
 msgstr ""
 #
@@ -25376,6 +25390,7 @@ msgstr ""
 # File: module/ages/view/ages/hotels/contracts_edit.phtml, line: 23
 # File: module/setup/view/settings/cities_edit.phtml, line: 43
 # File: module/setup/view/settings/countries_edit.phtml, line: 93
+# File: module/setup/view/settings/states_edit.phtml, line: 91
 msgid "Featured"
 msgstr ""
 #
@@ -26342,6 +26357,7 @@ msgstr ""
 # File: module/ages/view/ages/service-fees/list.phtml, line: 18
 # File: module/setup/view/settings/cities_edit.phtml, line: 18
 # File: module/setup/view/settings/countries_edit.phtml, line: 96
+# File: module/setup/view/settings/states_edit.phtml, line: 94
 msgid "Section"
 msgstr ""
 #
@@ -26927,6 +26943,7 @@ msgstr ""
 # File: module/setup/view/index/index.phtml, line: 41
 # File: module/setup/view/settings/cities_edit.phtml, line: 23
 # File: module/setup/view/settings/countries_edit.phtml, line: 25
+# File: module/setup/view/settings/states_edit.phtml, line: 21
 msgid "Sort Order"
 msgstr ""
 #
@@ -29298,6 +29315,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 202
 # File: module/setup/view/settings/cities_edit.phtml, line: 68
 # File: module/setup/view/settings/countries_edit.phtml, line: 45
+# File: module/setup/view/settings/states_edit.phtml, line: 38
 msgid "Description ES"
 msgstr ""
 #
@@ -29307,6 +29325,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 210
 # File: module/setup/view/settings/cities_edit.phtml, line: 69
 # File: module/setup/view/settings/countries_edit.phtml, line: 46
+# File: module/setup/view/settings/states_edit.phtml, line: 39
 msgid "Description PT"
 msgstr ""
 #
@@ -29316,6 +29335,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 218
 # File: module/setup/view/settings/cities_edit.phtml, line: 72
 # File: module/setup/view/settings/countries_edit.phtml, line: 49
+# File: module/setup/view/settings/states_edit.phtml, line: 42
 msgid "Description DE"
 msgstr ""
 #
@@ -29325,6 +29345,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 226
 # File: module/setup/view/settings/cities_edit.phtml, line: 75
 # File: module/setup/view/settings/countries_edit.phtml, line: 52
+# File: module/setup/view/settings/states_edit.phtml, line: 45
 msgid "Description FR"
 msgstr ""
 #
@@ -29334,6 +29355,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 234
 # File: module/setup/view/settings/cities_edit.phtml, line: 78
 # File: module/setup/view/settings/countries_edit.phtml, line: 55
+# File: module/setup/view/settings/states_edit.phtml, line: 48
 msgid "Description IT"
 msgstr ""
 #
@@ -29343,6 +29365,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 242
 # File: module/setup/view/settings/cities_edit.phtml, line: 70
 # File: module/setup/view/settings/countries_edit.phtml, line: 47
+# File: module/setup/view/settings/states_edit.phtml, line: 40
 msgid "Description ZH"
 msgstr ""
 #
@@ -29352,6 +29375,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 250
 # File: module/setup/view/settings/cities_edit.phtml, line: 74
 # File: module/setup/view/settings/countries_edit.phtml, line: 51
+# File: module/setup/view/settings/states_edit.phtml, line: 44
 msgid "Description RU"
 msgstr ""
 #
@@ -29361,6 +29385,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/editstaticcabins.phtml, line: 258
 # File: module/setup/view/settings/cities_edit.phtml, line: 71
 # File: module/setup/view/settings/countries_edit.phtml, line: 48
+# File: module/setup/view/settings/states_edit.phtml, line: 41
 msgid "Description AR"
 msgstr ""
 #
@@ -29466,6 +29491,7 @@ msgstr ""
 # File: module/ages/view/ages/packages/edit_location.phtml, line: 63
 # File: module/setup/view/settings/cities_edit.phtml, line: 17
 # File: module/setup/view/settings/countries_edit.phtml, line: 17
+# File: module/setup/view/settings/states_edit.phtml, line: 17
 msgid "Depth"
 msgstr ""
 #
@@ -53792,16 +53818,19 @@ msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 12
 # File: module/setup/view/settings/countries_edit.phtml, line: 12
+# File: module/setup/view/settings/states_edit.phtml, line: 14
 msgid "Static"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 19
 # File: module/setup/view/settings/countries_edit.phtml, line: 18
+# File: module/setup/view/settings/states_edit.phtml, line: 18
 msgid "IP From"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 20
 # File: module/setup/view/settings/countries_edit.phtml, line: 19
+# File: module/setup/view/settings/states_edit.phtml, line: 19
 msgid "IP To"
 msgstr ""
 #
@@ -53812,6 +53841,7 @@ msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 23
 # File: module/setup/view/settings/countries_edit.phtml, line: 25
+# File: module/setup/view/settings/states_edit.phtml, line: 21
 msgid "Sort Oder"
 msgstr ""
 #
@@ -53837,6 +53867,7 @@ msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 31
 # File: module/setup/view/settings/countries_edit.phtml, line: 22
+# File: module/setup/view/settings/states_edit.phtml, line: 20
 msgid "Giata"
 msgstr ""
 #
@@ -53874,6 +53905,7 @@ msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 40
 # File: module/setup/view/settings/countries_edit.phtml, line: 29
+# File: module/setup/view/settings/states_edit.phtml, line: 23
 msgid "Google Place Id"
 msgstr ""
 #
@@ -53883,21 +53915,25 @@ msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 73
 # File: module/setup/view/settings/countries_edit.phtml, line: 50
+# File: module/setup/view/settings/states_edit.phtml, line: 43
 msgid "Description DA"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 76
 # File: module/setup/view/settings/countries_edit.phtml, line: 53
+# File: module/setup/view/settings/states_edit.phtml, line: 46
 msgid "Description EL"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 77
 # File: module/setup/view/settings/countries_edit.phtml, line: 54
+# File: module/setup/view/settings/states_edit.phtml, line: 47
 msgid "Description JA"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 79
 # File: module/setup/view/settings/countries_edit.phtml, line: 56
+# File: module/setup/view/settings/states_edit.phtml, line: 49
 msgid "Description SV"
 msgstr ""
 #
@@ -53940,6 +53976,7 @@ msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 140
 # File: module/setup/view/settings/countries_edit.phtml, line: 157
+# File: module/setup/view/settings/states_edit.phtml, line: 78
 msgid "Wikitravel"
 msgstr ""
 #
@@ -53947,6 +53984,8 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 145
 # File: module/setup/view/settings/countries_edit.phtml, line: 159
 # File: module/setup/view/settings/countries_edit.phtml, line: 162
+# File: module/setup/view/settings/states_edit.phtml, line: 80
+# File: module/setup/view/settings/states_edit.phtml, line: 83
 msgid "Wiki"
 msgstr ""
 #
@@ -54202,21 +54241,25 @@ msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 536
 # File: module/setup/view/settings/countries_edit.phtml, line: 59
+# File: module/setup/view/settings/states_edit.phtml, line: 52
 msgid "Localization"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 554
 # File: module/setup/view/settings/countries_edit.phtml, line: 77
+# File: module/setup/view/settings/states_edit.phtml, line: 70
 msgid "Extra Services"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 560
 # File: module/setup/view/settings/countries_edit.phtml, line: 83
+# File: module/setup/view/settings/states_edit.phtml, line: 73
 msgid "Aux1"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 563
 # File: module/setup/view/settings/countries_edit.phtml, line: 86
+# File: module/setup/view/settings/states_edit.phtml, line: 76
 msgid "Aux2"
 msgstr ""
 #
@@ -55465,7 +55508,7 @@ msgid "Country XML 30"
 msgstr ""
 #
 # File: module/setup/view/settings/countries_edit.phtml, line: 199
-# File: module/setup/view/settings/states_edit.phtml, line: 45
+# File: module/setup/view/settings/states_edit.phtml, line: 168
 msgid "Please enter zone name"
 msgstr ""
 #
@@ -55474,6 +55517,126 @@ msgstr ""
 # File: module/setup/view/settings/states.phtml, line: 63
 # File: module/setup/view/settings/states_edit.phtml, line: 5
 msgid "States"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 106
+msgid "Zone XML 1"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 107
+msgid "Zone XML 2"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 108
+msgid "Zone XML 3"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 109
+msgid "Zone XML 4"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 110
+msgid "Zone XML 5"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 111
+msgid "Zone XML 6"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 112
+msgid "Zone XML 7"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 113
+msgid "Zone XML 8"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 114
+msgid "Zone XML 9"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 115
+msgid "Zone XML 10"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 116
+msgid "Zone XML 11"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 117
+msgid "Zone XML 12"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 118
+msgid "Zone XML 13"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 119
+msgid "Zone XML 14"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 120
+msgid "Zone XML 15"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 121
+msgid "Zone XML 16"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 122
+msgid "Zone XML 17"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 123
+msgid "Zone XML 18"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 124
+msgid "Zone XML 19"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 125
+msgid "Zone XML 20"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 126
+msgid "Zone XML 21"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 127
+msgid "Zone XML 22"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 128
+msgid "Zone XML 23"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 129
+msgid "Zone XML 24"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 130
+msgid "Zone XML 25"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 131
+msgid "Zone XML 26"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 132
+msgid "Zone XML 27"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 133
+msgid "Zone XML 28"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 134
+msgid "Zone XML 29"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 135
+msgid "Zone XML 30"
 msgstr ""
 #
 # File: module/setup/view/trains/era.phtml, line: 13
