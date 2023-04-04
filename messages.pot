@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-04 16:06+0100\n"
+"POT-Creation-Date: 2023-04-04 16:51+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3367,8 +3367,8 @@ msgstr ""
 # File: module/setup/src/Controller/preferredhotels.php, line: 344
 # File: module/setup/src/Controller/publicareas.php, line: 163
 # File: module/setup/src/Controller/publicareas.php, line: 177
-# File: module/setup/src/Controller/cities.php, line: 691
-# File: module/setup/src/Controller/cities.php, line: 704
+# File: module/setup/src/Controller/cities.php, line: 847
+# File: module/setup/src/Controller/cities.php, line: 860
 # File: module/setup/src/Controller/states.php, line: 211
 # File: module/setup/view/settings/globalware.phtml, line: 35
 msgid "Unknown"
@@ -14324,7 +14324,7 @@ msgstr ""
 # File: module/ages/view/ages/tours/images.phtml, line: 97
 # File: module/ages/view/ages/tours/images.phtml, line: 104
 # File: module/ages/view/ages/tours/images.phtml, line: 105
-# File: module/setup/view/settings/cities_edit.phtml, line: 988
+# File: module/setup/view/settings/cities_edit.phtml, line: 1084
 msgid "Images"
 msgstr ""
 #
@@ -21304,7 +21304,7 @@ msgstr ""
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 31
 # File: module/setup/view/settings/realtimepayments_edit.phtml, line: 29
 # File: module/setup/view/settings/settings.phtml, line: 1205
-# File: module/setup/view/settings/cities_edit.phtml, line: 1005
+# File: module/setup/view/settings/cities_edit.phtml, line: 1101
 # File: module/setup/view/settings/countries_edit.phtml, line: 169
 # File: module/setup/view/settings/states_edit.phtml, line: 15
 msgid "Submit"
@@ -36759,7 +36759,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/flyers_add.phtml, line: 17
 # File: module/ages/view/ages/newsletter/flyers_edit.phtml, line: 17
 # File: module/ages/view/ages/newsletter/flyers_edit.phtml, line: 36
-# File: module/setup/view/settings/cities_edit.phtml, line: 996
+# File: module/setup/view/settings/cities_edit.phtml, line: 1092
 msgid "Thumbnail"
 msgstr ""
 #
@@ -54352,911 +54352,977 @@ msgstr ""
 msgid "SEO Keywords ES"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 759
-msgid "City XML"
-msgstr ""
-#
+# File: module/setup/view/settings/cities_edit.phtml, line: 758
 # File: module/setup/view/settings/cities_edit.phtml, line: 761
-msgid "City XML 1"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 762
-msgid "City XML 2"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 763
-msgid "City XML 3"
-msgstr ""
-#
 # File: module/setup/view/settings/cities_edit.phtml, line: 764
-msgid "City XML 4"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 765
-msgid "City XML 5"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 766
-msgid "City XML 6"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 767
-msgid "City XML 6a"
+msgid "SEO Description"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 768
-msgid "City XML 6b"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 769
-msgid "City XML 7"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 770
-msgid "City XML 8"
-msgstr ""
-#
 # File: module/setup/view/settings/cities_edit.phtml, line: 771
-msgid "City XML 9"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 772
-msgid "City XML 10"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 773
-msgid "City XML 11"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 774
-msgid "City XML 12"
+msgid "SEO Description EL"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 775
-msgid "City XML 13"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 776
-msgid "City XML 14"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 777
-msgid "City XML 15"
-msgstr ""
-#
 # File: module/setup/view/settings/cities_edit.phtml, line: 778
-msgid "City XML 16"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 779
-msgid "City XML 17"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 780
-msgid "City XML 18"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 781
-msgid "City XML 19"
+msgid "SEO Description JA"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 782
-msgid "City XML 20"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 783
-msgid "City XML 21"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 784
-msgid "City XML 22"
-msgstr ""
-#
 # File: module/setup/view/settings/cities_edit.phtml, line: 785
-msgid "City XML 23"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 786
-msgid "City XML 24"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 787
-msgid "City XML 25"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 788
-msgid "City XML 26"
+msgid "SEO Description SV"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 789
-msgid "City XML 27"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 790
-msgid "City XML 28"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 791
-msgid "City XML 29"
-msgstr ""
-#
 # File: module/setup/view/settings/cities_edit.phtml, line: 792
-msgid "City XML 30"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 793
-msgid "City XML 31"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 794
-msgid "City XML 32"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 795
-msgid "City XML 33"
+msgid "SEO Description RU"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 796
-msgid "City XML 34"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 797
-msgid "City XML 35"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 798
-msgid "City XML 36"
-msgstr ""
-#
 # File: module/setup/view/settings/cities_edit.phtml, line: 799
-msgid "City XML 37"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 800
-msgid "City XML 38"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 801
-msgid "City XML 39"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 802
-msgid "City XML 40"
+msgid "SEO Description DE"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 803
-msgid "City XML 41"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 804
-msgid "City XML 42"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 805
-msgid "City XML 43"
-msgstr ""
-#
 # File: module/setup/view/settings/cities_edit.phtml, line: 806
-msgid "City XML 44"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 807
-msgid "City XML 45"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 808
-msgid "City XML 46"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 809
-msgid "City XML 47"
+msgid "SEO Description IT"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 810
-msgid "City XML 48"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 811
-msgid "City XML 49"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 812
-msgid "City XML 50"
-msgstr ""
-#
 # File: module/setup/view/settings/cities_edit.phtml, line: 813
-msgid "City XML 51"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 814
-msgid "City XML 52"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 815
-msgid "City XML 53"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 816
-msgid "City XML 54"
+msgid "SEO Description DA"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 817
-msgid "City XML 55"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 818
-msgid "City XML 56"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 819
-msgid "City XML 57"
-msgstr ""
-#
 # File: module/setup/view/settings/cities_edit.phtml, line: 820
-msgid "City XML 58"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 821
-msgid "City XML 59"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 822
-msgid "City XML 60"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 823
-msgid "City XML 61"
+msgid "SEO Description FR"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 824
-msgid "City XML 62"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 825
-msgid "City XML 63"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 826
-msgid "City XML 64"
-msgstr ""
-#
 # File: module/setup/view/settings/cities_edit.phtml, line: 827
-msgid "City XML 65"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 828
-msgid "City XML 66"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 829
-msgid "City XML 67"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 830
-msgid "City XML 68"
+msgid "SEO Description AR"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 831
-msgid "City XML 69"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 832
-msgid "City XML 70"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 833
-msgid "City XML 71"
-msgstr ""
-#
 # File: module/setup/view/settings/cities_edit.phtml, line: 834
-msgid "City XML 72"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 835
-msgid "City XML 73"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 836
-msgid "City XML 74"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 837
-msgid "City XML 75"
+msgid "SEO Description PT"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 838
-msgid "City XML 76"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 839
-msgid "City XML 77"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 840
-msgid "City XML 78"
-msgstr ""
-#
 # File: module/setup/view/settings/cities_edit.phtml, line: 841
-msgid "City XML 79"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 842
-msgid "City XML 80"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 843
-msgid "City XML 81"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 844
-msgid "City XML 82"
+msgid "SEO Description ZH"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 845
-msgid "City XML 83"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 846
-msgid "City XML 84"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 847
-msgid "City XML 85"
-msgstr ""
-#
 # File: module/setup/view/settings/cities_edit.phtml, line: 848
-msgid "City XML 88"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 849
-msgid "City XML 90"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 852
-msgid "Packages XML"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 854
-msgid "Package XML 1"
+msgid "SEO Description ES"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 855
-msgid "Package XML 2"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 856
-msgid "Package XML 3"
+msgid "City XML"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 857
-msgid "Package XML 4"
+msgid "City XML 1"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 858
-msgid "Package XML 5"
+msgid "City XML 2"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 859
-msgid "Package XML 6"
+msgid "City XML 3"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 860
-msgid "Package XML 7"
+msgid "City XML 4"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 861
-msgid "Package XML 8"
+msgid "City XML 5"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 862
-msgid "Package XML 9"
+msgid "City XML 6"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 863
-msgid "Package XML 10"
+msgid "City XML 6a"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 864
-msgid "Package XML 11"
+msgid "City XML 6b"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 865
-msgid "Package XML 12"
+msgid "City XML 7"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 866
-msgid "Package XML 13"
+msgid "City XML 8"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 867
-msgid "Package XML 14"
+msgid "City XML 9"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 868
-msgid "Package XML 15"
+msgid "City XML 10"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 869
-msgid "Package XML 16"
+msgid "City XML 11"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 870
-msgid "Package XML 17"
+msgid "City XML 12"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 871
-msgid "Package XML 18"
+msgid "City XML 13"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 872
-msgid "Package XML 19"
+msgid "City XML 14"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 873
-msgid "Package XML 20"
+msgid "City XML 15"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 874
-msgid "Package XML 21"
+msgid "City XML 16"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 875
-msgid "Package XML 22"
+msgid "City XML 17"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 876
-msgid "Package XML 23"
+msgid "City XML 18"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 877
-msgid "Package XML 24"
+msgid "City XML 19"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 878
-msgid "Package XML 25"
+msgid "City XML 20"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 879
-msgid "Package XML 26"
+msgid "City XML 21"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 880
-msgid "Package XML 27"
+msgid "City XML 22"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 881
-msgid "Package XML 28"
+msgid "City XML 23"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 882
-msgid "Package XML 29"
+msgid "City XML 24"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 883
-msgid "Package XML 30"
+msgid "City XML 25"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 884
+msgid "City XML 26"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 885
+msgid "City XML 27"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 886
-msgid "Flights XML"
+msgid "City XML 28"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 887
+msgid "City XML 29"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 888
-msgid "Flight XML 1"
+msgid "City XML 30"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 889
-msgid "Flight XML 2"
+msgid "City XML 31"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 890
-msgid "Flight XML 3"
+msgid "City XML 32"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 891
-msgid "Flight XML 4"
+msgid "City XML 33"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 892
-msgid "Flight XML 5"
+msgid "City XML 34"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 893
-msgid "Flight XML 6"
+msgid "City XML 35"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 894
-msgid "Flight XML 7"
+msgid "City XML 36"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 895
-msgid "Flight XML 8"
+msgid "City XML 37"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 896
-msgid "Flight XML 9"
+msgid "City XML 38"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 897
-msgid "Flight XML 10"
+msgid "City XML 39"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 898
-msgid "Flight XML 11"
+msgid "City XML 40"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 899
-msgid "Flight XML 12"
+msgid "City XML 41"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 900
-msgid "Flight XML 13"
+msgid "City XML 42"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 901
-msgid "Flight XML 14"
+msgid "City XML 43"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 902
-msgid "Flight XML 15"
+msgid "City XML 44"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 903
-msgid "Flight XML 16"
+msgid "City XML 45"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 904
-msgid "Flight XML 17"
+msgid "City XML 46"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 905
-msgid "Flight XML 18"
+msgid "City XML 47"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 906
-msgid "Flight XML 19"
+msgid "City XML 48"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 907
-msgid "Flight XML 20"
+msgid "City XML 49"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 908
-msgid "Flight XML 21"
+msgid "City XML 50"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 909
-msgid "Flight XML 22"
+msgid "City XML 51"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 910
-msgid "Flight XML 23"
+msgid "City XML 52"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 911
-msgid "Flight XML 24"
+msgid "City XML 53"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 912
-msgid "Flight XML 25"
+msgid "City XML 54"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 913
-msgid "Flight XML 26"
+msgid "City XML 55"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 914
-msgid "Flight XML 27"
+msgid "City XML 56"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 915
-msgid "Flight XML 28"
+msgid "City XML 57"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 916
-msgid "Flight XML 29"
+msgid "City XML 58"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 917
-msgid "Flight XML 30"
+msgid "City XML 59"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 918
+msgid "City XML 60"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 919
+msgid "City XML 61"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 920
-msgid "Cars XML"
+msgid "City XML 62"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 921
+msgid "City XML 63"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 922
-msgid "Car XML 1"
+msgid "City XML 64"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 923
-msgid "Car XML 2"
+msgid "City XML 65"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 924
-msgid "Car XML 3"
+msgid "City XML 66"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 925
-msgid "Car XML 4"
+msgid "City XML 67"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 926
-msgid "Car XML 5"
+msgid "City XML 68"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 927
-msgid "Car XML 6"
+msgid "City XML 69"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 928
-msgid "Car XML 7"
+msgid "City XML 70"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 929
-msgid "Car XML 8"
+msgid "City XML 71"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 930
-msgid "Car XML 9"
+msgid "City XML 72"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 931
-msgid "Car XML 10"
+msgid "City XML 73"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 932
-msgid "Car XML 11"
+msgid "City XML 74"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 933
-msgid "Car XML 12"
+msgid "City XML 75"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 934
-msgid "Car XML 13"
+msgid "City XML 76"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 935
-msgid "Car XML 14"
+msgid "City XML 77"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 936
-msgid "Car XML 15"
+msgid "City XML 78"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 937
-msgid "Car XML 16"
+msgid "City XML 79"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 938
-msgid "Car XML 17"
+msgid "City XML 80"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 939
-msgid "Car XML 18"
+msgid "City XML 81"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 940
-msgid "Car XML 19"
+msgid "City XML 82"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 941
-msgid "Car XML 20"
+msgid "City XML 83"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 942
-msgid "Car XML 21"
+msgid "City XML 84"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 943
-msgid "Car XML 22"
+msgid "City XML 85"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 944
-msgid "Car XML 23"
+msgid "City XML 88"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 945
-msgid "Car XML 24"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 946
-msgid "Car XML 25"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 947
-msgid "Car XML 26"
+msgid "City XML 90"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 948
-msgid "Car XML 27"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 949
-msgid "Car XML 28"
+msgid "Packages XML"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 950
-msgid "Car XML 29"
+msgid "Package XML 1"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 951
-msgid "Car XML 30"
+msgid "Package XML 2"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 952
+msgid "Package XML 3"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 953
+msgid "Package XML 4"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 954
-msgid "Cruises XML"
+msgid "Package XML 5"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 955
+msgid "Package XML 6"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 956
-msgid "Cruise XML 1"
+msgid "Package XML 7"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 957
-msgid "Cruise XML 2"
+msgid "Package XML 8"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 958
-msgid "Cruise XML 3"
+msgid "Package XML 9"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 959
-msgid "Cruise XML 4"
+msgid "Package XML 10"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 960
-msgid "Cruise XML 5"
+msgid "Package XML 11"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 961
-msgid "Cruise XML 6"
+msgid "Package XML 12"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 962
-msgid "Cruise XML 7"
+msgid "Package XML 13"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 963
-msgid "Cruise XML 8"
+msgid "Package XML 14"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 964
-msgid "Cruise XML 9"
+msgid "Package XML 15"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 965
-msgid "Cruise XML 10"
+msgid "Package XML 16"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 966
-msgid "Cruise XML 11"
+msgid "Package XML 17"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 967
-msgid "Cruise XML 12"
+msgid "Package XML 18"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 968
-msgid "Cruise XML 13"
+msgid "Package XML 19"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 969
-msgid "Cruise XML 14"
+msgid "Package XML 20"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 970
-msgid "Cruise XML 15"
+msgid "Package XML 21"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 971
-msgid "Cruise XML 16"
+msgid "Package XML 22"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 972
-msgid "Cruise XML 17"
+msgid "Package XML 23"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 973
-msgid "Cruise XML 18"
+msgid "Package XML 24"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 974
-msgid "Cruise XML 19"
+msgid "Package XML 25"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 975
-msgid "Cruise XML 20"
+msgid "Package XML 26"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 976
-msgid "Cruise XML 21"
+msgid "Package XML 27"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 977
-msgid "Cruise XML 22"
+msgid "Package XML 28"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 978
-msgid "Cruise XML 23"
+msgid "Package XML 29"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 979
-msgid "Cruise XML 24"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 980
-msgid "Cruise XML 25"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 981
-msgid "Cruise XML 26"
+msgid "Package XML 30"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 982
-msgid "Cruise XML 27"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 983
-msgid "Cruise XML 28"
+msgid "Flights XML"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 984
-msgid "Cruise XML 29"
+msgid "Flight XML 1"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 985
-msgid "Cruise XML 30"
+msgid "Flight XML 2"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 986
+msgid "Flight XML 3"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 987
+msgid "Flight XML 4"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 988
+msgid "Flight XML 5"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 989
+msgid "Flight XML 6"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 990
-msgid "Image1"
+msgid "Flight XML 7"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 991
-msgid "Image1 Caption"
+msgid "Flight XML 8"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 992
-msgid "Image2"
+msgid "Flight XML 9"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 993
-msgid "Image2 Caption"
+msgid "Flight XML 10"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 994
-msgid "Image3"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 994
-msgid "Imag3"
+msgid "Flight XML 11"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 995
-msgid "Image3 Caption"
+msgid "Flight XML 12"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 996
+msgid "Flight XML 13"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 997
-msgid "Video1"
+msgid "Flight XML 14"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 998
-msgid "Video2"
+msgid "Flight XML 15"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 999
-msgid "Video3"
+msgid "Flight XML 16"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 1000
-msgid "Video4"
+msgid "Flight XML 17"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 1001
-msgid "Video5"
+msgid "Flight XML 18"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1002
+msgid "Flight XML 19"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1003
+msgid "Flight XML 20"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1004
+msgid "Flight XML 21"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1005
+msgid "Flight XML 22"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1006
+msgid "Flight XML 23"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1007
+msgid "Flight XML 24"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1008
+msgid "Flight XML 25"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1009
+msgid "Flight XML 26"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1010
+msgid "Flight XML 27"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1011
+msgid "Flight XML 28"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1012
+msgid "Flight XML 29"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1013
+msgid "Flight XML 30"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1016
+msgid "Cars XML"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1018
+msgid "Car XML 1"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1019
+msgid "Car XML 2"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1020
+msgid "Car XML 3"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1021
+msgid "Car XML 4"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1022
+msgid "Car XML 5"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1023
+msgid "Car XML 6"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1024
+msgid "Car XML 7"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1025
+msgid "Car XML 8"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1026
+msgid "Car XML 9"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1027
+msgid "Car XML 10"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1028
+msgid "Car XML 11"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1029
+msgid "Car XML 12"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1030
+msgid "Car XML 13"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1031
+msgid "Car XML 14"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1032
+msgid "Car XML 15"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1033
+msgid "Car XML 16"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1034
+msgid "Car XML 17"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 1035
+msgid "Car XML 18"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1036
+msgid "Car XML 19"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1037
+msgid "Car XML 20"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1038
+msgid "Car XML 21"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1039
+msgid "Car XML 22"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1040
+msgid "Car XML 23"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1041
+msgid "Car XML 24"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1042
+msgid "Car XML 25"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1043
+msgid "Car XML 26"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1044
+msgid "Car XML 27"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1045
+msgid "Car XML 28"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1046
+msgid "Car XML 29"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1047
+msgid "Car XML 30"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1050
+msgid "Cruises XML"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1052
+msgid "Cruise XML 1"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1053
+msgid "Cruise XML 2"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1054
+msgid "Cruise XML 3"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1055
+msgid "Cruise XML 4"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1056
+msgid "Cruise XML 5"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1057
+msgid "Cruise XML 6"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1058
+msgid "Cruise XML 7"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1059
+msgid "Cruise XML 8"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1060
+msgid "Cruise XML 9"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1061
+msgid "Cruise XML 10"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1062
+msgid "Cruise XML 11"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1063
+msgid "Cruise XML 12"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1064
+msgid "Cruise XML 13"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1065
+msgid "Cruise XML 14"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1066
+msgid "Cruise XML 15"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1067
+msgid "Cruise XML 16"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1068
+msgid "Cruise XML 17"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1069
+msgid "Cruise XML 18"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1070
+msgid "Cruise XML 19"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1071
+msgid "Cruise XML 20"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1072
+msgid "Cruise XML 21"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1073
+msgid "Cruise XML 22"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1074
+msgid "Cruise XML 23"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1075
+msgid "Cruise XML 24"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1076
+msgid "Cruise XML 25"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1077
+msgid "Cruise XML 26"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1078
+msgid "Cruise XML 27"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1079
+msgid "Cruise XML 28"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1080
+msgid "Cruise XML 29"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1081
+msgid "Cruise XML 30"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1086
+msgid "Image1"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1087
+msgid "Image1 Caption"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1088
+msgid "Image2"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1089
+msgid "Image2 Caption"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1090
+msgid "Image3"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1090
+msgid "Imag3"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1091
+msgid "Image3 Caption"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1093
+msgid "Video1"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1094
+msgid "Video2"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1095
+msgid "Video3"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1096
+msgid "Video4"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1097
+msgid "Video5"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 1131
 msgid "Please enter city name"
 msgstr ""
 #
