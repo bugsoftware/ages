@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-24 15:26+0100\n"
+"POT-Creation-Date: 2023-04-26 21:55+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4003,7 +4003,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 98
 # File: module/setup/view/air/sabre.phtml, line: 486
 # File: module/setup/view/air/sky.phtml, line: 50
-# File: module/setup/view/air/travelport.phtml, line: 243
+# File: module/setup/view/air/travelport.phtml, line: 257
 # File: module/setup/view/cars/amadeus.phtml, line: 156
 # File: module/setup/view/cars/avis.phtml, line: 79
 # File: module/setup/view/cars/avisbudget.phtml, line: 109
@@ -18271,6 +18271,8 @@ msgstr ""
 # File: module/setup/view/air/ctm.phtml, line: 19
 # File: module/setup/view/air/mystifly.phtml, line: 21
 # File: module/setup/view/air/mystifly.phtml, line: 22
+# File: module/setup/view/air/travelport.phtml, line: 244
+# File: module/setup/view/air/travelport.phtml, line: 245
 # File: module/setup/view/cars/amadeus.phtml, line: 18
 # File: module/setup/view/cars/amadeus.phtml, line: 19
 # File: module/setup/view/cars/avis.phtml, line: 20
@@ -43625,7 +43627,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 158
 # File: module/setup/view/air/sabre.phtml, line: 598
 # File: module/setup/view/air/sky.phtml, line: 101
-# File: module/setup/view/air/travelport.phtml, line: 326
+# File: module/setup/view/air/travelport.phtml, line: 340
 # File: module/setup/view/cars/amadeus.phtml, line: 336
 # File: module/setup/view/cars/avis.phtml, line: 141
 # File: module/setup/view/cars/avisbudget.phtml, line: 174
@@ -43883,7 +43885,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 164
 # File: module/setup/view/air/sabre.phtml, line: 601
 # File: module/setup/view/air/sky.phtml, line: 107
-# File: module/setup/view/air/travelport.phtml, line: 347
+# File: module/setup/view/air/travelport.phtml, line: 361
 # File: module/setup/view/cars/amadeus.phtml, line: 339
 # File: module/setup/view/cars/avis.phtml, line: 153
 # File: module/setup/view/cars/avisbudget.phtml, line: 189
@@ -44052,7 +44054,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 167
 # File: module/setup/view/air/sabre.phtml, line: 604
 # File: module/setup/view/air/sky.phtml, line: 110
-# File: module/setup/view/air/travelport.phtml, line: 350
+# File: module/setup/view/air/travelport.phtml, line: 364
 # File: module/setup/view/cars/amadeus.phtml, line: 342
 # File: module/setup/view/cars/avis.phtml, line: 156
 # File: module/setup/view/cars/avisbudget.phtml, line: 192
@@ -44222,7 +44224,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 170
 # File: module/setup/view/air/sabre.phtml, line: 607
 # File: module/setup/view/air/sky.phtml, line: 113
-# File: module/setup/view/air/travelport.phtml, line: 353
+# File: module/setup/view/air/travelport.phtml, line: 367
 # File: module/setup/view/cars/amadeus.phtml, line: 345
 # File: module/setup/view/cars/avis.phtml, line: 159
 # File: module/setup/view/cars/avisbudget.phtml, line: 195
@@ -44565,7 +44567,7 @@ msgstr ""
 # File: module/setup/view/air/amadeus.phtml, line: 353
 # File: module/setup/view/air/galileo.phtml, line: 175
 # File: module/setup/view/air/priceline.phtml, line: 155
-# File: module/setup/view/air/travelport.phtml, line: 323
+# File: module/setup/view/air/travelport.phtml, line: 337
 # File: module/setup/view/cars/amadeus.phtml, line: 282
 # File: module/setup/view/cars/bookinggo.phtml, line: 133
 # File: module/setup/view/cars/cartrawler.phtml, line: 363
@@ -46023,13 +46025,13 @@ msgid "Please enter HAP"
 msgstr ""
 #
 # File: module/setup/view/air/galileo.phtml, line: 184
-# File: module/setup/view/air/travelport.phtml, line: 332
+# File: module/setup/view/air/travelport.phtml, line: 346
 # File: module/setup/view/cars/travelport.phtml, line: 190
 msgid "Please enter Travel Agency Phone Number"
 msgstr ""
 #
 # File: module/setup/view/air/galileo.phtml, line: 187
-# File: module/setup/view/air/travelport.phtml, line: 335
+# File: module/setup/view/air/travelport.phtml, line: 349
 # File: module/setup/view/cars/travelport.phtml, line: 193
 msgid "Please enter Travel Agency City"
 msgstr ""
@@ -46041,7 +46043,7 @@ msgstr ""
 #
 # File: module/setup/view/air/galileo.phtml, line: 193
 # File: module/setup/view/air/sabre.phtml, line: 568
-# File: module/setup/view/air/travelport.phtml, line: 338
+# File: module/setup/view/air/travelport.phtml, line: 352
 # File: module/setup/view/cars/travelport.phtml, line: 199
 msgid "Please enter PCC"
 msgstr ""
@@ -46749,28 +46751,38 @@ msgstr ""
 msgid "Access Group"
 msgstr ""
 #
-# File: module/setup/view/air/travelport.phtml, line: 317
+# File: module/setup/view/air/travelport.phtml, line: 248
+# File: module/setup/view/air/travelport.phtml, line: 249
+msgid "Scope (openid)"
+msgstr ""
+#
+# File: module/setup/view/air/travelport.phtml, line: 252
+# File: module/setup/view/air/travelport.phtml, line: 253
+msgid "Grant Type (password)"
+msgstr ""
+#
+# File: module/setup/view/air/travelport.phtml, line: 331
 # File: module/setup/view/cars/travelport.phtml, line: 175
 msgid "Please enter Travelport Universal API ID"
 msgstr ""
 #
-# File: module/setup/view/air/travelport.phtml, line: 320
+# File: module/setup/view/air/travelport.phtml, line: 334
 # File: module/setup/view/cars/travelport.phtml, line: 178
 msgid "Please enter Travelport Universal API Password"
 msgstr ""
 #
-# File: module/setup/view/air/travelport.phtml, line: 329
+# File: module/setup/view/air/travelport.phtml, line: 343
 # File: module/setup/view/cars/travelport.phtml, line: 187
 # File: module/setup/view/hotels/travelport.phtml, line: 181
 msgid "Please enter branch code"
 msgstr ""
 #
-# File: module/setup/view/air/travelport.phtml, line: 341
+# File: module/setup/view/air/travelport.phtml, line: 355
 # File: module/setup/view/hotels/travelport.phtml, line: 193
 msgid "Please enter provider"
 msgstr ""
 #
-# File: module/setup/view/air/travelport.phtml, line: 344
+# File: module/setup/view/air/travelport.phtml, line: 358
 # File: module/setup/view/cars/travelport.phtml, line: 202
 # File: module/setup/view/hotels/travelport.phtml, line: 184
 msgid "Please enter authorized by"
