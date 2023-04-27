@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-26 22:36+0100\n"
+"POT-Creation-Date: 2023-04-27 14:34+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21402,7 +21402,7 @@ msgstr ""
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 28
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 31
 # File: module/setup/view/settings/realtimepayments_edit.phtml, line: 29
-# File: module/setup/view/settings/settings.phtml, line: 1210
+# File: module/setup/view/settings/settings.phtml, line: 1208
 # File: module/setup/view/settings/cities_edit.phtml, line: 960
 # File: module/setup/view/settings/countries_edit.phtml, line: 169
 # File: module/setup/view/settings/states_edit.phtml, line: 138
@@ -28293,8 +28293,7 @@ msgstr ""
 # File: module/setup/view/settings/settings.phtml, line: 247
 # File: module/setup/view/settings/settings.phtml, line: 252
 # File: module/setup/view/settings/settings.phtml, line: 1076
-# File: module/setup/view/settings/settings.phtml, line: 1097
-# File: module/setup/view/settings/settings.phtml, line: 1178
+# File: module/setup/view/settings/settings.phtml, line: 1171
 msgid "(For multiple email alerts use semicolon (;) (For example email1@bug-software.com;email2@bug-software.com))"
 msgstr ""
 #
@@ -28678,8 +28677,8 @@ msgstr ""
 # File: module/ages/view/ages/companies/supplierpayments.phtml, line: 5
 # File: module/ages/view/ages/reports/companies.phtml, line: 38
 # File: module/ages/view/ages/reports/flights.phtml, line: 26
-# File: module/setup/view/settings/settings.phtml, line: 1205
-# File: module/setup/view/settings/settings.phtml, line: 1206
+# File: module/setup/view/settings/settings.phtml, line: 1203
+# File: module/setup/view/settings/settings.phtml, line: 1204
 msgid "Companies"
 msgstr ""
 #
@@ -53897,88 +53896,91 @@ msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1095
 # File: module/setup/view/settings/settings.phtml, line: 1096
-# File: module/setup/view/settings/settings.phtml, line: 1176
-# File: module/setup/view/settings/settings.phtml, line: 1177
-msgid "Send Air Block Time Limit Warnings To"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1102
-# File: module/setup/view/settings/settings.phtml, line: 1103
-# File: module/setup/view/settings/settings.phtml, line: 1117
-# File: module/setup/view/settings/settings.phtml, line: 1118
+# File: module/setup/view/settings/settings.phtml, line: 1110
+# File: module/setup/view/settings/settings.phtml, line: 1111
 msgid "Cybersource API Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1107
-# File: module/setup/view/settings/settings.phtml, line: 1108
-# File: module/setup/view/settings/settings.phtml, line: 1122
-# File: module/setup/view/settings/settings.phtml, line: 1123
+# File: module/setup/view/settings/settings.phtml, line: 1100
+# File: module/setup/view/settings/settings.phtml, line: 1101
+# File: module/setup/view/settings/settings.phtml, line: 1115
+# File: module/setup/view/settings/settings.phtml, line: 1116
 msgid "Cybersource Secret Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1112
-# File: module/setup/view/settings/settings.phtml, line: 1113
-# File: module/setup/view/settings/settings.phtml, line: 1128
+# File: module/setup/view/settings/settings.phtml, line: 1105
+# File: module/setup/view/settings/settings.phtml, line: 1106
+# File: module/setup/view/settings/settings.phtml, line: 1121
 msgid "Cybersource Merchant Id "
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1127
+# File: module/setup/view/settings/settings.phtml, line: 1120
 msgid "Cybersource Merchant Id"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1137
+# File: module/setup/view/settings/settings.phtml, line: 1130
 msgid "Enable Google Authenticator 2 Factor Authentication"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1144
+# File: module/setup/view/settings/settings.phtml, line: 1137
 msgid "Enable OTP Two-step verification"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1149
-# File: module/setup/view/settings/settings.phtml, line: 1150
+# File: module/setup/view/settings/settings.phtml, line: 1142
+# File: module/setup/view/settings/settings.phtml, line: 1143
 msgid "Twilio Account SID"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1154
-# File: module/setup/view/settings/settings.phtml, line: 1155
+# File: module/setup/view/settings/settings.phtml, line: 1147
+# File: module/setup/view/settings/settings.phtml, line: 1148
 msgid "Twilio Auth Token"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1159
-# File: module/setup/view/settings/settings.phtml, line: 1160
+# File: module/setup/view/settings/settings.phtml, line: 1152
+# File: module/setup/view/settings/settings.phtml, line: 1153
 msgid "Service SID"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1164
-# File: module/setup/view/settings/settings.phtml, line: 1165
+# File: module/setup/view/settings/settings.phtml, line: 1157
+# File: module/setup/view/settings/settings.phtml, line: 1158
 msgid "Google Authenticator Descriptor"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1162
+# File: module/setup/view/settings/settings.phtml, line: 1163
+msgid "B2B Google Authenticator Descriptor"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1169
 # File: module/setup/view/settings/settings.phtml, line: 1170
-msgid "B2B Google Authenticator Descriptor"
+msgid "Send Air Block Time Limit Warnings To"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1186
+# File: module/setup/view/settings/settings.phtml, line: 1174
+# File: module/setup/view/settings/settings.phtml, line: 1175
+msgid "Air Middleware"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1184
 msgid "Enable HelloSign"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1190
-# File: module/setup/view/settings/settings.phtml, line: 1191
+# File: module/setup/view/settings/settings.phtml, line: 1188
+# File: module/setup/view/settings/settings.phtml, line: 1189
 msgid "Hello Sign API Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1195
-# File: module/setup/view/settings/settings.phtml, line: 1196
+# File: module/setup/view/settings/settings.phtml, line: 1193
+# File: module/setup/view/settings/settings.phtml, line: 1194
 msgid "Terms and Conditions File Path"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1200
-# File: module/setup/view/settings/settings.phtml, line: 1201
+# File: module/setup/view/settings/settings.phtml, line: 1198
+# File: module/setup/view/settings/settings.phtml, line: 1199
 msgid "Single Sign On API Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1207
+# File: module/setup/view/settings/settings.phtml, line: 1205
 msgid "(For multiple companies use semicolon (;) (For example 1;2))"
 msgstr ""
 #
