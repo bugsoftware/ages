@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-16 11:18+0100\n"
+"POT-Creation-Date: 2023-05-17 22:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4032,7 +4032,7 @@ msgstr ""
 # File: module/setup/view/hotels/aictravel.phtml, line: 84
 # File: module/setup/view/hotels/aio.phtml, line: 153
 # File: module/setup/view/hotels/amadeus.phtml, line: 191
-# File: module/setup/view/hotels/ati.phtml, line: 79
+# File: module/setup/view/hotels/ati.phtml, line: 132
 # File: module/setup/view/hotels/avoris.phtml, line: 84
 # File: module/setup/view/hotels/bahiaprincipe.phtml, line: 131
 # File: module/setup/view/hotels/belive.phtml, line: 126
@@ -11941,6 +11941,8 @@ msgstr ""
 # File: module/ages/view/ages/users/edit.phtml, line: 67
 # File: module/manager/view/hotel/index.phtml, line: 17
 # File: module/setup/view/air/airports.phtml, line: 15
+# File: module/setup/view/hotels/ati.phtml, line: 82
+# File: module/setup/view/hotels/ati.phtml, line: 83
 # File: module/setup/view/hotels/expedia.phtml, line: 193
 # File: module/setup/view/hotels/expedia.phtml, line: 194
 # File: module/setup/view/hotels/hoteldo.phtml, line: 83
@@ -17907,6 +17909,8 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 29
 # File: module/ages/view/ages/sub-agents/edit.phtml, line: 29
 # File: module/manager/view/hotel/index.phtml, line: 23
+# File: module/setup/view/hotels/ati.phtml, line: 78
+# File: module/setup/view/hotels/ati.phtml, line: 79
 # File: module/setup/view/hotels/hoteldo.phtml, line: 75
 # File: module/setup/view/hotels/hoteldo.phtml, line: 76
 # File: module/setup/view/packages/generali.phtml, line: 57
@@ -20584,6 +20588,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 67
 # File: module/setup/view/cars/cartrawler.phtml, line: 258
 # File: module/setup/view/cars/priceline.phtml, line: 67
+# File: module/setup/view/hotels/ati.phtml, line: 62
 # File: module/setup/view/hotels/getaroom.phtml, line: 110
 # File: module/setup/view/hotels/priceline.phtml, line: 67
 # File: module/setup/view/hotels/pricelinenet.phtml, line: 66
@@ -20604,6 +20609,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 66
 # File: module/setup/view/cars/cartrawler.phtml, line: 257
 # File: module/setup/view/cars/priceline.phtml, line: 66
+# File: module/setup/view/hotels/ati.phtml, line: 61
 # File: module/setup/view/hotels/getaroom.phtml, line: 109
 # File: module/setup/view/hotels/priceline.phtml, line: 66
 # File: module/setup/view/hotels/pricelinenet.phtml, line: 65
@@ -22299,7 +22305,7 @@ msgstr ""
 # File: module/setup/view/hotels/actiontravel.phtml, line: 167
 # File: module/setup/view/hotels/aictravel.phtml, line: 147
 # File: module/setup/view/hotels/amadeus.phtml, line: 281
-# File: module/setup/view/hotels/ati.phtml, line: 136
+# File: module/setup/view/hotels/ati.phtml, line: 189
 # File: module/setup/view/hotels/avoris.phtml, line: 147
 # File: module/setup/view/hotels/bahiaprincipe.phtml, line: 194
 # File: module/setup/view/hotels/belive.phtml, line: 189
@@ -24619,6 +24625,8 @@ msgstr ""
 # File: module/ages/view/ages/agents/import.phtml, line: 51
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 62
 # File: module/ages/view/ages/customers/import.phtml, line: 63
+# File: module/setup/view/hotels/ati.phtml, line: 86
+# File: module/setup/view/hotels/ati.phtml, line: 87
 msgid "Zip/Postal Code"
 msgstr ""
 #
@@ -30515,6 +30523,8 @@ msgstr ""
 # File: module/setup/view/air/ctm.phtml, line: 51
 # File: module/setup/view/hotels/aio.phtml, line: 63
 # File: module/setup/view/hotels/aio.phtml, line: 64
+# File: module/setup/view/hotels/ati.phtml, line: 94
+# File: module/setup/view/hotels/ati.phtml, line: 95
 # File: module/setup/view/hotels/expedia.phtml, line: 63
 # File: module/setup/view/hotels/expedia.phtml, line: 64
 # File: module/setup/view/hotels/hotelmundial.phtml, line: 150
@@ -33278,6 +33288,7 @@ msgstr ""
 # File: module/setup/view/air/travelport.phtml, line: 178
 # File: module/setup/view/cars/bookinggo.phtml, line: 50
 # File: module/setup/view/cars/cartrawler.phtml, line: 264
+# File: module/setup/view/hotels/ati.phtml, line: 67
 # File: module/setup/view/hotels/hotelplanner.phtml, line: 106
 # File: module/setup/view/hotels/hotelplanner.phtml, line: 107
 msgid "CVV"
@@ -41956,7 +41967,7 @@ msgstr ""
 # File: module/setup/view/hotels/aictravel.phtml, line: 71
 # File: module/setup/view/hotels/aio.phtml, line: 128
 # File: module/setup/view/hotels/amadeus.phtml, line: 173
-# File: module/setup/view/hotels/ati.phtml, line: 50
+# File: module/setup/view/hotels/ati.phtml, line: 105
 # File: module/setup/view/hotels/avoris.phtml, line: 71
 # File: module/setup/view/hotels/bahiaprincipe.phtml, line: 100
 # File: module/setup/view/hotels/belive.phtml, line: 96
@@ -42148,8 +42159,8 @@ msgstr ""
 # File: module/setup/view/hotels/aictravel.phtml, line: 58
 # File: module/setup/view/hotels/aictravel.phtml, line: 59
 # File: module/setup/view/hotels/amadeus.phtml, line: 175
-# File: module/setup/view/hotels/ati.phtml, line: 54
-# File: module/setup/view/hotels/ati.phtml, line: 55
+# File: module/setup/view/hotels/ati.phtml, line: 107
+# File: module/setup/view/hotels/ati.phtml, line: 108
 # File: module/setup/view/hotels/avoris.phtml, line: 58
 # File: module/setup/view/hotels/avoris.phtml, line: 59
 # File: module/setup/view/hotels/bahiaprincipe.phtml, line: 104
@@ -42474,8 +42485,8 @@ msgstr ""
 # File: module/setup/view/hotels/aictravel.phtml, line: 61
 # File: module/setup/view/hotels/aictravel.phtml, line: 62
 # File: module/setup/view/hotels/amadeus.phtml, line: 176
-# File: module/setup/view/hotels/ati.phtml, line: 57
-# File: module/setup/view/hotels/ati.phtml, line: 58
+# File: module/setup/view/hotels/ati.phtml, line: 110
+# File: module/setup/view/hotels/ati.phtml, line: 111
 # File: module/setup/view/hotels/avoris.phtml, line: 61
 # File: module/setup/view/hotels/avoris.phtml, line: 62
 # File: module/setup/view/hotels/bahiaprincipe.phtml, line: 108
@@ -42803,8 +42814,8 @@ msgstr ""
 # File: module/setup/view/hotels/aio.phtml, line: 134
 # File: module/setup/view/hotels/aio.phtml, line: 135
 # File: module/setup/view/hotels/amadeus.phtml, line: 177
-# File: module/setup/view/hotels/ati.phtml, line: 60
-# File: module/setup/view/hotels/ati.phtml, line: 61
+# File: module/setup/view/hotels/ati.phtml, line: 113
+# File: module/setup/view/hotels/ati.phtml, line: 114
 # File: module/setup/view/hotels/avoris.phtml, line: 64
 # File: module/setup/view/hotels/avoris.phtml, line: 65
 # File: module/setup/view/hotels/bahiaprincipe.phtml, line: 112
@@ -43130,8 +43141,8 @@ msgstr ""
 # File: module/setup/view/hotels/aio.phtml, line: 138
 # File: module/setup/view/hotels/aio.phtml, line: 139
 # File: module/setup/view/hotels/amadeus.phtml, line: 178
-# File: module/setup/view/hotels/ati.phtml, line: 64
-# File: module/setup/view/hotels/ati.phtml, line: 65
+# File: module/setup/view/hotels/ati.phtml, line: 117
+# File: module/setup/view/hotels/ati.phtml, line: 118
 # File: module/setup/view/hotels/avoris.phtml, line: 68
 # File: module/setup/view/hotels/avoris.phtml, line: 69
 # File: module/setup/view/hotels/bahiaprincipe.phtml, line: 116
@@ -43399,8 +43410,8 @@ msgstr ""
 # File: module/setup/view/hotels/aio.phtml, line: 148
 # File: module/setup/view/hotels/amadeus.phtml, line: 184
 # File: module/setup/view/hotels/amadeus.phtml, line: 186
-# File: module/setup/view/hotels/ati.phtml, line: 72
-# File: module/setup/view/hotels/ati.phtml, line: 74
+# File: module/setup/view/hotels/ati.phtml, line: 125
+# File: module/setup/view/hotels/ati.phtml, line: 127
 # File: module/setup/view/hotels/avoris.phtml, line: 77
 # File: module/setup/view/hotels/avoris.phtml, line: 79
 # File: module/setup/view/hotels/bahiaprincipe.phtml, line: 124
@@ -43670,7 +43681,7 @@ msgstr ""
 # File: module/setup/view/hotels/actiontravel.phtml, line: 170
 # File: module/setup/view/hotels/aictravel.phtml, line: 150
 # File: module/setup/view/hotels/amadeus.phtml, line: 317
-# File: module/setup/view/hotels/ati.phtml, line: 142
+# File: module/setup/view/hotels/ati.phtml, line: 195
 # File: module/setup/view/hotels/avoris.phtml, line: 150
 # File: module/setup/view/hotels/bahiaprincipe.phtml, line: 197
 # File: module/setup/view/hotels/belive.phtml, line: 192
@@ -43928,7 +43939,7 @@ msgstr ""
 # File: module/setup/view/hotels/actiontravel.phtml, line: 188
 # File: module/setup/view/hotels/aictravel.phtml, line: 156
 # File: module/setup/view/hotels/amadeus.phtml, line: 320
-# File: module/setup/view/hotels/ati.phtml, line: 145
+# File: module/setup/view/hotels/ati.phtml, line: 198
 # File: module/setup/view/hotels/avoris.phtml, line: 156
 # File: module/setup/view/hotels/bahiaprincipe.phtml, line: 209
 # File: module/setup/view/hotels/belive.phtml, line: 204
@@ -44098,7 +44109,7 @@ msgstr ""
 # File: module/setup/view/hotels/aictravel.phtml, line: 159
 # File: module/setup/view/hotels/aio.phtml, line: 264
 # File: module/setup/view/hotels/amadeus.phtml, line: 323
-# File: module/setup/view/hotels/ati.phtml, line: 148
+# File: module/setup/view/hotels/ati.phtml, line: 201
 # File: module/setup/view/hotels/avoris.phtml, line: 159
 # File: module/setup/view/hotels/bahiaprincipe.phtml, line: 212
 # File: module/setup/view/hotels/belive.phtml, line: 207
@@ -44268,7 +44279,7 @@ msgstr ""
 # File: module/setup/view/hotels/aictravel.phtml, line: 162
 # File: module/setup/view/hotels/aio.phtml, line: 267
 # File: module/setup/view/hotels/amadeus.phtml, line: 326
-# File: module/setup/view/hotels/ati.phtml, line: 151
+# File: module/setup/view/hotels/ati.phtml, line: 204
 # File: module/setup/view/hotels/avoris.phtml, line: 162
 # File: module/setup/view/hotels/bahiaprincipe.phtml, line: 215
 # File: module/setup/view/hotels/belive.phtml, line: 210
@@ -44594,7 +44605,7 @@ msgstr ""
 # File: module/setup/view/cruises/amadeus.phtml, line: 310
 # File: module/setup/view/cruises/tourico.phtml, line: 231
 # File: module/setup/view/hotels/amadeus.phtml, line: 284
-# File: module/setup/view/hotels/ati.phtml, line: 139
+# File: module/setup/view/hotels/ati.phtml, line: 192
 # File: module/setup/view/hotels/bonotel.phtml, line: 165
 # File: module/setup/view/hotels/citytours.phtml, line: 153
 # File: module/setup/view/hotels/convencional.phtml, line: 164
@@ -46143,6 +46154,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 64
 # File: module/setup/view/cars/cartrawler.phtml, line: 255
 # File: module/setup/view/cars/priceline.phtml, line: 64
+# File: module/setup/view/hotels/ati.phtml, line: 59
 # File: module/setup/view/hotels/getaroom.phtml, line: 108
 # File: module/setup/view/hotels/priceline.phtml, line: 64
 # File: module/setup/view/hotels/pricelinenet.phtml, line: 63
@@ -46152,6 +46164,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 65
 # File: module/setup/view/cars/cartrawler.phtml, line: 256
 # File: module/setup/view/cars/priceline.phtml, line: 65
+# File: module/setup/view/hotels/ati.phtml, line: 60
 # File: module/setup/view/hotels/priceline.phtml, line: 65
 # File: module/setup/view/hotels/pricelinenet.phtml, line: 64
 # File: module/setup/view/settings/payments-b2b.phtml, line: 39
@@ -48934,7 +48947,7 @@ msgid "Please enter Context / Database"
 msgstr ""
 #
 # File: module/setup/view/hotels/abreu.phtml, line: 217
-# File: module/setup/view/hotels/ati.phtml, line: 133
+# File: module/setup/view/hotels/ati.phtml, line: 186
 # File: module/setup/view/hotels/bonotel.phtml, line: 159
 # File: module/setup/view/hotels/hotelspro.phtml, line: 175
 # File: module/setup/view/hotels/ibs.phtml, line: 192
@@ -49247,6 +49260,48 @@ msgstr ""
 #
 # File: module/setup/view/hotels/ati.phtml, line: 13
 msgid "Enable ATI XML Feed"
+msgstr ""
+#
+# File: module/setup/view/hotels/ati.phtml, line: 54
+msgid "Use Payment Card"
+msgstr ""
+#
+# File: module/setup/view/hotels/ati.phtml, line: 56
+msgid "Card Code (VI/MC/AX/DC)"
+msgstr ""
+#
+# File: module/setup/view/hotels/ati.phtml, line: 66
+# File: module/setup/view/hotels/expedia.phtml, line: 144
+# File: module/setup/view/hotels/expedia.phtml, line: 145
+# File: module/setup/view/hotels/hotelmundial.phtml, line: 97
+# File: module/setup/view/hotels/hotelmundial.phtml, line: 98
+# File: module/setup/view/hotels/pricetravel.phtml, line: 82
+# File: module/setup/view/hotels/pricetravel.phtml, line: 83
+msgid "Card Number"
+msgstr ""
+#
+# File: module/setup/view/hotels/ati.phtml, line: 68
+# File: module/setup/view/hotels/getaroom.phtml, line: 117
+msgid "Credit Card Expiration Month"
+msgstr ""
+#
+# File: module/setup/view/hotels/ati.phtml, line: 69
+# File: module/setup/view/hotels/getaroom.phtml, line: 118
+msgid "Credit Card Expiration Year"
+msgstr ""
+#
+# File: module/setup/view/hotels/ati.phtml, line: 70
+msgid "Card Holder Name"
+msgstr ""
+#
+# File: module/setup/view/hotels/ati.phtml, line: 74
+# File: module/setup/view/hotels/ati.phtml, line: 75
+msgid "State Province"
+msgstr ""
+#
+# File: module/setup/view/hotels/ati.phtml, line: 90
+# File: module/setup/view/hotels/ati.phtml, line: 91
+msgid "Country Code (US) "
 msgstr ""
 #
 # File: module/setup/view/hotels/avoris.phtml, line: 13
@@ -49750,15 +49805,6 @@ msgstr ""
 msgid "Card Type"
 msgstr ""
 #
-# File: module/setup/view/hotels/expedia.phtml, line: 144
-# File: module/setup/view/hotels/expedia.phtml, line: 145
-# File: module/setup/view/hotels/hotelmundial.phtml, line: 97
-# File: module/setup/view/hotels/hotelmundial.phtml, line: 98
-# File: module/setup/view/hotels/pricetravel.phtml, line: 82
-# File: module/setup/view/hotels/pricetravel.phtml, line: 83
-msgid "Card Number"
-msgstr ""
-#
 # File: module/setup/view/hotels/expedia.phtml, line: 148
 # File: module/setup/view/hotels/expedia.phtml, line: 149
 # File: module/setup/view/hotels/palaceresorts.phtml, line: 54
@@ -49871,14 +49917,6 @@ msgstr ""
 #
 # File: module/setup/view/hotels/getaroom.phtml, line: 116
 msgid "Credit Card Holder Last Name"
-msgstr ""
-#
-# File: module/setup/view/hotels/getaroom.phtml, line: 117
-msgid "Credit Card Expiration Month"
-msgstr ""
-#
-# File: module/setup/view/hotels/getaroom.phtml, line: 118
-msgid "Credit Card Expiration Year"
 msgstr ""
 #
 # File: module/setup/view/hotels/getaroom.phtml, line: 119
