@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-23 14:48+0100\n"
+"POT-Creation-Date: 2023-05-23 17:40+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12334,6 +12334,10 @@ msgstr ""
 # File: module/setup/view/settings/countries_edit.phtml, line: 40
 # File: module/setup/view/settings/states_edit.phtml, line: 30
 # File: module/setup/view/settings/states_edit.phtml, line: 33
+# File: module/setup/view/settings/citiessections_add.phtml, line: 18
+# File: module/setup/view/settings/citiessections_add.phtml, line: 20
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 34
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 37
 msgid "Description"
 msgstr ""
 #
@@ -13818,6 +13822,7 @@ msgstr ""
 # File: module/setup/view/settings/countries.phtml, line: 30
 # File: module/setup/view/settings/states.phtml, line: 24
 # File: module/setup/view/settings/searchcities.phtml, line: 37
+# File: module/setup/view/settings/citiessections.phtml, line: 24
 msgid "Edit"
 msgstr ""
 #
@@ -15367,6 +15372,7 @@ msgstr ""
 # File: module/setup/view/settings/realtimepayments.phtml, line: 14
 # File: module/setup/view/settings/countries.phtml, line: 18
 # File: module/setup/view/settings/states.phtml, line: 15
+# File: module/setup/view/settings/citiessections.phtml, line: 15
 msgid "Action"
 msgstr ""
 #
@@ -16039,6 +16045,7 @@ msgstr ""
 # File: module/setup/view/settings/cities.phtml, line: 75
 # File: module/setup/view/settings/countries.phtml, line: 69
 # File: module/setup/view/settings/states.phtml, line: 63
+# File: module/setup/view/settings/citiessections.phtml, line: 65
 msgid "(Press ESC to close)"
 msgstr ""
 #
@@ -16173,6 +16180,7 @@ msgstr ""
 # File: module/setup/view/settings/cities.phtml, line: 12
 # File: module/setup/view/settings/countries.phtml, line: 12
 # File: module/setup/view/settings/states.phtml, line: 12
+# File: module/setup/view/settings/citiessections.phtml, line: 12
 msgid "Id"
 msgstr ""
 #
@@ -17169,6 +17177,9 @@ msgstr ""
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 15
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 13
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 13
+# File: module/setup/view/settings/citiessections_add.phtml, line: 14
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 24
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 25
 msgid "Type"
 msgstr ""
 #
@@ -21420,6 +21431,8 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 777
 # File: module/setup/view/settings/countries_edit.phtml, line: 169
 # File: module/setup/view/settings/states_edit.phtml, line: 138
+# File: module/setup/view/settings/citiessections_add.phtml, line: 26
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 42
 msgid "Submit"
 msgstr ""
 #
@@ -21683,6 +21696,10 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 18
 # File: module/ages/view/ages/sub-agents/edit.phtml, line: 18
 # File: module/ages/view/ages/sub-agents/edit_seo.phtml, line: 4
+# File: module/setup/view/settings/citiessections.phtml, line: 14
+# File: module/setup/view/settings/citiessections_add.phtml, line: 13
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 20
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 21
 msgid "Title"
 msgstr ""
 #
@@ -23343,6 +23360,8 @@ msgstr ""
 # File: module/ages/view/ages/agents/addtransaction.phtml, line: 70
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 74
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 76
+# File: module/setup/view/settings/citiessections_add.phtml, line: 69
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 84
 msgid "Please enter type"
 msgstr ""
 #
@@ -26347,6 +26366,8 @@ msgstr ""
 # File: module/ages/view/ages/tours/edititinerary.phtml, line: 16
 # File: module/ages/view/ages/tours/itinerary.phtml, line: 19
 # File: module/ages/view/ages/tours/itinerary_add.phtml, line: 16
+# File: module/setup/view/settings/citiessections_add.phtml, line: 15
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 28
 msgid "Sortorder"
 msgstr ""
 #
@@ -26473,6 +26494,7 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 98
 # File: module/setup/view/settings/countries_edit.phtml, line: 96
 # File: module/setup/view/settings/states_edit.phtml, line: 94
+# File: module/setup/view/settings/citiessections.phtml, line: 13
 msgid "Section"
 msgstr ""
 #
@@ -34376,6 +34398,7 @@ msgstr ""
 # File: module/setup/view/settings/cities.phtml, line: 5
 # File: module/setup/view/settings/countries.phtml, line: 5
 # File: module/setup/view/settings/states.phtml, line: 5
+# File: module/setup/view/settings/citiessections.phtml, line: 5
 msgid "Settings"
 msgstr ""
 #
@@ -55368,6 +55391,48 @@ msgstr ""
 #
 # File: module/setup/view/settings/searchcities.phtml, line: 25
 msgid "Zone/State/Region"
+msgstr ""
+#
+# File: module/setup/view/settings/citiessections.phtml, line: 5
+# File: module/setup/view/settings/citiessections_add.phtml, line: 4
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 5
+msgid "Cities Sections"
+msgstr ""
+#
+# File: module/setup/view/settings/citiessections.phtml, line: 49
+msgid "Add New City Section"
+msgstr ""
+#
+# File: module/setup/view/settings/citiessections.phtml, line: 59
+# File: module/setup/view/settings/citiessections.phtml, line: 60
+# File: module/setup/view/settings/citiessections.phtml, line: 65
+msgid "Cities Section"
+msgstr ""
+#
+# File: module/setup/view/settings/citiessections_add.phtml, line: 11
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 12
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 13
+msgid "City Id"
+msgstr ""
+#
+# File: module/setup/view/settings/citiessections_add.phtml, line: 12
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 16
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 17
+msgid "Section Id"
+msgstr ""
+#
+# File: module/setup/view/settings/citiessections_add.phtml, line: 63
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 78
+msgid "Please enter section id"
+msgstr ""
+#
+# File: module/setup/view/settings/citiessections_add.phtml, line: 66
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 81
+msgid "Please enter city id"
+msgstr ""
+#
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 29
+msgid "sortorder"
 msgstr ""
 #
 # File: module/setup/view/trains/era.phtml, line: 13
