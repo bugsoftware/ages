@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-23 07:20+0100\n"
+"POT-Creation-Date: 2023-05-23 14:16+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3389,6 +3389,8 @@ msgstr ""
 # File: module/setup/src/Controller/cities.php, line: 614
 # File: module/setup/src/Controller/cities.php, line: 628
 # File: module/setup/src/Controller/states.php, line: 211
+# File: module/setup/src/Controller/searchcities.php, line: 53
+# File: module/setup/src/Controller/searchcities.php, line: 67
 # File: module/setup/view/settings/globalware.phtml, line: 35
 msgid "Unknown"
 msgstr ""
@@ -11696,6 +11698,7 @@ msgstr ""
 # File: module/setup/view/settings/countries.phtml, line: 13
 # File: module/setup/view/settings/states.phtml, line: 14
 # File: module/setup/view/settings/states_edit.phtml, line: 13
+# File: module/setup/view/settings/searchcities.phtml, line: 26
 msgid "Country"
 msgstr ""
 #
@@ -13568,6 +13571,7 @@ msgstr ""
 # File: module/setup/view/intelligence/preferredcruises.phtml, line: 29
 # File: module/setup/view/intelligence/preferredhotels.phtml, line: 29
 # File: module/setup/view/settings/cities.phtml, line: 16
+# File: module/setup/view/settings/searchcities.phtml, line: 27
 msgid "Options"
 msgstr ""
 #
@@ -13819,6 +13823,7 @@ msgstr ""
 # File: module/setup/view/settings/cities.phtml, line: 31
 # File: module/setup/view/settings/countries.phtml, line: 30
 # File: module/setup/view/settings/states.phtml, line: 24
+# File: module/setup/view/settings/searchcities.phtml, line: 37
 msgid "Edit"
 msgstr ""
 #
@@ -47694,6 +47699,8 @@ msgstr ""
 # File: module/setup/view/cars/eih.phtml, line: 76
 # File: module/setup/view/intelligence/hotels.phtml, line: 23
 # File: module/setup/view/intelligence/topdestinations.phtml, line: 21
+# File: module/setup/view/settings/searchcities.phtml, line: 11
+# File: module/setup/view/settings/searchcities.phtml, line: 24
 msgid "City Name"
 msgstr ""
 #
@@ -55369,6 +55376,18 @@ msgstr ""
 #
 # File: module/setup/view/settings/states_edit.phtml, line: 135
 msgid "Zone XML 30"
+msgstr ""
+#
+# File: module/setup/view/settings/searchcities.phtml, line: 5
+msgid "Search cities"
+msgstr ""
+#
+# File: module/setup/view/settings/searchcities.phtml, line: 15
+msgid "Search Cities"
+msgstr ""
+#
+# File: module/setup/view/settings/searchcities.phtml, line: 25
+msgid "Zone/State/Region"
 msgstr ""
 #
 # File: module/setup/view/trains/era.phtml, line: 13
