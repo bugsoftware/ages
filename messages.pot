@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-24 12:41+0100\n"
+"POT-Creation-Date: 2023-05-24 14:54+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11405,6 +11405,7 @@ msgstr ""
 # File: module/setup/view/settings/countries_edit.phtml, line: 11
 # File: module/setup/view/settings/states.phtml, line: 13
 # File: module/setup/view/settings/states_edit.phtml, line: 11
+# File: module/setup/view/settings/cruisesmapping.phtml, line: 12
 msgid "Name"
 msgstr ""
 #
@@ -12010,6 +12011,7 @@ msgstr ""
 # File: module/setup/view/cruises/cruiseships.phtml, line: 14
 # File: module/setup/view/cruises/edit-cruiselines.phtml, line: 16
 # File: module/setup/view/cruises/edit-cruiseships.phtml, line: 18
+# File: module/setup/view/settings/cruisesmapping.phtml, line: 13
 msgid "SEO"
 msgstr ""
 #
@@ -12114,6 +12116,7 @@ msgstr ""
 # File: module/setup/view/settings/countries.phtml, line: 17
 # File: module/setup/view/settings/countries_edit.phtml, line: 16
 # File: module/setup/view/settings/states_edit.phtml, line: 16
+# File: module/setup/view/settings/cruisesmapping.phtml, line: 14
 msgid "Latitude"
 msgstr ""
 #
@@ -12143,6 +12146,7 @@ msgstr ""
 # File: module/setup/view/settings/countries.phtml, line: 16
 # File: module/setup/view/settings/countries_edit.phtml, line: 15
 # File: module/setup/view/settings/states_edit.phtml, line: 15
+# File: module/setup/view/settings/cruisesmapping.phtml, line: 15
 msgid "Longitude"
 msgstr ""
 #
@@ -13839,6 +13843,7 @@ msgstr ""
 # File: module/setup/view/settings/states.phtml, line: 24
 # File: module/setup/view/settings/searchcities.phtml, line: 37
 # File: module/setup/view/settings/citiessections.phtml, line: 42
+# File: module/setup/view/settings/cruisesmapping.phtml, line: 32
 msgid "Edit"
 msgstr ""
 #
@@ -15414,6 +15419,7 @@ msgstr ""
 # File: module/setup/view/settings/citiessections.phtml, line: 33
 # File: module/setup/view/settings/citiessections_add.phtml, line: 72
 # File: module/setup/view/settings/citiessections_edit.phtml, line: 88
+# File: module/setup/view/settings/cruisesmapping.phtml, line: 19
 msgid "Action"
 msgstr ""
 #
@@ -16092,6 +16098,7 @@ msgstr ""
 # File: module/setup/view/settings/cities.phtml, line: 75
 # File: module/setup/view/settings/countries.phtml, line: 69
 # File: module/setup/view/settings/states.phtml, line: 63
+# File: module/setup/view/settings/cruisesmapping.phtml, line: 80
 msgid "(Press ESC to close)"
 msgstr ""
 #
@@ -24471,6 +24478,7 @@ msgstr ""
 # File: module/ages/view/ages/tours/inclusion.phtml, line: 19
 # File: module/ages/view/ages/tours/inclusion_add.phtml, line: 19
 # File: module/ages/view/ages/tours/inclusion_add.phtml, line: 21
+# File: module/setup/view/settings/cruisesmapping.phtml, line: 16
 msgid "Info"
 msgstr ""
 #
@@ -34447,6 +34455,7 @@ msgstr ""
 # File: module/setup/view/settings/countries.phtml, line: 5
 # File: module/setup/view/settings/states.phtml, line: 5
 # File: module/setup/view/settings/citiessections.phtml, line: 23
+# File: module/setup/view/settings/cruisesmapping.phtml, line: 5
 msgid "Settings"
 msgstr ""
 #
@@ -55481,6 +55490,21 @@ msgstr ""
 #
 # File: module/setup/view/settings/citiessections_edit.phtml, line: 30
 msgid "sortorder"
+msgstr ""
+#
+# File: module/setup/view/settings/cruisesmapping.phtml, line: 5
+# File: module/setup/view/settings/cruisesmapping.phtml, line: 74
+# File: module/setup/view/settings/cruisesmapping.phtml, line: 75
+# File: module/setup/view/settings/cruisesmapping.phtml, line: 80
+msgid "Cruises Mapping"
+msgstr ""
+#
+# File: module/setup/view/settings/cruisesmapping.phtml, line: 17
+msgid "City Id"
+msgstr ""
+#
+# File: module/setup/view/settings/cruisesmapping.phtml, line: 18
+msgid "City SEO"
 msgstr ""
 #
 # File: module/setup/view/trains/era.phtml, line: 13
