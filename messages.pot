@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-23 18:47+0100\n"
+"POT-Creation-Date: 2023-05-24 07:16+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11954,6 +11954,11 @@ msgstr ""
 # File: module/setup/view/settings/geotargetmarkup_edit.phtml, line: 13
 # File: module/setup/view/settings/settings.phtml, line: 358
 # File: module/setup/view/settings/settings.phtml, line: 359
+# File: module/setup/view/settings/citiessections.phtml, line: 11
+# File: module/setup/view/settings/citiessections_add.phtml, line: 12
+# File: module/setup/view/settings/citiessections_add.phtml, line: 13
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 12
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 13
 msgid "City"
 msgstr ""
 #
@@ -12334,10 +12339,10 @@ msgstr ""
 # File: module/setup/view/settings/countries_edit.phtml, line: 40
 # File: module/setup/view/settings/states_edit.phtml, line: 30
 # File: module/setup/view/settings/states_edit.phtml, line: 33
-# File: module/setup/view/settings/citiessections_add.phtml, line: 18
-# File: module/setup/view/settings/citiessections_add.phtml, line: 20
-# File: module/setup/view/settings/citiessections_edit.phtml, line: 34
-# File: module/setup/view/settings/citiessections_edit.phtml, line: 37
+# File: module/setup/view/settings/citiessections_add.phtml, line: 22
+# File: module/setup/view/settings/citiessections_add.phtml, line: 23
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 35
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 36
 msgid "Description"
 msgstr ""
 #
@@ -12547,7 +12552,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/activities/add.phtml, line: 130
 # File: module/ages/view/ages/activities/edit.phtml, line: 272
-# File: module/ages/view/ages/activities/images_add.phtml, line: 121
+# File: module/ages/view/ages/activities/images_add.phtml, line: 119
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 166
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 170
 # File: module/ages/view/ages/affiliates/add.phtml, line: 901
@@ -12637,10 +12642,10 @@ msgstr ""
 # File: module/ages/view/ages/activities/add.phtml, line: 165
 # File: module/ages/view/ages/activities/edit.phtml, line: 281
 # File: module/ages/view/ages/activities/edit.phtml, line: 307
-# File: module/ages/view/ages/activities/images_add.phtml, line: 130
-# File: module/ages/view/ages/activities/images_add.phtml, line: 156
-# File: module/ages/view/ages/activities/images_add.phtml, line: 223
-# File: module/ages/view/ages/activities/images_add.phtml, line: 236
+# File: module/ages/view/ages/activities/images_add.phtml, line: 128
+# File: module/ages/view/ages/activities/images_add.phtml, line: 154
+# File: module/ages/view/ages/activities/images_add.phtml, line: 221
+# File: module/ages/view/ages/activities/images_add.phtml, line: 234
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 175
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 201
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 179
@@ -13040,12 +13045,16 @@ msgstr ""
 # File: module/manager/view/rooms/edit.phtml, line: 813
 # File: module/manager/view/rooms/edit.phtml, line: 883
 # File: module/manager/view/rooms/edit.phtml, line: 896
+# File: module/setup/view/settings/citiessections_add.phtml, line: 212
+# File: module/setup/view/settings/citiessections_add.phtml, line: 225
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 231
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 244
 msgid "Error"
 msgstr ""
 #
 # File: module/ages/view/ages/activities/add.phtml, line: 156
 # File: module/ages/view/ages/activities/edit.phtml, line: 298
-# File: module/ages/view/ages/activities/images_add.phtml, line: 147
+# File: module/ages/view/ages/activities/images_add.phtml, line: 145
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 192
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 196
 # File: module/ages/view/ages/affiliates/add.phtml, line: 927
@@ -13822,7 +13831,7 @@ msgstr ""
 # File: module/setup/view/settings/countries.phtml, line: 30
 # File: module/setup/view/settings/states.phtml, line: 24
 # File: module/setup/view/settings/searchcities.phtml, line: 37
-# File: module/setup/view/settings/citiessections.phtml, line: 24
+# File: module/setup/view/settings/citiessections.phtml, line: 42
 msgid "Edit"
 msgstr ""
 #
@@ -14565,6 +14574,13 @@ msgstr ""
 # File: module/setup/view/cruises/edit-publicareas.phtml, line: 25
 # File: module/setup/view/cruises/publicareas.phtml, line: 14
 # File: module/setup/view/settings/countries_edit.phtml, line: 165
+# File: module/setup/view/settings/citiessections_add.phtml, line: 28
+# File: module/setup/view/settings/citiessections_add.phtml, line: 31
+# File: module/setup/view/settings/citiessections_add.phtml, line: 48
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 41
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 44
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 63
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 65
 msgid "Image"
 msgstr ""
 #
@@ -14930,7 +14946,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/activities/images.phtml, line: 50
 # File: module/ages/view/ages/activities/images_add.phtml, line: 5
-# File: module/ages/view/ages/activities/images_add.phtml, line: 73
+# File: module/ages/view/ages/activities/images_add.phtml, line: 71
 msgid "Add New Activity Image"
 msgstr ""
 #
@@ -15076,6 +15092,8 @@ msgstr ""
 # File: module/manager/view/rooms/edit.phtml, line: 135
 # File: module/manager/view/rooms/edit.phtml, line: 156
 # File: module/manager/view/rooms/edit.phtml, line: 177
+# File: module/setup/view/settings/citiessections_add.phtml, line: 33
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 46
 msgid "Browse"
 msgstr ""
 #
@@ -15197,6 +15215,8 @@ msgstr ""
 # File: module/manager/view/rooms/edit.phtml, line: 136
 # File: module/manager/view/rooms/edit.phtml, line: 157
 # File: module/manager/view/rooms/edit.phtml, line: 178
+# File: module/setup/view/settings/citiessections_add.phtml, line: 34
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 47
 msgid "Upload file"
 msgstr ""
 #
@@ -15214,6 +15234,8 @@ msgstr ""
 # File: module/ages/view/ages/packages/edit_modals.phtml, line: 117
 # File: module/ages/view/ages/tours/images_add.phtml, line: 37
 # File: module/ages/view/ages/tours/itineraryimages_add.phtml, line: 38
+# File: module/setup/view/settings/citiessections_add.phtml, line: 50
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 69
 msgid "Search Image"
 msgstr ""
 #
@@ -15233,6 +15255,8 @@ msgstr ""
 # File: module/ages/view/ages/packages/edit_modals.phtml, line: 121
 # File: module/ages/view/ages/tours/images_add.phtml, line: 39
 # File: module/ages/view/ages/tours/itineraryimages_add.phtml, line: 40
+# File: module/setup/view/settings/citiessections_add.phtml, line: 52
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 71
 msgid "Keyword"
 msgstr ""
 #
@@ -15269,6 +15293,8 @@ msgstr ""
 # File: module/ages/view/ages/users/index.phtml, line: 9
 # File: module/setup/view/intelligence/airlineoffers.phtml, line: 18
 # File: module/setup/view/settings/cities_edit.phtml, line: 139
+# File: module/setup/view/settings/citiessections_add.phtml, line: 53
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 72
 msgid "Search"
 msgstr ""
 #
@@ -15286,6 +15312,8 @@ msgstr ""
 # File: module/ages/view/ages/packages/edit_modals.phtml, line: 131
 # File: module/ages/view/ages/tours/images_add.phtml, line: 46
 # File: module/ages/view/ages/tours/itineraryimages_add.phtml, line: 47
+# File: module/setup/view/settings/citiessections_add.phtml, line: 59
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 78
 msgid "Image Results"
 msgstr ""
 #
@@ -15308,6 +15336,8 @@ msgstr ""
 # File: module/ages/view/ages/packages/edit_modals.phtml, line: 136
 # File: module/ages/view/ages/tours/images_add.phtml, line: 51
 # File: module/ages/view/ages/tours/itineraryimages_add.phtml, line: 52
+# File: module/setup/view/settings/citiessections_add.phtml, line: 64
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 83
 msgid "Preview"
 msgstr ""
 #
@@ -15330,6 +15360,8 @@ msgstr ""
 # File: module/ages/view/ages/packages/edit_modals.phtml, line: 137
 # File: module/ages/view/ages/tours/images_add.phtml, line: 52
 # File: module/ages/view/ages/tours/itineraryimages_add.phtml, line: 53
+# File: module/setup/view/settings/citiessections_add.phtml, line: 65
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 84
 msgid "Tags"
 msgstr ""
 #
@@ -15372,11 +15404,13 @@ msgstr ""
 # File: module/setup/view/settings/realtimepayments.phtml, line: 14
 # File: module/setup/view/settings/countries.phtml, line: 18
 # File: module/setup/view/settings/states.phtml, line: 15
-# File: module/setup/view/settings/citiessections.phtml, line: 15
+# File: module/setup/view/settings/citiessections.phtml, line: 33
+# File: module/setup/view/settings/citiessections_add.phtml, line: 66
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 85
 msgid "Action"
 msgstr ""
 #
-# File: module/ages/view/ages/activities/images_add.phtml, line: 110
+# File: module/ages/view/ages/activities/images_add.phtml, line: 108
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 152
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 156
 # File: module/ages/view/ages/hotels/finantial_information.phtml, line: 96
@@ -15387,8 +15421,8 @@ msgstr ""
 msgid "Please select activity"
 msgstr ""
 #
-# File: module/ages/view/ages/activities/images_add.phtml, line: 224
-# File: module/ages/view/ages/activities/images_add.phtml, line: 237
+# File: module/ages/view/ages/activities/images_add.phtml, line: 222
+# File: module/ages/view/ages/activities/images_add.phtml, line: 235
 # File: module/ages/view/ages/affiliates/add.phtml, line: 200
 # File: module/ages/view/ages/affiliates/add.phtml, line: 213
 # File: module/ages/view/ages/affiliates/add.phtml, line: 284
@@ -15653,10 +15687,14 @@ msgstr ""
 # File: module/manager/view/rooms/edit.phtml, line: 814
 # File: module/manager/view/rooms/edit.phtml, line: 884
 # File: module/manager/view/rooms/edit.phtml, line: 897
+# File: module/setup/view/settings/citiessections_add.phtml, line: 213
+# File: module/setup/view/settings/citiessections_add.phtml, line: 226
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 232
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 245
 msgid "File Upload Failed"
 msgstr ""
 #
-# File: module/ages/view/ages/activities/images_add.phtml, line: 258
+# File: module/ages/view/ages/activities/images_add.phtml, line: 256
 # File: module/ages/view/ages/cms/featuredcruises_add.phtml, line: 220
 # File: module/ages/view/ages/cms/featuredcruises_edit.phtml, line: 220
 # File: module/ages/view/ages/cms/pagesimages_add.phtml, line: 236
@@ -15668,11 +15706,13 @@ msgstr ""
 # File: module/ages/view/ages/packages/edit_modals.phtml, line: 166
 # File: module/ages/view/ages/tours/images_add.phtml, line: 197
 # File: module/ages/view/ages/tours/itineraryimages_add.phtml, line: 198
+# File: module/setup/view/settings/citiessections_add.phtml, line: 247
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 266
 msgid "Select"
 msgstr ""
 #
-# File: module/ages/view/ages/activities/images_add.phtml, line: 267
-# File: module/ages/view/ages/activities/images_add.phtml, line: 279
+# File: module/ages/view/ages/activities/images_add.phtml, line: 265
+# File: module/ages/view/ages/activities/images_add.phtml, line: 277
 msgid "Please choose the activity you wish to assign the image before selecting the image."
 msgstr ""
 #
@@ -16045,7 +16085,6 @@ msgstr ""
 # File: module/setup/view/settings/cities.phtml, line: 75
 # File: module/setup/view/settings/countries.phtml, line: 69
 # File: module/setup/view/settings/states.phtml, line: 63
-# File: module/setup/view/settings/citiessections.phtml, line: 65
 msgid "(Press ESC to close)"
 msgstr ""
 #
@@ -16180,7 +16219,7 @@ msgstr ""
 # File: module/setup/view/settings/cities.phtml, line: 12
 # File: module/setup/view/settings/countries.phtml, line: 12
 # File: module/setup/view/settings/states.phtml, line: 12
-# File: module/setup/view/settings/citiessections.phtml, line: 12
+# File: module/setup/view/settings/citiessections.phtml, line: 30
 msgid "Id"
 msgstr ""
 #
@@ -17177,9 +17216,9 @@ msgstr ""
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 15
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 13
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 13
-# File: module/setup/view/settings/citiessections_add.phtml, line: 14
-# File: module/setup/view/settings/citiessections_edit.phtml, line: 24
+# File: module/setup/view/settings/citiessections_add.phtml, line: 18
 # File: module/setup/view/settings/citiessections_edit.phtml, line: 25
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 26
 msgid "Type"
 msgstr ""
 #
@@ -21431,8 +21470,8 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 777
 # File: module/setup/view/settings/countries_edit.phtml, line: 169
 # File: module/setup/view/settings/states_edit.phtml, line: 138
-# File: module/setup/view/settings/citiessections_add.phtml, line: 26
-# File: module/setup/view/settings/citiessections_edit.phtml, line: 42
+# File: module/setup/view/settings/citiessections_add.phtml, line: 78
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 96
 msgid "Submit"
 msgstr ""
 #
@@ -21696,10 +21735,10 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 18
 # File: module/ages/view/ages/sub-agents/edit.phtml, line: 18
 # File: module/ages/view/ages/sub-agents/edit_seo.phtml, line: 4
-# File: module/setup/view/settings/citiessections.phtml, line: 14
-# File: module/setup/view/settings/citiessections_add.phtml, line: 13
-# File: module/setup/view/settings/citiessections_edit.phtml, line: 20
-# File: module/setup/view/settings/citiessections_edit.phtml, line: 21
+# File: module/setup/view/settings/citiessections.phtml, line: 32
+# File: module/setup/view/settings/citiessections_add.phtml, line: 16
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 17
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 18
 msgid "Title"
 msgstr ""
 #
@@ -23360,8 +23399,8 @@ msgstr ""
 # File: module/ages/view/ages/agents/addtransaction.phtml, line: 70
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 74
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 76
-# File: module/setup/view/settings/citiessections_add.phtml, line: 69
-# File: module/setup/view/settings/citiessections_edit.phtml, line: 84
+# File: module/setup/view/settings/citiessections_add.phtml, line: 122
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 140
 msgid "Please enter type"
 msgstr ""
 #
@@ -26366,8 +26405,8 @@ msgstr ""
 # File: module/ages/view/ages/tours/edititinerary.phtml, line: 16
 # File: module/ages/view/ages/tours/itinerary.phtml, line: 19
 # File: module/ages/view/ages/tours/itinerary_add.phtml, line: 16
-# File: module/setup/view/settings/citiessections_add.phtml, line: 15
-# File: module/setup/view/settings/citiessections_edit.phtml, line: 28
+# File: module/setup/view/settings/citiessections_add.phtml, line: 19
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 29
 msgid "Sortorder"
 msgstr ""
 #
@@ -26494,7 +26533,7 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 98
 # File: module/setup/view/settings/countries_edit.phtml, line: 96
 # File: module/setup/view/settings/states_edit.phtml, line: 94
-# File: module/setup/view/settings/citiessections.phtml, line: 13
+# File: module/setup/view/settings/citiessections.phtml, line: 31
 msgid "Section"
 msgstr ""
 #
@@ -34398,7 +34437,7 @@ msgstr ""
 # File: module/setup/view/settings/cities.phtml, line: 5
 # File: module/setup/view/settings/countries.phtml, line: 5
 # File: module/setup/view/settings/states.phtml, line: 5
-# File: module/setup/view/settings/citiessections.phtml, line: 5
+# File: module/setup/view/settings/citiessections.phtml, line: 23
 msgid "Settings"
 msgstr ""
 #
@@ -54065,6 +54104,7 @@ msgstr ""
 # File: module/setup/view/settings/cities.phtml, line: 69
 # File: module/setup/view/settings/cities.phtml, line: 70
 # File: module/setup/view/settings/cities.phtml, line: 75
+# File: module/setup/view/settings/citiessections.phtml, line: 12
 msgid "Cities"
 msgstr ""
 #
@@ -55393,45 +55433,40 @@ msgstr ""
 msgid "Zone/State/Region"
 msgstr ""
 #
-# File: module/setup/view/settings/citiessections.phtml, line: 5
+# File: module/setup/view/settings/citiessections.phtml, line: 15
+msgid "Add New City Section"
+msgstr ""
+#
+# File: module/setup/view/settings/citiessections.phtml, line: 23
 # File: module/setup/view/settings/citiessections_add.phtml, line: 4
 # File: module/setup/view/settings/citiessections_edit.phtml, line: 5
 msgid "Cities Sections"
 msgstr ""
 #
-# File: module/setup/view/settings/citiessections.phtml, line: 49
-msgid "Add New City Section"
-msgstr ""
-#
-# File: module/setup/view/settings/citiessections.phtml, line: 59
-# File: module/setup/view/settings/citiessections.phtml, line: 60
-# File: module/setup/view/settings/citiessections.phtml, line: 65
-msgid "Cities Section"
-msgstr ""
-#
-# File: module/setup/view/settings/citiessections_add.phtml, line: 11
-# File: module/setup/view/settings/citiessections_edit.phtml, line: 12
-# File: module/setup/view/settings/citiessections_edit.phtml, line: 13
-msgid "City Id"
-msgstr ""
-#
-# File: module/setup/view/settings/citiessections_add.phtml, line: 12
-# File: module/setup/view/settings/citiessections_edit.phtml, line: 16
-# File: module/setup/view/settings/citiessections_edit.phtml, line: 17
+# File: module/setup/view/settings/citiessections_add.phtml, line: 17
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 21
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 22
 msgid "Section Id"
 msgstr ""
 #
-# File: module/setup/view/settings/citiessections_add.phtml, line: 63
-# File: module/setup/view/settings/citiessections_edit.phtml, line: 78
+# File: module/setup/view/settings/citiessections_add.phtml, line: 116
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 134
 msgid "Please enter section id"
 msgstr ""
 #
-# File: module/setup/view/settings/citiessections_add.phtml, line: 66
-# File: module/setup/view/settings/citiessections_edit.phtml, line: 81
+# File: module/setup/view/settings/citiessections_add.phtml, line: 119
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 137
 msgid "Please enter city id"
 msgstr ""
 #
-# File: module/setup/view/settings/citiessections_edit.phtml, line: 29
+# File: module/setup/view/settings/citiessections_add.phtml, line: 256
+# File: module/setup/view/settings/citiessections_add.phtml, line: 268
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 275
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 287
+msgid "Please choose the city you wish to add the image before selecting the image."
+msgstr ""
+#
+# File: module/setup/view/settings/citiessections_edit.phtml, line: 30
 msgid "sortorder"
 msgstr ""
 #
