@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-17 18:24+0100\n"
+"POT-Creation-Date: 2023-06-19 20:28+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -298,8 +298,8 @@ msgstr ""
 # File: module/ages/view/ages/companies/supplierpayments.phtml, line: 98
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 58
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 60
-# File: module/ages/view/ages/companies/communicationstags.phtml, line: 46
-# File: module/ages/view/ages/companies/communicationstags.phtml, line: 48
+# File: module/ages/view/ages/companies/communicationstags.phtml, line: 54
+# File: module/ages/view/ages/companies/communicationstags.phtml, line: 56
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 51
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 53
 # File: module/ages/view/ages/cruises/cruiseslinesaccounting.phtml, line: 51
@@ -610,7 +610,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/paymentsterms.phtml, line: 41
 # File: module/ages/view/ages/companies/supplierpayments.phtml, line: 96
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 58
-# File: module/ages/view/ages/companies/communicationstags.phtml, line: 46
+# File: module/ages/view/ages/companies/communicationstags.phtml, line: 54
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 51
 # File: module/ages/view/ages/cruises/cruiseslinesaccounting.phtml, line: 51
 # File: module/ages/view/ages/cruises/images.phtml, line: 135
@@ -2088,8 +2088,8 @@ msgstr ""
 # File: module/ages/src/Controller/Cars.php, line: 497
 # File: module/ages/src/Controller/Cars.php, line: 697
 # File: module/ages/src/Controller/Cars.php, line: 897
-# File: module/ages/src/Controller/Companies.php, line: 593
-# File: module/ages/src/Controller/Companies.php, line: 692
+# File: module/ages/src/Controller/Companies.php, line: 599
+# File: module/ages/src/Controller/Companies.php, line: 698
 # File: module/ages/src/Controller/Cruises.php, line: 790
 # File: module/ages/src/Controller/Cruises.php, line: 1294
 # File: module/ages/src/Controller/Cruises.php, line: 1316
@@ -2346,16 +2346,16 @@ msgstr ""
 # File: module/ages/src/Controller/Cars.php, line: 483
 # File: module/ages/src/Controller/Cars.php, line: 683
 # File: module/ages/src/Controller/Cars.php, line: 883
-# File: module/ages/src/Controller/Companies.php, line: 4550
-# File: module/ages/src/Controller/Companies.php, line: 4574
-# File: module/ages/src/Controller/Companies.php, line: 4595
-# File: module/ages/src/Controller/Companies.php, line: 4616
-# File: module/ages/src/Controller/Companies.php, line: 4637
-# File: module/ages/src/Controller/Companies.php, line: 5539
-# File: module/ages/src/Controller/Companies.php, line: 5563
-# File: module/ages/src/Controller/Companies.php, line: 5584
-# File: module/ages/src/Controller/Companies.php, line: 5605
-# File: module/ages/src/Controller/Companies.php, line: 5626
+# File: module/ages/src/Controller/Companies.php, line: 4556
+# File: module/ages/src/Controller/Companies.php, line: 4580
+# File: module/ages/src/Controller/Companies.php, line: 4601
+# File: module/ages/src/Controller/Companies.php, line: 4622
+# File: module/ages/src/Controller/Companies.php, line: 4643
+# File: module/ages/src/Controller/Companies.php, line: 5545
+# File: module/ages/src/Controller/Companies.php, line: 5569
+# File: module/ages/src/Controller/Companies.php, line: 5590
+# File: module/ages/src/Controller/Companies.php, line: 5611
+# File: module/ages/src/Controller/Companies.php, line: 5632
 # File: module/ages/src/Controller/Cruises.php, line: 1389
 # File: module/ages/src/Controller/Cruises.php, line: 6437
 # File: module/ages/src/Controller/Cruises.php, line: 6658
@@ -2458,6 +2458,7 @@ msgstr ""
 # File: module/ages/view/ages/affiliates/edit_flights.phtml, line: 17
 # File: module/ages/view/ages/agents/add_flights.phtml, line: 5
 # File: module/ages/view/ages/agents/edit_flights.phtml, line: 5
+# File: module/ages/view/ages/companies/communicationstags.phtml, line: 24
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 35
 # File: module/ages/view/ages/newsletter/sendcitypair.phtml, line: 25
 # File: module/ages/view/ages/newsletter/sendcitypair.phtml, line: 31
@@ -3161,8 +3162,8 @@ msgstr ""
 # File: module/ages/src/Controller/Cars.php, line: 866
 # File: module/ages/src/Controller/Cars.php, line: 880
 # File: module/ages/src/Controller/Cars.php, line: 894
-# File: module/ages/src/Controller/Companies.php, line: 604
-# File: module/ages/src/Controller/Companies.php, line: 4807
+# File: module/ages/src/Controller/Companies.php, line: 610
+# File: module/ages/src/Controller/Companies.php, line: 4813
 # File: module/ages/src/Controller/Cruises.php, line: 1420
 # File: module/ages/src/Controller/Cruises.php, line: 1428
 # File: module/ages/src/Controller/Cruises.php, line: 1452
@@ -3483,8 +3484,8 @@ msgstr ""
 # File: module/ages/src/Controller/Air.php, line: 3550
 # File: module/ages/src/Controller/Air.php, line: 3947
 # File: module/ages/src/Controller/Air.php, line: 4273
-# File: module/ages/src/Controller/Companies.php, line: 5130
-# File: module/ages/src/Controller/Companies.php, line: 5235
+# File: module/ages/src/Controller/Companies.php, line: 5136
+# File: module/ages/src/Controller/Companies.php, line: 5241
 # File: module/ages/src/Controller/Customers.php, line: 1934
 # File: module/ages/src/Controller/Customers.php, line: 6607
 # File: module/ages/src/Controller/Customers.php, line: 7770
@@ -3552,8 +3553,8 @@ msgstr ""
 # File: module/ages/src/Controller/Activities.php, line: 2635
 # File: module/ages/src/Controller/Activities.php, line: 3272
 # File: module/ages/src/Controller/Activities.php, line: 3504
-# File: module/ages/src/Controller/Companies.php, line: 2324
-# File: module/ages/src/Controller/Companies.php, line: 2529
+# File: module/ages/src/Controller/Companies.php, line: 2330
+# File: module/ages/src/Controller/Companies.php, line: 2535
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 2508
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 13840
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 17395
@@ -3691,8 +3692,8 @@ msgstr ""
 # File: module/ages/src/Controller/CMS.php, line: 11916
 # File: module/ages/src/Controller/CMS.php, line: 13184
 # File: module/ages/src/Controller/CMS.php, line: 13359
-# File: module/ages/src/Controller/Companies.php, line: 3669
-# File: module/ages/src/Controller/Companies.php, line: 3800
+# File: module/ages/src/Controller/Companies.php, line: 3675
+# File: module/ages/src/Controller/Companies.php, line: 3806
 # File: module/ages/src/Controller/Cruises.php, line: 1517
 # File: module/ages/src/Controller/Customers.php, line: 2780
 # File: module/ages/src/Controller/Customers.php, line: 4079
@@ -4367,8 +4368,8 @@ msgstr ""
 # File: module/ages/src/Controller/Air.php, line: 3546
 # File: module/ages/src/Controller/Air.php, line: 3943
 # File: module/ages/src/Controller/Air.php, line: 4269
-# File: module/ages/src/Controller/Companies.php, line: 5126
-# File: module/ages/src/Controller/Companies.php, line: 5231
+# File: module/ages/src/Controller/Companies.php, line: 5132
+# File: module/ages/src/Controller/Companies.php, line: 5237
 # File: module/ages/src/Controller/Hotels.php, line: 3467
 # File: module/ages/src/Controller/Hotels.php, line: 3774
 # File: module/ages/src/Controller/Hotels.php, line: 4168
@@ -4467,10 +4468,10 @@ msgstr ""
 # File: module/ages/src/Controller/CMS.php, line: 7881
 # File: module/ages/src/Controller/CMS.php, line: 9374
 # File: module/ages/src/Controller/CMS.php, line: 9913
-# File: module/ages/src/Controller/Companies.php, line: 2303
-# File: module/ages/src/Controller/Companies.php, line: 2512
-# File: module/ages/src/Controller/Companies.php, line: 3394
-# File: module/ages/src/Controller/Companies.php, line: 3564
+# File: module/ages/src/Controller/Companies.php, line: 2309
+# File: module/ages/src/Controller/Companies.php, line: 2518
+# File: module/ages/src/Controller/Companies.php, line: 3400
+# File: module/ages/src/Controller/Companies.php, line: 3570
 # File: module/ages/src/Controller/Cruises.php, line: 2877
 # File: module/ages/src/Controller/Cruises.php, line: 3052
 # File: module/ages/src/Controller/Cruises.php, line: 3610
@@ -4593,10 +4594,10 @@ msgstr ""
 # File: module/ages/src/Controller/CMS.php, line: 7885
 # File: module/ages/src/Controller/CMS.php, line: 9378
 # File: module/ages/src/Controller/CMS.php, line: 9917
-# File: module/ages/src/Controller/Companies.php, line: 2307
-# File: module/ages/src/Controller/Companies.php, line: 2516
-# File: module/ages/src/Controller/Companies.php, line: 3398
-# File: module/ages/src/Controller/Companies.php, line: 3568
+# File: module/ages/src/Controller/Companies.php, line: 2313
+# File: module/ages/src/Controller/Companies.php, line: 2522
+# File: module/ages/src/Controller/Companies.php, line: 3404
+# File: module/ages/src/Controller/Companies.php, line: 3574
 # File: module/ages/src/Controller/Cruises.php, line: 2881
 # File: module/ages/src/Controller/Cruises.php, line: 3056
 # File: module/ages/src/Controller/Cruises.php, line: 3614
@@ -5703,12 +5704,12 @@ msgstr ""
 msgid "Tours and Activities"
 msgstr ""
 #
-# File: module/ages/src/Controller/Companies.php, line: 3375
-# File: module/ages/src/Controller/Companies.php, line: 5106
+# File: module/ages/src/Controller/Companies.php, line: 3381
+# File: module/ages/src/Controller/Companies.php, line: 5112
 msgid "All Branches"
 msgstr ""
 #
-# File: module/ages/src/Controller/Companies.php, line: 4156
+# File: module/ages/src/Controller/Companies.php, line: 4162
 # File: module/ages/src/Controller/Hotels.php, line: 1757
 # File: module/ages/src/Controller/Packages.php, line: 1324
 # File: module/ages/src/Controller/Packages.php, line: 1576
@@ -13417,7 +13418,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/supplierpayments.phtml, line: 17
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 21
 # File: module/ages/view/ages/companies/suppliersaccounting.phtml, line: 14
-# File: module/ages/view/ages/companies/communicationstags.phtml, line: 13
+# File: module/ages/view/ages/companies/communicationstags.phtml, line: 14
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 16
 # File: module/ages/view/ages/cruises/cruiseslinesaccounting.phtml, line: 16
 # File: module/ages/view/ages/cruises/images.phtml, line: 20
@@ -13712,7 +13713,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/supplierpayments.phtml, line: 29
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 34
 # File: module/ages/view/ages/companies/suppliersaccounting.phtml, line: 23
-# File: module/ages/view/ages/companies/communicationstags.phtml, line: 22
+# File: module/ages/view/ages/companies/communicationstags.phtml, line: 30
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 27
 # File: module/ages/view/ages/cruises/cruiseslinesaccounting.phtml, line: 27
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 79
@@ -14762,8 +14763,8 @@ msgstr ""
 # File: module/ages/view/ages/companies/supplierpayments.phtml, line: 30
 # File: module/ages/view/ages/companies/supplierpayments.phtml, line: 94
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 56
-# File: module/ages/view/ages/companies/communicationstags.phtml, line: 24
-# File: module/ages/view/ages/companies/communicationstags.phtml, line: 44
+# File: module/ages/view/ages/companies/communicationstags.phtml, line: 32
+# File: module/ages/view/ages/companies/communicationstags.phtml, line: 52
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 29
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 49
 # File: module/ages/view/ages/cruises/cruiseslinesaccounting.phtml, line: 29
@@ -16023,7 +16024,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/supplierpayments.phtml, line: 72
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 104
 # File: module/ages/view/ages/companies/suppliersaccounting.phtml, line: 64
-# File: module/ages/view/ages/companies/communicationstags.phtml, line: 92
+# File: module/ages/view/ages/companies/communicationstags.phtml, line: 100
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 97
 # File: module/ages/view/ages/cruises/cruiseslinesaccounting.phtml, line: 97
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 131
@@ -18167,6 +18168,9 @@ msgstr ""
 # File: module/ages/view/ages/companies/suppliers_edit.phtml, line: 296
 # File: module/ages/view/ages/companies/suppliers_edit.phtml, line: 323
 # File: module/ages/view/ages/companies/suppliers_edit.phtml, line: 326
+# File: module/ages/view/ages/companies/communicationstags_edit.phtml, line: 13
+# File: module/ages/view/ages/companies/communicationstags.phtml, line: 13
+# File: module/ages/view/ages/companies/addcommunicationstags.phtml, line: 13
 # File: module/ages/view/ages/customers/add.phtml, line: 22
 # File: module/ages/view/ages/customers/addpassdocuments.phtml, line: 22
 # File: module/ages/view/ages/customers/blacklist.phtml, line: 12
@@ -29319,12 +29323,12 @@ msgstr ""
 msgid "Tag Group"
 msgstr ""
 #
-# File: module/ages/view/ages/companies/communicationstags_edit.phtml, line: 17
+# File: module/ages/view/ages/companies/communicationstags_edit.phtml, line: 19
 msgid "Update Communication Tag"
 msgstr ""
 #
-# File: module/ages/view/ages/companies/communicationstags_edit.phtml, line: 51
-# File: module/ages/view/ages/companies/addcommunicationstags.phtml, line: 51
+# File: module/ages/view/ages/companies/communicationstags_edit.phtml, line: 53
+# File: module/ages/view/ages/companies/addcommunicationstags.phtml, line: 53
 msgid "Please enter tag name"
 msgstr ""
 #
@@ -29333,22 +29337,22 @@ msgid "Communication Tags"
 msgstr ""
 #
 # File: module/ages/view/ages/companies/communicationstags.phtml, line: 5
-# File: module/ages/view/ages/companies/communicationstags.phtml, line: 86
-# File: module/ages/view/ages/companies/communicationstags.phtml, line: 87
-# File: module/ages/view/ages/companies/communicationstags.phtml, line: 92
+# File: module/ages/view/ages/companies/communicationstags.phtml, line: 94
+# File: module/ages/view/ages/companies/communicationstags.phtml, line: 95
+# File: module/ages/view/ages/companies/communicationstags.phtml, line: 100
 msgid "List Communication Tags"
 msgstr ""
 #
-# File: module/ages/view/ages/companies/communicationstags.phtml, line: 45
+# File: module/ages/view/ages/companies/communicationstags.phtml, line: 53
 msgid "Are you sure you want to delete this communication tag?"
 msgstr ""
 #
-# File: module/ages/view/ages/companies/communicationstags.phtml, line: 76
+# File: module/ages/view/ages/companies/communicationstags.phtml, line: 84
 # File: module/ages/view/ages/companies/addcommunicationstags.phtml, line: 5
 msgid "Add New Communication Tag"
 msgstr ""
 #
-# File: module/ages/view/ages/companies/addcommunicationstags.phtml, line: 17
+# File: module/ages/view/ages/companies/addcommunicationstags.phtml, line: 19
 msgid "Add Communication Tag"
 msgstr ""
 #
