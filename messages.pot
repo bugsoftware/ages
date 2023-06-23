@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-21 16:11+0100\n"
+"POT-Creation-Date: 2023-06-23 17:57+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12646,7 +12646,7 @@ msgstr ""
 # File: module/ages/view/ages/hotels/finantial_information_edit.phtml, line: 110
 # File: module/ages/view/ages/newsletter/add.phtml, line: 105
 # File: module/ages/view/ages/newsletter/edit.phtml, line: 152
-# File: module/ages/view/ages/newsletter/send.phtml, line: 136
+# File: module/ages/view/ages/newsletter/send.phtml, line: 137
 # File: module/ages/view/ages/newsletter/sendtoagent.phtml, line: 184
 # File: module/ages/view/ages/packages/add.phtml, line: 479
 # File: module/ages/view/ages/packages/add.phtml, line: 531
@@ -12937,8 +12937,8 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/flyers_edit.phtml, line: 176
 # File: module/ages/view/ages/newsletter/flyers_edit.phtml, line: 247
 # File: module/ages/view/ages/newsletter/flyers_edit.phtml, line: 260
-# File: module/ages/view/ages/newsletter/send.phtml, line: 145
-# File: module/ages/view/ages/newsletter/send.phtml, line: 171
+# File: module/ages/view/ages/newsletter/send.phtml, line: 146
+# File: module/ages/view/ages/newsletter/send.phtml, line: 172
 # File: module/ages/view/ages/newsletter/sendtoagent.phtml, line: 193
 # File: module/ages/view/ages/newsletter/sendtoagent.phtml, line: 219
 # File: module/ages/view/ages/packages/add.phtml, line: 407
@@ -13146,7 +13146,7 @@ msgstr ""
 # File: module/ages/view/ages/hotels/finantial_information_edit.phtml, line: 136
 # File: module/ages/view/ages/newsletter/add.phtml, line: 131
 # File: module/ages/view/ages/newsletter/edit.phtml, line: 178
-# File: module/ages/view/ages/newsletter/send.phtml, line: 162
+# File: module/ages/view/ages/newsletter/send.phtml, line: 163
 # File: module/ages/view/ages/newsletter/sendtoagent.phtml, line: 210
 # File: module/ages/view/ages/packages/add.phtml, line: 505
 # File: module/ages/view/ages/packages/add.phtml, line: 557
@@ -15384,6 +15384,7 @@ msgstr ""
 # File: module/ages/view/ages/hotels/index.phtml, line: 59
 # File: module/ages/view/ages/hotels/search.phtml, line: 45
 # File: module/ages/view/ages/newsletter/editnewsletter.phtml, line: 118
+# File: module/ages/view/ages/newsletter/send.phtml, line: 53
 # File: module/ages/view/ages/packages/add_modals.phtml, line: 265
 # File: module/ages/view/ages/packages/edit_modals.phtml, line: 136
 # File: module/ages/view/ages/tours/images_add.phtml, line: 51
@@ -17794,7 +17795,7 @@ msgstr ""
 # File: module/ages/view/ages/hotels/analysis.phtml, line: 236
 # File: module/ages/view/ages/insurances/analysis.phtml, line: 236
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 379
-# File: module/ages/view/ages/newsletter/send.phtml, line: 301
+# File: module/ages/view/ages/newsletter/send.phtml, line: 302
 # File: module/ages/view/ages/newsletter/sendcitypair.phtml, line: 369
 # File: module/ages/view/ages/newsletter/sendtoagent.phtml, line: 354
 # File: module/ages/view/ages/newsletter/stats.phtml, line: 221
@@ -24270,7 +24271,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 278
 # File: module/ages/view/ages/login/googleauthenticator.phtml, line: 103
 # File: module/ages/view/ages/login/otptwostep.phtml, line: 87
-# File: module/ages/view/ages/newsletter/send.phtml, line: 127
+# File: module/ages/view/ages/newsletter/send.phtml, line: 128
 # File: module/ages/view/ages/newsletter/sendcitypair.phtml, line: 232
 # File: module/ages/view/ages/newsletter/sendtoagent.phtml, line: 137
 # File: module/ages/view/ages/reports/b2bwallet.phtml, line: 86
@@ -37380,8 +37381,8 @@ msgstr ""
 msgid "Test Email"
 msgstr ""
 #
-# File: module/ages/view/ages/newsletter/send.phtml, line: 86
-# File: module/ages/view/ages/newsletter/send.phtml, line: 100
+# File: module/ages/view/ages/newsletter/send.phtml, line: 87
+# File: module/ages/view/ages/newsletter/send.phtml, line: 101
 # File: module/ages/view/ages/newsletter/sendcitypair.phtml, line: 90
 # File: module/ages/view/ages/newsletter/sendcitypair.phtml, line: 104
 # File: module/ages/view/ages/newsletter/sendtoagent.phtml, line: 89
@@ -37389,8 +37390,8 @@ msgstr ""
 msgid "Newsletter required"
 msgstr ""
 #
-# File: module/ages/view/ages/newsletter/send.phtml, line: 87
-# File: module/ages/view/ages/newsletter/send.phtml, line: 101
+# File: module/ages/view/ages/newsletter/send.phtml, line: 88
+# File: module/ages/view/ages/newsletter/send.phtml, line: 102
 # File: module/ages/view/ages/newsletter/sendcitypair.phtml, line: 91
 # File: module/ages/view/ages/newsletter/sendcitypair.phtml, line: 105
 # File: module/ages/view/ages/newsletter/sendtoagent.phtml, line: 90
@@ -37398,13 +37399,13 @@ msgstr ""
 msgid "Please select newsletter from the drop down box"
 msgstr ""
 #
-# File: module/ages/view/ages/newsletter/send.phtml, line: 114
+# File: module/ages/view/ages/newsletter/send.phtml, line: 115
 # File: module/ages/view/ages/newsletter/sendcitypair.phtml, line: 118
 # File: module/ages/view/ages/newsletter/sendtoagent.phtml, line: 117
 msgid "Subject required"
 msgstr ""
 #
-# File: module/ages/view/ages/newsletter/send.phtml, line: 115
+# File: module/ages/view/ages/newsletter/send.phtml, line: 116
 # File: module/ages/view/ages/newsletter/sendcitypair.phtml, line: 119
 # File: module/ages/view/ages/newsletter/sendtoagent.phtml, line: 118
 msgid "Please input subject"
