@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-29 21:44+0100\n"
+"POT-Creation-Date: 2023-08-30 10:31+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21889,7 +21889,7 @@ msgstr ""
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 28
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 31
 # File: module/setup/view/settings/realtimepayments_edit.phtml, line: 29
-# File: module/setup/view/settings/settings.phtml, line: 1208
+# File: module/setup/view/settings/settings.phtml, line: 1227
 # File: module/setup/view/settings/cities_edit.phtml, line: 778
 # File: module/setup/view/settings/countries_edit.phtml, line: 169
 # File: module/setup/view/settings/states_edit.phtml, line: 138
@@ -29096,7 +29096,7 @@ msgstr ""
 # File: module/setup/view/settings/settings.phtml, line: 247
 # File: module/setup/view/settings/settings.phtml, line: 252
 # File: module/setup/view/settings/settings.phtml, line: 1076
-# File: module/setup/view/settings/settings.phtml, line: 1171
+# File: module/setup/view/settings/settings.phtml, line: 1190
 msgid "(For multiple email alerts use semicolon (;) (For example email1@bug-software.com;email2@bug-software.com))"
 msgstr ""
 #
@@ -29480,8 +29480,8 @@ msgstr ""
 # File: module/ages/view/ages/companies/supplierpayments.phtml, line: 5
 # File: module/ages/view/ages/reports/companies.phtml, line: 38
 # File: module/ages/view/ages/reports/flights.phtml, line: 26
-# File: module/setup/view/settings/settings.phtml, line: 1203
-# File: module/setup/view/settings/settings.phtml, line: 1204
+# File: module/setup/view/settings/settings.phtml, line: 1222
+# File: module/setup/view/settings/settings.phtml, line: 1223
 msgid "Companies"
 msgstr ""
 #
@@ -55155,46 +55155,61 @@ msgstr ""
 msgid "Service SID"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1157
-# File: module/setup/view/settings/settings.phtml, line: 1158
-msgid "Google Authenticator Descriptor"
+# File: module/setup/view/settings/settings.phtml, line: 1159
+# File: module/setup/view/settings/settings.phtml, line: 1160
+msgid "Twilio Phone Number"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1162
-# File: module/setup/view/settings/settings.phtml, line: 1163
-msgid "B2B Google Authenticator Descriptor"
+# File: module/setup/view/settings/settings.phtml, line: 1164
+# File: module/setup/view/settings/settings.phtml, line: 1165
+msgid "Twilio Phone Number (Name)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1169
 # File: module/setup/view/settings/settings.phtml, line: 1170
-msgid "Send Air Block Time Limit Warnings To"
+msgid "Twilio Message ( Your Click & Book verification code is: )"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1174
-# File: module/setup/view/settings/settings.phtml, line: 1175
-msgid "Air Middleware"
+# File: module/setup/view/settings/settings.phtml, line: 1176
+# File: module/setup/view/settings/settings.phtml, line: 1177
+msgid "Google Authenticator Descriptor"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1184
-msgid "Enable HelloSign"
+# File: module/setup/view/settings/settings.phtml, line: 1181
+# File: module/setup/view/settings/settings.phtml, line: 1182
+msgid "B2B Google Authenticator Descriptor"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1188
 # File: module/setup/view/settings/settings.phtml, line: 1189
-msgid "Hello Sign API Key"
+msgid "Send Air Block Time Limit Warnings To"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1193
 # File: module/setup/view/settings/settings.phtml, line: 1194
+msgid "Air Middleware"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1203
+msgid "Enable HelloSign"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1207
+# File: module/setup/view/settings/settings.phtml, line: 1208
+msgid "Hello Sign API Key"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1212
+# File: module/setup/view/settings/settings.phtml, line: 1213
 msgid "Terms and Conditions File Path"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1198
-# File: module/setup/view/settings/settings.phtml, line: 1199
+# File: module/setup/view/settings/settings.phtml, line: 1217
+# File: module/setup/view/settings/settings.phtml, line: 1218
 msgid "Single Sign On API Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1205
+# File: module/setup/view/settings/settings.phtml, line: 1224
 msgid "(For multiple companies use semicolon (;) (For example 1;2))"
 msgstr ""
 #
