@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-11 09:52+0100\n"
+"POT-Creation-Date: 2023-09-11 09:54+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12273,7 +12273,6 @@ msgstr ""
 # File: module/ages/view/ages/transfers/serviceprice_edit.phtml, line: 184
 # File: module/ages/view/ages/users/edit.phtml, line: 58
 # File: module/manager/view/hotel/index.phtml, line: 16
-# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 13
 msgid "Zone"
 msgstr ""
 #
@@ -12432,7 +12431,6 @@ msgstr ""
 # File: module/setup/view/settings/citiessections_edit.phtml, line: 12
 # File: module/setup/view/settings/citiessections_edit.phtml, line: 13
 # File: module/setup/view/settings/cruisesmapping.phtml, line: 201
-# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 14
 msgid "City"
 msgstr ""
 #
@@ -14085,7 +14083,7 @@ msgstr ""
 # File: module/setup/view/settings/searchcities.phtml, line: 27
 # File: module/setup/view/settings/citiesimages.phtml, line: 27
 # File: module/setup/view/settings/citiesmapping.phtml, line: 35
-# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 28
+# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 25
 msgid "Options"
 msgstr ""
 #
@@ -14349,7 +14347,7 @@ msgstr ""
 # File: module/setup/view/settings/citiesimages.phtml, line: 37
 # File: module/setup/view/settings/citiesimages.phtml, line: 38
 # File: module/setup/view/settings/citiesmapping.phtml, line: 46
-# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 38
+# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 35
 msgid "Edit"
 msgstr ""
 #
@@ -15845,7 +15843,7 @@ msgstr ""
 # File: module/setup/view/settings/citiesimages.phtml, line: 15
 # File: module/setup/view/settings/citiesimages_edit.phtml, line: 52
 # File: module/setup/view/settings/citiesmapping.phtml, line: 20
-# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 17
+# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 14
 msgid "Search"
 msgstr ""
 #
@@ -32947,7 +32945,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 241
 # File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 219
 # File: module/setup/view/settings/citiesmapping.phtml, line: 65
-# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 57
+# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 54
 msgid "External Reservation"
 msgstr ""
 #
@@ -56767,7 +56765,7 @@ msgstr ""
 #
 # File: module/setup/view/settings/citieshotelsmapping_edit.phtml, line: 12
 # File: module/setup/view/settings/citieshotelsmapping_edit.phtml, line: 13
-# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 24
+# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 21
 # File: module/setup/view/settings/citieshotelsmapping_add.phtml, line: 13
 # File: module/setup/view/settings/citieshotelsmapping_add.phtml, line: 14
 msgid "Region Id"
@@ -56775,7 +56773,7 @@ msgstr ""
 #
 # File: module/setup/view/settings/citieshotelsmapping_edit.phtml, line: 17
 # File: module/setup/view/settings/citieshotelsmapping_edit.phtml, line: 18
-# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 25
+# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 22
 # File: module/setup/view/settings/citieshotelsmapping_add.phtml, line: 18
 # File: module/setup/view/settings/citieshotelsmapping_add.phtml, line: 19
 msgid "Region Eid"
@@ -56787,7 +56785,7 @@ msgid "Hotel Eid"
 msgstr ""
 #
 # File: module/setup/view/settings/citieshotelsmapping_edit.phtml, line: 23
-# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 26
+# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 23
 # File: module/setup/view/settings/citieshotelsmapping_add.phtml, line: 24
 msgid "Hotel Id"
 msgstr ""
@@ -56798,7 +56796,7 @@ msgid "Expedia Eid"
 msgstr ""
 #
 # File: module/setup/view/settings/citieshotelsmapping_edit.phtml, line: 28
-# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 27
+# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 24
 # File: module/setup/view/settings/citieshotelsmapping_add.phtml, line: 29
 msgid "Expedia Id"
 msgstr ""
@@ -56807,12 +56805,12 @@ msgstr ""
 msgid "Settings - City Hotel Mapping"
 msgstr ""
 #
-# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 79
+# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 76
 msgid "Add City Hotel Mapping"
 msgstr ""
 #
-# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 91
-# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 92
+# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 88
+# File: module/setup/view/settings/citieshotelsmapping.phtml, line: 89
 msgid "Cities Hotels Mapping"
 msgstr ""
 #
