@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-11 21:08+0100\n"
+"POT-Creation-Date: 2023-09-12 13:04+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2239,11 +2239,12 @@ msgstr ""
 # File: module/setup/src/Controller/toxicairlines.php, line: 402
 # File: module/setup/src/Controller/toxicairlines.php, line: 473
 # File: module/setup/src/Controller/toxicairlines.php, line: 486
-# File: module/setup/src/Controller/citiesmapping.php, line: 239
+# File: module/setup/src/Controller/citiesmapping.php, line: 261
 # File: module/setup/view/air/toxicairlines.phtml, line: 29
 # File: module/setup/view/air/toxicairlines.phtml, line: 37
 # File: module/setup/view/cars/cartrawler.phtml, line: 216
 # File: module/setup/view/hotels/gta.phtml, line: 50
+# File: module/setup/view/settings/citiesmapping.phtml, line: 45
 msgid "All"
 msgstr ""
 #
@@ -4999,8 +5000,9 @@ msgstr ""
 # File: module/ages/view/ages/transfers/serviceprice_add.phtml, line: 130
 # File: module/ages/view/ages/transfers/serviceprice_edit.phtml, line: 117
 # File: module/ages/view/ages/transfers/serviceprice_edit.phtml, line: 140
-# File: module/setup/src/Controller/citiesmapping.php, line: 243
+# File: module/setup/src/Controller/citiesmapping.php, line: 265
 # File: module/setup/view/settings/cities_edit.phtml, line: 125
+# File: module/setup/view/settings/citiesmapping.phtml, line: 47
 msgid "Airport"
 msgstr ""
 #
@@ -6016,6 +6018,7 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 3440
 # File: module/ages/src/Controller/Reports.php, line: 4774
 # File: module/ages/src/Controller/Reports.php, line: 6768
+# File: module/setup/src/Controller/citiesmapping.php, line: 313
 msgid "All Countries"
 msgstr ""
 #
@@ -11858,7 +11861,8 @@ msgstr ""
 # File: module/setup/view/settings/states_edit.phtml, line: 11
 # File: module/setup/view/settings/cruisesmapping.phtml, line: 16
 # File: module/setup/view/settings/citiesimages_edit.phtml, line: 12
-# File: module/setup/view/settings/citiesmapping.phtml, line: 24
+# File: module/setup/view/settings/citiesmapping.phtml, line: 19
+# File: module/setup/view/settings/citiesmapping.phtml, line: 29
 # File: module/setup/view/settings/citiesmapping_edit.phtml, line: 12
 # File: module/setup/view/settings/citiesmapping_edit.phtml, line: 13
 msgid "Name"
@@ -12137,7 +12141,7 @@ msgstr ""
 # File: module/ages/view/ages/transfers/serviceprice_edit.phtml, line: 176
 # File: module/ages/view/ages/users/edit.phtml, line: 49
 # File: module/manager/view/hotel/index.phtml, line: 15
-# File: module/setup/src/Controller/citiesmapping.php, line: 259
+# File: module/setup/src/Controller/citiesmapping.php, line: 281
 # File: module/setup/view/air/airports.phtml, line: 14
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 104
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 105
@@ -12159,6 +12163,9 @@ msgstr ""
 # File: module/setup/view/settings/states_edit.phtml, line: 13
 # File: module/setup/view/settings/searchcities.phtml, line: 26
 # File: module/setup/view/settings/citiesimages.phtml, line: 26
+# File: module/setup/view/settings/citiesmapping.phtml, line: 17
+# File: module/setup/view/settings/citiesmapping.phtml, line: 18
+# File: module/setup/view/settings/citiesmapping.phtml, line: 55
 # File: module/setup/view/settings/citieshotelsmapping.phtml, line: 12
 msgid "Country"
 msgstr ""
@@ -12409,7 +12416,7 @@ msgstr ""
 # File: module/ages/view/ages/transfers/serviceprice_edit.phtml, line: 193
 # File: module/ages/view/ages/users/edit.phtml, line: 67
 # File: module/manager/view/hotel/index.phtml, line: 17
-# File: module/setup/src/Controller/citiesmapping.php, line: 251
+# File: module/setup/src/Controller/citiesmapping.php, line: 273
 # File: module/setup/view/air/airports.phtml, line: 15
 # File: module/setup/view/hotels/ati.phtml, line: 82
 # File: module/setup/view/hotels/ati.phtml, line: 83
@@ -12433,6 +12440,7 @@ msgstr ""
 # File: module/setup/view/settings/citiessections_edit.phtml, line: 12
 # File: module/setup/view/settings/citiessections_edit.phtml, line: 13
 # File: module/setup/view/settings/cruisesmapping.phtml, line: 201
+# File: module/setup/view/settings/citiesmapping.phtml, line: 51
 msgid "City"
 msgstr ""
 #
@@ -14084,7 +14092,7 @@ msgstr ""
 # File: module/setup/view/settings/cities.phtml, line: 16
 # File: module/setup/view/settings/searchcities.phtml, line: 27
 # File: module/setup/view/settings/citiesimages.phtml, line: 27
-# File: module/setup/view/settings/citiesmapping.phtml, line: 29
+# File: module/setup/view/settings/citiesmapping.phtml, line: 34
 # File: module/setup/view/settings/citieshotelsmapping.phtml, line: 25
 msgid "Options"
 msgstr ""
@@ -14348,7 +14356,7 @@ msgstr ""
 # File: module/setup/view/settings/citiessections.phtml, line: 49
 # File: module/setup/view/settings/citiesimages.phtml, line: 37
 # File: module/setup/view/settings/citiesimages.phtml, line: 38
-# File: module/setup/view/settings/citiesmapping.phtml, line: 40
+# File: module/setup/view/settings/citiesmapping.phtml, line: 71
 # File: module/setup/view/settings/citieshotelsmapping.phtml, line: 35
 msgid "Edit"
 msgstr ""
@@ -15844,7 +15852,7 @@ msgstr ""
 # File: module/setup/view/settings/citiessections_edit.phtml, line: 75
 # File: module/setup/view/settings/citiesimages.phtml, line: 15
 # File: module/setup/view/settings/citiesimages_edit.phtml, line: 52
-# File: module/setup/view/settings/citiesmapping.phtml, line: 17
+# File: module/setup/view/settings/citiesmapping.phtml, line: 22
 # File: module/setup/view/settings/citieshotelsmapping.phtml, line: 14
 msgid "Search"
 msgstr ""
@@ -17794,7 +17802,7 @@ msgstr ""
 # File: module/setup/view/settings/citiessections_edit.phtml, line: 26
 # File: module/setup/view/settings/citiesmapping.phtml, line: 13
 # File: module/setup/view/settings/citiesmapping.phtml, line: 14
-# File: module/setup/view/settings/citiesmapping.phtml, line: 27
+# File: module/setup/view/settings/citiesmapping.phtml, line: 32
 # File: module/setup/view/settings/citiesmapping_edit.phtml, line: 22
 # File: module/setup/view/settings/citiesmapping_edit.phtml, line: 23
 msgid "Type"
@@ -31420,7 +31428,7 @@ msgstr ""
 # File: module/setup/view/hotels/expedia.phtml, line: 207
 # File: module/setup/view/hotels/hoteldo.phtml, line: 65
 # File: module/setup/view/hotels/hoteldo.phtml, line: 66
-# File: module/setup/view/settings/citiesmapping.phtml, line: 26
+# File: module/setup/view/settings/citiesmapping.phtml, line: 31
 msgid "Country Code"
 msgstr ""
 #
@@ -32950,7 +32958,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 210
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 241
 # File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 219
-# File: module/setup/view/settings/citiesmapping.phtml, line: 59
+# File: module/setup/view/settings/citiesmapping.phtml, line: 90
 # File: module/setup/view/settings/citieshotelsmapping.phtml, line: 54
 msgid "External Reservation"
 msgstr ""
@@ -35980,7 +35988,7 @@ msgstr ""
 # File: module/ages/view/ages/hotels/edit.phtml, line: 214
 # File: module/ages/view/ages/hotels/edit.phtml, line: 217
 # File: module/manager/view/hotel/index.phtml, line: 45
-# File: module/setup/view/settings/citiesmapping.phtml, line: 28
+# File: module/setup/view/settings/citiesmapping.phtml, line: 33
 # File: module/setup/view/settings/citiesmapping_edit.phtml, line: 42
 # File: module/setup/view/settings/citiesmapping_edit.phtml, line: 43
 msgid "Mapped Id"
@@ -36346,7 +36354,8 @@ msgstr ""
 #
 # File: module/ages/view/ages/hotels/editstatichotelsmetareview.phtml, line: 64
 # File: module/ages/view/ages/hotels/editstatichotelsmetareview.phtml, line: 68
-# File: module/setup/src/Controller/citiesmapping.php, line: 275
+# File: module/setup/src/Controller/citiesmapping.php, line: 297
+# File: module/setup/view/settings/citiesmapping.phtml, line: 63
 msgid "Neighborhood"
 msgstr ""
 #
@@ -42305,31 +42314,38 @@ msgstr ""
 msgid "German\n"
 msgstr ""
 #
-# File: module/setup/src/Controller/citiesmapping.php, line: 247
+# File: module/setup/src/Controller/citiesmapping.php, line: 269
+# File: module/setup/view/settings/citiesmapping.phtml, line: 49
 msgid "Train station"
 msgstr ""
 #
-# File: module/setup/src/Controller/citiesmapping.php, line: 255
+# File: module/setup/src/Controller/citiesmapping.php, line: 277
+# File: module/setup/view/settings/citiesmapping.phtml, line: 53
 msgid "Continent"
 msgstr ""
 #
-# File: module/setup/src/Controller/citiesmapping.php, line: 263
+# File: module/setup/src/Controller/citiesmapping.php, line: 285
+# File: module/setup/view/settings/citiesmapping.phtml, line: 57
 msgid "High level region"
 msgstr ""
 #
-# File: module/setup/src/Controller/citiesmapping.php, line: 267
+# File: module/setup/src/Controller/citiesmapping.php, line: 289
+# File: module/setup/view/settings/citiesmapping.phtml, line: 59
 msgid "Metro station"
 msgstr ""
 #
-# File: module/setup/src/Controller/citiesmapping.php, line: 271
+# File: module/setup/src/Controller/citiesmapping.php, line: 293
+# File: module/setup/view/settings/citiesmapping.phtml, line: 61
 msgid "Multi city vicinity"
 msgstr ""
 #
-# File: module/setup/src/Controller/citiesmapping.php, line: 279
+# File: module/setup/src/Controller/citiesmapping.php, line: 301
+# File: module/setup/view/settings/citiesmapping.phtml, line: 65
 msgid "Point of interest"
 msgstr ""
 #
-# File: module/setup/src/Controller/citiesmapping.php, line: 283
+# File: module/setup/src/Controller/citiesmapping.php, line: 305
+# File: module/setup/view/settings/citiesmapping.phtml, line: 67
 msgid "Province state"
 msgstr ""
 #
@@ -56734,14 +56750,14 @@ msgstr ""
 msgid "Settings - City Mapping"
 msgstr ""
 #
-# File: module/setup/view/settings/citiesmapping.phtml, line: 25
+# File: module/setup/view/settings/citiesmapping.phtml, line: 30
 # File: module/setup/view/settings/citiesmapping_edit.phtml, line: 17
 # File: module/setup/view/settings/citiesmapping_edit.phtml, line: 18
 msgid "Name Full"
 msgstr ""
 #
-# File: module/setup/view/settings/citiesmapping.phtml, line: 91
-# File: module/setup/view/settings/citiesmapping.phtml, line: 92
+# File: module/setup/view/settings/citiesmapping.phtml, line: 122
+# File: module/setup/view/settings/citiesmapping.phtml, line: 123
 msgid "Cities Mapping"
 msgstr ""
 #
