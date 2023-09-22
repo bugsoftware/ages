@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-22 07:32+0100\n"
+"POT-Creation-Date: 2023-09-22 13:41+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -202,8 +202,8 @@ msgstr ""
 # File: module/ages/view/ages/air/markups.phtml, line: 63
 # File: module/ages/view/ages/air/pcc.phtml, line: 42
 # File: module/ages/view/ages/air/pcc.phtml, line: 44
-# File: module/ages/view/ages/air/priorities.phtml, line: 42
-# File: module/ages/view/ages/air/priorities.phtml, line: 44
+# File: module/ages/view/ages/air/priorities.phtml, line: 61
+# File: module/ages/view/ages/air/priorities.phtml, line: 63
 # File: module/ages/view/ages/air/private.phtml, line: 56
 # File: module/ages/view/ages/air/private.phtml, line: 58
 # File: module/ages/view/ages/air/toxicairlines.phtml, line: 80
@@ -569,7 +569,7 @@ msgstr ""
 # File: module/ages/view/ages/air/familyfares.phtml, line: 71
 # File: module/ages/view/ages/air/markups.phtml, line: 61
 # File: module/ages/view/ages/air/pcc.phtml, line: 42
-# File: module/ages/view/ages/air/priorities.phtml, line: 42
+# File: module/ages/view/ages/air/priorities.phtml, line: 61
 # File: module/ages/view/ages/air/private.phtml, line: 56
 # File: module/ages/view/ages/air/toxicairlines.phtml, line: 80
 # File: module/ages/view/ages/air/toxicfares.phtml, line: 77
@@ -2042,10 +2042,10 @@ msgstr ""
 # File: module/ages/src/Controller/Air.php, line: 5728
 # File: module/ages/src/Controller/Air.php, line: 5828
 # File: module/ages/src/Controller/Air.php, line: 5916
-# File: module/ages/src/Controller/Air.php, line: 5992
-# File: module/ages/src/Controller/Air.php, line: 6396
-# File: module/ages/src/Controller/Air.php, line: 6401
-# File: module/ages/src/Controller/Air.php, line: 6406
+# File: module/ages/src/Controller/Air.php, line: 6009
+# File: module/ages/src/Controller/Air.php, line: 6440
+# File: module/ages/src/Controller/Air.php, line: 6445
+# File: module/ages/src/Controller/Air.php, line: 6450
 # File: module/ages/src/Controller/CMS.php, line: 304
 # File: module/ages/src/Controller/CMS.php, line: 317
 # File: module/ages/src/Controller/CMS.php, line: 434
@@ -3123,7 +3123,7 @@ msgstr ""
 # File: module/ages/src/Controller/Air.php, line: 5278
 # File: module/ages/src/Controller/Air.php, line: 5365
 # File: module/ages/src/Controller/Air.php, line: 5605
-# File: module/ages/src/Controller/Air.php, line: 6003
+# File: module/ages/src/Controller/Air.php, line: 6020
 # File: module/ages/src/Controller/CMS.php, line: 297
 # File: module/ages/src/Controller/CMS.php, line: 427
 # File: module/ages/src/Controller/CMS.php, line: 515
@@ -4637,7 +4637,9 @@ msgid "All Aircrafts"
 msgstr ""
 #
 # File: module/ages/src/Controller/Air.php, line: 4240
+# File: module/ages/src/Controller/Air.php, line: 6056
 # File: module/ages/view/ages/air/charters.phtml, line: 12
+# File: module/ages/view/ages/air/priorities.phtml, line: 14
 msgid "All Companys"
 msgstr ""
 #
@@ -5048,7 +5050,7 @@ msgstr ""
 # File: module/ages/view/ages/air/offers.phtml, line: 12
 # File: module/ages/view/ages/air/offers.phtml, line: 30
 # File: module/ages/view/ages/air/pcc.phtml, line: 13
-# File: module/ages/view/ages/air/priorities.phtml, line: 13
+# File: module/ages/view/ages/air/priorities.phtml, line: 32
 # File: module/ages/view/ages/air/toxicfares.phtml, line: 15
 # File: module/ages/view/ages/air/backendreport.phtml, line: 12
 # File: module/ages/view/ages/air/backendreport.phtml, line: 28
@@ -9565,7 +9567,7 @@ msgstr ""
 # File: module/ages/view/ages/air/offers.phtml, line: 11
 # File: module/ages/view/ages/air/offers.phtml, line: 29
 # File: module/ages/view/ages/air/pcc.phtml, line: 12
-# File: module/ages/view/ages/air/priorities.phtml, line: 12
+# File: module/ages/view/ages/air/priorities.phtml, line: 31
 # File: module/ages/view/ages/air/toxicfares.phtml, line: 14
 # File: module/ages/view/ages/air/backendreport.phtml, line: 11
 # File: module/ages/view/ages/air/Copy of priorities.phtml, line: 12
@@ -14325,7 +14327,7 @@ msgstr ""
 # File: module/ages/view/ages/air/listreservations.phtml, line: 52
 # File: module/ages/view/ages/air/markups.phtml, line: 37
 # File: module/ages/view/ages/air/pcc.phtml, line: 35
-# File: module/ages/view/ages/air/priorities.phtml, line: 35
+# File: module/ages/view/ages/air/priorities.phtml, line: 54
 # File: module/ages/view/ages/air/private.phtml, line: 32
 # File: module/ages/view/ages/air/reservations.phtml, line: 36
 # File: module/ages/view/ages/air/searchreservations.phtml, line: 61
@@ -15369,8 +15371,8 @@ msgstr ""
 # File: module/ages/view/ages/air/markups.phtml, line: 59
 # File: module/ages/view/ages/air/pcc.phtml, line: 35
 # File: module/ages/view/ages/air/pcc.phtml, line: 40
-# File: module/ages/view/ages/air/priorities.phtml, line: 35
-# File: module/ages/view/ages/air/priorities.phtml, line: 40
+# File: module/ages/view/ages/air/priorities.phtml, line: 54
+# File: module/ages/view/ages/air/priorities.phtml, line: 59
 # File: module/ages/view/ages/air/private.phtml, line: 34
 # File: module/ages/view/ages/air/private.phtml, line: 54
 # File: module/ages/view/ages/air/toxicairlines.phtml, line: 58
@@ -16148,7 +16150,7 @@ msgstr ""
 # File: module/ages/view/ages/agents/import.phtml, line: 17
 # File: module/ages/view/ages/air/discounts.phtml, line: 17
 # File: module/ages/view/ages/air/pcc.phtml, line: 16
-# File: module/ages/view/ages/air/priorities.phtml, line: 16
+# File: module/ages/view/ages/air/priorities.phtml, line: 35
 # File: module/ages/view/ages/air/Copy of priorities.phtml, line: 16
 # File: module/ages/view/ages/cms/featuredcruises_add.phtml, line: 68
 # File: module/ages/view/ages/cms/featuredcruises_edit.phtml, line: 68
@@ -16710,7 +16712,7 @@ msgstr ""
 # File: module/ages/view/ages/air/markups.phtml, line: 107
 # File: module/ages/view/ages/air/offers.phtml, line: 88
 # File: module/ages/view/ages/air/pcc.phtml, line: 95
-# File: module/ages/view/ages/air/priorities.phtml, line: 95
+# File: module/ages/view/ages/air/priorities.phtml, line: 114
 # File: module/ages/view/ages/air/private.phtml, line: 102
 # File: module/ages/view/ages/air/reservations.phtml, line: 79
 # File: module/ages/view/ages/air/toxicairlines.phtml, line: 126
@@ -22690,7 +22692,7 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit.phtml, line: 117
 # File: module/ages/view/ages/air/add_priority.phtml, line: 13
 # File: module/ages/view/ages/air/edit_priority.phtml, line: 19
-# File: module/ages/view/ages/air/priorities.phtml, line: 14
+# File: module/ages/view/ages/air/priorities.phtml, line: 33
 # File: module/ages/view/ages/air/Copy of priorities.phtml, line: 14
 # File: module/ages/view/ages/hotels/accounting.phtml, line: 13
 # File: module/ages/view/ages/hotels/taxes.phtml, line: 14
@@ -26430,7 +26432,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/air/charters_edit.phtml, line: 23
 # File: module/ages/view/ages/air/charters_edit.phtml, line: 24
-# File: module/ages/view/ages/air/priorities.phtml, line: 15
+# File: module/ages/view/ages/air/priorities.phtml, line: 34
 # File: module/ages/view/ages/air/Copy of priorities.phtml, line: 15
 # File: module/ages/view/ages/gift-cards/add.phtml, line: 59
 # File: module/ages/view/ages/reports/airlines.phtml, line: 89
@@ -27075,19 +27077,19 @@ msgstr ""
 msgid "PCC Setup Rules"
 msgstr ""
 #
-# File: module/ages/view/ages/air/priorities.phtml, line: 25
+# File: module/ages/view/ages/air/priorities.phtml, line: 44
 # File: module/ages/view/ages/air/Copy of priorities.phtml, line: 25
 msgid "Add New Priority"
 msgstr ""
 #
-# File: module/ages/view/ages/air/priorities.phtml, line: 41
+# File: module/ages/view/ages/air/priorities.phtml, line: 60
 # File: module/ages/view/ages/air/Copy of priorities.phtml, line: 41
 msgid "Are you sure you want to delete this Priority?"
 msgstr ""
 #
-# File: module/ages/view/ages/air/priorities.phtml, line: 89
-# File: module/ages/view/ages/air/priorities.phtml, line: 90
-# File: module/ages/view/ages/air/priorities.phtml, line: 95
+# File: module/ages/view/ages/air/priorities.phtml, line: 108
+# File: module/ages/view/ages/air/priorities.phtml, line: 109
+# File: module/ages/view/ages/air/priorities.phtml, line: 114
 # File: module/ages/view/ages/air/Copy of priorities.phtml, line: 89
 # File: module/ages/view/ages/air/Copy of priorities.phtml, line: 90
 # File: module/ages/view/ages/air/Copy of priorities.phtml, line: 95
