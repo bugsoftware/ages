@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-11-06 17:57+0000\n"
+"POT-Creation-Date: 2023-11-06 20:27+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -452,6 +452,8 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 65
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 77
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 79
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 48
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 50
 # File: module/ages/view/ages/packages/generalconditions.phtml, line: 50
 # File: module/ages/view/ages/packages/generalconditions.phtml, line: 52
 # File: module/ages/view/ages/packages/index.phtml, line: 77
@@ -700,6 +702,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/listbroadcasts.phtml, line: 142
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 63
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 77
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 48
 # File: module/ages/view/ages/packages/generalconditions.phtml, line: 50
 # File: module/ages/view/ages/packages/index.phtml, line: 77
 # File: module/ages/view/ages/packages/types.phtml, line: 62
@@ -1940,8 +1943,8 @@ msgstr ""
 # File: module/ages/src/Controller/GiftCards.php, line: 2161
 # File: module/ages/src/Controller/Hotels.php, line: 246
 # File: module/ages/src/Controller/Insurances.php, line: 243
-# File: module/ages/src/Controller/Newsletter.php, line: 4441
-# File: module/ages/src/Controller/Newsletter.php, line: 5305
+# File: module/ages/src/Controller/Newsletter.php, line: 4516
+# File: module/ages/src/Controller/Newsletter.php, line: 5380
 # File: module/ages/src/Controller/Packages.php, line: 247
 # File: module/ages/src/Controller/Reports.php, line: 1516
 # File: module/ages/src/Controller/Reports.php, line: 1894
@@ -2415,8 +2418,8 @@ msgstr ""
 # File: module/ages/src/Controller/Hotels.php, line: 7124
 # File: module/ages/src/Controller/Hotels.php, line: 7423
 # File: module/ages/src/Controller/Hotels.php, line: 7729
-# File: module/ages/src/Controller/Newsletter.php, line: 6747
-# File: module/ages/src/Controller/Newsletter.php, line: 6768
+# File: module/ages/src/Controller/Newsletter.php, line: 6822
+# File: module/ages/src/Controller/Newsletter.php, line: 6843
 # File: module/ages/src/Controller/Packages.php, line: 5832
 # File: module/ages/src/Controller/Packages.php, line: 6017
 # File: module/ages/src/Controller/Packages.php, line: 6269
@@ -3267,8 +3270,8 @@ msgstr ""
 # File: module/ages/src/Controller/Hotels.php, line: 7726
 # File: module/ages/src/Controller/Hotels.php, line: 7740
 # File: module/ages/src/Controller/Hotels.php, line: 7962
-# File: module/ages/src/Controller/Newsletter.php, line: 1591
-# File: module/ages/src/Controller/Newsletter.php, line: 6731
+# File: module/ages/src/Controller/Newsletter.php, line: 1666
+# File: module/ages/src/Controller/Newsletter.php, line: 6806
 # File: module/ages/src/Controller/Packages.php, line: 681
 # File: module/ages/src/Controller/Packages.php, line: 830
 # File: module/ages/src/Controller/Packages.php, line: 1269
@@ -3606,7 +3609,7 @@ msgstr ""
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 2508
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 13847
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 17404
-# File: module/ages/src/Controller/Newsletter.php, line: 1580
+# File: module/ages/src/Controller/Newsletter.php, line: 1655
 # File: module/ages/src/Controller/Packages.php, line: 4213
 # File: module/ages/src/Controller/Packages.php, line: 4443
 # File: module/ages/src/Controller/Packages.php, line: 5343
@@ -3695,8 +3698,8 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 12173
 # File: module/ages/src/Controller/CMS.php, line: 11617
 # File: module/ages/src/Controller/CMS.php, line: 17815
-# File: module/ages/src/Controller/Newsletter.php, line: 1734
-# File: module/ages/src/Controller/Newsletter.php, line: 5602
+# File: module/ages/src/Controller/Newsletter.php, line: 1809
+# File: module/ages/src/Controller/Newsletter.php, line: 5677
 # File: module/ages/src/Controller/Reports.php, line: 2365
 # File: module/ages/src/Controller/Reports.php, line: 3496
 # File: module/ages/src/Controller/SubAgents.php, line: 3781
@@ -3711,8 +3714,8 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 12175
 # File: module/ages/src/Controller/CMS.php, line: 11613
 # File: module/ages/src/Controller/CMS.php, line: 17811
-# File: module/ages/src/Controller/Newsletter.php, line: 1730
-# File: module/ages/src/Controller/Newsletter.php, line: 5598
+# File: module/ages/src/Controller/Newsletter.php, line: 1805
+# File: module/ages/src/Controller/Newsletter.php, line: 5673
 # File: module/ages/src/Controller/Reports.php, line: 2369
 # File: module/ages/src/Controller/Reports.php, line: 3500
 # File: module/ages/src/Controller/SubAgents.php, line: 3783
@@ -3762,10 +3765,10 @@ msgstr ""
 # File: module/ages/src/Controller/Hotels.php, line: 4291
 # File: module/ages/src/Controller/Hotels.php, line: 8950
 # File: module/ages/src/Controller/Hotels.php, line: 9646
-# File: module/ages/src/Controller/Newsletter.php, line: 1505
-# File: module/ages/src/Controller/Newsletter.php, line: 1614
-# File: module/ages/src/Controller/Newsletter.php, line: 4471
-# File: module/ages/src/Controller/Newsletter.php, line: 5335
+# File: module/ages/src/Controller/Newsletter.php, line: 1580
+# File: module/ages/src/Controller/Newsletter.php, line: 1689
+# File: module/ages/src/Controller/Newsletter.php, line: 4546
+# File: module/ages/src/Controller/Newsletter.php, line: 5410
 # File: module/ages/src/Controller/Reports.php, line: 1490
 # File: module/ages/src/Controller/Reports.php, line: 2042
 # File: module/ages/src/Controller/Reports.php, line: 3171
@@ -3853,8 +3856,8 @@ msgstr ""
 # File: module/ages/src/Controller/Hotels.php, line: 9486
 # File: module/ages/src/Controller/Hotels.php, line: 9512
 # File: module/ages/src/Controller/Hotels.php, line: 9695
-# File: module/ages/src/Controller/Newsletter.php, line: 3960
-# File: module/ages/src/Controller/Newsletter.php, line: 5138
+# File: module/ages/src/Controller/Newsletter.php, line: 4035
+# File: module/ages/src/Controller/Newsletter.php, line: 5213
 # File: module/ages/src/Controller/Reports.php, line: 2017
 # File: module/ages/src/Controller/Reports.php, line: 3145
 # File: module/ages/src/Controller/Reports.php, line: 6816
@@ -3880,8 +3883,8 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 1009
 # File: module/ages/src/Controller/Customers.php, line: 982
 # File: module/ages/src/Controller/Customers.php, line: 1262
-# File: module/ages/src/Controller/Newsletter.php, line: 3510
-# File: module/ages/src/Controller/Newsletter.php, line: 3978
+# File: module/ages/src/Controller/Newsletter.php, line: 3585
+# File: module/ages/src/Controller/Newsletter.php, line: 4053
 # File: module/ages/src/Controller/Reports.php, line: 1063
 # File: module/ages/src/Controller/Reports.php, line: 1098
 # File: module/ages/view/ages/agents/edit_telemarketing.phtml, line: 36
@@ -4183,8 +4186,8 @@ msgstr ""
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1339
 # File: module/ages/src/Controller/GiftCards.php, line: 1549
 # File: module/ages/src/Controller/GiftCards.php, line: 2120
-# File: module/ages/src/Controller/Newsletter.php, line: 4413
-# File: module/ages/src/Controller/Newsletter.php, line: 5277
+# File: module/ages/src/Controller/Newsletter.php, line: 4488
+# File: module/ages/src/Controller/Newsletter.php, line: 5352
 # File: module/ages/src/Controller/ServiceFees.php, line: 819
 # File: module/ages/src/Controller/SubAgents.php, line: 380
 # File: module/ages/src/Controller/SubAgents.php, line: 6504
@@ -4786,8 +4789,8 @@ msgstr ""
 # File: module/ages/src/Controller/Hotels.php, line: 6688
 # File: module/ages/src/Controller/Hotels.php, line: 8826
 # File: module/ages/src/Controller/Hotels.php, line: 9390
-# File: module/ages/src/Controller/Newsletter.php, line: 3512
-# File: module/ages/src/Controller/Newsletter.php, line: 3980
+# File: module/ages/src/Controller/Newsletter.php, line: 3587
+# File: module/ages/src/Controller/Newsletter.php, line: 4055
 # File: module/ages/src/Controller/Packages.php, line: 6258
 # File: module/ages/src/Controller/ServiceFees.php, line: 341
 # File: module/ages/src/Controller/ServiceFees.php, line: 795
@@ -7659,61 +7662,61 @@ msgstr ""
 msgid "from"
 msgstr ""
 #
-# File: module/ages/src/Controller/Newsletter.php, line: 995
+# File: module/ages/src/Controller/Newsletter.php, line: 1070
 msgid "Unknown - Possible deleted"
 msgstr ""
 #
-# File: module/ages/src/Controller/Newsletter.php, line: 1010
-# File: module/ages/src/Controller/Newsletter.php, line: 7138
+# File: module/ages/src/Controller/Newsletter.php, line: 1085
+# File: module/ages/src/Controller/Newsletter.php, line: 7213
 # File: module/ages/view/ages/newsletter/exceptions.phtml, line: 11
 msgid "All Newsletters"
 msgstr ""
 #
-# File: module/ages/src/Controller/Newsletter.php, line: 3514
-# File: module/ages/src/Controller/Newsletter.php, line: 3982
+# File: module/ages/src/Controller/Newsletter.php, line: 3589
+# File: module/ages/src/Controller/Newsletter.php, line: 4057
 # File: module/ages/src/Controller/Transfers.php, line: 991
 # File: module/ages/src/Controller/Transfers.php, line: 1921
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 32
 msgid "Private"
 msgstr ""
 #
-# File: module/ages/src/Controller/Newsletter.php, line: 6237
+# File: module/ages/src/Controller/Newsletter.php, line: 6312
 msgid "Unknown Newsletter"
 msgstr ""
 #
-# File: module/ages/src/Controller/Newsletter.php, line: 6263
-# File: module/ages/src/Controller/Newsletter.php, line: 6340
+# File: module/ages/src/Controller/Newsletter.php, line: 6338
+# File: module/ages/src/Controller/Newsletter.php, line: 6415
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 40
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 41
 msgid "Sent Requests"
 msgstr ""
 #
-# File: module/ages/src/Controller/Newsletter.php, line: 6263
-# File: module/ages/src/Controller/Newsletter.php, line: 6340
+# File: module/ages/src/Controller/Newsletter.php, line: 6338
+# File: module/ages/src/Controller/Newsletter.php, line: 6415
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 40
 msgid "By Admin"
 msgstr ""
 #
-# File: module/ages/src/Controller/Newsletter.php, line: 6268
-# File: module/ages/src/Controller/Newsletter.php, line: 6345
+# File: module/ages/src/Controller/Newsletter.php, line: 6343
+# File: module/ages/src/Controller/Newsletter.php, line: 6420
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 44
 msgid "Accepted Requests"
 msgstr ""
 #
-# File: module/ages/src/Controller/Newsletter.php, line: 6275
-# File: module/ages/src/Controller/Newsletter.php, line: 6352
+# File: module/ages/src/Controller/Newsletter.php, line: 6350
+# File: module/ages/src/Controller/Newsletter.php, line: 6427
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 49
 msgid "Bad Requests"
 msgstr ""
 #
-# File: module/ages/src/Controller/Newsletter.php, line: 6280
-# File: module/ages/src/Controller/Newsletter.php, line: 6357
+# File: module/ages/src/Controller/Newsletter.php, line: 6355
+# File: module/ages/src/Controller/Newsletter.php, line: 6432
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 55
 msgid "Duplicated Requests"
 msgstr ""
 #
-# File: module/ages/src/Controller/Newsletter.php, line: 6288
-# File: module/ages/src/Controller/Newsletter.php, line: 6365
+# File: module/ages/src/Controller/Newsletter.php, line: 6363
+# File: module/ages/src/Controller/Newsletter.php, line: 6440
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 65
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 30
 # File: module/ages/view/ages/newsletter/stats.phtml, line: 27
@@ -7721,65 +7724,65 @@ msgstr ""
 msgid "Processed"
 msgstr ""
 #
-# File: module/ages/src/Controller/Newsletter.php, line: 6292
-# File: module/ages/src/Controller/Newsletter.php, line: 6369
+# File: module/ages/src/Controller/Newsletter.php, line: 6367
+# File: module/ages/src/Controller/Newsletter.php, line: 6444
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 70
 # File: module/ages/view/ages/newsletter/stats.phtml, line: 28
 # File: module/ages/view/ages/newsletter/stats.phtml, line: 77
 msgid "Dropped"
 msgstr ""
 #
-# File: module/ages/src/Controller/Newsletter.php, line: 6297
-# File: module/ages/src/Controller/Newsletter.php, line: 6374
+# File: module/ages/src/Controller/Newsletter.php, line: 6372
+# File: module/ages/src/Controller/Newsletter.php, line: 6449
 # File: module/ages/view/ages/newsletter/exceptions.phtml, line: 59
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 76
 msgid "Bounced"
 msgstr ""
 #
-# File: module/ages/src/Controller/Newsletter.php, line: 6302
-# File: module/ages/src/Controller/Newsletter.php, line: 6379
+# File: module/ages/src/Controller/Newsletter.php, line: 6377
+# File: module/ages/src/Controller/Newsletter.php, line: 6454
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 81
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 118
 # File: module/ages/view/ages/newsletter/stats.phtml, line: 31
 msgid "Delivered"
 msgstr ""
 #
-# File: module/ages/src/Controller/Newsletter.php, line: 6305
-# File: module/ages/src/Controller/Newsletter.php, line: 6311
-# File: module/ages/src/Controller/Newsletter.php, line: 6382
-# File: module/ages/src/Controller/Newsletter.php, line: 6388
+# File: module/ages/src/Controller/Newsletter.php, line: 6380
+# File: module/ages/src/Controller/Newsletter.php, line: 6386
+# File: module/ages/src/Controller/Newsletter.php, line: 6457
+# File: module/ages/src/Controller/Newsletter.php, line: 6463
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 85
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 86
 # File: module/ages/view/ages/newsletter/stats.phtml, line: 22
 msgid "Delivery Rate"
 msgstr ""
 #
-# File: module/ages/src/Controller/Newsletter.php, line: 6315
-# File: module/ages/src/Controller/Newsletter.php, line: 6392
+# File: module/ages/src/Controller/Newsletter.php, line: 6390
+# File: module/ages/src/Controller/Newsletter.php, line: 6467
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 90
 # File: module/ages/view/ages/newsletter/stats.phtml, line: 32
 # File: module/ages/view/ages/newsletter/stats.phtml, line: 80
 msgid "Open"
 msgstr ""
 #
-# File: module/ages/src/Controller/Newsletter.php, line: 6320
-# File: module/ages/src/Controller/Newsletter.php, line: 6397
+# File: module/ages/src/Controller/Newsletter.php, line: 6395
+# File: module/ages/src/Controller/Newsletter.php, line: 6472
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 96
 msgid "Clicked"
 msgstr ""
 #
-# File: module/ages/src/Controller/Newsletter.php, line: 6323
-# File: module/ages/src/Controller/Newsletter.php, line: 6329
-# File: module/ages/src/Controller/Newsletter.php, line: 6400
-# File: module/ages/src/Controller/Newsletter.php, line: 6406
+# File: module/ages/src/Controller/Newsletter.php, line: 6398
+# File: module/ages/src/Controller/Newsletter.php, line: 6404
+# File: module/ages/src/Controller/Newsletter.php, line: 6475
+# File: module/ages/src/Controller/Newsletter.php, line: 6481
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 100
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 101
 # File: module/ages/view/ages/newsletter/stats.phtml, line: 20
 msgid "Click Rate"
 msgstr ""
 #
-# File: module/ages/src/Controller/Newsletter.php, line: 6413
-# File: module/ages/src/Controller/Newsletter.php, line: 6415
+# File: module/ages/src/Controller/Newsletter.php, line: 6488
+# File: module/ages/src/Controller/Newsletter.php, line: 6490
 msgid "Global Newsletter Stats"
 msgstr ""
 #
@@ -8111,6 +8114,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/send.phtml, line: 48
 # File: module/ages/view/ages/newsletter/spam.phtml, line: 13
 # File: module/ages/view/ages/newsletter/stats.phtml, line: 59
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 13
 # File: module/ages/view/ages/packages/add.phtml, line: 173
 # File: module/ages/view/ages/packages/add.phtml, line: 176
 # File: module/ages/view/ages/packages/edit.phtml, line: 219
@@ -14256,6 +14260,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/searchbroadcasts.phtml, line: 30
 # File: module/ages/view/ages/newsletter/searchexceptions.phtml, line: 29
 # File: module/ages/view/ages/newsletter/spam.phtml, line: 18
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 14
 # File: module/ages/view/ages/packages/add_destinations.phtml, line: 13
 # File: module/ages/view/ages/packages/add_exclusion.phtml, line: 9
 # File: module/ages/view/ages/packages/add_images.phtml, line: 9
@@ -14551,6 +14556,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/flyers.phtml, line: 25
 # File: module/ages/view/ages/newsletter/list.phtml, line: 31
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 38
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 24
 # File: module/ages/view/ages/packages/generalconditions.phtml, line: 27
 # File: module/ages/view/ages/packages/listreservations.phtml, line: 33
 # File: module/ages/view/ages/packages/preferredcruises.phtml, line: 43
@@ -15664,6 +15670,8 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/searchbroadcasts.phtml, line: 54
 # File: module/ages/view/ages/newsletter/searchexceptions.phtml, line: 42
 # File: module/ages/view/ages/newsletter/searchexceptions.phtml, line: 47
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 26
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 46
 # File: module/ages/view/ages/packages/add_destinations.phtml, line: 56
 # File: module/ages/view/ages/packages/add_exclusion.phtml, line: 40
 # File: module/ages/view/ages/packages/add_images.phtml, line: 63
@@ -16901,6 +16909,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 130
 # File: module/ages/view/ages/newsletter/spam.phtml, line: 78
 # File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 178
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 95
 # File: module/ages/view/ages/packages/availability.phtml, line: 83
 # File: module/ages/view/ages/packages/generalconditions.phtml, line: 96
 # File: module/ages/view/ages/packages/index.phtml, line: 123
@@ -27266,6 +27275,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/list.phtml, line: 12
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 12
 # File: module/ages/view/ages/newsletter/spam.phtml, line: 12
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 12
 # File: module/ages/view/ages/sub-agents/index.phtml, line: 39
 # File: module/setup/view/activities/kaluahtours.phtml, line: 15
 # File: module/setup/view/activities/kaluahtours.phtml, line: 16
@@ -38128,6 +38138,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/stats.phtml, line: 5
 # File: module/ages/view/ages/newsletter/stats.phtml, line: 13
 # File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 25
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 5
 msgid "Newsletter"
 msgstr ""
 #
@@ -38292,6 +38303,7 @@ msgid "List Members"
 msgstr ""
 #
 # File: module/ages/view/ages/newsletter/list.phtml, line: 54
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 47
 msgid "Are you sure you want to delete this member?"
 msgstr ""
 #
@@ -38602,6 +38614,13 @@ msgstr ""
 #
 # File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 133
 msgid "whatsapp"
+msgstr ""
+#
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 5
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 89
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 90
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 95
+msgid "Unsubscribe"
 msgstr ""
 #
 # File: module/ages/view/ages/packages/add.phtml, line: 9
