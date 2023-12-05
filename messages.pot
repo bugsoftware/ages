@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-04 17:04+0000\n"
+"POT-Creation-Date: 2023-12-05 13:45+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -304,6 +304,8 @@ msgstr ""
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 60
 # File: module/ages/view/ages/companies/communicationstags.phtml, line: 54
 # File: module/ages/view/ages/companies/communicationstags.phtml, line: 56
+# File: module/ages/view/ages/companies/suppliershotelscode.phtml, line: 53
+# File: module/ages/view/ages/companies/suppliershotelscode.phtml, line: 55
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 51
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 53
 # File: module/ages/view/ages/cruises/cruiseslinesaccounting.phtml, line: 51
@@ -622,6 +624,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/supplierpayments.phtml, line: 96
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 58
 # File: module/ages/view/ages/companies/communicationstags.phtml, line: 54
+# File: module/ages/view/ages/companies/suppliershotelscode.phtml, line: 53
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 51
 # File: module/ages/view/ages/cruises/cruiseslinesaccounting.phtml, line: 51
 # File: module/ages/view/ages/cruises/images.phtml, line: 135
@@ -2116,6 +2119,7 @@ msgstr ""
 # File: module/ages/src/Controller/Cars.php, line: 897
 # File: module/ages/src/Controller/Companies.php, line: 598
 # File: module/ages/src/Controller/Companies.php, line: 697
+# File: module/ages/src/Controller/Companies.php, line: 4909
 # File: module/ages/src/Controller/Cruises.php, line: 790
 # File: module/ages/src/Controller/Cruises.php, line: 1294
 # File: module/ages/src/Controller/Cruises.php, line: 1316
@@ -2386,11 +2390,11 @@ msgstr ""
 # File: module/ages/src/Controller/Companies.php, line: 4639
 # File: module/ages/src/Controller/Companies.php, line: 4660
 # File: module/ages/src/Controller/Companies.php, line: 4681
-# File: module/ages/src/Controller/Companies.php, line: 5585
-# File: module/ages/src/Controller/Companies.php, line: 5609
-# File: module/ages/src/Controller/Companies.php, line: 5630
-# File: module/ages/src/Controller/Companies.php, line: 5651
-# File: module/ages/src/Controller/Companies.php, line: 5672
+# File: module/ages/src/Controller/Companies.php, line: 5852
+# File: module/ages/src/Controller/Companies.php, line: 5876
+# File: module/ages/src/Controller/Companies.php, line: 5897
+# File: module/ages/src/Controller/Companies.php, line: 5918
+# File: module/ages/src/Controller/Companies.php, line: 5939
 # File: module/ages/src/Controller/Cruises.php, line: 1389
 # File: module/ages/src/Controller/Cruises.php, line: 6437
 # File: module/ages/src/Controller/Cruises.php, line: 6658
@@ -3207,7 +3211,8 @@ msgstr ""
 # File: module/ages/src/Controller/Cars.php, line: 880
 # File: module/ages/src/Controller/Cars.php, line: 894
 # File: module/ages/src/Controller/Companies.php, line: 609
-# File: module/ages/src/Controller/Companies.php, line: 4851
+# File: module/ages/src/Controller/Companies.php, line: 4968
+# File: module/ages/src/Controller/Companies.php, line: 5118
 # File: module/ages/src/Controller/Cruises.php, line: 1420
 # File: module/ages/src/Controller/Cruises.php, line: 1428
 # File: module/ages/src/Controller/Cruises.php, line: 1452
@@ -3534,8 +3539,8 @@ msgstr ""
 # File: module/ages/src/Controller/Air.php, line: 4144
 # File: module/ages/src/Controller/Air.php, line: 4541
 # File: module/ages/src/Controller/Air.php, line: 4867
-# File: module/ages/src/Controller/Companies.php, line: 5176
-# File: module/ages/src/Controller/Companies.php, line: 5281
+# File: module/ages/src/Controller/Companies.php, line: 5443
+# File: module/ages/src/Controller/Companies.php, line: 5548
 # File: module/ages/src/Controller/Customers.php, line: 2516
 # File: module/ages/src/Controller/Customers.php, line: 7189
 # File: module/ages/src/Controller/Customers.php, line: 8352
@@ -3655,6 +3660,7 @@ msgstr ""
 # File: module/ages/src/Controller/Activities.php, line: 3524
 # File: module/ages/src/Controller/CMS.php, line: 614
 # File: module/ages/src/Controller/CMS.php, line: 6850
+# File: module/ages/src/Controller/Companies.php, line: 4783
 # File: module/ages/src/Controller/Google.php, line: 819
 # File: module/ages/src/Controller/Google.php, line: 977
 # File: module/ages/src/Controller/Hotels.php, line: 394
@@ -4544,8 +4550,8 @@ msgstr ""
 # File: module/ages/src/Controller/Air.php, line: 4140
 # File: module/ages/src/Controller/Air.php, line: 4537
 # File: module/ages/src/Controller/Air.php, line: 4863
-# File: module/ages/src/Controller/Companies.php, line: 5172
-# File: module/ages/src/Controller/Companies.php, line: 5277
+# File: module/ages/src/Controller/Companies.php, line: 5439
+# File: module/ages/src/Controller/Companies.php, line: 5544
 # File: module/ages/src/Controller/Hotels.php, line: 3467
 # File: module/ages/src/Controller/Hotels.php, line: 3774
 # File: module/ages/src/Controller/Hotels.php, line: 4168
@@ -4766,6 +4772,8 @@ msgstr ""
 # File: module/ages/src/Controller/Companies.php, line: 2517
 # File: module/ages/src/Controller/Companies.php, line: 3423
 # File: module/ages/src/Controller/Companies.php, line: 3608
+# File: module/ages/src/Controller/Companies.php, line: 4806
+# File: module/ages/src/Controller/Companies.php, line: 4887
 # File: module/ages/src/Controller/Cruises.php, line: 2877
 # File: module/ages/src/Controller/Cruises.php, line: 3052
 # File: module/ages/src/Controller/Cruises.php, line: 3610
@@ -4893,6 +4901,8 @@ msgstr ""
 # File: module/ages/src/Controller/Companies.php, line: 2521
 # File: module/ages/src/Controller/Companies.php, line: 3427
 # File: module/ages/src/Controller/Companies.php, line: 3612
+# File: module/ages/src/Controller/Companies.php, line: 4810
+# File: module/ages/src/Controller/Companies.php, line: 4891
 # File: module/ages/src/Controller/Cruises.php, line: 2881
 # File: module/ages/src/Controller/Cruises.php, line: 3056
 # File: module/ages/src/Controller/Cruises.php, line: 3614
@@ -5222,6 +5232,9 @@ msgstr ""
 # File: module/ages/view/ages/companies/supplierpayments_add.phtml, line: 44
 # File: module/ages/view/ages/companies/supplierpayments_edit.phtml, line: 46
 # File: module/ages/view/ages/companies/suppliersaccounting.phtml, line: 11
+# File: module/ages/view/ages/companies/suppliershotelscode.phtml, line: 16
+# File: module/ages/view/ages/companies/suppliershotelscode_add.phtml, line: 12
+# File: module/ages/view/ages/companies/suppliershotelscode_edit.phtml, line: 12
 # File: module/ages/view/ages/customers/travelling.phtml, line: 47
 # File: module/ages/view/ages/customers/travellingtomorrow.phtml, line: 47
 # File: module/ages/view/ages/dynamic-packaging/add_itinerary.phtml, line: 16
@@ -6079,7 +6092,7 @@ msgid "Tours and Activities"
 msgstr ""
 #
 # File: module/ages/src/Controller/Companies.php, line: 3404
-# File: module/ages/src/Controller/Companies.php, line: 5152
+# File: module/ages/src/Controller/Companies.php, line: 5419
 msgid "All Branches"
 msgstr ""
 #
@@ -9546,6 +9559,9 @@ msgstr ""
 # File: module/ages/view/ages/companies/supplierpayments_add.phtml, line: 22
 # File: module/ages/view/ages/companies/supplierpayments_edit.phtml, line: 20
 # File: module/ages/view/ages/companies/supplierpayments_edit.phtml, line: 22
+# File: module/ages/view/ages/companies/suppliershotelscode.phtml, line: 13
+# File: module/ages/view/ages/companies/suppliershotelscode_add.phtml, line: 14
+# File: module/ages/view/ages/companies/suppliershotelscode_edit.phtml, line: 15
 # File: module/ages/view/ages/dynamic-packaging/add.phtml, line: 57
 # File: module/ages/view/ages/dynamic-packaging/edit.phtml, line: 59
 # File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 28
@@ -12172,6 +12188,7 @@ msgstr ""
 # File: module/ages/view/ages/air/edit_familyfares.phtml, line: 20
 # File: module/ages/view/ages/air/familyfares.phtml, line: 17
 # File: module/ages/view/ages/companies/listtype.phtml, line: 18
+# File: module/ages/view/ages/companies/suppliershotelscode.phtml, line: 12
 # File: module/ages/view/ages/cruises/editstaticcruiseslines.phtml, line: 40
 # File: module/ages/view/ages/cruises/editstaticcruiseslines.phtml, line: 43
 # File: module/ages/view/ages/cruises/editstaticcruisesports.phtml, line: 43
@@ -12804,6 +12821,8 @@ msgstr ""
 # File: module/ages/view/ages/companies/editcurrency.phtml, line: 19
 # File: module/ages/view/ages/companies/locations_add.phtml, line: 20
 # File: module/ages/view/ages/companies/locations_edit.phtml, line: 22
+# File: module/ages/view/ages/companies/suppliershotelscode_add.phtml, line: 15
+# File: module/ages/view/ages/companies/suppliershotelscode_edit.phtml, line: 15
 # File: module/ages/view/ages/cruises/add_ships.phtml, line: 14
 # File: module/ages/view/ages/cruises/edit_ships.phtml, line: 14
 # File: module/ages/view/ages/cruises/editstaticcruiseslines.phtml, line: 27
@@ -14200,6 +14219,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 21
 # File: module/ages/view/ages/companies/suppliersaccounting.phtml, line: 14
 # File: module/ages/view/ages/companies/communicationstags.phtml, line: 14
+# File: module/ages/view/ages/companies/suppliershotelscode.phtml, line: 17
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 16
 # File: module/ages/view/ages/cruises/cruiseslinesaccounting.phtml, line: 16
 # File: module/ages/view/ages/cruises/images.phtml, line: 20
@@ -14503,6 +14523,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 34
 # File: module/ages/view/ages/companies/suppliersaccounting.phtml, line: 23
 # File: module/ages/view/ages/companies/communicationstags.phtml, line: 30
+# File: module/ages/view/ages/companies/suppliershotelscode.phtml, line: 29
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 27
 # File: module/ages/view/ages/cruises/cruiseslinesaccounting.phtml, line: 27
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 79
@@ -15202,6 +15223,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/edit_cruises.phtml, line: 2
 # File: module/ages/view/ages/companies/listtype.phtml, line: 9
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 9
+# File: module/ages/view/ages/companies/suppliershotelscode_edit.phtml, line: 14
 # File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 10
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentspay.phtml, line: 12
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentsunknown.phtml, line: 12
@@ -15585,6 +15607,8 @@ msgstr ""
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 56
 # File: module/ages/view/ages/companies/communicationstags.phtml, line: 32
 # File: module/ages/view/ages/companies/communicationstags.phtml, line: 52
+# File: module/ages/view/ages/companies/suppliershotelscode.phtml, line: 31
+# File: module/ages/view/ages/companies/suppliershotelscode.phtml, line: 51
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 29
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 49
 # File: module/ages/view/ages/cruises/cruiseslinesaccounting.phtml, line: 29
@@ -16887,6 +16911,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/suppliers.phtml, line: 104
 # File: module/ages/view/ages/companies/suppliersaccounting.phtml, line: 64
 # File: module/ages/view/ages/companies/communicationstags.phtml, line: 100
+# File: module/ages/view/ages/companies/suppliershotelscode.phtml, line: 99
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 97
 # File: module/ages/view/ages/cruises/cruiseslinesaccounting.phtml, line: 97
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 131
@@ -22194,6 +22219,7 @@ msgstr ""
 # File: module/ages/view/ages/air/add_pcc.phtml, line: 29
 # File: module/ages/view/ages/air/add_priority.phtml, line: 26
 # File: module/ages/view/ages/air/add_private.phtml, line: 17
+# File: module/ages/view/ages/companies/suppliershotelscode_add.phtml, line: 23
 # File: module/ages/view/ages/cruises/add_cabins.phtml, line: 19
 # File: module/ages/view/ages/cruises/add_cruiseslinesaccounting.phtml, line: 16
 # File: module/ages/view/ages/cruises/add_ships.phtml, line: 149
@@ -30381,6 +30407,8 @@ msgstr ""
 #
 # File: module/ages/view/ages/companies/suppliersaccounting.phtml, line: 12
 # File: module/ages/view/ages/companies/suppliersaccounting_edit.phtml, line: 12
+# File: module/ages/view/ages/companies/suppliershotelscode_add.phtml, line: 18
+# File: module/ages/view/ages/companies/suppliershotelscode_edit.phtml, line: 16
 # File: module/ages/view/ages/hotels/accounting.phtml, line: 15
 # File: module/ages/view/ages/hotels/add_accounting.phtml, line: 18
 # File: module/ages/view/ages/hotels/add_taxes.phtml, line: 21
@@ -30392,6 +30420,8 @@ msgstr ""
 #
 # File: module/ages/view/ages/companies/suppliersaccounting.phtml, line: 13
 # File: module/ages/view/ages/companies/suppliersaccounting_edit.phtml, line: 13
+# File: module/ages/view/ages/companies/suppliershotelscode_add.phtml, line: 19
+# File: module/ages/view/ages/companies/suppliershotelscode_edit.phtml, line: 17
 # File: module/ages/view/ages/hotels/accounting.phtml, line: 16
 # File: module/ages/view/ages/hotels/add_accounting.phtml, line: 19
 # File: module/ages/view/ages/hotels/add_taxes.phtml, line: 22
@@ -30456,6 +30486,80 @@ msgstr ""
 #
 # File: module/ages/view/ages/companies/addcommunicationstags.phtml, line: 19
 msgid "Add Communication Tag"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/suppliershotelscode.phtml, line: 5
+msgid "Hotels Supplier Code"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/suppliershotelscode.phtml, line: 14
+msgid "Code GW"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/suppliershotelscode.phtml, line: 15
+msgid "Code Senju"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/suppliershotelscode.phtml, line: 52
+# File: module/ages/view/ages/hotels/accounting.phtml, line: 62
+msgid "Are you sure you want to delete this accounting?"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/suppliershotelscode.phtml, line: 83
+msgid "Add New Hotel Supplier Code"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/suppliershotelscode.phtml, line: 93
+# File: module/ages/view/ages/companies/suppliershotelscode.phtml, line: 94
+# File: module/ages/view/ages/companies/suppliershotelscode.phtml, line: 99
+# File: module/ages/view/ages/hotels/accounting.phtml, line: 5
+# File: module/ages/view/ages/hotels/accounting.phtml, line: 103
+# File: module/ages/view/ages/hotels/accounting.phtml, line: 104
+# File: module/ages/view/ages/hotels/accounting.phtml, line: 109
+msgid "Accounting Connectivity"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/suppliershotelscode_add.phtml, line: 4
+msgid "Add new Hotel Supplier Code"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/suppliershotelscode_add.phtml, line: 56
+# File: module/ages/view/ages/companies/suppliershotelscode_edit.phtml, line: 59
+# File: module/ages/view/ages/hotels/add_accounting.phtml, line: 56
+# File: module/ages/view/ages/hotels/edit_accounting.phtml, line: 58
+msgid "Please enter Accounting Senju Code"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/suppliershotelscode_add.phtml, line: 61
+# File: module/ages/view/ages/hotels/add_accounting.phtml, line: 61
+msgid "Please enter Accounting Globalware Code"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/suppliershotelscode_edit.phtml, line: 5
+msgid "Edit Hotel Supplier Code"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/suppliershotelscode_edit.phtml, line: 13
+# File: module/ages/view/ages/hotels/edit_accounting.phtml, line: 13
+# File: module/ages/view/ages/hotels/edit_taxes.phtml, line: 14
+msgid "Reset Hotel"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/suppliershotelscode_edit.phtml, line: 14
+# File: module/ages/view/ages/hotels/add_accounting.phtml, line: 14
+# File: module/ages/view/ages/hotels/add_taxes.phtml, line: 18
+# File: module/ages/view/ages/hotels/edit_accounting.phtml, line: 14
+# File: module/ages/view/ages/hotels/edit_taxes.phtml, line: 18
+msgid "Source Market"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/suppliershotelscode_edit.phtml, line: 22
+msgid "Update Supplier Code"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/suppliershotelscode_edit.phtml, line: 56
+# File: module/ages/view/ages/hotels/edit_accounting.phtml, line: 55
+msgid "Please enter Accounting GW Code"
 msgstr ""
 #
 # File: module/ages/view/ages/cruises/add_cabins.phtml, line: 4
@@ -35794,17 +35898,6 @@ msgstr ""
 msgid "Contact Name"
 msgstr ""
 #
-# File: module/ages/view/ages/hotels/accounting.phtml, line: 5
-# File: module/ages/view/ages/hotels/accounting.phtml, line: 103
-# File: module/ages/view/ages/hotels/accounting.phtml, line: 104
-# File: module/ages/view/ages/hotels/accounting.phtml, line: 109
-msgid "Accounting Connectivity"
-msgstr ""
-#
-# File: module/ages/view/ages/hotels/accounting.phtml, line: 62
-msgid "Are you sure you want to delete this accounting?"
-msgstr ""
-#
 # File: module/ages/view/ages/hotels/accounting.phtml, line: 93
 msgid "Add New Accounting Connectivity"
 msgstr ""
@@ -35975,22 +36068,6 @@ msgstr ""
 #
 # File: module/ages/view/ages/hotels/add_accounting.phtml, line: 4
 msgid "Add new Accounting Connectivity"
-msgstr ""
-#
-# File: module/ages/view/ages/hotels/add_accounting.phtml, line: 14
-# File: module/ages/view/ages/hotels/add_taxes.phtml, line: 18
-# File: module/ages/view/ages/hotels/edit_accounting.phtml, line: 14
-# File: module/ages/view/ages/hotels/edit_taxes.phtml, line: 18
-msgid "Source Market"
-msgstr ""
-#
-# File: module/ages/view/ages/hotels/add_accounting.phtml, line: 56
-# File: module/ages/view/ages/hotels/edit_accounting.phtml, line: 58
-msgid "Please enter Accounting Senju Code"
-msgstr ""
-#
-# File: module/ages/view/ages/hotels/add_accounting.phtml, line: 61
-msgid "Please enter Accounting Globalware Code"
 msgstr ""
 #
 # File: module/ages/view/ages/hotels/add_cancelpolicies.phtml, line: 4
@@ -36479,17 +36556,8 @@ msgstr ""
 msgid "Edit Accounting Connectivity"
 msgstr ""
 #
-# File: module/ages/view/ages/hotels/edit_accounting.phtml, line: 13
-# File: module/ages/view/ages/hotels/edit_taxes.phtml, line: 14
-msgid "Reset Hotel"
-msgstr ""
-#
 # File: module/ages/view/ages/hotels/edit_accounting.phtml, line: 21
 msgid "Update Accounting Connectivity"
-msgstr ""
-#
-# File: module/ages/view/ages/hotels/edit_accounting.phtml, line: 55
-msgid "Please enter Accounting GW Code"
 msgstr ""
 #
 # File: module/ages/view/ages/hotels/edit_cancelpolicies.phtml, line: 5
