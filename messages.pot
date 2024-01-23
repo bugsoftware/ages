@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 19:32+0000\n"
+"POT-Creation-Date: 2024-01-23 20:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22655,7 +22655,7 @@ msgstr ""
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 28
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 31
 # File: module/setup/view/settings/realtimepayments_edit.phtml, line: 29
-# File: module/setup/view/settings/settings.phtml, line: 1260
+# File: module/setup/view/settings/settings.phtml, line: 1279
 # File: module/setup/view/settings/cities_edit.phtml, line: 784
 # File: module/setup/view/settings/countries_edit.phtml, line: 169
 # File: module/setup/view/settings/states_edit.phtml, line: 138
@@ -29910,6 +29910,7 @@ msgstr ""
 # File: module/setup/view/settings/settings.phtml, line: 259
 # File: module/setup/view/settings/settings.phtml, line: 1083
 # File: module/setup/view/settings/settings.phtml, line: 1197
+# File: module/setup/view/settings/settings.phtml, line: 1274
 msgid "(For multiple email alerts use semicolon (;) (For example email1@bug-software.com;email2@bug-software.com))"
 msgstr ""
 #
@@ -56503,6 +56504,7 @@ msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1081
 # File: module/setup/view/settings/settings.phtml, line: 1082
+# File: module/setup/view/settings/settings.phtml, line: 1273
 msgid "Send Auto Cancellation Emails To"
 msgstr ""
 #
@@ -56647,6 +56649,18 @@ msgstr ""
 # File: module/setup/view/settings/settings.phtml, line: 1255
 # File: module/setup/view/settings/settings.phtml, line: 1256
 msgid "Default Company Id"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1263
+msgid "Moneygram Payment Handling"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1268
+msgid "Enable Moneygram Payment Handling"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1272
+msgid "Send Moneygram Payment Email Alerts To"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 91
