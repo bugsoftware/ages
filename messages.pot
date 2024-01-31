@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-31 10:36+0000\n"
+"POT-Creation-Date: 2024-01-31 13:48+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4456,6 +4456,7 @@ msgstr ""
 # File: module/setup/view/settings/b2bwallet.phtml, line: 113
 # File: module/setup/view/trains/era.phtml, line: 61
 # File: module/setup/view/trains/sat.phtml, line: 61
+# File: module/setup/view/trains/travelport.phtml, line: 101
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 72
 # File: module/setup/view/transfers/actiontravel.phtml, line: 63
 # File: module/setup/view/transfers/gltours.phtml, line: 62
@@ -18890,6 +18891,7 @@ msgstr ""
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 17
 # File: module/setup/view/trains/era.phtml, line: 30
 # File: module/setup/view/trains/sat.phtml, line: 30
+# File: module/setup/view/trains/travelport.phtml, line: 23
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 23
 # File: module/setup/view/transfers/actiontravel.phtml, line: 23
 # File: module/setup/view/transfers/gltours.phtml, line: 23
@@ -24811,6 +24813,7 @@ msgstr ""
 # File: module/setup/view/intelligence/citypairs_add.phtml, line: 16
 # File: module/setup/view/intelligence/citypairs_edit.phtml, line: 16
 # File: module/setup/view/settings/b2bwallet.phtml, line: 34
+# File: module/setup/view/trains/travelport.phtml, line: 34
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 33
 # File: module/setup/view/transfers/nexustours.phtml, line: 35
 msgid "Branch"
@@ -27599,6 +27602,8 @@ msgstr ""
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 102
 # File: module/setup/view/cars/travelport.phtml, line: 67
 # File: module/setup/view/cars/travelport.phtml, line: 68
+# File: module/setup/view/trains/travelport.phtml, line: 67
+# File: module/setup/view/trains/travelport.phtml, line: 68
 msgid "PCC"
 msgstr ""
 #
@@ -43419,6 +43424,7 @@ msgstr ""
 # File: module/setup/view/settings/b2bwallet.phtml, line: 26
 # File: module/setup/view/trains/era.phtml, line: 33
 # File: module/setup/view/trains/sat.phtml, line: 33
+# File: module/setup/view/trains/travelport.phtml, line: 26
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 26
 # File: module/setup/view/transfers/actiontravel.phtml, line: 26
 # File: module/setup/view/transfers/gltours.phtml, line: 26
@@ -43575,6 +43581,7 @@ msgstr ""
 # File: module/setup/view/hotels/meliacuba.phtml, line: 41
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 41
 # File: module/setup/view/settings/b2bwallet.phtml, line: 37
+# File: module/setup/view/trains/travelport.phtml, line: 37
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 36
 # File: module/setup/view/transfers/nexustours.phtml, line: 38
 msgid "Default - All Branch"
@@ -43845,6 +43852,7 @@ msgstr ""
 # File: module/setup/view/packages/wamos.phtml, line: 45
 # File: module/setup/view/packages/wamos.phtml, line: 46
 # File: module/setup/view/settings/b2bwallet.phtml, line: 74
+# File: module/setup/view/trains/travelport.phtml, line: 53
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 52
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 53
 # File: module/setup/view/transfers/gltours.phtml, line: 34
@@ -44318,6 +44326,8 @@ msgstr ""
 # File: module/setup/view/trains/era.phtml, line: 48
 # File: module/setup/view/trains/sat.phtml, line: 47
 # File: module/setup/view/trains/sat.phtml, line: 48
+# File: module/setup/view/trains/travelport.phtml, line: 87
+# File: module/setup/view/trains/travelport.phtml, line: 88
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 34
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 35
 # File: module/setup/view/transfers/actiontravel.phtml, line: 40
@@ -44665,6 +44675,8 @@ msgstr ""
 # File: module/setup/view/trains/era.phtml, line: 51
 # File: module/setup/view/trains/sat.phtml, line: 50
 # File: module/setup/view/trains/sat.phtml, line: 51
+# File: module/setup/view/trains/travelport.phtml, line: 90
+# File: module/setup/view/trains/travelport.phtml, line: 91
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 37
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 38
 # File: module/setup/view/transfers/actiontravel.phtml, line: 43
@@ -45010,6 +45022,8 @@ msgstr ""
 # File: module/setup/view/trains/era.phtml, line: 54
 # File: module/setup/view/trains/sat.phtml, line: 53
 # File: module/setup/view/trains/sat.phtml, line: 54
+# File: module/setup/view/trains/travelport.phtml, line: 93
+# File: module/setup/view/trains/travelport.phtml, line: 94
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 40
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 41
 # File: module/setup/view/transfers/actiontravel.phtml, line: 46
@@ -45357,6 +45371,8 @@ msgstr ""
 # File: module/setup/view/trains/era.phtml, line: 58
 # File: module/setup/view/trains/sat.phtml, line: 57
 # File: module/setup/view/trains/sat.phtml, line: 58
+# File: module/setup/view/trains/travelport.phtml, line: 96
+# File: module/setup/view/trains/travelport.phtml, line: 97
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 45
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 46
 # File: module/setup/view/transfers/actiontravel.phtml, line: 49
@@ -45816,6 +45832,7 @@ msgstr ""
 # File: module/setup/view/packages/wamos.phtml, line: 137
 # File: module/setup/view/trains/era.phtml, line: 127
 # File: module/setup/view/trains/sat.phtml, line: 127
+# File: module/setup/view/trains/travelport.phtml, line: 184
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 141
 # File: module/setup/view/transfers/actiontravel.phtml, line: 123
 # File: module/setup/view/transfers/gltours.phtml, line: 122
@@ -46098,6 +46115,7 @@ msgstr ""
 # File: module/setup/view/packages/wamos.phtml, line: 140
 # File: module/setup/view/trains/era.phtml, line: 130
 # File: module/setup/view/trains/sat.phtml, line: 130
+# File: module/setup/view/trains/travelport.phtml, line: 205
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 147
 # File: module/setup/view/transfers/actiontravel.phtml, line: 126
 # File: module/setup/view/transfers/gltours.phtml, line: 125
@@ -46281,6 +46299,7 @@ msgstr ""
 # File: module/setup/view/packages/wamos.phtml, line: 143
 # File: module/setup/view/trains/era.phtml, line: 133
 # File: module/setup/view/trains/sat.phtml, line: 133
+# File: module/setup/view/trains/travelport.phtml, line: 208
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 150
 # File: module/setup/view/transfers/actiontravel.phtml, line: 129
 # File: module/setup/view/transfers/gltours.phtml, line: 128
@@ -46464,6 +46483,7 @@ msgstr ""
 # File: module/setup/view/packages/wamos.phtml, line: 146
 # File: module/setup/view/trains/era.phtml, line: 136
 # File: module/setup/view/trains/sat.phtml, line: 136
+# File: module/setup/view/trains/travelport.phtml, line: 211
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 153
 # File: module/setup/view/transfers/actiontravel.phtml, line: 132
 # File: module/setup/view/transfers/gltours.phtml, line: 131
@@ -46726,6 +46746,7 @@ msgstr ""
 # File: module/setup/view/packages/universalassistance.phtml, line: 220
 # File: module/setup/view/packages/wamos.phtml, line: 134
 # File: module/setup/view/settings/b2bwallet.phtml, line: 203
+# File: module/setup/view/trains/travelport.phtml, line: 181
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 135
 # File: module/setup/view/transfers/gltours.phtml, line: 119
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 218
@@ -47699,6 +47720,8 @@ msgstr ""
 # File: module/setup/view/cruises/amadeus.phtml, line: 79
 # File: module/setup/view/hotels/amadeus.phtml, line: 71
 # File: module/setup/view/hotels/amadeus.phtml, line: 72
+# File: module/setup/view/trains/travelport.phtml, line: 81
+# File: module/setup/view/trains/travelport.phtml, line: 82
 msgid "Queue Number"
 msgstr ""
 #
@@ -48131,6 +48154,8 @@ msgstr ""
 # File: module/setup/view/air/travelport.phtml, line: 101
 # File: module/setup/view/cars/travelport.phtml, line: 72
 # File: module/setup/view/cars/travelport.phtml, line: 73
+# File: module/setup/view/trains/travelport.phtml, line: 72
+# File: module/setup/view/trains/travelport.phtml, line: 73
 msgid "Travel Agency Phone Number"
 msgstr ""
 #
@@ -48140,12 +48165,15 @@ msgstr ""
 # File: module/setup/view/air/travelport.phtml, line: 105
 # File: module/setup/view/cars/travelport.phtml, line: 75
 # File: module/setup/view/cars/travelport.phtml, line: 76
+# File: module/setup/view/trains/travelport.phtml, line: 75
+# File: module/setup/view/trains/travelport.phtml, line: 76
 msgid "Travel Agency City"
 msgstr ""
 #
 # File: module/setup/view/air/galileo.phtml, line: 88
 # File: module/setup/view/air/travelport.phtml, line: 111
 # File: module/setup/view/cars/travelport.phtml, line: 79
+# File: module/setup/view/trains/travelport.phtml, line: 79
 msgid "Enable QEP to Pseudo City"
 msgstr ""
 #
@@ -48168,17 +48196,20 @@ msgstr ""
 # File: module/setup/view/air/galileo.phtml, line: 184
 # File: module/setup/view/air/travelport.phtml, line: 439
 # File: module/setup/view/cars/travelport.phtml, line: 190
+# File: module/setup/view/trains/travelport.phtml, line: 190
 msgid "Please enter Travel Agency Phone Number"
 msgstr ""
 #
 # File: module/setup/view/air/galileo.phtml, line: 187
 # File: module/setup/view/air/travelport.phtml, line: 442
 # File: module/setup/view/cars/travelport.phtml, line: 193
+# File: module/setup/view/trains/travelport.phtml, line: 193
 msgid "Please enter Travel Agency City"
 msgstr ""
 #
 # File: module/setup/view/air/galileo.phtml, line: 190
 # File: module/setup/view/cars/travelport.phtml, line: 196
+# File: module/setup/view/trains/travelport.phtml, line: 196
 msgid "Please enter Queue Number"
 msgstr ""
 #
@@ -48190,6 +48221,7 @@ msgstr ""
 # File: module/setup/view/air/copa.phtml, line: 254
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 282
 # File: module/setup/view/cars/travelport.phtml, line: 199
+# File: module/setup/view/trains/travelport.phtml, line: 199
 msgid "Please enter PCC"
 msgstr ""
 #
@@ -48678,6 +48710,7 @@ msgstr ""
 # File: module/setup/view/air/travelport.phtml, line: 13
 # File: module/setup/view/cars/travelport.phtml, line: 13
 # File: module/setup/view/hotels/travelport.phtml, line: 13
+# File: module/setup/view/trains/travelport.phtml, line: 13
 msgid "Enable Travelport"
 msgstr ""
 #
@@ -48685,6 +48718,8 @@ msgstr ""
 # File: module/setup/view/air/travelport.phtml, line: 16
 # File: module/setup/view/cars/travelport.phtml, line: 15
 # File: module/setup/view/cars/travelport.phtml, line: 16
+# File: module/setup/view/trains/travelport.phtml, line: 15
+# File: module/setup/view/trains/travelport.phtml, line: 16
 msgid "Travelport Universal API ID"
 msgstr ""
 #
@@ -48692,6 +48727,8 @@ msgstr ""
 # File: module/setup/view/air/travelport.phtml, line: 19
 # File: module/setup/view/cars/travelport.phtml, line: 18
 # File: module/setup/view/cars/travelport.phtml, line: 19
+# File: module/setup/view/trains/travelport.phtml, line: 18
+# File: module/setup/view/trains/travelport.phtml, line: 19
 msgid "Travelport Universal API Password"
 msgstr ""
 #
@@ -48701,6 +48738,8 @@ msgstr ""
 # File: module/setup/view/cars/travelport.phtml, line: 48
 # File: module/setup/view/hotels/travelport.phtml, line: 45
 # File: module/setup/view/hotels/travelport.phtml, line: 46
+# File: module/setup/view/trains/travelport.phtml, line: 47
+# File: module/setup/view/trains/travelport.phtml, line: 48
 msgid "Branch Code"
 msgstr ""
 #
@@ -48710,6 +48749,8 @@ msgstr ""
 # File: module/setup/view/cars/travelport.phtml, line: 51
 # File: module/setup/view/hotels/travelport.phtml, line: 49
 # File: module/setup/view/hotels/travelport.phtml, line: 50
+# File: module/setup/view/trains/travelport.phtml, line: 50
+# File: module/setup/view/trains/travelport.phtml, line: 51
 msgid "Authorized By"
 msgstr ""
 #
@@ -48723,6 +48764,7 @@ msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 71
 # File: module/setup/view/cars/travelport.phtml, line: 58
+# File: module/setup/view/trains/travelport.phtml, line: 58
 msgid "Pre-Production (APAC) https://apac.universal-api.pp.travelport.com/B2BGateway/connect/uAPI"
 msgstr ""
 #
@@ -48956,17 +48998,20 @@ msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 424
 # File: module/setup/view/cars/travelport.phtml, line: 175
+# File: module/setup/view/trains/travelport.phtml, line: 175
 msgid "Please enter Travelport Universal API ID"
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 427
 # File: module/setup/view/cars/travelport.phtml, line: 178
+# File: module/setup/view/trains/travelport.phtml, line: 178
 msgid "Please enter Travelport Universal API Password"
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 436
 # File: module/setup/view/cars/travelport.phtml, line: 187
 # File: module/setup/view/hotels/travelport.phtml, line: 181
+# File: module/setup/view/trains/travelport.phtml, line: 187
 msgid "Please enter branch code"
 msgstr ""
 #
@@ -48986,6 +49031,7 @@ msgstr ""
 # File: module/setup/view/air/travelport.phtml, line: 457
 # File: module/setup/view/cars/travelport.phtml, line: 202
 # File: module/setup/view/hotels/travelport.phtml, line: 184
+# File: module/setup/view/trains/travelport.phtml, line: 202
 msgid "Please enter authorized by"
 msgstr ""
 #
@@ -50341,31 +50387,37 @@ msgstr ""
 #
 # File: module/setup/view/cars/travelport.phtml, line: 56
 # File: module/setup/view/hotels/travelport.phtml, line: 77
+# File: module/setup/view/trains/travelport.phtml, line: 56
 msgid "Pre-Production (Americas) https://americas.copy-webservices.travelport.com/B2BGateway/connect/uAPI"
 msgstr ""
 #
 # File: module/setup/view/cars/travelport.phtml, line: 57
 # File: module/setup/view/hotels/travelport.phtml, line: 78
+# File: module/setup/view/trains/travelport.phtml, line: 57
 msgid "Production (Americas) https://americas.webservices.travelport.com/B2BGateway/connect/uAPI"
 msgstr ""
 #
 # File: module/setup/view/cars/travelport.phtml, line: 59
 # File: module/setup/view/hotels/travelport.phtml, line: 79
+# File: module/setup/view/trains/travelport.phtml, line: 59
 msgid "Pre-Production (APAC) https://apac.copy-webservices.travelport.com/B2BGateway/connect/uAPI"
 msgstr ""
 #
 # File: module/setup/view/cars/travelport.phtml, line: 60
 # File: module/setup/view/hotels/travelport.phtml, line: 80
+# File: module/setup/view/trains/travelport.phtml, line: 60
 msgid "Production (APAC) https://apac.webservices.travelport.com/B2BGateway/connect/uAPI"
 msgstr ""
 #
 # File: module/setup/view/cars/travelport.phtml, line: 61
 # File: module/setup/view/hotels/travelport.phtml, line: 81
+# File: module/setup/view/trains/travelport.phtml, line: 61
 msgid "Pre-Production (EMEA) https://emea.copy-webservices.travelport.com/B2BGateway/connect/uAPI"
 msgstr ""
 #
 # File: module/setup/view/cars/travelport.phtml, line: 62
 # File: module/setup/view/hotels/travelport.phtml, line: 82
+# File: module/setup/view/trains/travelport.phtml, line: 62
 msgid "Production (EMEA) https://emea.webservices.travelport.com/B2BGateway/connect/uAPI"
 msgstr ""
 #
