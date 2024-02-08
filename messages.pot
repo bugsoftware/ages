@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-07 13:33+0000\n"
+"POT-Creation-Date: 2024-02-08 14:19+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18871,7 +18871,7 @@ msgstr ""
 # File: module/setup/view/hotels/imperatours.phtml, line: 30
 # File: module/setup/view/hotels/meliacuba.phtml, line: 27
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 27
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 26
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 22
 # File: module/setup/view/hotels/hotetec.phtml, line: 26
 # File: module/setup/view/packages/abreu.phtml, line: 26
 # File: module/setup/view/packages/assistcard.phtml, line: 24
@@ -19687,8 +19687,6 @@ msgstr ""
 # File: module/setup/view/hotels/meliacuba.phtml, line: 22
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 21
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 22
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 20
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 21
 # File: module/setup/view/hotels/hotetec.phtml, line: 20
 # File: module/setup/view/hotels/hotetec.phtml, line: 21
 # File: module/setup/view/packages/abreu.phtml, line: 20
@@ -23586,7 +23584,6 @@ msgstr ""
 # File: module/setup/view/hotels/ratehawk.phtml, line: 205
 # File: module/setup/view/hotels/meliacuba.phtml, line: 194
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 194
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 137
 # File: module/setup/view/hotels/hotetec.phtml, line: 137
 # File: module/setup/view/packages/abreu.phtml, line: 111
 # File: module/setup/view/packages/citytours.phtml, line: 130
@@ -24826,7 +24823,7 @@ msgstr ""
 # File: module/setup/view/hotels/imperatours.phtml, line: 41
 # File: module/setup/view/hotels/meliacuba.phtml, line: 38
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 38
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 37
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 33
 # File: module/setup/view/hotels/hotetec.phtml, line: 37
 # File: module/setup/view/intelligence/citypairs.phtml, line: 22
 # File: module/setup/view/intelligence/citypairs_add.phtml, line: 16
@@ -43428,7 +43425,7 @@ msgstr ""
 # File: module/setup/view/hotels/imperatours.phtml, line: 33
 # File: module/setup/view/hotels/meliacuba.phtml, line: 30
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 30
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 29
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 25
 # File: module/setup/view/hotels/hotetec.phtml, line: 29
 # File: module/setup/view/packages/abreu.phtml, line: 29
 # File: module/setup/view/packages/assistcard.phtml, line: 27
@@ -43603,7 +43600,7 @@ msgstr ""
 # File: module/setup/view/hotels/imperatours.phtml, line: 44
 # File: module/setup/view/hotels/meliacuba.phtml, line: 41
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 41
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 40
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 36
 # File: module/setup/view/hotels/hotetec.phtml, line: 40
 # File: module/setup/view/settings/b2bwallet.phtml, line: 37
 # File: module/setup/view/trains/travelport.phtml, line: 37
@@ -45873,7 +45870,7 @@ msgstr ""
 # File: module/setup/view/hotels/imperatours.phtml, line: 158
 # File: module/setup/view/hotels/meliacuba.phtml, line: 197
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 197
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 140
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 137
 # File: module/setup/view/hotels/hotetec.phtml, line: 140
 # File: module/setup/view/packages/abreu.phtml, line: 117
 # File: module/setup/view/packages/assistcard.phtml, line: 187
@@ -45971,7 +45968,7 @@ msgstr ""
 # File: module/setup/view/hotels/rakutencug.phtml, line: 153
 # File: module/setup/view/hotels/meliacuba.phtml, line: 200
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 200
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 143
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 140
 # File: module/setup/view/hotels/hotetec.phtml, line: 143
 # File: module/setup/view/transfers/nexustours.phtml, line: 153
 msgid "Please enter Service URL"
@@ -54904,6 +54901,15 @@ msgstr ""
 #
 # File: module/setup/view/hotels/gnrconnect.phtml, line: 13
 msgid "Enable GNRconnect"
+msgstr ""
+#
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 44
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 45
+msgid "Static data End Point"
+msgstr ""
+#
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 143
+msgid "Please enter Static data End Point"
 msgstr ""
 #
 # File: module/setup/view/hotels/hotetec.phtml, line: 13
