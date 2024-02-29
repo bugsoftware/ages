@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-27 14:24+0000\n"
+"POT-Creation-Date: 2024-02-29 19:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49129,10 +49129,12 @@ msgid "Authorized By"
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 69
+# File: module/setup/view/cars/travelport.phtml, line: 56
 msgid "Pre-Production (Americas) https://americas.universal-api.pp.travelport.com/B2BGateway/connect/uAPI"
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 70
+# File: module/setup/view/cars/travelport.phtml, line: 57
 msgid "Production (Americas) https://americas.universal-api.travelport.com/B2BGateway/connect/uAPI"
 msgstr ""
 #
@@ -49143,18 +49145,22 @@ msgid "Pre-Production (APAC) https://apac.universal-api.pp.travelport.com/B2BGat
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 72
+# File: module/setup/view/cars/travelport.phtml, line: 59
 msgid "Production (APAC) https://apac.universal-api.travelport.com/B2BGateway/connect/uAPI"
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 73
+# File: module/setup/view/cars/travelport.phtml, line: 60
 msgid "Pre-Production (EMEA) https://emea.universal-api.pp.travelport.com/B2BGateway/connect/uAPI"
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 74
+# File: module/setup/view/cars/travelport.phtml, line: 61
 msgid "Production (EMEA) https://emea.universal-api.travelport.com/B2BGateway/connect/uAPI"
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 75
+# File: module/setup/view/cars/travelport.phtml, line: 62
 msgid "Profiling https://twsprofiler.travelport.com/Service/Default.ashx/AirService"
 msgstr ""
 #
@@ -50852,42 +50858,6 @@ msgstr ""
 #
 # File: module/setup/view/cars/sabre.phtml, line: 156
 msgid "Please enter Webservices URL"
-msgstr ""
-#
-# File: module/setup/view/cars/travelport.phtml, line: 56
-# File: module/setup/view/hotels/travelport.phtml, line: 77
-# File: module/setup/view/trains/travelport.phtml, line: 56
-msgid "Pre-Production (Americas) https://americas.copy-webservices.travelport.com/B2BGateway/connect/uAPI"
-msgstr ""
-#
-# File: module/setup/view/cars/travelport.phtml, line: 57
-# File: module/setup/view/hotels/travelport.phtml, line: 78
-# File: module/setup/view/trains/travelport.phtml, line: 57
-msgid "Production (Americas) https://americas.webservices.travelport.com/B2BGateway/connect/uAPI"
-msgstr ""
-#
-# File: module/setup/view/cars/travelport.phtml, line: 59
-# File: module/setup/view/hotels/travelport.phtml, line: 79
-# File: module/setup/view/trains/travelport.phtml, line: 59
-msgid "Pre-Production (APAC) https://apac.copy-webservices.travelport.com/B2BGateway/connect/uAPI"
-msgstr ""
-#
-# File: module/setup/view/cars/travelport.phtml, line: 60
-# File: module/setup/view/hotels/travelport.phtml, line: 80
-# File: module/setup/view/trains/travelport.phtml, line: 60
-msgid "Production (APAC) https://apac.webservices.travelport.com/B2BGateway/connect/uAPI"
-msgstr ""
-#
-# File: module/setup/view/cars/travelport.phtml, line: 61
-# File: module/setup/view/hotels/travelport.phtml, line: 81
-# File: module/setup/view/trains/travelport.phtml, line: 61
-msgid "Pre-Production (EMEA) https://emea.copy-webservices.travelport.com/B2BGateway/connect/uAPI"
-msgstr ""
-#
-# File: module/setup/view/cars/travelport.phtml, line: 62
-# File: module/setup/view/hotels/travelport.phtml, line: 82
-# File: module/setup/view/trains/travelport.phtml, line: 62
-msgid "Production (EMEA) https://emea.webservices.travelport.com/B2BGateway/connect/uAPI"
 msgstr ""
 #
 # File: module/setup/view/cruises/amadeus.phtml, line: 13
@@ -55018,6 +54988,36 @@ msgstr ""
 #
 # File: module/setup/view/hotels/travelport.phtml, line: 74
 msgid "Universal API URL"
+msgstr ""
+#
+# File: module/setup/view/hotels/travelport.phtml, line: 77
+# File: module/setup/view/trains/travelport.phtml, line: 56
+msgid "Pre-Production (Americas) https://americas.copy-webservices.travelport.com/B2BGateway/connect/uAPI"
+msgstr ""
+#
+# File: module/setup/view/hotels/travelport.phtml, line: 78
+# File: module/setup/view/trains/travelport.phtml, line: 57
+msgid "Production (Americas) https://americas.webservices.travelport.com/B2BGateway/connect/uAPI"
+msgstr ""
+#
+# File: module/setup/view/hotels/travelport.phtml, line: 79
+# File: module/setup/view/trains/travelport.phtml, line: 59
+msgid "Pre-Production (APAC) https://apac.copy-webservices.travelport.com/B2BGateway/connect/uAPI"
+msgstr ""
+#
+# File: module/setup/view/hotels/travelport.phtml, line: 80
+# File: module/setup/view/trains/travelport.phtml, line: 60
+msgid "Production (APAC) https://apac.webservices.travelport.com/B2BGateway/connect/uAPI"
+msgstr ""
+#
+# File: module/setup/view/hotels/travelport.phtml, line: 81
+# File: module/setup/view/trains/travelport.phtml, line: 61
+msgid "Pre-Production (EMEA) https://emea.copy-webservices.travelport.com/B2BGateway/connect/uAPI"
+msgstr ""
+#
+# File: module/setup/view/hotels/travelport.phtml, line: 82
+# File: module/setup/view/trains/travelport.phtml, line: 62
+msgid "Production (EMEA) https://emea.webservices.travelport.com/B2BGateway/connect/uAPI"
 msgstr ""
 #
 # File: module/setup/view/hotels/travelport.phtml, line: 88
