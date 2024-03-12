@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-12 10:51+0000\n"
+"POT-Creation-Date: 2024-03-12 13:45+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2489,13 +2489,13 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 9163
 # File: module/ages/src/Controller/Reports.php, line: 9164
 # File: module/ages/src/Controller/Reports.php, line: 10729
-# File: module/ages/src/Controller/SubAgents.php, line: 3573
-# File: module/ages/src/Controller/SubAgents.php, line: 3600
-# File: module/ages/src/Controller/SubAgents.php, line: 3727
-# File: module/ages/src/Controller/SubAgents.php, line: 6040
-# File: module/ages/src/Controller/SubAgents.php, line: 6065
-# File: module/ages/src/Controller/SubAgents.php, line: 6189
-# File: module/ages/src/Controller/SubAgents.php, line: 6322
+# File: module/ages/src/Controller/SubAgents.php, line: 3640
+# File: module/ages/src/Controller/SubAgents.php, line: 3667
+# File: module/ages/src/Controller/SubAgents.php, line: 3794
+# File: module/ages/src/Controller/SubAgents.php, line: 6107
+# File: module/ages/src/Controller/SubAgents.php, line: 6132
+# File: module/ages/src/Controller/SubAgents.php, line: 6256
+# File: module/ages/src/Controller/SubAgents.php, line: 6389
 # File: module/ages/src/Controller/Tours.php, line: 3952
 # File: module/ages/src/Controller/Tours.php, line: 4055
 # File: module/ages/src/Controller/Transfers.php, line: 457
@@ -3741,8 +3741,8 @@ msgstr ""
 # File: module/ages/src/Controller/Newsletter.php, line: 5806
 # File: module/ages/src/Controller/Reports.php, line: 2593
 # File: module/ages/src/Controller/Reports.php, line: 3724
-# File: module/ages/src/Controller/SubAgents.php, line: 3780
-# File: module/ages/src/Controller/SubAgents.php, line: 6242
+# File: module/ages/src/Controller/SubAgents.php, line: 3847
+# File: module/ages/src/Controller/SubAgents.php, line: 6309
 msgid "Enable"
 msgstr ""
 #
@@ -3757,8 +3757,8 @@ msgstr ""
 # File: module/ages/src/Controller/Newsletter.php, line: 5802
 # File: module/ages/src/Controller/Reports.php, line: 2597
 # File: module/ages/src/Controller/Reports.php, line: 3728
-# File: module/ages/src/Controller/SubAgents.php, line: 3782
-# File: module/ages/src/Controller/SubAgents.php, line: 6244
+# File: module/ages/src/Controller/SubAgents.php, line: 3849
+# File: module/ages/src/Controller/SubAgents.php, line: 6311
 msgid "Disable"
 msgstr ""
 #
@@ -3817,9 +3817,9 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 8906
 # File: module/ages/src/Controller/Reports.php, line: 11895
 # File: module/ages/src/Controller/Reports.php, line: 11909
-# File: module/ages/src/Controller/SubAgents.php, line: 3500
-# File: module/ages/src/Controller/SubAgents.php, line: 5962
-# File: module/ages/src/Controller/SubAgents.php, line: 6537
+# File: module/ages/src/Controller/SubAgents.php, line: 3567
+# File: module/ages/src/Controller/SubAgents.php, line: 6029
+# File: module/ages/src/Controller/SubAgents.php, line: 6604
 # File: module/ages/src/Controller/Tours.php, line: 877
 # File: module/ages/src/Controller/Tours.php, line: 1283
 # File: module/ages/src/Controller/Transfers.php, line: 3374
@@ -3844,8 +3844,8 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 11916
 # File: module/ages/src/Controller/Reports.php, line: 10574
 # File: module/ages/src/Controller/Reports.php, line: 10751
-# File: module/ages/src/Controller/SubAgents.php, line: 3526
-# File: module/ages/src/Controller/SubAgents.php, line: 5988
+# File: module/ages/src/Controller/SubAgents.php, line: 3593
+# File: module/ages/src/Controller/SubAgents.php, line: 6055
 msgid "All Supervisors"
 msgstr ""
 #
@@ -3854,8 +3854,8 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 3642
 # File: module/ages/src/Controller/Agents.php, line: 9807
 # File: module/ages/src/Controller/Agents.php, line: 12205
-# File: module/ages/src/Controller/SubAgents.php, line: 3802
-# File: module/ages/src/Controller/SubAgents.php, line: 6264
+# File: module/ages/src/Controller/SubAgents.php, line: 3869
+# File: module/ages/src/Controller/SubAgents.php, line: 6331
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 135
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5217
 msgid "Mr."
@@ -3866,8 +3866,8 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 3644
 # File: module/ages/src/Controller/Agents.php, line: 9809
 # File: module/ages/src/Controller/Agents.php, line: 12207
-# File: module/ages/src/Controller/SubAgents.php, line: 3804
-# File: module/ages/src/Controller/SubAgents.php, line: 6266
+# File: module/ages/src/Controller/SubAgents.php, line: 3871
+# File: module/ages/src/Controller/SubAgents.php, line: 6333
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 136
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5218
 msgid "Ms."
@@ -3902,8 +3902,8 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 3373
 # File: module/ages/src/Controller/Reports.php, line: 7152
 # File: module/ages/src/Controller/Reports.php, line: 11735
-# File: module/ages/src/Controller/SubAgents.php, line: 3687
-# File: module/ages/src/Controller/SubAgents.php, line: 6149
+# File: module/ages/src/Controller/SubAgents.php, line: 3754
+# File: module/ages/src/Controller/SubAgents.php, line: 6216
 # File: module/ages/view/ages/cms/recommendedhotels_edit.phtml, line: 17
 # File: module/ages/view/ages/cms/recommendedhotels_edit.phtml, line: 18
 # File: module/ages/view/ages/cms/recommendedhotels_edit.phtml, line: 19
@@ -4131,8 +4131,8 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 3399
 # File: module/ages/src/Controller/Agents.php, line: 9516
 # File: module/ages/src/Controller/Agents.php, line: 11942
-# File: module/ages/src/Controller/SubAgents.php, line: 3552
-# File: module/ages/src/Controller/SubAgents.php, line: 6014
+# File: module/ages/src/Controller/SubAgents.php, line: 3619
+# File: module/ages/src/Controller/SubAgents.php, line: 6081
 msgid "All Executives"
 msgstr ""
 #
@@ -4157,8 +4157,8 @@ msgstr ""
 # File: module/ages/src/Controller/Hotels.php, line: 9398
 # File: module/ages/src/Controller/Reports.php, line: 2601
 # File: module/ages/src/Controller/Reports.php, line: 3732
-# File: module/ages/src/Controller/SubAgents.php, line: 3784
-# File: module/ages/src/Controller/SubAgents.php, line: 6246
+# File: module/ages/src/Controller/SubAgents.php, line: 3851
+# File: module/ages/src/Controller/SubAgents.php, line: 6313
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 90
 # File: module/ages/view/ages/cruises/ships.phtml, line: 38
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 85
@@ -4251,7 +4251,7 @@ msgstr ""
 # File: module/ages/src/Controller/Newsletter.php, line: 5481
 # File: module/ages/src/Controller/ServiceFees.php, line: 819
 # File: module/ages/src/Controller/SubAgents.php, line: 380
-# File: module/ages/src/Controller/SubAgents.php, line: 6509
+# File: module/ages/src/Controller/SubAgents.php, line: 6576
 # File: module/ages/view/ages/newsletter/exceptions.phtml, line: 21
 msgid "All Agents"
 msgstr ""
@@ -4500,23 +4500,23 @@ msgid "Update"
 msgstr ""
 #
 # File: module/ages/src/Controller/Agents.php, line: 12390
-# File: module/ages/src/Controller/SubAgents.php, line: 6513
+# File: module/ages/src/Controller/SubAgents.php, line: 6580
 msgid "Enabled Agents"
 msgstr ""
 #
 # File: module/ages/src/Controller/Agents.php, line: 12394
-# File: module/ages/src/Controller/SubAgents.php, line: 6517
+# File: module/ages/src/Controller/SubAgents.php, line: 6584
 msgid "Disabled Agents"
 msgstr ""
 #
 # File: module/ages/src/Controller/Agents.php, line: 12398
-# File: module/ages/src/Controller/SubAgents.php, line: 6521
+# File: module/ages/src/Controller/SubAgents.php, line: 6588
 # File: module/ages/view/ages/reports/agentsbycompany.phtml, line: 27
 msgid "Agents Pending Review"
 msgstr ""
 #
 # File: module/ages/src/Controller/Agents.php, line: 12418
-# File: module/ages/src/Controller/SubAgents.php, line: 6541
+# File: module/ages/src/Controller/SubAgents.php, line: 6608
 msgid "No Company Assigned"
 msgstr ""
 #
@@ -4525,7 +4525,7 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 12804
 # File: module/ages/src/Controller/CMS.php, line: 9481
 # File: module/ages/src/Controller/CMS.php, line: 9531
-# File: module/ages/src/Controller/SubAgents.php, line: 6583
+# File: module/ages/src/Controller/SubAgents.php, line: 6650
 msgid "All Agent Types"
 msgstr ""
 #
@@ -9444,7 +9444,7 @@ msgstr ""
 msgid "Fixed Price"
 msgstr ""
 #
-# File: module/ages/src/Controller/SubAgents.php, line: 3973
+# File: module/ages/src/Controller/SubAgents.php, line: 4040
 msgid "No Company"
 msgstr ""
 #
