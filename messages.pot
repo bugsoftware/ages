@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-28 07:26+0000\n"
+"POT-Creation-Date: 2024-04-04 10:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4074,8 +4074,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/reservations.phtml, line: 61
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 106
 # File: module/ages/view/ages/affiliates/report.phtml, line: 93
-# File: module/ages/view/ages/agents/add_reservations.phtml, line: 66
-# File: module/ages/view/ages/agents/edit_reservations.phtml, line: 65
+# File: module/ages/view/ages/agents/add_reservations.phtml, line: 72
+# File: module/ages/view/ages/agents/edit_reservations.phtml, line: 71
 # File: module/ages/view/ages/agents/leads.phtml, line: 94
 # File: module/ages/view/ages/air/checkin.phtml, line: 76
 # File: module/ages/view/ages/customers/editreservations.phtml, line: 58
@@ -4162,6 +4162,8 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 90
 # File: module/ages/src/Controller/SubAgents.php, line: 3839
 # File: module/ages/src/Controller/SubAgents.php, line: 6289
+# File: module/ages/view/ages/agents/add_reservations.phtml, line: 70
+# File: module/ages/view/ages/agents/edit_reservations.phtml, line: 69
 # File: module/ages/view/ages/cruises/ships.phtml, line: 38
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 96
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 131
@@ -7460,8 +7462,6 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/checkinactivities.phtml, line: 234
 # File: module/ages/view/ages/activities/listreservations.phtml, line: 64
 # File: module/ages/view/ages/activities/reservations.phtml, line: 59
-# File: module/ages/view/ages/agents/add_reservations.phtml, line: 64
-# File: module/ages/view/ages/agents/edit_reservations.phtml, line: 63
 # File: module/ages/view/ages/customers/editreservations.phtml, line: 56
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 76
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 90
@@ -7486,6 +7486,8 @@ msgid "Recovered Booking"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1225
+# File: module/ages/view/ages/agents/add_reservations.phtml, line: 66
+# File: module/ages/view/ages/agents/edit_reservations.phtml, line: 65
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 92
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 166
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 88
@@ -7519,6 +7521,8 @@ msgid "Partially Confirmed"
 msgstr ""
 #
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 1229
+# File: module/ages/view/ages/agents/add_reservations.phtml, line: 68
+# File: module/ages/view/ages/agents/edit_reservations.phtml, line: 67
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 94
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 90
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 86
@@ -11738,6 +11742,8 @@ msgid "Reservation Status"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 91
+# File: module/ages/view/ages/agents/add_reservations.phtml, line: 64
+# File: module/ages/view/ages/agents/edit_reservations.phtml, line: 63
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 422
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 657
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 886
