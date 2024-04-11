@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-11 13:25+0100\n"
+"POT-Creation-Date: 2024-04-11 15:01+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4331,7 +4331,7 @@ msgstr ""
 # File: module/setup/view/activities/viator.phtml, line: 100
 # File: module/setup/view/air/galileo.phtml, line: 101
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 174
-# File: module/setup/view/air/latam.phtml, line: 117
+# File: module/setup/view/air/latam.phtml, line: 203
 # File: module/setup/view/air/mystifly.phtml, line: 77
 # File: module/setup/view/air/priceline.phtml, line: 98
 # File: module/setup/view/air/sabre.phtml, line: 486
@@ -4343,7 +4343,7 @@ msgstr ""
 # File: module/setup/view/air/airgateway.phtml, line: 57
 # File: module/setup/view/air/amadeus.phtml, line: 233
 # File: module/setup/view/air/americanairlines.phtml, line: 173
-# File: module/setup/view/air/avianca.phtml, line: 81
+# File: module/setup/view/air/avianca.phtml, line: 151
 # File: module/setup/view/air/copa.phtml, line: 163
 # File: module/setup/view/air/ctm.phtml, line: 60
 # File: module/setup/view/cars/amadeus.phtml, line: 156
@@ -4357,7 +4357,7 @@ msgstr ""
 # File: module/setup/view/cars/priceline.phtml, line: 98
 # File: module/setup/view/cars/sabre.phtml, line: 93
 # File: module/setup/view/cars/tourico.phtml, line: 80
-# File: module/setup/view/cars/travelport.phtml, line: 123
+# File: module/setup/view/cars/travelport.phtml, line: 290
 # File: module/setup/view/cruises/msc.phtml, line: 77
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 106
 # File: module/setup/view/cruises/politours.phtml, line: 77
@@ -14764,7 +14764,7 @@ msgstr ""
 # File: module/setup/view/air/featuredairlines.phtml, line: 15
 # File: module/setup/view/air/galileo.phtml, line: 23
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 17
-# File: module/setup/view/air/latam.phtml, line: 15
+# File: module/setup/view/air/latam.phtml, line: 26
 # File: module/setup/view/air/mystifly.phtml, line: 26
 # File: module/setup/view/air/priceline.phtml, line: 20
 # File: module/setup/view/air/sabre.phtml, line: 62
@@ -14779,7 +14779,7 @@ msgstr ""
 # File: module/setup/view/air/airgateway.phtml, line: 21
 # File: module/setup/view/air/amadeus.phtml, line: 23
 # File: module/setup/view/air/americanairlines.phtml, line: 16
-# File: module/setup/view/air/avianca.phtml, line: 52
+# File: module/setup/view/air/avianca.phtml, line: 90
 # File: module/setup/view/air/copa.phtml, line: 16
 # File: module/setup/view/air/ctm.phtml, line: 23
 # File: module/setup/view/air/editfeaturedairlines.phtml, line: 20
@@ -14797,7 +14797,7 @@ msgstr ""
 # File: module/setup/view/cars/priceline.phtml, line: 20
 # File: module/setup/view/cars/sabre.phtml, line: 26
 # File: module/setup/view/cars/tourico.phtml, line: 23
-# File: module/setup/view/cars/travelport.phtml, line: 23
+# File: module/setup/view/cars/travelport.phtml, line: 48
 # File: module/setup/view/cruises/msc.phtml, line: 26
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 34
 # File: module/setup/view/cruises/politours.phtml, line: 26
@@ -19816,8 +19816,8 @@ msgstr ""
 # File: module/setup/view/air/travelport.phtml, line: 312
 # File: module/setup/view/air/amadeus.phtml, line: 18
 # File: module/setup/view/air/amadeus.phtml, line: 19
-# File: module/setup/view/air/avianca.phtml, line: 26
-# File: module/setup/view/air/avianca.phtml, line: 27
+# File: module/setup/view/air/avianca.phtml, line: 46
+# File: module/setup/view/air/avianca.phtml, line: 50
 # File: module/setup/view/air/ctm.phtml, line: 18
 # File: module/setup/view/air/ctm.phtml, line: 19
 # File: module/setup/view/cars/amadeus.phtml, line: 18
@@ -20091,8 +20091,8 @@ msgstr ""
 # File: module/ages/view/ages/agents/add.phtml, line: 68
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 73
 # File: module/ages/view/ages/sub-agents/edit.phtml, line: 73
-# File: module/setup/view/air/latam.phtml, line: 91
-# File: module/setup/view/air/latam.phtml, line: 93
+# File: module/setup/view/air/latam.phtml, line: 140
+# File: module/setup/view/air/latam.phtml, line: 144
 msgid "IATA Number"
 msgstr ""
 #
@@ -22148,7 +22148,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 67
 # File: module/setup/view/cars/cartrawler.phtml, line: 258
 # File: module/setup/view/cars/priceline.phtml, line: 67
-# File: module/setup/view/cars/travelport.phtml, line: 95
+# File: module/setup/view/cars/travelport.phtml, line: 203
 # File: module/setup/view/hotels/getaroom.phtml, line: 110
 # File: module/setup/view/hotels/priceline.phtml, line: 67
 # File: module/setup/view/hotels/pricelinenet.phtml, line: 66
@@ -22170,7 +22170,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 66
 # File: module/setup/view/cars/cartrawler.phtml, line: 257
 # File: module/setup/view/cars/priceline.phtml, line: 66
-# File: module/setup/view/cars/travelport.phtml, line: 94
+# File: module/setup/view/cars/travelport.phtml, line: 199
 # File: module/setup/view/hotels/getaroom.phtml, line: 109
 # File: module/setup/view/hotels/priceline.phtml, line: 66
 # File: module/setup/view/hotels/pricelinenet.phtml, line: 65
@@ -24461,7 +24461,7 @@ msgstr ""
 # File: module/setup/view/activities/nexustours.phtml, line: 35
 # File: module/setup/view/air/galileo.phtml, line: 34
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 28
-# File: module/setup/view/air/latam.phtml, line: 26
+# File: module/setup/view/air/latam.phtml, line: 38
 # File: module/setup/view/air/mystifly.phtml, line: 37
 # File: module/setup/view/air/priceline.phtml, line: 33
 # File: module/setup/view/air/sabre.phtml, line: 75
@@ -24473,7 +24473,7 @@ msgstr ""
 # File: module/setup/view/air/airgateway.phtml, line: 32
 # File: module/setup/view/air/amadeus.phtml, line: 34
 # File: module/setup/view/air/americanairlines.phtml, line: 27
-# File: module/setup/view/air/avianca.phtml, line: 63
+# File: module/setup/view/air/avianca.phtml, line: 103
 # File: module/setup/view/air/copa.phtml, line: 27
 # File: module/setup/view/air/ctm.phtml, line: 34
 # File: module/setup/view/cars/amadeus.phtml, line: 34
@@ -24485,7 +24485,7 @@ msgstr ""
 # File: module/setup/view/cars/iterpec.phtml, line: 36
 # File: module/setup/view/cars/priceline.phtml, line: 33
 # File: module/setup/view/cars/sabre.phtml, line: 37
-# File: module/setup/view/cars/travelport.phtml, line: 34
+# File: module/setup/view/cars/travelport.phtml, line: 61
 # File: module/setup/view/cruises/msc.phtml, line: 37
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 45
 # File: module/setup/view/cruises/politours.phtml, line: 37
@@ -24637,8 +24637,8 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 107
 # File: module/setup/view/air/americanairlines.phtml, line: 104
 # File: module/setup/view/air/americanairlines.phtml, line: 106
-# File: module/setup/view/air/avianca.phtml, line: 35
-# File: module/setup/view/air/avianca.phtml, line: 36
+# File: module/setup/view/air/avianca.phtml, line: 64
+# File: module/setup/view/air/avianca.phtml, line: 67
 # File: module/setup/view/air/copa.phtml, line: 104
 # File: module/setup/view/air/copa.phtml, line: 106
 # File: module/setup/view/cars/avisbudget.phtml, line: 55
@@ -25438,7 +25438,7 @@ msgstr ""
 # File: module/setup/view/activities/tourico.phtml, line: 158
 # File: module/setup/view/activities/trapsatur.phtml, line: 132
 # File: module/setup/view/air/amadeus.phtml, line: 350
-# File: module/setup/view/air/avianca.phtml, line: 150
+# File: module/setup/view/air/avianca.phtml, line: 221
 # File: module/setup/view/cars/amadeus.phtml, line: 270
 # File: module/setup/view/cars/bookinggo.phtml, line: 130
 # File: module/setup/view/cars/tourico.phtml, line: 149
@@ -28014,8 +28014,8 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 101
 # File: module/setup/view/air/copa.phtml, line: 99
 # File: module/setup/view/air/copa.phtml, line: 101
-# File: module/setup/view/cars/travelport.phtml, line: 67
-# File: module/setup/view/cars/travelport.phtml, line: 68
+# File: module/setup/view/cars/travelport.phtml, line: 129
+# File: module/setup/view/cars/travelport.phtml, line: 133
 # File: module/setup/view/trains/travelport.phtml, line: 67
 # File: module/setup/view/trains/travelport.phtml, line: 68
 msgid "PCC"
@@ -33258,7 +33258,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2189
 # File: module/setup/view/air/travelport.phtml, line: 168
 # File: module/setup/view/air/travelport.phtml, line: 169
-# File: module/setup/view/cars/travelport.phtml, line: 99
+# File: module/setup/view/cars/travelport.phtml, line: 208
 # File: module/setup/view/hotels/getaroom.phtml, line: 114
 # File: module/setup/view/hotels/hotelplanner.phtml, line: 102
 # File: module/setup/view/hotels/hotelplanner.phtml, line: 103
@@ -35474,7 +35474,7 @@ msgstr ""
 # File: module/setup/view/air/travelport.phtml, line: 178
 # File: module/setup/view/cars/bookinggo.phtml, line: 50
 # File: module/setup/view/cars/cartrawler.phtml, line: 264
-# File: module/setup/view/cars/travelport.phtml, line: 100
+# File: module/setup/view/cars/travelport.phtml, line: 228
 # File: module/setup/view/hotels/hotelplanner.phtml, line: 106
 # File: module/setup/view/hotels/hotelplanner.phtml, line: 107
 # File: module/setup/view/hotels/ati.phtml, line: 67
@@ -43719,7 +43719,7 @@ msgstr ""
 # File: module/setup/view/activities/viator.phtml, line: 19
 # File: module/setup/view/air/galileo.phtml, line: 26
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 20
-# File: module/setup/view/air/latam.phtml, line: 18
+# File: module/setup/view/air/latam.phtml, line: 29
 # File: module/setup/view/air/mystifly.phtml, line: 29
 # File: module/setup/view/air/priceline.phtml, line: 23
 # File: module/setup/view/air/sabre.phtml, line: 66
@@ -43731,7 +43731,7 @@ msgstr ""
 # File: module/setup/view/air/airgateway.phtml, line: 24
 # File: module/setup/view/air/amadeus.phtml, line: 26
 # File: module/setup/view/air/americanairlines.phtml, line: 19
-# File: module/setup/view/air/avianca.phtml, line: 55
+# File: module/setup/view/air/avianca.phtml, line: 94
 # File: module/setup/view/air/copa.phtml, line: 19
 # File: module/setup/view/air/ctm.phtml, line: 26
 # File: module/setup/view/cars/amadeus.phtml, line: 26
@@ -43745,7 +43745,7 @@ msgstr ""
 # File: module/setup/view/cars/priceline.phtml, line: 23
 # File: module/setup/view/cars/sabre.phtml, line: 29
 # File: module/setup/view/cars/tourico.phtml, line: 26
-# File: module/setup/view/cars/travelport.phtml, line: 26
+# File: module/setup/view/cars/travelport.phtml, line: 52
 # File: module/setup/view/cruises/msc.phtml, line: 29
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 37
 # File: module/setup/view/cruises/politours.phtml, line: 29
@@ -43898,7 +43898,7 @@ msgstr ""
 # File: module/setup/view/activities/nexustours.phtml, line: 38
 # File: module/setup/view/air/galileo.phtml, line: 37
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 31
-# File: module/setup/view/air/latam.phtml, line: 29
+# File: module/setup/view/air/latam.phtml, line: 41
 # File: module/setup/view/air/mystifly.phtml, line: 40
 # File: module/setup/view/air/priceline.phtml, line: 36
 # File: module/setup/view/air/sabre.phtml, line: 79
@@ -43910,7 +43910,7 @@ msgstr ""
 # File: module/setup/view/air/airgateway.phtml, line: 35
 # File: module/setup/view/air/amadeus.phtml, line: 37
 # File: module/setup/view/air/americanairlines.phtml, line: 30
-# File: module/setup/view/air/avianca.phtml, line: 66
+# File: module/setup/view/air/avianca.phtml, line: 106
 # File: module/setup/view/air/copa.phtml, line: 30
 # File: module/setup/view/air/ctm.phtml, line: 37
 # File: module/setup/view/cars/amadeus.phtml, line: 37
@@ -43922,7 +43922,7 @@ msgstr ""
 # File: module/setup/view/cars/iterpec.phtml, line: 39
 # File: module/setup/view/cars/priceline.phtml, line: 36
 # File: module/setup/view/cars/sabre.phtml, line: 40
-# File: module/setup/view/cars/travelport.phtml, line: 37
+# File: module/setup/view/cars/travelport.phtml, line: 65
 # File: module/setup/view/cruises/msc.phtml, line: 40
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 48
 # File: module/setup/view/cruises/politours.phtml, line: 40
@@ -44081,8 +44081,8 @@ msgstr ""
 # File: module/setup/view/air/airgateway.phtml, line: 17
 # File: module/setup/view/air/amadeus.phtml, line: 114
 # File: module/setup/view/air/americanairlines.phtml, line: 14
-# File: module/setup/view/air/avianca.phtml, line: 19
-# File: module/setup/view/air/avianca.phtml, line: 20
+# File: module/setup/view/air/avianca.phtml, line: 35
+# File: module/setup/view/air/avianca.phtml, line: 39
 # File: module/setup/view/air/copa.phtml, line: 14
 # File: module/setup/view/cars/amadeus.phtml, line: 71
 # File: module/setup/view/cars/avis.phtml, line: 47
@@ -44104,7 +44104,7 @@ msgstr ""
 # File: module/setup/view/cars/sabre.phtml, line: 54
 # File: module/setup/view/cars/tourico.phtml, line: 65
 # File: module/setup/view/cars/tourico.phtml, line: 66
-# File: module/setup/view/cars/travelport.phtml, line: 53
+# File: module/setup/view/cars/travelport.phtml, line: 92
 # File: module/setup/view/cruises/msc.phtml, line: 50
 # File: module/setup/view/cruises/msc.phtml, line: 51
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 56
@@ -44499,7 +44499,8 @@ msgstr ""
 # File: module/setup/view/air/galileo.phtml, line: 47
 # File: module/setup/view/air/galileo.phtml, line: 48
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 168
-# File: module/setup/view/air/latam.phtml, line: 111
+# File: module/setup/view/air/latam.phtml, line: 172
+# File: module/setup/view/air/latam.phtml, line: 175
 # File: module/setup/view/air/mystifly.phtml, line: 62
 # File: module/setup/view/air/mystifly.phtml, line: 63
 # File: module/setup/view/air/priceline.phtml, line: 81
@@ -44515,7 +44516,8 @@ msgstr ""
 # File: module/setup/view/air/amadeus.phtml, line: 212
 # File: module/setup/view/air/amadeus.phtml, line: 213
 # File: module/setup/view/air/americanairlines.phtml, line: 167
-# File: module/setup/view/air/avianca.phtml, line: 75
+# File: module/setup/view/air/avianca.phtml, line: 117
+# File: module/setup/view/air/avianca.phtml, line: 121
 # File: module/setup/view/air/copa.phtml, line: 157
 # File: module/setup/view/air/ctm.phtml, line: 54
 # File: module/setup/view/cars/amadeus.phtml, line: 142
@@ -44540,8 +44542,8 @@ msgstr ""
 # File: module/setup/view/cars/sabre.phtml, line: 80
 # File: module/setup/view/cars/tourico.phtml, line: 48
 # File: module/setup/view/cars/tourico.phtml, line: 49
-# File: module/setup/view/cars/travelport.phtml, line: 109
-# File: module/setup/view/cars/travelport.phtml, line: 110
+# File: module/setup/view/cars/travelport.phtml, line: 254
+# File: module/setup/view/cars/travelport.phtml, line: 258
 # File: module/setup/view/cruises/msc.phtml, line: 60
 # File: module/setup/view/cruises/msc.phtml, line: 61
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 89
@@ -44851,7 +44853,8 @@ msgstr ""
 # File: module/setup/view/air/galileo.phtml, line: 50
 # File: module/setup/view/air/galileo.phtml, line: 51
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 169
-# File: module/setup/view/air/latam.phtml, line: 112
+# File: module/setup/view/air/latam.phtml, line: 179
+# File: module/setup/view/air/latam.phtml, line: 182
 # File: module/setup/view/air/mystifly.phtml, line: 65
 # File: module/setup/view/air/mystifly.phtml, line: 66
 # File: module/setup/view/air/priceline.phtml, line: 85
@@ -44867,7 +44870,8 @@ msgstr ""
 # File: module/setup/view/air/amadeus.phtml, line: 216
 # File: module/setup/view/air/amadeus.phtml, line: 217
 # File: module/setup/view/air/americanairlines.phtml, line: 168
-# File: module/setup/view/air/avianca.phtml, line: 76
+# File: module/setup/view/air/avianca.phtml, line: 125
+# File: module/setup/view/air/avianca.phtml, line: 129
 # File: module/setup/view/air/copa.phtml, line: 158
 # File: module/setup/view/air/ctm.phtml, line: 55
 # File: module/setup/view/cars/amadeus.phtml, line: 145
@@ -44892,8 +44896,8 @@ msgstr ""
 # File: module/setup/view/cars/sabre.phtml, line: 83
 # File: module/setup/view/cars/tourico.phtml, line: 51
 # File: module/setup/view/cars/tourico.phtml, line: 52
-# File: module/setup/view/cars/travelport.phtml, line: 112
-# File: module/setup/view/cars/travelport.phtml, line: 113
+# File: module/setup/view/cars/travelport.phtml, line: 262
+# File: module/setup/view/cars/travelport.phtml, line: 266
 # File: module/setup/view/cruises/msc.phtml, line: 64
 # File: module/setup/view/cruises/msc.phtml, line: 65
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 93
@@ -45205,7 +45209,8 @@ msgstr ""
 # File: module/setup/view/air/galileo.phtml, line: 53
 # File: module/setup/view/air/galileo.phtml, line: 54
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 170
-# File: module/setup/view/air/latam.phtml, line: 113
+# File: module/setup/view/air/latam.phtml, line: 186
+# File: module/setup/view/air/latam.phtml, line: 189
 # File: module/setup/view/air/mystifly.phtml, line: 68
 # File: module/setup/view/air/mystifly.phtml, line: 69
 # File: module/setup/view/air/priceline.phtml, line: 89
@@ -45220,7 +45225,8 @@ msgstr ""
 # File: module/setup/view/air/amadeus.phtml, line: 220
 # File: module/setup/view/air/amadeus.phtml, line: 221
 # File: module/setup/view/air/americanairlines.phtml, line: 169
-# File: module/setup/view/air/avianca.phtml, line: 77
+# File: module/setup/view/air/avianca.phtml, line: 133
+# File: module/setup/view/air/avianca.phtml, line: 137
 # File: module/setup/view/air/copa.phtml, line: 159
 # File: module/setup/view/air/ctm.phtml, line: 56
 # File: module/setup/view/cars/amadeus.phtml, line: 148
@@ -45245,8 +45251,8 @@ msgstr ""
 # File: module/setup/view/cars/sabre.phtml, line: 86
 # File: module/setup/view/cars/tourico.phtml, line: 57
 # File: module/setup/view/cars/tourico.phtml, line: 58
-# File: module/setup/view/cars/travelport.phtml, line: 115
-# File: module/setup/view/cars/travelport.phtml, line: 116
+# File: module/setup/view/cars/travelport.phtml, line: 270
+# File: module/setup/view/cars/travelport.phtml, line: 274
 # File: module/setup/view/cruises/msc.phtml, line: 68
 # File: module/setup/view/cruises/msc.phtml, line: 69
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 97
@@ -45557,7 +45563,8 @@ msgstr ""
 # File: module/setup/view/air/galileo.phtml, line: 56
 # File: module/setup/view/air/galileo.phtml, line: 57
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 171
-# File: module/setup/view/air/latam.phtml, line: 114
+# File: module/setup/view/air/latam.phtml, line: 193
+# File: module/setup/view/air/latam.phtml, line: 197
 # File: module/setup/view/air/mystifly.phtml, line: 71
 # File: module/setup/view/air/mystifly.phtml, line: 72
 # File: module/setup/view/air/priceline.phtml, line: 93
@@ -45573,7 +45580,8 @@ msgstr ""
 # File: module/setup/view/air/amadeus.phtml, line: 224
 # File: module/setup/view/air/amadeus.phtml, line: 225
 # File: module/setup/view/air/americanairlines.phtml, line: 170
-# File: module/setup/view/air/avianca.phtml, line: 78
+# File: module/setup/view/air/avianca.phtml, line: 141
+# File: module/setup/view/air/avianca.phtml, line: 145
 # File: module/setup/view/air/copa.phtml, line: 160
 # File: module/setup/view/air/ctm.phtml, line: 57
 # File: module/setup/view/cars/amadeus.phtml, line: 151
@@ -45598,8 +45606,8 @@ msgstr ""
 # File: module/setup/view/cars/sabre.phtml, line: 89
 # File: module/setup/view/cars/tourico.phtml, line: 60
 # File: module/setup/view/cars/tourico.phtml, line: 61
-# File: module/setup/view/cars/travelport.phtml, line: 118
-# File: module/setup/view/cars/travelport.phtml, line: 119
+# File: module/setup/view/cars/travelport.phtml, line: 278
+# File: module/setup/view/cars/travelport.phtml, line: 283
 # File: module/setup/view/cruises/msc.phtml, line: 72
 # File: module/setup/view/cruises/msc.phtml, line: 73
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 101
@@ -46168,7 +46176,7 @@ msgstr ""
 # File: module/setup/view/activities/viator.phtml, line: 190
 # File: module/setup/view/air/galileo.phtml, line: 178
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 294
-# File: module/setup/view/air/latam.phtml, line: 198
+# File: module/setup/view/air/latam.phtml, line: 285
 # File: module/setup/view/air/mystifly.phtml, line: 142
 # File: module/setup/view/air/priceline.phtml, line: 158
 # File: module/setup/view/air/sabre.phtml, line: 598
@@ -46179,7 +46187,7 @@ msgstr ""
 # File: module/setup/view/air/airgateway.phtml, line: 117
 # File: module/setup/view/air/amadeus.phtml, line: 413
 # File: module/setup/view/air/americanairlines.phtml, line: 293
-# File: module/setup/view/air/avianca.phtml, line: 147
+# File: module/setup/view/air/avianca.phtml, line: 218
 # File: module/setup/view/air/copa.phtml, line: 277
 # File: module/setup/view/air/ctm.phtml, line: 141
 # File: module/setup/view/cars/amadeus.phtml, line: 336
@@ -46193,7 +46201,7 @@ msgstr ""
 # File: module/setup/view/cars/priceline.phtml, line: 158
 # File: module/setup/view/cars/sabre.phtml, line: 162
 # File: module/setup/view/cars/tourico.phtml, line: 161
-# File: module/setup/view/cars/travelport.phtml, line: 206
+# File: module/setup/view/cars/travelport.phtml, line: 374
 # File: module/setup/view/cruises/msc.phtml, line: 140
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 193
 # File: module/setup/view/cruises/politours.phtml, line: 140
@@ -46347,7 +46355,7 @@ msgstr ""
 # File: module/setup/view/air/volaris.phtml, line: 104
 # File: module/setup/view/air/airgateway.phtml, line: 120
 # File: module/setup/view/air/americanairlines.phtml, line: 296
-# File: module/setup/view/air/avianca.phtml, line: 153
+# File: module/setup/view/air/avianca.phtml, line: 224
 # File: module/setup/view/air/copa.phtml, line: 280
 # File: module/setup/view/hotels/eetglobal.phtml, line: 162
 # File: module/setup/view/hotels/enjoycuba.phtml, line: 162
@@ -46456,7 +46464,7 @@ msgstr ""
 # File: module/setup/view/activities/viator.phtml, line: 193
 # File: module/setup/view/air/galileo.phtml, line: 196
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 354
-# File: module/setup/view/air/latam.phtml, line: 237
+# File: module/setup/view/air/latam.phtml, line: 324
 # File: module/setup/view/air/mystifly.phtml, line: 151
 # File: module/setup/view/air/priceline.phtml, line: 164
 # File: module/setup/view/air/sabre.phtml, line: 601
@@ -46467,7 +46475,7 @@ msgstr ""
 # File: module/setup/view/air/airgateway.phtml, line: 123
 # File: module/setup/view/air/amadeus.phtml, line: 416
 # File: module/setup/view/air/americanairlines.phtml, line: 371
-# File: module/setup/view/air/avianca.phtml, line: 168
+# File: module/setup/view/air/avianca.phtml, line: 239
 # File: module/setup/view/air/copa.phtml, line: 349
 # File: module/setup/view/air/ctm.phtml, line: 168
 # File: module/setup/view/cars/amadeus.phtml, line: 339
@@ -46481,7 +46489,7 @@ msgstr ""
 # File: module/setup/view/cars/priceline.phtml, line: 164
 # File: module/setup/view/cars/sabre.phtml, line: 165
 # File: module/setup/view/cars/tourico.phtml, line: 164
-# File: module/setup/view/cars/travelport.phtml, line: 227
+# File: module/setup/view/cars/travelport.phtml, line: 395
 # File: module/setup/view/cruises/msc.phtml, line: 143
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 196
 # File: module/setup/view/cruises/politours.phtml, line: 143
@@ -46642,7 +46650,7 @@ msgstr ""
 # File: module/setup/view/activities/viator.phtml, line: 214
 # File: module/setup/view/air/galileo.phtml, line: 199
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 357
-# File: module/setup/view/air/latam.phtml, line: 240
+# File: module/setup/view/air/latam.phtml, line: 327
 # File: module/setup/view/air/mystifly.phtml, line: 154
 # File: module/setup/view/air/priceline.phtml, line: 167
 # File: module/setup/view/air/sabre.phtml, line: 604
@@ -46653,7 +46661,7 @@ msgstr ""
 # File: module/setup/view/air/airgateway.phtml, line: 126
 # File: module/setup/view/air/amadeus.phtml, line: 419
 # File: module/setup/view/air/americanairlines.phtml, line: 374
-# File: module/setup/view/air/avianca.phtml, line: 171
+# File: module/setup/view/air/avianca.phtml, line: 242
 # File: module/setup/view/air/copa.phtml, line: 352
 # File: module/setup/view/air/ctm.phtml, line: 171
 # File: module/setup/view/cars/amadeus.phtml, line: 342
@@ -46667,7 +46675,7 @@ msgstr ""
 # File: module/setup/view/cars/priceline.phtml, line: 167
 # File: module/setup/view/cars/sabre.phtml, line: 168
 # File: module/setup/view/cars/tourico.phtml, line: 176
-# File: module/setup/view/cars/travelport.phtml, line: 230
+# File: module/setup/view/cars/travelport.phtml, line: 398
 # File: module/setup/view/cruises/msc.phtml, line: 146
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 199
 # File: module/setup/view/cruises/politours.phtml, line: 146
@@ -46829,7 +46837,7 @@ msgstr ""
 # File: module/setup/view/activities/viator.phtml, line: 217
 # File: module/setup/view/air/galileo.phtml, line: 202
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 378
-# File: module/setup/view/air/latam.phtml, line: 243
+# File: module/setup/view/air/latam.phtml, line: 330
 # File: module/setup/view/air/mystifly.phtml, line: 157
 # File: module/setup/view/air/priceline.phtml, line: 170
 # File: module/setup/view/air/sabre.phtml, line: 607
@@ -46840,7 +46848,7 @@ msgstr ""
 # File: module/setup/view/air/airgateway.phtml, line: 135
 # File: module/setup/view/air/amadeus.phtml, line: 422
 # File: module/setup/view/air/americanairlines.phtml, line: 377
-# File: module/setup/view/air/avianca.phtml, line: 174
+# File: module/setup/view/air/avianca.phtml, line: 245
 # File: module/setup/view/air/copa.phtml, line: 355
 # File: module/setup/view/air/ctm.phtml, line: 174
 # File: module/setup/view/cars/amadeus.phtml, line: 345
@@ -46854,7 +46862,7 @@ msgstr ""
 # File: module/setup/view/cars/priceline.phtml, line: 170
 # File: module/setup/view/cars/sabre.phtml, line: 171
 # File: module/setup/view/cars/tourico.phtml, line: 179
-# File: module/setup/view/cars/travelport.phtml, line: 233
+# File: module/setup/view/cars/travelport.phtml, line: 401
 # File: module/setup/view/cruises/msc.phtml, line: 149
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 202
 # File: module/setup/view/cruises/politours.phtml, line: 149
@@ -47110,8 +47118,8 @@ msgstr ""
 # File: module/setup/view/activities/destinationservices.phtml, line: 39
 # File: module/setup/view/activities/destinationservices.phtml, line: 40
 # File: module/setup/view/activities/tuimusement.phtml, line: 37
-# File: module/setup/view/air/latam.phtml, line: 48
-# File: module/setup/view/air/latam.phtml, line: 50
+# File: module/setup/view/air/latam.phtml, line: 70
+# File: module/setup/view/air/latam.phtml, line: 73
 # File: module/setup/view/air/mystifly.phtml, line: 59
 # File: module/setup/view/air/mystifly.phtml, line: 60
 # File: module/setup/view/air/travelport.phtml, line: 266
@@ -47143,7 +47151,7 @@ msgid "Please enter Secret Key"
 msgstr ""
 #
 # File: module/setup/view/activities/destinationservices.phtml, line: 124
-# File: module/setup/view/air/latam.phtml, line: 207
+# File: module/setup/view/air/latam.phtml, line: 294
 # File: module/setup/view/air/mystifly.phtml, line: 145
 # File: module/setup/view/air/ctm.phtml, line: 144
 # File: module/setup/view/hotels/nuitee.phtml, line: 234
@@ -47211,7 +47219,7 @@ msgstr ""
 # File: module/setup/view/cars/cartrawler.phtml, line: 363
 # File: module/setup/view/cars/priceline.phtml, line: 155
 # File: module/setup/view/cars/tourico.phtml, line: 152
-# File: module/setup/view/cars/travelport.phtml, line: 203
+# File: module/setup/view/cars/travelport.phtml, line: 371
 # File: module/setup/view/cruises/tourico.phtml, line: 231
 # File: module/setup/view/cruises/amadeus.phtml, line: 310
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 162
@@ -47897,8 +47905,8 @@ msgstr ""
 #
 # File: module/setup/view/activities/viator.phtml, line: 43
 # File: module/setup/view/activities/viator.phtml, line: 44
-# File: module/setup/view/air/latam.phtml, line: 38
-# File: module/setup/view/air/latam.phtml, line: 40
+# File: module/setup/view/air/latam.phtml, line: 52
+# File: module/setup/view/air/latam.phtml, line: 55
 # File: module/setup/view/air/priceline.phtml, line: 44
 # File: module/setup/view/air/priceline.phtml, line: 45
 # File: module/setup/view/air/sky.phtml, line: 15
@@ -47962,13 +47970,13 @@ msgid "Please enter service URL backward compatibility"
 msgstr ""
 #
 # File: module/setup/view/activities/viator.phtml, line: 181
-# File: module/setup/view/air/latam.phtml, line: 201
+# File: module/setup/view/air/latam.phtml, line: 288
 # File: module/setup/view/air/priceline.phtml, line: 161
 # File: module/setup/view/air/sky.phtml, line: 98
 # File: module/setup/view/air/travelportpaypai.phtml, line: 184
 # File: module/setup/view/air/volaris.phtml, line: 98
 # File: module/setup/view/air/airgateway.phtml, line: 114
-# File: module/setup/view/air/avianca.phtml, line: 144
+# File: module/setup/view/air/avianca.phtml, line: 215
 # File: module/setup/view/cars/priceline.phtml, line: 161
 # File: module/setup/view/hotels/expedia.phtml, line: 358
 # File: module/setup/view/hotels/hotelmundial.phtml, line: 293
@@ -48062,8 +48070,8 @@ msgstr ""
 # File: module/setup/view/air/galileo.phtml, line: 80
 # File: module/setup/view/air/travelport.phtml, line: 100
 # File: module/setup/view/air/travelport.phtml, line: 101
-# File: module/setup/view/cars/travelport.phtml, line: 72
-# File: module/setup/view/cars/travelport.phtml, line: 73
+# File: module/setup/view/cars/travelport.phtml, line: 139
+# File: module/setup/view/cars/travelport.phtml, line: 143
 # File: module/setup/view/trains/travelport.phtml, line: 72
 # File: module/setup/view/trains/travelport.phtml, line: 73
 msgid "Travel Agency Phone Number"
@@ -48073,8 +48081,8 @@ msgstr ""
 # File: module/setup/view/air/galileo.phtml, line: 83
 # File: module/setup/view/air/travelport.phtml, line: 104
 # File: module/setup/view/air/travelport.phtml, line: 105
-# File: module/setup/view/cars/travelport.phtml, line: 75
-# File: module/setup/view/cars/travelport.phtml, line: 76
+# File: module/setup/view/cars/travelport.phtml, line: 147
+# File: module/setup/view/cars/travelport.phtml, line: 151
 # File: module/setup/view/trains/travelport.phtml, line: 75
 # File: module/setup/view/trains/travelport.phtml, line: 76
 msgid "Travel Agency City"
@@ -48082,7 +48090,7 @@ msgstr ""
 #
 # File: module/setup/view/air/galileo.phtml, line: 88
 # File: module/setup/view/air/travelport.phtml, line: 111
-# File: module/setup/view/cars/travelport.phtml, line: 79
+# File: module/setup/view/cars/travelport.phtml, line: 161
 # File: module/setup/view/trains/travelport.phtml, line: 79
 msgid "Enable QEP to Pseudo City"
 msgstr ""
@@ -48095,8 +48103,8 @@ msgstr ""
 # File: module/setup/view/air/amadeus.phtml, line: 107
 # File: module/setup/view/cars/amadeus.phtml, line: 139
 # File: module/setup/view/cars/amadeus.phtml, line: 140
-# File: module/setup/view/cars/travelport.phtml, line: 81
-# File: module/setup/view/cars/travelport.phtml, line: 82
+# File: module/setup/view/cars/travelport.phtml, line: 164
+# File: module/setup/view/cars/travelport.phtml, line: 168
 # File: module/setup/view/cruises/amadeus.phtml, line: 78
 # File: module/setup/view/cruises/amadeus.phtml, line: 79
 # File: module/setup/view/hotels/amadeus.phtml, line: 71
@@ -48124,20 +48132,20 @@ msgstr ""
 #
 # File: module/setup/view/air/galileo.phtml, line: 184
 # File: module/setup/view/air/travelport.phtml, line: 439
-# File: module/setup/view/cars/travelport.phtml, line: 212
+# File: module/setup/view/cars/travelport.phtml, line: 380
 # File: module/setup/view/trains/travelport.phtml, line: 190
 msgid "Please enter Travel Agency Phone Number"
 msgstr ""
 #
 # File: module/setup/view/air/galileo.phtml, line: 187
 # File: module/setup/view/air/travelport.phtml, line: 442
-# File: module/setup/view/cars/travelport.phtml, line: 215
+# File: module/setup/view/cars/travelport.phtml, line: 383
 # File: module/setup/view/trains/travelport.phtml, line: 193
 msgid "Please enter Travel Agency City"
 msgstr ""
 #
 # File: module/setup/view/air/galileo.phtml, line: 190
-# File: module/setup/view/cars/travelport.phtml, line: 218
+# File: module/setup/view/cars/travelport.phtml, line: 386
 # File: module/setup/view/trains/travelport.phtml, line: 196
 msgid "Please enter Queue Number"
 msgstr ""
@@ -48150,7 +48158,7 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 336
 # File: module/setup/view/air/americanairlines.phtml, line: 335
 # File: module/setup/view/air/copa.phtml, line: 319
-# File: module/setup/view/cars/travelport.phtml, line: 221
+# File: module/setup/view/cars/travelport.phtml, line: 389
 # File: module/setup/view/trains/travelport.phtml, line: 199
 msgid "Please enter PCC"
 msgstr ""
@@ -48468,7 +48476,7 @@ msgstr ""
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 339
 # File: module/setup/view/air/unitedairlines.phtml, line: 339
 # File: module/setup/view/air/americanairlines.phtml, line: 338
-# File: module/setup/view/air/avianca.phtml, line: 159
+# File: module/setup/view/air/avianca.phtml, line: 230
 # File: module/setup/view/air/copa.phtml, line: 322
 # File: module/setup/view/cars/avisbudget.phtml, line: 183
 msgid "Please enter IATA"
@@ -48544,100 +48552,100 @@ msgstr ""
 msgid "Please enter Contact Zip Code"
 msgstr ""
 #
-# File: module/setup/view/air/latam.phtml, line: 13
+# File: module/setup/view/air/latam.phtml, line: 23
 msgid "Enable Latam - NDC"
 msgstr ""
 #
-# File: module/setup/view/air/latam.phtml, line: 43
-# File: module/setup/view/air/latam.phtml, line: 45
+# File: module/setup/view/air/latam.phtml, line: 60
+# File: module/setup/view/air/latam.phtml, line: 64
 # File: module/setup/view/air/travelportpaypai.phtml, line: 78
 msgid "Secret"
 msgstr ""
 #
-# File: module/setup/view/air/latam.phtml, line: 57
-# File: module/setup/view/air/latam.phtml, line: 59
+# File: module/setup/view/air/latam.phtml, line: 82
+# File: module/setup/view/air/latam.phtml, line: 86
 msgid "OAUTH Username"
 msgstr ""
 #
-# File: module/setup/view/air/latam.phtml, line: 62
-# File: module/setup/view/air/latam.phtml, line: 64
+# File: module/setup/view/air/latam.phtml, line: 91
+# File: module/setup/view/air/latam.phtml, line: 95
 msgid "OAUTH Password"
 msgstr ""
 #
-# File: module/setup/view/air/latam.phtml, line: 67
-# File: module/setup/view/air/latam.phtml, line: 69
+# File: module/setup/view/air/latam.phtml, line: 101
+# File: module/setup/view/air/latam.phtml, line: 105
 # File: module/setup/view/hotels/jactravel.phtml, line: 93
 # File: module/setup/view/hotels/jactravel.phtml, line: 94
 msgid "Client Name"
 msgstr ""
 #
-# File: module/setup/view/air/latam.phtml, line: 72
-# File: module/setup/view/air/latam.phtml, line: 74
+# File: module/setup/view/air/latam.phtml, line: 110
+# File: module/setup/view/air/latam.phtml, line: 114
 msgid "IATA Iso Code Country 2"
 msgstr ""
 #
-# File: module/setup/view/air/latam.phtml, line: 81
-# File: module/setup/view/air/latam.phtml, line: 83
+# File: module/setup/view/air/latam.phtml, line: 123
+# File: module/setup/view/air/latam.phtml, line: 126
 # File: module/setup/view/hotels/majesticusadisney.phtml, line: 44
 # File: module/setup/view/hotels/majesticusadisney.phtml, line: 45
 msgid "Agency ID"
 msgstr ""
 #
-# File: module/setup/view/air/latam.phtml, line: 86
-# File: module/setup/view/air/latam.phtml, line: 88
+# File: module/setup/view/air/latam.phtml, line: 131
+# File: module/setup/view/air/latam.phtml, line: 135
 msgid "Travel Agent ID"
 msgstr ""
 #
-# File: module/setup/view/air/latam.phtml, line: 96
-# File: module/setup/view/air/latam.phtml, line: 98
+# File: module/setup/view/air/latam.phtml, line: 149
+# File: module/setup/view/air/latam.phtml, line: 153
 msgid "IATA Location Code"
 msgstr ""
 #
-# File: module/setup/view/air/latam.phtml, line: 101
-# File: module/setup/view/air/latam.phtml, line: 103
+# File: module/setup/view/air/latam.phtml, line: 158
+# File: module/setup/view/air/latam.phtml, line: 162
 msgid "IATA Country Code (ISO Code 2)"
 msgstr ""
 #
-# File: module/setup/view/air/latam.phtml, line: 204
+# File: module/setup/view/air/latam.phtml, line: 291
 msgid "Please enter Secret"
 msgstr ""
 #
-# File: module/setup/view/air/latam.phtml, line: 210
+# File: module/setup/view/air/latam.phtml, line: 297
 msgid "Please enter OAUTH Username"
 msgstr ""
 #
-# File: module/setup/view/air/latam.phtml, line: 213
+# File: module/setup/view/air/latam.phtml, line: 300
 # File: module/setup/view/air/travelportpaypai.phtml, line: 196
 msgid "Please enter OAUTH Password"
 msgstr ""
 #
-# File: module/setup/view/air/latam.phtml, line: 216
+# File: module/setup/view/air/latam.phtml, line: 303
 # File: module/setup/view/hotels/jactravel.phtml, line: 248
 msgid "Please enter Client Name"
 msgstr ""
 #
-# File: module/setup/view/air/latam.phtml, line: 219
+# File: module/setup/view/air/latam.phtml, line: 306
 # File: module/setup/view/hotels/majesticusadisney.phtml, line: 143
 msgid "Please enter Agency ID"
 msgstr ""
 #
-# File: module/setup/view/air/latam.phtml, line: 222
+# File: module/setup/view/air/latam.phtml, line: 309
 msgid "Please enter Travel Agent ID"
 msgstr ""
 #
-# File: module/setup/view/air/latam.phtml, line: 225
+# File: module/setup/view/air/latam.phtml, line: 312
 msgid "Please enter IATA Number"
 msgstr ""
 #
-# File: module/setup/view/air/latam.phtml, line: 228
+# File: module/setup/view/air/latam.phtml, line: 315
 msgid "Please enter IATA Location Code"
 msgstr ""
 #
-# File: module/setup/view/air/latam.phtml, line: 231
+# File: module/setup/view/air/latam.phtml, line: 318
 msgid "Please enter IATA Country Code (ISO Code 2)"
 msgstr ""
 #
-# File: module/setup/view/air/latam.phtml, line: 234
+# File: module/setup/view/air/latam.phtml, line: 321
 msgid "Please enter IATA Iso Code Country 2"
 msgstr ""
 #
@@ -48759,7 +48767,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 64
 # File: module/setup/view/cars/cartrawler.phtml, line: 255
 # File: module/setup/view/cars/priceline.phtml, line: 64
-# File: module/setup/view/cars/travelport.phtml, line: 92
+# File: module/setup/view/cars/travelport.phtml, line: 191
 # File: module/setup/view/hotels/getaroom.phtml, line: 108
 # File: module/setup/view/hotels/priceline.phtml, line: 64
 # File: module/setup/view/hotels/pricelinenet.phtml, line: 63
@@ -48770,7 +48778,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 65
 # File: module/setup/view/cars/cartrawler.phtml, line: 256
 # File: module/setup/view/cars/priceline.phtml, line: 65
-# File: module/setup/view/cars/travelport.phtml, line: 93
+# File: module/setup/view/cars/travelport.phtml, line: 195
 # File: module/setup/view/hotels/priceline.phtml, line: 65
 # File: module/setup/view/hotels/pricelinenet.phtml, line: 64
 # File: module/setup/view/hotels/ati.phtml, line: 60
@@ -49181,7 +49189,7 @@ msgid "Enable Sky"
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 13
-# File: module/setup/view/cars/travelport.phtml, line: 13
+# File: module/setup/view/cars/travelport.phtml, line: 25
 # File: module/setup/view/hotels/travelport.phtml, line: 13
 # File: module/setup/view/trains/travelport.phtml, line: 13
 msgid "Enable Travelport"
@@ -49189,8 +49197,8 @@ msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 15
 # File: module/setup/view/air/travelport.phtml, line: 16
-# File: module/setup/view/cars/travelport.phtml, line: 15
-# File: module/setup/view/cars/travelport.phtml, line: 16
+# File: module/setup/view/cars/travelport.phtml, line: 28
+# File: module/setup/view/cars/travelport.phtml, line: 32
 # File: module/setup/view/trains/travelport.phtml, line: 15
 # File: module/setup/view/trains/travelport.phtml, line: 16
 msgid "Travelport Universal API ID"
@@ -49198,8 +49206,8 @@ msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 18
 # File: module/setup/view/air/travelport.phtml, line: 19
-# File: module/setup/view/cars/travelport.phtml, line: 18
-# File: module/setup/view/cars/travelport.phtml, line: 19
+# File: module/setup/view/cars/travelport.phtml, line: 36
+# File: module/setup/view/cars/travelport.phtml, line: 41
 # File: module/setup/view/trains/travelport.phtml, line: 18
 # File: module/setup/view/trains/travelport.phtml, line: 19
 msgid "Travelport Universal API Password"
@@ -49207,8 +49215,8 @@ msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 55
 # File: module/setup/view/air/travelport.phtml, line: 56
-# File: module/setup/view/cars/travelport.phtml, line: 47
-# File: module/setup/view/cars/travelport.phtml, line: 48
+# File: module/setup/view/cars/travelport.phtml, line: 76
+# File: module/setup/view/cars/travelport.phtml, line: 80
 # File: module/setup/view/hotels/travelport.phtml, line: 45
 # File: module/setup/view/hotels/travelport.phtml, line: 46
 # File: module/setup/view/trains/travelport.phtml, line: 47
@@ -49218,8 +49226,8 @@ msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 58
 # File: module/setup/view/air/travelport.phtml, line: 59
-# File: module/setup/view/cars/travelport.phtml, line: 50
-# File: module/setup/view/cars/travelport.phtml, line: 51
+# File: module/setup/view/cars/travelport.phtml, line: 84
+# File: module/setup/view/cars/travelport.phtml, line: 88
 # File: module/setup/view/hotels/travelport.phtml, line: 49
 # File: module/setup/view/hotels/travelport.phtml, line: 50
 # File: module/setup/view/trains/travelport.phtml, line: 50
@@ -49228,38 +49236,38 @@ msgid "Authorized By"
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 69
-# File: module/setup/view/cars/travelport.phtml, line: 56
+# File: module/setup/view/cars/travelport.phtml, line: 99
 msgid "Pre-Production (Americas) https://americas.universal-api.pp.travelport.com/B2BGateway/connect/uAPI"
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 70
-# File: module/setup/view/cars/travelport.phtml, line: 57
+# File: module/setup/view/cars/travelport.phtml, line: 103
 msgid "Production (Americas) https://americas.universal-api.travelport.com/B2BGateway/connect/uAPI"
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 71
-# File: module/setup/view/cars/travelport.phtml, line: 58
+# File: module/setup/view/cars/travelport.phtml, line: 107
 # File: module/setup/view/trains/travelport.phtml, line: 58
 msgid "Pre-Production (APAC) https://apac.universal-api.pp.travelport.com/B2BGateway/connect/uAPI"
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 72
-# File: module/setup/view/cars/travelport.phtml, line: 59
+# File: module/setup/view/cars/travelport.phtml, line: 112
 msgid "Production (APAC) https://apac.universal-api.travelport.com/B2BGateway/connect/uAPI"
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 73
-# File: module/setup/view/cars/travelport.phtml, line: 60
+# File: module/setup/view/cars/travelport.phtml, line: 116
 msgid "Pre-Production (EMEA) https://emea.universal-api.pp.travelport.com/B2BGateway/connect/uAPI"
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 74
-# File: module/setup/view/cars/travelport.phtml, line: 61
+# File: module/setup/view/cars/travelport.phtml, line: 120
 msgid "Production (EMEA) https://emea.universal-api.travelport.com/B2BGateway/connect/uAPI"
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 75
-# File: module/setup/view/cars/travelport.phtml, line: 62
+# File: module/setup/view/cars/travelport.phtml, line: 124
 msgid "Profiling https://twsprofiler.travelport.com/Service/Default.ashx/AirService"
 msgstr ""
 #
@@ -49323,7 +49331,7 @@ msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 165
 # File: module/setup/view/air/travelport.phtml, line: 166
-# File: module/setup/view/cars/travelport.phtml, line: 103
+# File: module/setup/view/cars/travelport.phtml, line: 216
 msgid "Credit Card Name"
 msgstr ""
 #
@@ -49482,19 +49490,19 @@ msgid "Syntax: Airline carrier code per line"
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 424
-# File: module/setup/view/cars/travelport.phtml, line: 197
+# File: module/setup/view/cars/travelport.phtml, line: 365
 # File: module/setup/view/trains/travelport.phtml, line: 175
 msgid "Please enter Travelport Universal API ID"
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 427
-# File: module/setup/view/cars/travelport.phtml, line: 200
+# File: module/setup/view/cars/travelport.phtml, line: 368
 # File: module/setup/view/trains/travelport.phtml, line: 178
 msgid "Please enter Travelport Universal API Password"
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 436
-# File: module/setup/view/cars/travelport.phtml, line: 209
+# File: module/setup/view/cars/travelport.phtml, line: 377
 # File: module/setup/view/hotels/travelport.phtml, line: 181
 # File: module/setup/view/trains/travelport.phtml, line: 187
 msgid "Please enter branch code"
@@ -49514,7 +49522,7 @@ msgid "Please enter provider"
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 457
-# File: module/setup/view/cars/travelport.phtml, line: 224
+# File: module/setup/view/cars/travelport.phtml, line: 392
 # File: module/setup/view/hotels/travelport.phtml, line: 184
 # File: module/setup/view/trains/travelport.phtml, line: 202
 msgid "Please enter authorized by"
@@ -50060,39 +50068,39 @@ msgstr ""
 msgid "Enable American Airlines - NDC"
 msgstr ""
 #
-# File: module/setup/view/air/avianca.phtml, line: 13
+# File: module/setup/view/air/avianca.phtml, line: 24
 msgid "Enable Avianca"
 msgstr ""
 #
-# File: module/setup/view/air/avianca.phtml, line: 15
-# File: module/setup/view/air/avianca.phtml, line: 16
+# File: module/setup/view/air/avianca.phtml, line: 27
+# File: module/setup/view/air/avianca.phtml, line: 31
 msgid "LSS User (UserID)"
 msgstr ""
 #
-# File: module/setup/view/air/avianca.phtml, line: 30
-# File: module/setup/view/air/avianca.phtml, line: 31
+# File: module/setup/view/air/avianca.phtml, line: 55
+# File: module/setup/view/air/avianca.phtml, line: 59
 msgid "OID Connector"
 msgstr ""
 #
-# File: module/setup/view/air/avianca.phtml, line: 40
-# File: module/setup/view/air/avianca.phtml, line: 41
+# File: module/setup/view/air/avianca.phtml, line: 72
+# File: module/setup/view/air/avianca.phtml, line: 76
 msgid "Duty Code (SU)"
 msgstr ""
 #
-# File: module/setup/view/air/avianca.phtml, line: 45
-# File: module/setup/view/air/avianca.phtml, line: 46
+# File: module/setup/view/air/avianca.phtml, line: 81
+# File: module/setup/view/air/avianca.phtml, line: 85
 msgid "LSSOrg"
 msgstr ""
 #
-# File: module/setup/view/air/avianca.phtml, line: 156
+# File: module/setup/view/air/avianca.phtml, line: 227
 msgid "Please enter OID Connector"
 msgstr ""
 #
-# File: module/setup/view/air/avianca.phtml, line: 162
+# File: module/setup/view/air/avianca.phtml, line: 233
 msgid "Please enter Duty Code (SU)"
 msgstr ""
 #
-# File: module/setup/view/air/avianca.phtml, line: 165
+# File: module/setup/view/air/avianca.phtml, line: 236
 msgid "Please enter LSSOrg"
 msgstr ""
 #
@@ -51203,15 +51211,15 @@ msgstr ""
 msgid "Please enter Webservices URL"
 msgstr ""
 #
-# File: module/setup/view/cars/travelport.phtml, line: 87
+# File: module/setup/view/cars/travelport.phtml, line: 181
 msgid "Corporate Credit Card"
 msgstr ""
 #
-# File: module/setup/view/cars/travelport.phtml, line: 89
+# File: module/setup/view/cars/travelport.phtml, line: 184
 msgid "Card Type (VI/MC/AX/DC)"
 msgstr ""
 #
-# File: module/setup/view/cars/travelport.phtml, line: 99
+# File: module/setup/view/cars/travelport.phtml, line: 212
 # File: module/setup/view/hotels/expedia.phtml, line: 145
 # File: module/setup/view/hotels/expedia.phtml, line: 146
 # File: module/setup/view/hotels/hotelmundial.phtml, line: 97
@@ -51222,13 +51230,19 @@ msgstr ""
 msgid "Card Number"
 msgstr ""
 #
-# File: module/setup/view/cars/travelport.phtml, line: 100
+# File: module/setup/view/cars/travelport.phtml, line: 220
+# File: module/setup/view/hotels/ati.phtml, line: 70
+msgid "Card Holder Name"
+msgstr ""
+#
+# File: module/setup/view/cars/travelport.phtml, line: 224
 # File: module/setup/view/hotels/dotw.phtml, line: 118
 # File: module/setup/view/hotels/dotw.phtml, line: 119
 msgid "Credit Card CVV"
 msgstr ""
 #
-# File: module/setup/view/cars/travelport.phtml, line: 101
+# File: module/setup/view/cars/travelport.phtml, line: 232
+# File: module/setup/view/cars/travelport.phtml, line: 237
 # File: module/setup/view/hotels/getaroom.phtml, line: 117
 # File: module/setup/view/hotels/ati.phtml, line: 68
 # File: module/setup/view/hotels/dotw.phtml, line: 110
@@ -51236,17 +51250,13 @@ msgstr ""
 msgid "Credit Card Expiration Month"
 msgstr ""
 #
-# File: module/setup/view/cars/travelport.phtml, line: 102
+# File: module/setup/view/cars/travelport.phtml, line: 241
+# File: module/setup/view/cars/travelport.phtml, line: 246
 # File: module/setup/view/hotels/getaroom.phtml, line: 118
 # File: module/setup/view/hotels/ati.phtml, line: 69
 # File: module/setup/view/hotels/dotw.phtml, line: 114
 # File: module/setup/view/hotels/dotw.phtml, line: 115
 msgid "Credit Card Expiration Year"
-msgstr ""
-#
-# File: module/setup/view/cars/travelport.phtml, line: 103
-# File: module/setup/view/hotels/ati.phtml, line: 70
-msgid "Card Holder Name"
 msgstr ""
 #
 # File: module/setup/view/cruises/msc.phtml, line: 13
