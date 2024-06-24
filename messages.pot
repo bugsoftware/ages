@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-24 11:11+0100\n"
+"POT-Creation-Date: 2024-06-24 11:16+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4523,7 +4523,7 @@ msgstr ""
 # File: module/setup/view/hotels/didatravel.phtml, line: 93
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 93
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 86
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 95
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 98
 # File: module/setup/view/hotels/imperatours.phtml, line: 95
 # File: module/setup/view/hotels/rakutencug.phtml, line: 90
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 131
@@ -7845,7 +7845,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_invoice.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_newsubagent.phtml, line: 20
-# File: module/ages/src/Controller/Templates/alert.phtml, line: 250
+# File: module/ages/src/Controller/Templates/alert.phtml, line: 258
 # File: module/ages/src/Controller/Templates/cancellation.phtml, line: 241
 # File: module/ages/src/Controller/Templates/agent_disable.phtml, line: 17
 msgid "Dear"
@@ -10601,7 +10601,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/message.phtml, line: 262
 # File: module/ages/src/Controller/Templates/notification.phtml, line: 286
-# File: module/ages/src/Controller/Templates/alert.phtml, line: 252
+# File: module/ages/src/Controller/Templates/alert.phtml, line: 260
 # File: module/ages/src/Controller/Templates/cancellation.phtml, line: 248
 msgid "Best Regards"
 msgstr ""
@@ -12586,6 +12586,14 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_newsubagent.phtml, line: 40
 msgid "Best regards,"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/alert.phtml, line: 287
+msgid "b2b reservation"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/alert.phtml, line: 287
+msgid "b2c reservation"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/cancellation.phtml, line: 243
@@ -33137,6 +33145,8 @@ msgstr ""
 # File: module/setup/view/hotels/ati.phtml, line: 95
 # File: module/setup/view/hotels/ctrip.phtml, line: 71
 # File: module/setup/view/hotels/ctrip.phtml, line: 72
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 62
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 63
 msgid "Phone Number"
 msgstr ""
 #
@@ -44543,8 +44553,8 @@ msgstr ""
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 39
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 54
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 55
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 63
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 64
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 66
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 67
 # File: module/setup/view/hotels/rakutencug.phtml, line: 40
 # File: module/setup/view/hotels/rakutencug.phtml, line: 41
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 49
@@ -44719,7 +44729,7 @@ msgstr ""
 # File: module/setup/view/hotels/didatravel.phtml, line: 80
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 80
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 57
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 82
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 85
 # File: module/setup/view/hotels/imperatours.phtml, line: 82
 # File: module/setup/view/hotels/rakutencug.phtml, line: 63
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 100
@@ -45022,8 +45032,8 @@ msgstr ""
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 76
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 61
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 62
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 69
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 70
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 72
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 73
 # File: module/setup/view/hotels/imperatours.phtml, line: 69
 # File: module/setup/view/hotels/imperatours.phtml, line: 70
 # File: module/setup/view/hotels/rakutencug.phtml, line: 65
@@ -45380,8 +45390,8 @@ msgstr ""
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 77
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 64
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 65
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 72
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 73
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 75
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 76
 # File: module/setup/view/hotels/imperatours.phtml, line: 72
 # File: module/setup/view/hotels/imperatours.phtml, line: 73
 # File: module/setup/view/hotels/rakutencug.phtml, line: 68
@@ -45740,8 +45750,8 @@ msgstr ""
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 78
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 67
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 68
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 75
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 76
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 78
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 79
 # File: module/setup/view/hotels/imperatours.phtml, line: 75
 # File: module/setup/view/hotels/imperatours.phtml, line: 76
 # File: module/setup/view/hotels/rakutencug.phtml, line: 71
@@ -46100,8 +46110,8 @@ msgstr ""
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 79
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 71
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 72
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 79
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 80
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 82
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 83
 # File: module/setup/view/hotels/imperatours.phtml, line: 79
 # File: module/setup/view/hotels/imperatours.phtml, line: 80
 # File: module/setup/view/hotels/rakutencug.phtml, line: 75
@@ -46391,8 +46401,8 @@ msgstr ""
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 88
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 79
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 81
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 88
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 90
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 91
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 93
 # File: module/setup/view/hotels/imperatours.phtml, line: 88
 # File: module/setup/view/hotels/imperatours.phtml, line: 90
 # File: module/setup/view/hotels/rakutencug.phtml, line: 83
@@ -46593,7 +46603,7 @@ msgstr ""
 # File: module/setup/view/hotels/didatravel.phtml, line: 168
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 168
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 152
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 161
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 167
 # File: module/setup/view/hotels/imperatours.phtml, line: 158
 # File: module/setup/view/hotels/rakutencug.phtml, line: 150
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 197
@@ -46693,7 +46703,7 @@ msgstr ""
 # File: module/setup/view/hotels/didatravel.phtml, line: 195
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 195
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 155
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 164
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 170
 # File: module/setup/view/hotels/rakutencug.phtml, line: 153
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 200
 # File: module/setup/view/hotels/dotw.phtml, line: 219
@@ -46883,7 +46893,7 @@ msgstr ""
 # File: module/setup/view/hotels/didatravel.phtml, line: 201
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 201
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 158
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 179
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 188
 # File: module/setup/view/hotels/imperatours.phtml, line: 161
 # File: module/setup/view/hotels/rakutencug.phtml, line: 168
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 209
@@ -47072,7 +47082,7 @@ msgstr ""
 # File: module/setup/view/hotels/didatravel.phtml, line: 204
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 204
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 161
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 182
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 191
 # File: module/setup/view/hotels/imperatours.phtml, line: 164
 # File: module/setup/view/hotels/rakutencug.phtml, line: 171
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 212
@@ -47261,7 +47271,7 @@ msgstr ""
 # File: module/setup/view/hotels/didatravel.phtml, line: 207
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 207
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 164
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 185
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 194
 # File: module/setup/view/hotels/imperatours.phtml, line: 167
 # File: module/setup/view/hotels/rakutencug.phtml, line: 174
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 215
@@ -47340,7 +47350,7 @@ msgstr ""
 # File: module/setup/view/hotels/cosmobeds.phtml, line: 161
 # File: module/setup/view/hotels/ctrip.phtml, line: 173
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 143
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 158
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 164
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 191
 # File: module/setup/view/hotels/dotw.phtml, line: 210
 msgid "Please enter User ID"
@@ -47374,7 +47384,7 @@ msgstr ""
 # File: module/setup/view/hotels/olympiaeurope.phtml, line: 245
 # File: module/setup/view/hotels/rakuten.phtml, line: 159
 # File: module/setup/view/hotels/coming2.phtml, line: 186
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 170
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 179
 # File: module/setup/view/hotels/rakutencug.phtml, line: 159
 # File: module/setup/view/packages/destinationservices.phtml, line: 126
 msgid "Please enter Currency Code"
@@ -50515,7 +50525,7 @@ msgstr ""
 # File: module/setup/view/hotels/tbo.phtml, line: 267
 # File: module/setup/view/hotels/travolutionary.phtml, line: 181
 # File: module/setup/view/hotels/aio.phtml, line: 246
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 167
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 173
 msgid "Please enter Email"
 msgstr ""
 #
@@ -50574,6 +50584,7 @@ msgstr ""
 # File: module/setup/view/hotels/tbo.phtml, line: 264
 # File: module/setup/view/hotels/aio.phtml, line: 237
 # File: module/setup/view/hotels/ctrip.phtml, line: 197
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 176
 msgid "Please enter Phone Number"
 msgstr ""
 #
@@ -55956,11 +55967,11 @@ msgstr ""
 msgid "Client Nationality (Iso Code 2)"
 msgstr ""
 #
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 173
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 182
 msgid "Please enter Client Nationality (Iso Code 2)"
 msgstr ""
 #
-# File: module/setup/view/hotels/gnrconnect.phtml, line: 176
+# File: module/setup/view/hotels/gnrconnect.phtml, line: 185
 msgid "Please enter Static data End Point"
 msgstr ""
 #
