@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-16 20:54+0100\n"
+"POT-Creation-Date: 2024-07-16 20:55+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -8429,11 +8429,13 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/message.phtml, line: 252
 # File: module/ages/src/Controller/Templates/notification.phtml, line: 250
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 20
+# File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_invoice.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_newsubagent.phtml, line: 20
 # File: module/ages/src/Controller/Templates/alert.phtml, line: 258
 # File: module/ages/src/Controller/Templates/cancellation.phtml, line: 241
 # File: module/ages/src/Controller/Templates/agent_disable.phtml, line: 17
+# File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 20
 msgid "Dear"
 msgstr ""
 #
@@ -12655,7 +12657,9 @@ msgid "Total Commission Amount"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 22
+# File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 22
 # File: module/ages/src/Controller/Templates/notification_invoice.phtml, line: 22
+# File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 22
 msgid "We hope this message finds you well."
 msgstr ""
 #
@@ -12664,7 +12668,9 @@ msgid "We are pleased to inform you that a service fee has been applied to your 
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 24
+# File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 24
 # File: module/ages/src/Controller/Templates/notification_invoice.phtml, line: 24
+# File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 24
 msgid "Transaction Details"
 msgstr ""
 #
@@ -12673,7 +12679,9 @@ msgid "Service Fee:"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 27
+# File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 26
 # File: module/ages/src/Controller/Templates/notification_invoice.phtml, line: 27
+# File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 26
 msgid "Reservation Number:"
 msgstr ""
 #
@@ -12683,26 +12691,43 @@ msgid "Please review your account for additional information."
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 30
+# File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 29
 # File: module/ages/src/Controller/Templates/notification_invoice.phtml, line: 30
+# File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 29
 msgid "Should you have any questions or require further assistance, do not hesitate to contact us."
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 31
+# File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 30
 # File: module/ages/src/Controller/Templates/notification_invoice.phtml, line: 31
 # File: module/ages/src/Controller/Templates/notification_newsubagent.phtml, line: 39
+# File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 30
 msgid "Thank you for choosing our services. We look forward to continuing our business relationship."
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 32
+# File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 31
 # File: module/ages/src/Controller/Templates/notification_invoice.phtml, line: 32
 # File: module/ages/src/Controller/Templates/agent_disable.phtml, line: 37
+# File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 31
 msgid "Warm regards,"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 33
+# File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 32
 # File: module/ages/src/Controller/Templates/notification_invoice.phtml, line: 33
 # File: module/ages/src/Controller/Templates/notification_newsubagent.phtml, line: 41
+# File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 32
 msgid "Click & Book Team"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 23
+msgid "This is to inform you that the customer has not yet signed the terms and conditions for their reservation. Please reach out to the customer at your earliest convenience to ensure that the terms and conditions are reviewed and signed."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 28
+# File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 28
+msgid "Please review your reservation for additional information."
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_invoice.phtml, line: 23
@@ -12852,6 +12877,10 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/agent_disable.phtml, line: 38
 msgid "Click & Book Customer Support Team"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 23
+msgid "I am pleased to inform you that the customer has successfully signed the terms and conditions for their reservation. No further action is required at this time."
 msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 433
