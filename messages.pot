@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-17 14:54+0100\n"
+"POT-Creation-Date: 2024-09-18 12:49+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -8616,7 +8616,7 @@ msgid "Unknown - Possible deleted"
 msgstr ""
 #
 # File: module/ages/src/Controller/Newsletter.php, line: 1215
-# File: module/ages/src/Controller/Newsletter.php, line: 7479
+# File: module/ages/src/Controller/Newsletter.php, line: 7483
 # File: module/ages/view/ages/newsletter/exceptions.phtml, line: 11
 msgid "All Newsletters"
 msgstr ""
@@ -8728,8 +8728,8 @@ msgid "Global Newsletter Stats"
 msgstr ""
 #
 # File: module/ages/src/Controller/Newsletter.php, line: 7245
-# File: module/ages/src/Controller/Newsletter.php, line: 7327
-# File: module/ages/src/Controller/Newsletter.php, line: 7329
+# File: module/ages/src/Controller/Newsletter.php, line: 7331
+# File: module/ages/src/Controller/Newsletter.php, line: 7333
 msgid "Newsletter Stats"
 msgstr ""
 #
@@ -8957,6 +8957,11 @@ msgstr ""
 # File: module/setup/view/settings/geotargetmarkup_add.phtml, line: 16
 # File: module/setup/view/settings/geotargetmarkup_edit.phtml, line: 16
 msgid "Agent"
+msgstr ""
+#
+# File: module/ages/src/Controller/Newsletter.php, line: 7273
+# File: module/ages/view/ages/newsletter/stats.phtml, line: 37
+msgid "Conversions"
 msgstr ""
 #
 # File: module/ages/src/Controller/Packages.php, line: 406
@@ -39891,10 +39896,6 @@ msgstr ""
 #
 # File: module/ages/view/ages/newsletter/stats.phtml, line: 35
 msgid "Unique Click"
-msgstr ""
-#
-# File: module/ages/view/ages/newsletter/stats.phtml, line: 37
-msgid "Conversions"
 msgstr ""
 #
 # File: module/ages/view/ages/newsletter/stats.phtml, line: 62
