@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-23 11:45+0100\n"
+"POT-Creation-Date: 2024-09-23 13:34+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4423,12 +4423,14 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 174
 # File: module/setup/view/air/volaris.phtml, line: 93
 # File: module/setup/view/air/kiu.phtml, line: 155
+# File: module/setup/view/air/turkishairlines.phtml, line: 110
 # File: module/setup/view/air/airgateway.phtml, line: 57
 # File: module/setup/view/air/amadeus.phtml, line: 233
 # File: module/setup/view/air/americanairlines.phtml, line: 173
 # File: module/setup/view/air/avianca.phtml, line: 198
 # File: module/setup/view/air/copa.phtml, line: 163
 # File: module/setup/view/air/ctm.phtml, line: 60
+# File: module/setup/view/air/aeromexico.phtml, line: 174
 # File: module/setup/view/cars/amadeus.phtml, line: 156
 # File: module/setup/view/cars/avis.phtml, line: 79
 # File: module/setup/view/cars/avisbudget.phtml, line: 109
@@ -7433,6 +7435,8 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 51
 # File: module/setup/view/air/copa.phtml, line: 49
 # File: module/setup/view/air/copa.phtml, line: 51
+# File: module/setup/view/air/aeromexico.phtml, line: 50
+# File: module/setup/view/air/aeromexico.phtml, line: 52
 # File: module/setup/view/cars/bookinggo.phtml, line: 37
 # File: module/setup/view/cars/bookinggo.phtml, line: 38
 # File: module/setup/view/cars/cartrawler.phtml, line: 222
@@ -15381,6 +15385,7 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 17
 # File: module/setup/view/air/volaris.phtml, line: 24
 # File: module/setup/view/air/kiu.phtml, line: 92
+# File: module/setup/view/air/turkishairlines.phtml, line: 47
 # File: module/setup/view/air/addtoxicairlines.phtml, line: 12
 # File: module/setup/view/air/airgateway.phtml, line: 21
 # File: module/setup/view/air/amadeus.phtml, line: 23
@@ -15392,6 +15397,7 @@ msgstr ""
 # File: module/setup/view/air/editfeaturedairlines.phtml, line: 21
 # File: module/setup/view/air/edittoxicairlines.phtml, line: 16
 # File: module/setup/view/air/edittoxicairlines.phtml, line: 17
+# File: module/setup/view/air/aeromexico.phtml, line: 17
 # File: module/setup/view/cars/amadeus.phtml, line: 23
 # File: module/setup/view/cars/avis.phtml, line: 25
 # File: module/setup/view/cars/avisbudget.phtml, line: 25
@@ -20229,6 +20235,8 @@ msgstr ""
 # File: module/setup/view/air/volaris.phtml, line: 70
 # File: module/setup/view/air/kiu.phtml, line: 79
 # File: module/setup/view/air/kiu.phtml, line: 83
+# File: module/setup/view/air/turkishairlines.phtml, line: 36
+# File: module/setup/view/air/turkishairlines.phtml, line: 40
 # File: module/setup/view/air/amadeus.phtml, line: 18
 # File: module/setup/view/air/amadeus.phtml, line: 19
 # File: module/setup/view/air/avianca.phtml, line: 72
@@ -24910,12 +24918,14 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 28
 # File: module/setup/view/air/volaris.phtml, line: 35
 # File: module/setup/view/air/kiu.phtml, line: 105
+# File: module/setup/view/air/turkishairlines.phtml, line: 60
 # File: module/setup/view/air/airgateway.phtml, line: 32
 # File: module/setup/view/air/amadeus.phtml, line: 34
 # File: module/setup/view/air/americanairlines.phtml, line: 27
 # File: module/setup/view/air/avianca.phtml, line: 40
 # File: module/setup/view/air/copa.phtml, line: 27
 # File: module/setup/view/air/ctm.phtml, line: 34
+# File: module/setup/view/air/aeromexico.phtml, line: 28
 # File: module/setup/view/cars/amadeus.phtml, line: 34
 # File: module/setup/view/cars/avis.phtml, line: 36
 # File: module/setup/view/cars/avisbudget.phtml, line: 36
@@ -25083,6 +25093,8 @@ msgstr ""
 # File: module/setup/view/air/avianca.phtml, line: 104
 # File: module/setup/view/air/copa.phtml, line: 104
 # File: module/setup/view/air/copa.phtml, line: 106
+# File: module/setup/view/air/aeromexico.phtml, line: 105
+# File: module/setup/view/air/aeromexico.phtml, line: 107
 # File: module/setup/view/cars/avisbudget.phtml, line: 55
 # File: module/setup/view/cars/avisbudget.phtml, line: 56
 msgid "IATA"
@@ -25370,6 +25382,8 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 96
 # File: module/setup/view/air/copa.phtml, line: 94
 # File: module/setup/view/air/copa.phtml, line: 96
+# File: module/setup/view/air/aeromexico.phtml, line: 95
+# File: module/setup/view/air/aeromexico.phtml, line: 97
 # File: module/setup/view/cruises/traveltek.phtml, line: 48
 # File: module/setup/view/cruises/traveltek.phtml, line: 49
 # File: module/setup/view/cruises/costa.phtml, line: 46
@@ -28254,6 +28268,8 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 101
 # File: module/setup/view/air/copa.phtml, line: 99
 # File: module/setup/view/air/copa.phtml, line: 101
+# File: module/setup/view/air/aeromexico.phtml, line: 100
+# File: module/setup/view/air/aeromexico.phtml, line: 102
 # File: module/setup/view/cars/travelport.phtml, line: 129
 # File: module/setup/view/cars/travelport.phtml, line: 133
 # File: module/setup/view/trains/travelport.phtml, line: 67
@@ -31333,6 +31349,8 @@ msgstr ""
 # File: module/setup/view/air/travelportpaypai.phtml, line: 59
 # File: module/setup/view/air/kiu.phtml, line: 71
 # File: module/setup/view/air/kiu.phtml, line: 75
+# File: module/setup/view/air/turkishairlines.phtml, line: 28
+# File: module/setup/view/air/turkishairlines.phtml, line: 32
 # File: module/setup/view/air/ctm.phtml, line: 15
 # File: module/setup/view/air/ctm.phtml, line: 16
 # File: module/setup/view/cars/avisbudget.phtml, line: 16
@@ -44279,12 +44297,14 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 20
 # File: module/setup/view/air/volaris.phtml, line: 27
 # File: module/setup/view/air/kiu.phtml, line: 96
+# File: module/setup/view/air/turkishairlines.phtml, line: 51
 # File: module/setup/view/air/airgateway.phtml, line: 24
 # File: module/setup/view/air/amadeus.phtml, line: 26
 # File: module/setup/view/air/americanairlines.phtml, line: 19
 # File: module/setup/view/air/avianca.phtml, line: 31
 # File: module/setup/view/air/copa.phtml, line: 19
 # File: module/setup/view/air/ctm.phtml, line: 26
+# File: module/setup/view/air/aeromexico.phtml, line: 20
 # File: module/setup/view/cars/amadeus.phtml, line: 26
 # File: module/setup/view/cars/avis.phtml, line: 28
 # File: module/setup/view/cars/avisbudget.phtml, line: 28
@@ -44461,12 +44481,14 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 31
 # File: module/setup/view/air/volaris.phtml, line: 38
 # File: module/setup/view/air/kiu.phtml, line: 109
+# File: module/setup/view/air/turkishairlines.phtml, line: 64
 # File: module/setup/view/air/airgateway.phtml, line: 35
 # File: module/setup/view/air/amadeus.phtml, line: 37
 # File: module/setup/view/air/americanairlines.phtml, line: 30
 # File: module/setup/view/air/avianca.phtml, line: 43
 # File: module/setup/view/air/copa.phtml, line: 30
 # File: module/setup/view/air/ctm.phtml, line: 37
+# File: module/setup/view/air/aeromexico.phtml, line: 31
 # File: module/setup/view/cars/amadeus.phtml, line: 37
 # File: module/setup/view/cars/avis.phtml, line: 39
 # File: module/setup/view/cars/avisbudget.phtml, line: 39
@@ -44641,6 +44663,7 @@ msgstr ""
 # File: module/setup/view/air/avianca.phtml, line: 62
 # File: module/setup/view/air/avianca.phtml, line: 66
 # File: module/setup/view/air/copa.phtml, line: 14
+# File: module/setup/view/air/aeromexico.phtml, line: 15
 # File: module/setup/view/cars/amadeus.phtml, line: 71
 # File: module/setup/view/cars/avis.phtml, line: 47
 # File: module/setup/view/cars/avis.phtml, line: 48
@@ -45077,6 +45100,8 @@ msgstr ""
 # File: module/setup/view/air/volaris.phtml, line: 87
 # File: module/setup/view/air/kiu.phtml, line: 120
 # File: module/setup/view/air/kiu.phtml, line: 124
+# File: module/setup/view/air/turkishairlines.phtml, line: 75
+# File: module/setup/view/air/turkishairlines.phtml, line: 79
 # File: module/setup/view/air/airgateway.phtml, line: 51
 # File: module/setup/view/air/amadeus.phtml, line: 212
 # File: module/setup/view/air/amadeus.phtml, line: 213
@@ -45085,6 +45110,7 @@ msgstr ""
 # File: module/setup/view/air/avianca.phtml, line: 168
 # File: module/setup/view/air/copa.phtml, line: 157
 # File: module/setup/view/air/ctm.phtml, line: 54
+# File: module/setup/view/air/aeromexico.phtml, line: 168
 # File: module/setup/view/cars/amadeus.phtml, line: 142
 # File: module/setup/view/cars/amadeus.phtml, line: 143
 # File: module/setup/view/cars/avis.phtml, line: 61
@@ -45437,6 +45463,8 @@ msgstr ""
 # File: module/setup/view/air/volaris.phtml, line: 88
 # File: module/setup/view/air/kiu.phtml, line: 128
 # File: module/setup/view/air/kiu.phtml, line: 132
+# File: module/setup/view/air/turkishairlines.phtml, line: 83
+# File: module/setup/view/air/turkishairlines.phtml, line: 87
 # File: module/setup/view/air/airgateway.phtml, line: 52
 # File: module/setup/view/air/amadeus.phtml, line: 216
 # File: module/setup/view/air/amadeus.phtml, line: 217
@@ -45445,6 +45473,7 @@ msgstr ""
 # File: module/setup/view/air/avianca.phtml, line: 176
 # File: module/setup/view/air/copa.phtml, line: 158
 # File: module/setup/view/air/ctm.phtml, line: 55
+# File: module/setup/view/air/aeromexico.phtml, line: 169
 # File: module/setup/view/cars/amadeus.phtml, line: 145
 # File: module/setup/view/cars/amadeus.phtml, line: 146
 # File: module/setup/view/cars/avis.phtml, line: 65
@@ -45798,6 +45827,8 @@ msgstr ""
 # File: module/setup/view/air/volaris.phtml, line: 89
 # File: module/setup/view/air/kiu.phtml, line: 136
 # File: module/setup/view/air/kiu.phtml, line: 140
+# File: module/setup/view/air/turkishairlines.phtml, line: 91
+# File: module/setup/view/air/turkishairlines.phtml, line: 95
 # File: module/setup/view/air/airgateway.phtml, line: 53
 # File: module/setup/view/air/amadeus.phtml, line: 220
 # File: module/setup/view/air/amadeus.phtml, line: 221
@@ -45806,6 +45837,7 @@ msgstr ""
 # File: module/setup/view/air/avianca.phtml, line: 184
 # File: module/setup/view/air/copa.phtml, line: 159
 # File: module/setup/view/air/ctm.phtml, line: 56
+# File: module/setup/view/air/aeromexico.phtml, line: 170
 # File: module/setup/view/cars/amadeus.phtml, line: 148
 # File: module/setup/view/cars/amadeus.phtml, line: 149
 # File: module/setup/view/cars/avis.phtml, line: 69
@@ -46159,6 +46191,8 @@ msgstr ""
 # File: module/setup/view/air/volaris.phtml, line: 90
 # File: module/setup/view/air/kiu.phtml, line: 144
 # File: module/setup/view/air/kiu.phtml, line: 149
+# File: module/setup/view/air/turkishairlines.phtml, line: 99
+# File: module/setup/view/air/turkishairlines.phtml, line: 104
 # File: module/setup/view/air/airgateway.phtml, line: 54
 # File: module/setup/view/air/amadeus.phtml, line: 224
 # File: module/setup/view/air/amadeus.phtml, line: 225
@@ -46167,6 +46201,7 @@ msgstr ""
 # File: module/setup/view/air/avianca.phtml, line: 192
 # File: module/setup/view/air/copa.phtml, line: 160
 # File: module/setup/view/air/ctm.phtml, line: 57
+# File: module/setup/view/air/aeromexico.phtml, line: 171
 # File: module/setup/view/cars/amadeus.phtml, line: 151
 # File: module/setup/view/cars/amadeus.phtml, line: 152
 # File: module/setup/view/cars/avis.phtml, line: 73
@@ -46776,12 +46811,14 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 294
 # File: module/setup/view/air/volaris.phtml, line: 165
 # File: module/setup/view/air/kiu.phtml, line: 231
+# File: module/setup/view/air/turkishairlines.phtml, line: 168
 # File: module/setup/view/air/airgateway.phtml, line: 117
 # File: module/setup/view/air/amadeus.phtml, line: 413
 # File: module/setup/view/air/americanairlines.phtml, line: 293
 # File: module/setup/view/air/avianca.phtml, line: 280
 # File: module/setup/view/air/copa.phtml, line: 277
 # File: module/setup/view/air/ctm.phtml, line: 141
+# File: module/setup/view/air/aeromexico.phtml, line: 294
 # File: module/setup/view/cars/amadeus.phtml, line: 336
 # File: module/setup/view/cars/avis.phtml, line: 141
 # File: module/setup/view/cars/avisbudget.phtml, line: 174
@@ -46951,6 +46988,7 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 296
 # File: module/setup/view/air/avianca.phtml, line: 286
 # File: module/setup/view/air/copa.phtml, line: 280
+# File: module/setup/view/air/aeromexico.phtml, line: 297
 # File: module/setup/view/hotels/eetglobal.phtml, line: 162
 # File: module/setup/view/hotels/enjoycuba.phtml, line: 162
 # File: module/setup/view/hotels/goglobal.phtml, line: 173
@@ -47068,12 +47106,14 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 354
 # File: module/setup/view/air/volaris.phtml, line: 192
 # File: module/setup/view/air/kiu.phtml, line: 234
+# File: module/setup/view/air/turkishairlines.phtml, line: 171
 # File: module/setup/view/air/airgateway.phtml, line: 123
 # File: module/setup/view/air/amadeus.phtml, line: 416
 # File: module/setup/view/air/americanairlines.phtml, line: 371
 # File: module/setup/view/air/avianca.phtml, line: 316
 # File: module/setup/view/air/copa.phtml, line: 349
 # File: module/setup/view/air/ctm.phtml, line: 168
+# File: module/setup/view/air/aeromexico.phtml, line: 354
 # File: module/setup/view/cars/amadeus.phtml, line: 339
 # File: module/setup/view/cars/avis.phtml, line: 153
 # File: module/setup/view/cars/avisbudget.phtml, line: 189
@@ -47257,12 +47297,14 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 357
 # File: module/setup/view/air/volaris.phtml, line: 195
 # File: module/setup/view/air/kiu.phtml, line: 237
+# File: module/setup/view/air/turkishairlines.phtml, line: 174
 # File: module/setup/view/air/airgateway.phtml, line: 126
 # File: module/setup/view/air/amadeus.phtml, line: 419
 # File: module/setup/view/air/americanairlines.phtml, line: 374
 # File: module/setup/view/air/avianca.phtml, line: 319
 # File: module/setup/view/air/copa.phtml, line: 352
 # File: module/setup/view/air/ctm.phtml, line: 171
+# File: module/setup/view/air/aeromexico.phtml, line: 357
 # File: module/setup/view/cars/amadeus.phtml, line: 342
 # File: module/setup/view/cars/avis.phtml, line: 156
 # File: module/setup/view/cars/avisbudget.phtml, line: 192
@@ -47447,12 +47489,14 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 378
 # File: module/setup/view/air/volaris.phtml, line: 198
 # File: module/setup/view/air/kiu.phtml, line: 240
+# File: module/setup/view/air/turkishairlines.phtml, line: 177
 # File: module/setup/view/air/airgateway.phtml, line: 135
 # File: module/setup/view/air/amadeus.phtml, line: 422
 # File: module/setup/view/air/americanairlines.phtml, line: 377
 # File: module/setup/view/air/avianca.phtml, line: 322
 # File: module/setup/view/air/copa.phtml, line: 355
 # File: module/setup/view/air/ctm.phtml, line: 174
+# File: module/setup/view/air/aeromexico.phtml, line: 378
 # File: module/setup/view/cars/amadeus.phtml, line: 345
 # File: module/setup/view/cars/avis.phtml, line: 159
 # File: module/setup/view/cars/avisbudget.phtml, line: 195
@@ -48783,6 +48827,7 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 336
 # File: module/setup/view/air/americanairlines.phtml, line: 335
 # File: module/setup/view/air/copa.phtml, line: 319
+# File: module/setup/view/air/aeromexico.phtml, line: 336
 # File: module/setup/view/cars/travelport.phtml, line: 389
 # File: module/setup/view/trains/travelport.phtml, line: 199
 msgid "Please enter PCC"
@@ -48800,6 +48845,8 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 41
 # File: module/setup/view/air/copa.phtml, line: 39
 # File: module/setup/view/air/copa.phtml, line: 41
+# File: module/setup/view/air/aeromexico.phtml, line: 40
+# File: module/setup/view/air/aeromexico.phtml, line: 42
 msgid "Ident User (U)"
 msgstr ""
 #
@@ -48811,6 +48858,8 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 46
 # File: module/setup/view/air/copa.phtml, line: 44
 # File: module/setup/view/air/copa.phtml, line: 46
+# File: module/setup/view/air/aeromexico.phtml, line: 45
+# File: module/setup/view/air/aeromexico.phtml, line: 47
 msgid "Ident Password (P)"
 msgstr ""
 #
@@ -48822,6 +48871,8 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 56
 # File: module/setup/view/air/copa.phtml, line: 54
 # File: module/setup/view/air/copa.phtml, line: 56
+# File: module/setup/view/air/aeromexico.phtml, line: 55
+# File: module/setup/view/air/aeromexico.phtml, line: 57
 msgid "Ident Pseudo City Code"
 msgstr ""
 #
@@ -48833,6 +48884,8 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 61
 # File: module/setup/view/air/copa.phtml, line: 59
 # File: module/setup/view/air/copa.phtml, line: 61
+# File: module/setup/view/air/aeromexico.phtml, line: 60
+# File: module/setup/view/air/aeromexico.phtml, line: 62
 msgid "Ident AGT"
 msgstr ""
 #
@@ -48844,6 +48897,8 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 66
 # File: module/setup/view/air/copa.phtml, line: 64
 # File: module/setup/view/air/copa.phtml, line: 66
+# File: module/setup/view/air/aeromexico.phtml, line: 65
+# File: module/setup/view/air/aeromexico.phtml, line: 67
 msgid "Ident AGT Password"
 msgstr ""
 #
@@ -48855,6 +48910,8 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 71
 # File: module/setup/view/air/copa.phtml, line: 69
 # File: module/setup/view/air/copa.phtml, line: 71
+# File: module/setup/view/air/aeromexico.phtml, line: 70
+# File: module/setup/view/air/aeromexico.phtml, line: 72
 msgid " Ident IATA (AGY)"
 msgstr ""
 #
@@ -48866,6 +48923,8 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 76
 # File: module/setup/view/air/copa.phtml, line: 74
 # File: module/setup/view/air/copa.phtml, line: 76
+# File: module/setup/view/air/aeromexico.phtml, line: 75
+# File: module/setup/view/air/aeromexico.phtml, line: 77
 msgid "Agent User"
 msgstr ""
 #
@@ -48877,6 +48936,8 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 81
 # File: module/setup/view/air/copa.phtml, line: 79
 # File: module/setup/view/air/copa.phtml, line: 81
+# File: module/setup/view/air/aeromexico.phtml, line: 80
+# File: module/setup/view/air/aeromexico.phtml, line: 82
 msgid "Script Engine"
 msgstr ""
 #
@@ -48888,6 +48949,8 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 86
 # File: module/setup/view/air/copa.phtml, line: 84
 # File: module/setup/view/air/copa.phtml, line: 86
+# File: module/setup/view/air/aeromexico.phtml, line: 85
+# File: module/setup/view/air/aeromexico.phtml, line: 87
 msgid "Script Name"
 msgstr ""
 #
@@ -48899,6 +48962,8 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 91
 # File: module/setup/view/air/copa.phtml, line: 89
 # File: module/setup/view/air/copa.phtml, line: 91
+# File: module/setup/view/air/aeromexico.phtml, line: 90
+# File: module/setup/view/air/aeromexico.phtml, line: 92
 msgid "Trace"
 msgstr ""
 #
@@ -48912,6 +48977,8 @@ msgstr ""
 # File: module/setup/view/air/avianca.phtml, line: 140
 # File: module/setup/view/air/copa.phtml, line: 109
 # File: module/setup/view/air/copa.phtml, line: 111
+# File: module/setup/view/air/aeromexico.phtml, line: 110
+# File: module/setup/view/air/aeromexico.phtml, line: 112
 msgid "Subscription Key"
 msgstr ""
 #
@@ -48921,6 +48988,8 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 117
 # File: module/setup/view/air/americanairlines.phtml, line: 114
 # File: module/setup/view/air/americanairlines.phtml, line: 116
+# File: module/setup/view/air/aeromexico.phtml, line: 115
+# File: module/setup/view/air/aeromexico.phtml, line: 117
 msgid "Country Point of Sale Code (US)"
 msgstr ""
 #
@@ -48930,6 +48999,8 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 122
 # File: module/setup/view/air/americanairlines.phtml, line: 119
 # File: module/setup/view/air/americanairlines.phtml, line: 121
+# File: module/setup/view/air/aeromexico.phtml, line: 120
+# File: module/setup/view/air/aeromexico.phtml, line: 122
 msgid "City Point of Sale Code (MIA)"
 msgstr ""
 #
@@ -48941,6 +49012,8 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 126
 # File: module/setup/view/air/copa.phtml, line: 114
 # File: module/setup/view/air/copa.phtml, line: 116
+# File: module/setup/view/air/aeromexico.phtml, line: 125
+# File: module/setup/view/air/aeromexico.phtml, line: 127
 msgid "Ticketing Country Code (ISO 2)"
 msgstr ""
 #
@@ -48952,6 +49025,8 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 135
 # File: module/setup/view/air/copa.phtml, line: 123
 # File: module/setup/view/air/copa.phtml, line: 125
+# File: module/setup/view/air/aeromexico.phtml, line: 134
+# File: module/setup/view/air/aeromexico.phtml, line: 136
 msgid "Contact Address"
 msgstr ""
 #
@@ -48963,6 +49038,8 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 140
 # File: module/setup/view/air/copa.phtml, line: 128
 # File: module/setup/view/air/copa.phtml, line: 130
+# File: module/setup/view/air/aeromexico.phtml, line: 139
+# File: module/setup/view/air/aeromexico.phtml, line: 141
 msgid "Contact City Name"
 msgstr ""
 #
@@ -48974,6 +49051,8 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 145
 # File: module/setup/view/air/copa.phtml, line: 133
 # File: module/setup/view/air/copa.phtml, line: 135
+# File: module/setup/view/air/aeromexico.phtml, line: 144
+# File: module/setup/view/air/aeromexico.phtml, line: 146
 msgid "Contact State Code"
 msgstr ""
 #
@@ -48985,6 +49064,8 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 150
 # File: module/setup/view/air/copa.phtml, line: 138
 # File: module/setup/view/air/copa.phtml, line: 140
+# File: module/setup/view/air/aeromexico.phtml, line: 149
+# File: module/setup/view/air/aeromexico.phtml, line: 151
 msgid "Contact Country Code"
 msgstr ""
 #
@@ -48996,6 +49077,8 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 155
 # File: module/setup/view/air/copa.phtml, line: 143
 # File: module/setup/view/air/copa.phtml, line: 145
+# File: module/setup/view/air/aeromexico.phtml, line: 154
+# File: module/setup/view/air/aeromexico.phtml, line: 156
 # File: module/setup/view/cruises/amadeus.phtml, line: 52
 # File: module/setup/view/cruises/amadeus.phtml, line: 53
 # File: module/setup/view/hotels/pricetravel.phtml, line: 61
@@ -49011,6 +49094,8 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 160
 # File: module/setup/view/air/copa.phtml, line: 148
 # File: module/setup/view/air/copa.phtml, line: 150
+# File: module/setup/view/air/aeromexico.phtml, line: 159
+# File: module/setup/view/air/aeromexico.phtml, line: 161
 msgid "Contact Zip Code"
 msgstr ""
 #
@@ -49018,6 +49103,7 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 300
 # File: module/setup/view/air/americanairlines.phtml, line: 299
 # File: module/setup/view/air/copa.phtml, line: 283
+# File: module/setup/view/air/aeromexico.phtml, line: 300
 msgid "Please enter Ident User (U)"
 msgstr ""
 #
@@ -49025,6 +49111,7 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 303
 # File: module/setup/view/air/americanairlines.phtml, line: 302
 # File: module/setup/view/air/copa.phtml, line: 286
+# File: module/setup/view/air/aeromexico.phtml, line: 303
 msgid "Please enter Ident Password (P)"
 msgstr ""
 #
@@ -49032,12 +49119,14 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 306
 # File: module/setup/view/air/americanairlines.phtml, line: 305
 # File: module/setup/view/air/copa.phtml, line: 289
+# File: module/setup/view/air/aeromexico.phtml, line: 306
 msgid "Please enter Ident Pseudo City Code"
 msgstr ""
 #
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 309
 # File: module/setup/view/air/unitedairlines.phtml, line: 309
 # File: module/setup/view/air/americanairlines.phtml, line: 308
+# File: module/setup/view/air/aeromexico.phtml, line: 309
 # File: module/setup/view/hotels/hotelmundial.phtml, line: 341
 # File: module/setup/view/hotels/ratehawk.phtml, line: 232
 msgid "Please enter Email Address"
@@ -49047,6 +49136,7 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 312
 # File: module/setup/view/air/americanairlines.phtml, line: 311
 # File: module/setup/view/air/copa.phtml, line: 295
+# File: module/setup/view/air/aeromexico.phtml, line: 312
 msgid "Please enter Ident AGT"
 msgstr ""
 #
@@ -49054,6 +49144,7 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 315
 # File: module/setup/view/air/americanairlines.phtml, line: 314
 # File: module/setup/view/air/copa.phtml, line: 298
+# File: module/setup/view/air/aeromexico.phtml, line: 315
 msgid "Please enter Ident AGT Password"
 msgstr ""
 #
@@ -49061,6 +49152,7 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 318
 # File: module/setup/view/air/americanairlines.phtml, line: 317
 # File: module/setup/view/air/copa.phtml, line: 301
+# File: module/setup/view/air/aeromexico.phtml, line: 318
 msgid "Please enter Ident IATA (AGY)"
 msgstr ""
 #
@@ -49068,6 +49160,7 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 321
 # File: module/setup/view/air/americanairlines.phtml, line: 320
 # File: module/setup/view/air/copa.phtml, line: 304
+# File: module/setup/view/air/aeromexico.phtml, line: 321
 msgid "Please enter Agent User"
 msgstr ""
 #
@@ -49075,6 +49168,7 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 324
 # File: module/setup/view/air/americanairlines.phtml, line: 323
 # File: module/setup/view/air/copa.phtml, line: 307
+# File: module/setup/view/air/aeromexico.phtml, line: 324
 msgid "Please enter Script Engine"
 msgstr ""
 #
@@ -49082,6 +49176,7 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 327
 # File: module/setup/view/air/americanairlines.phtml, line: 326
 # File: module/setup/view/air/copa.phtml, line: 310
+# File: module/setup/view/air/aeromexico.phtml, line: 327
 msgid "Please enter Script Name"
 msgstr ""
 #
@@ -49089,6 +49184,7 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 330
 # File: module/setup/view/air/americanairlines.phtml, line: 329
 # File: module/setup/view/air/copa.phtml, line: 313
+# File: module/setup/view/air/aeromexico.phtml, line: 330
 msgid "Please enter Trace"
 msgstr ""
 #
@@ -49097,6 +49193,7 @@ msgstr ""
 # File: module/setup/view/air/volaris.phtml, line: 180
 # File: module/setup/view/air/americanairlines.phtml, line: 332
 # File: module/setup/view/air/copa.phtml, line: 316
+# File: module/setup/view/air/aeromexico.phtml, line: 333
 # File: module/setup/view/hotels/roomsxml.phtml, line: 225
 msgid "Please enter Agency"
 msgstr ""
@@ -49106,6 +49203,7 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 338
 # File: module/setup/view/air/avianca.phtml, line: 292
 # File: module/setup/view/air/copa.phtml, line: 322
+# File: module/setup/view/air/aeromexico.phtml, line: 339
 # File: module/setup/view/cars/avisbudget.phtml, line: 183
 msgid "Please enter IATA"
 msgstr ""
@@ -49115,18 +49213,21 @@ msgstr ""
 # File: module/setup/view/air/americanairlines.phtml, line: 341
 # File: module/setup/view/air/avianca.phtml, line: 307
 # File: module/setup/view/air/copa.phtml, line: 325
+# File: module/setup/view/air/aeromexico.phtml, line: 342
 msgid "Please enter Subscription Key"
 msgstr ""
 #
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 345
 # File: module/setup/view/air/unitedairlines.phtml, line: 345
 # File: module/setup/view/air/americanairlines.phtml, line: 362
+# File: module/setup/view/air/aeromexico.phtml, line: 345
 msgid "Please enter Country Point of Sale Code (US)"
 msgstr ""
 #
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 348
 # File: module/setup/view/air/unitedairlines.phtml, line: 348
 # File: module/setup/view/air/americanairlines.phtml, line: 365
+# File: module/setup/view/air/aeromexico.phtml, line: 348
 msgid "Please enter City Point of Sale Code (MIA)"
 msgstr ""
 #
@@ -49134,6 +49235,7 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 351
 # File: module/setup/view/air/americanairlines.phtml, line: 368
 # File: module/setup/view/air/copa.phtml, line: 328
+# File: module/setup/view/air/aeromexico.phtml, line: 351
 msgid "Please enter Ticketing Country Code (ISO 2)"
 msgstr ""
 #
@@ -49141,6 +49243,7 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 360
 # File: module/setup/view/air/americanairlines.phtml, line: 344
 # File: module/setup/view/air/copa.phtml, line: 331
+# File: module/setup/view/air/aeromexico.phtml, line: 360
 # File: module/setup/view/hotels/yalago.phtml, line: 208
 msgid "Please enter Contact Address"
 msgstr ""
@@ -49149,6 +49252,7 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 363
 # File: module/setup/view/air/americanairlines.phtml, line: 347
 # File: module/setup/view/air/copa.phtml, line: 334
+# File: module/setup/view/air/aeromexico.phtml, line: 363
 msgid "Please enter Contact City Name"
 msgstr ""
 #
@@ -49156,6 +49260,7 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 366
 # File: module/setup/view/air/americanairlines.phtml, line: 350
 # File: module/setup/view/air/copa.phtml, line: 337
+# File: module/setup/view/air/aeromexico.phtml, line: 366
 msgid "Please enter Contact State Code"
 msgstr ""
 #
@@ -49163,6 +49268,7 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 369
 # File: module/setup/view/air/americanairlines.phtml, line: 353
 # File: module/setup/view/air/copa.phtml, line: 340
+# File: module/setup/view/air/aeromexico.phtml, line: 369
 msgid "Please enter Contact Country Code"
 msgstr ""
 #
@@ -49170,6 +49276,7 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 372
 # File: module/setup/view/air/americanairlines.phtml, line: 356
 # File: module/setup/view/air/copa.phtml, line: 343
+# File: module/setup/view/air/aeromexico.phtml, line: 372
 # File: module/setup/view/hotels/pricetravel.phtml, line: 220
 msgid "Please enter Contact Phone Number"
 msgstr ""
@@ -49178,6 +49285,7 @@ msgstr ""
 # File: module/setup/view/air/unitedairlines.phtml, line: 375
 # File: module/setup/view/air/americanairlines.phtml, line: 359
 # File: module/setup/view/air/copa.phtml, line: 346
+# File: module/setup/view/air/aeromexico.phtml, line: 375
 msgid "Please enter Contact Zip Code"
 msgstr ""
 #
@@ -49331,6 +49439,7 @@ msgstr ""
 #
 # File: module/setup/view/air/mystifly.phtml, line: 139
 # File: module/setup/view/air/kiu.phtml, line: 225
+# File: module/setup/view/air/turkishairlines.phtml, line: 162
 # File: module/setup/view/air/ctm.phtml, line: 138
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 240
 # File: module/setup/view/hotels/tbo.phtml, line: 240
@@ -50194,6 +50303,7 @@ msgstr ""
 #
 # File: module/setup/view/air/travelportpaypai.phtml, line: 193
 # File: module/setup/view/air/kiu.phtml, line: 228
+# File: module/setup/view/air/turkishairlines.phtml, line: 165
 # File: module/setup/view/hotels/hotelspro.phtml, line: 175
 # File: module/setup/view/hotels/ibs.phtml, line: 192
 # File: module/setup/view/hotels/infinitehotel.phtml, line: 240
@@ -50311,6 +50421,10 @@ msgstr ""
 # File: module/setup/view/cruises/pullmantur.phtml, line: 164
 # File: module/setup/view/cruises/royalcaribbean.phtml, line: 251
 msgid "Please enter Terminal ID"
+msgstr ""
+#
+# File: module/setup/view/air/turkishairlines.phtml, line: 25
+msgid "Turkish Airlines"
 msgstr ""
 #
 # File: module/setup/view/air/addbranches.phtml, line: 5
@@ -50926,6 +51040,10 @@ msgstr ""
 #
 # File: module/setup/view/air/editfeaturedairlines.phtml, line: 30
 msgid "Update Featured Airline"
+msgstr ""
+#
+# File: module/setup/view/air/aeromexico.phtml, line: 13
+msgid "Enable Aeromexico"
 msgstr ""
 #
 # File: module/setup/view/cars/amadeus.phtml, line: 13
