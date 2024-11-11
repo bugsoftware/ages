@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-07 21:12+0000\n"
+"POT-Creation-Date: 2024-11-11 13:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -8883,6 +8883,8 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 20
+# File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 20
+# File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 20
 msgid "Dear"
 msgstr ""
 #
@@ -10224,6 +10226,8 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 31
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 32
 # File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 32
+# File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 27
+# File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 32
 msgid "Warm regards,"
 msgstr ""
 #
@@ -11376,6 +11380,8 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 22
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 22
 # File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 22
+# File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 22
+# File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 22
 msgid "We hope this message finds you well."
 msgstr ""
 #
@@ -11409,6 +11415,8 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 29
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 30
 # File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 30
+# File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 25
+# File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 30
 msgid "Should you have any questions or require further assistance, do not hesitate to contact us."
 msgstr ""
 #
@@ -11418,6 +11426,8 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 30
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 31
 # File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 31
+# File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 26
+# File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 31
 msgid "Thank you for choosing our services. We look forward to continuing our business relationship."
 msgstr ""
 #
@@ -11427,6 +11437,8 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 32
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 33
 # File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 33
+# File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 28
+# File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 33
 msgid "Click & Book Team"
 msgstr ""
 #
@@ -11441,6 +11453,8 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_invoice.phtml, line: 29
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 29
 # File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 29
+# File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 24
+# File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 29
 msgid "Please review your account for additional information."
 msgstr ""
 #
@@ -13414,6 +13428,44 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 26
 msgid "MCO:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 23
+msgid "Please find attached the Air Sales Report for this year. This report provides a comprehensive overview of our direct air sales performance."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 23
+msgid "Please find attached the Text/SMS Report for"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 23
+msgid "This report provides a comprehensive overview of our sales performance and key metrics."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 24
+# File: module/ages/view/ages/agents/edit_events.phtml, line: 14
+# File: module/ages/view/ages/agents/edit_events.phtml, line: 31
+# File: module/ages/view/ages/agents/edit_events.phtml, line: 57
+# File: module/ages/view/ages/agents/edit_otp.phtml, line: 52
+# File: module/ages/view/ages/customers/editauditing.phtml, line: 37
+# File: module/ages/view/ages/customers/editauditing.phtml, line: 65
+# File: module/ages/view/ages/customers/edittextmessages.phtml, line: 50
+# File: module/ages/view/ages/customers/editwhatsappmessages.phtml, line: 50
+# File: module/ages/view/ages/newsletter/globalstats.phtml, line: 128
+# File: module/ages/view/ages/packages/addservice.phtml, line: 77
+# File: module/ages/view/ages/packages/addservice.phtml, line: 101
+# File: module/ages/view/ages/packages/addservice.phtml, line: 121
+# File: module/ages/view/ages/packages/addservice.phtml, line: 142
+# File: module/ages/view/ages/sub-agents/edit_otp.phtml, line: 52
+msgid "Details"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 26
+msgid "Total Text Messages Sent:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 27
+msgid "Total Sales:"
 msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 433
@@ -26632,23 +26684,6 @@ msgstr ""
 # File: module/ages/view/ages/customers/edit.phtml, line: 40
 # File: module/ages/view/ages/sub-agents/edit_customers.phtml, line: 25
 msgid "Edit Customer"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/edit_events.phtml, line: 14
-# File: module/ages/view/ages/agents/edit_events.phtml, line: 31
-# File: module/ages/view/ages/agents/edit_events.phtml, line: 57
-# File: module/ages/view/ages/agents/edit_otp.phtml, line: 52
-# File: module/ages/view/ages/customers/editauditing.phtml, line: 37
-# File: module/ages/view/ages/customers/editauditing.phtml, line: 65
-# File: module/ages/view/ages/customers/edittextmessages.phtml, line: 50
-# File: module/ages/view/ages/customers/editwhatsappmessages.phtml, line: 50
-# File: module/ages/view/ages/newsletter/globalstats.phtml, line: 128
-# File: module/ages/view/ages/packages/addservice.phtml, line: 77
-# File: module/ages/view/ages/packages/addservice.phtml, line: 101
-# File: module/ages/view/ages/packages/addservice.phtml, line: 121
-# File: module/ages/view/ages/packages/addservice.phtml, line: 142
-# File: module/ages/view/ages/sub-agents/edit_otp.phtml, line: 52
-msgid "Details"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/edit_featured_specialist.phtml, line: 27
