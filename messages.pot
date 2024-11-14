@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-11 13:14+0000\n"
+"POT-Creation-Date: 2024-11-14 14:39+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5419,7 +5419,7 @@ msgstr ""
 # File: module/setup/view/air/sky.phtml, line: 50
 # File: module/setup/view/air/travelport.phtml, line: 350
 # File: module/setup/view/air/travelportpaypai.phtml, line: 129
-# File: module/setup/view/air/turkishairlines.phtml, line: 110
+# File: module/setup/view/air/turkishairlines.phtml, line: 137
 # File: module/setup/view/air/unitedairlines.phtml, line: 174
 # File: module/setup/view/air/volaris.phtml, line: 93
 # File: module/setup/view/cars/amadeus.phtml, line: 156
@@ -10228,6 +10228,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 32
 # File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 27
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 32
+# File: module/ages/src/Controller/Templates/review.phtml, line: 31
 msgid "Warm regards,"
 msgstr ""
 #
@@ -11382,6 +11383,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 22
 # File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 22
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 22
+# File: module/ages/src/Controller/Templates/review.phtml, line: 22
 msgid "We hope this message finds you well."
 msgstr ""
 #
@@ -11417,6 +11419,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 30
 # File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 25
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 30
+# File: module/ages/src/Controller/Templates/review.phtml, line: 29
 msgid "Should you have any questions or require further assistance, do not hesitate to contact us."
 msgstr ""
 #
@@ -11428,6 +11431,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 31
 # File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 26
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 31
+# File: module/ages/src/Controller/Templates/review.phtml, line: 30
 msgid "Thank you for choosing our services. We look forward to continuing our business relationship."
 msgstr ""
 #
@@ -11439,6 +11443,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 33
 # File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 28
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 33
+# File: module/ages/src/Controller/Templates/review.phtml, line: 32
 msgid "Click & Book Team"
 msgstr ""
 #
@@ -13443,6 +13448,7 @@ msgid "This report provides a comprehensive overview of our sales performance an
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 24
+# File: module/ages/src/Controller/Templates/review.phtml, line: 24
 # File: module/ages/view/ages/agents/edit_events.phtml, line: 14
 # File: module/ages/view/ages/agents/edit_events.phtml, line: 31
 # File: module/ages/view/ages/agents/edit_events.phtml, line: 57
@@ -13466,6 +13472,22 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 27
 msgid "Total Sales:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/review.phtml, line: 20
+msgid "Dear Risk Management Team,"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/review.phtml, line: 23
+msgid "We have a reservation that is currently pending review and requires your expertise to approve or decline the booking. The details of the reservation are as follows:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/review.phtml, line: 26
+msgid "Reservation Id:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/review.phtml, line: 28
+msgid "Thank you for your prompt attention to this matter."
 msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 433
@@ -15693,7 +15715,7 @@ msgstr ""
 # File: module/setup/view/air/travelport.phtml, line: 23
 # File: module/setup/view/air/travelport.phtml, line: 188
 # File: module/setup/view/air/travelportpaypai.phtml, line: 27
-# File: module/setup/view/air/turkishairlines.phtml, line: 47
+# File: module/setup/view/air/turkishairlines.phtml, line: 74
 # File: module/setup/view/air/unitedairlines.phtml, line: 17
 # File: module/setup/view/air/volaris.phtml, line: 24
 # File: module/setup/view/cars/amadeus.phtml, line: 23
@@ -25740,7 +25762,7 @@ msgstr ""
 # File: module/setup/view/air/sky.phtml, line: 32
 # File: module/setup/view/air/travelport.phtml, line: 34
 # File: module/setup/view/air/travelportpaypai.phtml, line: 40
-# File: module/setup/view/air/turkishairlines.phtml, line: 60
+# File: module/setup/view/air/turkishairlines.phtml, line: 87
 # File: module/setup/view/air/unitedairlines.phtml, line: 28
 # File: module/setup/view/air/volaris.phtml, line: 35
 # File: module/setup/view/cars/amadeus.phtml, line: 34
@@ -44563,7 +44585,7 @@ msgstr ""
 # File: module/setup/view/air/sky.phtml, line: 24
 # File: module/setup/view/air/travelport.phtml, line: 26
 # File: module/setup/view/air/travelportpaypai.phtml, line: 31
-# File: module/setup/view/air/turkishairlines.phtml, line: 51
+# File: module/setup/view/air/turkishairlines.phtml, line: 78
 # File: module/setup/view/air/unitedairlines.phtml, line: 20
 # File: module/setup/view/air/volaris.phtml, line: 27
 # File: module/setup/view/cars/amadeus.phtml, line: 26
@@ -44747,7 +44769,7 @@ msgstr ""
 # File: module/setup/view/air/sky.phtml, line: 35
 # File: module/setup/view/air/travelport.phtml, line: 37
 # File: module/setup/view/air/travelportpaypai.phtml, line: 44
-# File: module/setup/view/air/turkishairlines.phtml, line: 64
+# File: module/setup/view/air/turkishairlines.phtml, line: 91
 # File: module/setup/view/air/unitedairlines.phtml, line: 31
 # File: module/setup/view/air/volaris.phtml, line: 38
 # File: module/setup/view/cars/amadeus.phtml, line: 37
@@ -45368,8 +45390,8 @@ msgstr ""
 # File: module/setup/view/air/sky.phtml, line: 44
 # File: module/setup/view/air/travelport.phtml, line: 47
 # File: module/setup/view/air/travelport.phtml, line: 48
-# File: module/setup/view/air/turkishairlines.phtml, line: 75
-# File: module/setup/view/air/turkishairlines.phtml, line: 79
+# File: module/setup/view/air/turkishairlines.phtml, line: 102
+# File: module/setup/view/air/turkishairlines.phtml, line: 106
 # File: module/setup/view/air/unitedairlines.phtml, line: 168
 # File: module/setup/view/air/volaris.phtml, line: 87
 # File: module/setup/view/cars/amadeus.phtml, line: 142
@@ -45731,8 +45753,8 @@ msgstr ""
 # File: module/setup/view/air/sky.phtml, line: 45
 # File: module/setup/view/air/travelport.phtml, line: 50
 # File: module/setup/view/air/travelport.phtml, line: 51
-# File: module/setup/view/air/turkishairlines.phtml, line: 83
-# File: module/setup/view/air/turkishairlines.phtml, line: 87
+# File: module/setup/view/air/turkishairlines.phtml, line: 110
+# File: module/setup/view/air/turkishairlines.phtml, line: 114
 # File: module/setup/view/air/unitedairlines.phtml, line: 169
 # File: module/setup/view/air/volaris.phtml, line: 88
 # File: module/setup/view/cars/amadeus.phtml, line: 145
@@ -46095,8 +46117,8 @@ msgstr ""
 # File: module/setup/view/air/sabre.phtml, line: 203
 # File: module/setup/view/air/sky.phtml, line: 46
 # File: module/setup/view/air/travelport.phtml, line: 53
-# File: module/setup/view/air/turkishairlines.phtml, line: 91
-# File: module/setup/view/air/turkishairlines.phtml, line: 95
+# File: module/setup/view/air/turkishairlines.phtml, line: 118
+# File: module/setup/view/air/turkishairlines.phtml, line: 122
 # File: module/setup/view/air/unitedairlines.phtml, line: 170
 # File: module/setup/view/air/volaris.phtml, line: 89
 # File: module/setup/view/cars/amadeus.phtml, line: 148
@@ -46459,8 +46481,8 @@ msgstr ""
 # File: module/setup/view/air/sky.phtml, line: 47
 # File: module/setup/view/air/travelport.phtml, line: 61
 # File: module/setup/view/air/travelport.phtml, line: 62
-# File: module/setup/view/air/turkishairlines.phtml, line: 99
-# File: module/setup/view/air/turkishairlines.phtml, line: 104
+# File: module/setup/view/air/turkishairlines.phtml, line: 126
+# File: module/setup/view/air/turkishairlines.phtml, line: 131
 # File: module/setup/view/air/unitedairlines.phtml, line: 171
 # File: module/setup/view/air/volaris.phtml, line: 90
 # File: module/setup/view/cars/amadeus.phtml, line: 151
@@ -47077,7 +47099,7 @@ msgstr ""
 # File: module/setup/view/air/sabre.phtml, line: 598
 # File: module/setup/view/air/sky.phtml, line: 101
 # File: module/setup/view/air/travelport.phtml, line: 433
-# File: module/setup/view/air/turkishairlines.phtml, line: 168
+# File: module/setup/view/air/turkishairlines.phtml, line: 213
 # File: module/setup/view/air/unitedairlines.phtml, line: 294
 # File: module/setup/view/air/volaris.phtml, line: 165
 # File: module/setup/view/cars/amadeus.phtml, line: 336
@@ -47372,7 +47394,7 @@ msgstr ""
 # File: module/setup/view/air/sabre.phtml, line: 601
 # File: module/setup/view/air/sky.phtml, line: 107
 # File: module/setup/view/air/travelport.phtml, line: 460
-# File: module/setup/view/air/turkishairlines.phtml, line: 171
+# File: module/setup/view/air/turkishairlines.phtml, line: 216
 # File: module/setup/view/air/unitedairlines.phtml, line: 354
 # File: module/setup/view/air/volaris.phtml, line: 192
 # File: module/setup/view/cars/amadeus.phtml, line: 339
@@ -47563,7 +47585,7 @@ msgstr ""
 # File: module/setup/view/air/sabre.phtml, line: 604
 # File: module/setup/view/air/sky.phtml, line: 110
 # File: module/setup/view/air/travelport.phtml, line: 463
-# File: module/setup/view/air/turkishairlines.phtml, line: 174
+# File: module/setup/view/air/turkishairlines.phtml, line: 219
 # File: module/setup/view/air/unitedairlines.phtml, line: 357
 # File: module/setup/view/air/volaris.phtml, line: 195
 # File: module/setup/view/cars/amadeus.phtml, line: 342
@@ -47755,7 +47777,7 @@ msgstr ""
 # File: module/setup/view/air/sabre.phtml, line: 607
 # File: module/setup/view/air/sky.phtml, line: 113
 # File: module/setup/view/air/travelport.phtml, line: 466
-# File: module/setup/view/air/turkishairlines.phtml, line: 177
+# File: module/setup/view/air/turkishairlines.phtml, line: 222
 # File: module/setup/view/air/unitedairlines.phtml, line: 378
 # File: module/setup/view/air/volaris.phtml, line: 198
 # File: module/setup/view/cars/amadeus.phtml, line: 345
@@ -48042,6 +48064,8 @@ msgstr ""
 # File: module/setup/view/air/travelport.phtml, line: 267
 # File: module/setup/view/air/travelport.phtml, line: 324
 # File: module/setup/view/air/travelport.phtml, line: 325
+# File: module/setup/view/air/turkishairlines.phtml, line: 63
+# File: module/setup/view/air/turkishairlines.phtml, line: 67
 # File: module/setup/view/hotels/destinationservices.phtml, line: 46
 # File: module/setup/view/hotels/destinationservices.phtml, line: 47
 # File: module/setup/view/hotels/nuitee.phtml, line: 50
@@ -48070,6 +48094,7 @@ msgstr ""
 # File: module/setup/view/air/kiu.phtml, line: 222
 # File: module/setup/view/air/latam.phtml, line: 301
 # File: module/setup/view/air/mystifly.phtml, line: 145
+# File: module/setup/view/air/turkishairlines.phtml, line: 210
 # File: module/setup/view/hotels/destinationservices.phtml, line: 141
 # File: module/setup/view/hotels/nuitee.phtml, line: 234
 # File: module/setup/view/packages/destinationservices.phtml, line: 114
@@ -48783,6 +48808,8 @@ msgstr ""
 #
 # File: module/setup/view/activities/tuimusement.phtml, line: 16
 # File: module/setup/view/activities/tuimusement.phtml, line: 17
+# File: module/setup/view/air/turkishairlines.phtml, line: 46
+# File: module/setup/view/air/turkishairlines.phtml, line: 50
 # File: module/setup/view/cars/avis.phtml, line: 17
 # File: module/setup/view/cars/carnect.phtml, line: 17
 # File: module/setup/view/cars/cartrawler.phtml, line: 16
@@ -48807,6 +48834,7 @@ msgid "https://sandbox.musement.com/api/v3/"
 msgstr ""
 #
 # File: module/setup/view/activities/tuimusement.phtml, line: 114
+# File: module/setup/view/air/turkishairlines.phtml, line: 207
 # File: module/setup/view/cars/cartrawler.phtml, line: 360
 # File: module/setup/view/hotels/didatravel.phtml, line: 171
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 171
@@ -50089,7 +50117,7 @@ msgstr ""
 # File: module/setup/view/air/ctm.phtml, line: 138
 # File: module/setup/view/air/kiu.phtml, line: 225
 # File: module/setup/view/air/mystifly.phtml, line: 139
-# File: module/setup/view/air/turkishairlines.phtml, line: 162
+# File: module/setup/view/air/turkishairlines.phtml, line: 198
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 240
 # File: module/setup/view/hotels/tbo.phtml, line: 240
 # File: module/setup/view/packages/assistcard.phtml, line: 166
@@ -50306,7 +50334,7 @@ msgstr ""
 #
 # File: module/setup/view/air/kiu.phtml, line: 228
 # File: module/setup/view/air/travelportpaypai.phtml, line: 193
-# File: module/setup/view/air/turkishairlines.phtml, line: 165
+# File: module/setup/view/air/turkishairlines.phtml, line: 204
 # File: module/setup/view/hotels/abreu.phtml, line: 217
 # File: module/setup/view/hotels/ati.phtml, line: 186
 # File: module/setup/view/hotels/bonotel.phtml, line: 159
@@ -51272,6 +51300,26 @@ msgstr ""
 #
 # File: module/setup/view/air/turkishairlines.phtml, line: 25
 msgid "Turkish Airlines"
+msgstr ""
+#
+# File: module/setup/view/air/turkishairlines.phtml, line: 54
+# File: module/setup/view/air/turkishairlines.phtml, line: 58
+# File: module/setup/view/hotels/pricetravel.phtml, line: 20
+# File: module/setup/view/hotels/pricetravel.phtml, line: 21
+# File: module/setup/view/settings/settings.phtml, line: 856
+# File: module/setup/view/settings/settings.phtml, line: 857
+# File: module/setup/view/trains/era.phtml, line: 24
+# File: module/setup/view/trains/era.phtml, line: 25
+# File: module/setup/view/trains/sat.phtml, line: 24
+# File: module/setup/view/trains/sat.phtml, line: 25
+msgid "Client Secret"
+msgstr ""
+#
+# File: module/setup/view/air/turkishairlines.phtml, line: 201
+# File: module/setup/view/hotels/pricetravel.phtml, line: 202
+# File: module/setup/view/trains/era.phtml, line: 121
+# File: module/setup/view/trains/sat.phtml, line: 121
+msgid "Please enter Client Secret"
 msgstr ""
 #
 # File: module/setup/view/air/unitedairlines.phtml, line: 13
@@ -55880,17 +55928,6 @@ msgstr ""
 msgid "Client Id"
 msgstr ""
 #
-# File: module/setup/view/hotels/pricetravel.phtml, line: 20
-# File: module/setup/view/hotels/pricetravel.phtml, line: 21
-# File: module/setup/view/settings/settings.phtml, line: 856
-# File: module/setup/view/settings/settings.phtml, line: 857
-# File: module/setup/view/trains/era.phtml, line: 24
-# File: module/setup/view/trains/era.phtml, line: 25
-# File: module/setup/view/trains/sat.phtml, line: 24
-# File: module/setup/view/trains/sat.phtml, line: 25
-msgid "Client Secret"
-msgstr ""
-#
 # File: module/setup/view/hotels/pricetravel.phtml, line: 57
 # File: module/setup/view/hotels/pricetravel.phtml, line: 58
 msgid "Contact Phone Country Code"
@@ -55914,12 +55951,6 @@ msgstr ""
 # File: module/setup/view/trains/era.phtml, line: 115
 # File: module/setup/view/trains/sat.phtml, line: 115
 msgid "Please enter Client Id"
-msgstr ""
-#
-# File: module/setup/view/hotels/pricetravel.phtml, line: 202
-# File: module/setup/view/trains/era.phtml, line: 121
-# File: module/setup/view/trains/sat.phtml, line: 121
-msgid "Please enter Client Secret"
 msgstr ""
 #
 # File: module/setup/view/hotels/pricetravel.phtml, line: 217
