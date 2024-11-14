@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-14 14:39+0000\n"
+"POT-Creation-Date: 2024-11-14 14:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10229,6 +10229,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 27
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 32
 # File: module/ages/src/Controller/Templates/review.phtml, line: 31
+# File: module/ages/src/Controller/Templates/settle.phtml, line: 31
 msgid "Warm regards,"
 msgstr ""
 #
@@ -11384,6 +11385,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 22
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 22
 # File: module/ages/src/Controller/Templates/review.phtml, line: 22
+# File: module/ages/src/Controller/Templates/settle.phtml, line: 22
 msgid "We hope this message finds you well."
 msgstr ""
 #
@@ -11420,6 +11422,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 25
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 30
 # File: module/ages/src/Controller/Templates/review.phtml, line: 29
+# File: module/ages/src/Controller/Templates/settle.phtml, line: 29
 msgid "Should you have any questions or require further assistance, do not hesitate to contact us."
 msgstr ""
 #
@@ -11432,6 +11435,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 26
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 31
 # File: module/ages/src/Controller/Templates/review.phtml, line: 30
+# File: module/ages/src/Controller/Templates/settle.phtml, line: 30
 msgid "Thank you for choosing our services. We look forward to continuing our business relationship."
 msgstr ""
 #
@@ -11444,6 +11448,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 28
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 33
 # File: module/ages/src/Controller/Templates/review.phtml, line: 32
+# File: module/ages/src/Controller/Templates/settle.phtml, line: 32
 msgid "Click & Book Team"
 msgstr ""
 #
@@ -13449,6 +13454,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 24
 # File: module/ages/src/Controller/Templates/review.phtml, line: 24
+# File: module/ages/src/Controller/Templates/settle.phtml, line: 24
 # File: module/ages/view/ages/agents/edit_events.phtml, line: 14
 # File: module/ages/view/ages/agents/edit_events.phtml, line: 31
 # File: module/ages/view/ages/agents/edit_events.phtml, line: 57
@@ -13475,6 +13481,7 @@ msgid "Total Sales:"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/review.phtml, line: 20
+# File: module/ages/src/Controller/Templates/settle.phtml, line: 20
 msgid "Dear Risk Management Team,"
 msgstr ""
 #
@@ -13483,11 +13490,17 @@ msgid "We have a reservation that is currently pending review and requires your 
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/review.phtml, line: 26
+# File: module/ages/src/Controller/Templates/settle.phtml, line: 26
 msgid "Reservation Id:"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/review.phtml, line: 28
+# File: module/ages/src/Controller/Templates/settle.phtml, line: 28
 msgid "Thank you for your prompt attention to this matter."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/settle.phtml, line: 23
+msgid "Please be informed that the following reservation requires immediate settlement. If you need any further information or assistance, please contact us immediately. The details of the reservation are as follows:"
 msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 433
