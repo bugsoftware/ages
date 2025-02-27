@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-20 08:10-0500\n"
+"POT-Creation-Date: 2025-02-27 09:58-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3504,8 +3504,8 @@ msgstr ""
 # File: module/setup/src/Controller/amenities.php, line: 219
 # File: module/setup/src/Controller/cabincategories.php, line: 192
 # File: module/setup/src/Controller/cabincategories.php, line: 207
-# File: module/setup/src/Controller/cities.php, line: 604
-# File: module/setup/src/Controller/cities.php, line: 618
+# File: module/setup/src/Controller/cities.php, line: 643
+# File: module/setup/src/Controller/cities.php, line: 657
 # File: module/setup/src/Controller/citiesimages.php, line: 54
 # File: module/setup/src/Controller/citiesimages.php, line: 68
 # File: module/setup/src/Controller/cruiseships.php, line: 246
@@ -17512,7 +17512,7 @@ msgstr ""
 # File: module/ages/view/ages/tours/images.phtml, line: 97
 # File: module/ages/view/ages/tours/images.phtml, line: 104
 # File: module/ages/view/ages/tours/images.phtml, line: 105
-# File: module/setup/view/settings/cities_edit.phtml, line: 767
+# File: module/setup/view/settings/cities_edit.phtml, line: 781
 msgid "Images"
 msgstr ""
 #
@@ -23860,7 +23860,7 @@ msgstr ""
 # File: module/setup/view/intelligence/preferredhotels_add.phtml, line: 17
 # File: module/setup/view/intelligence/preferredhotels_edit.phtml, line: 18
 # File: module/setup/view/settings/businessintelligence.phtml, line: 148
-# File: module/setup/view/settings/cities_edit.phtml, line: 785
+# File: module/setup/view/settings/cities_edit.phtml, line: 799
 # File: module/setup/view/settings/citieshotelsmapping_add.phtml, line: 36
 # File: module/setup/view/settings/citieshotelsmapping_edit.phtml, line: 35
 # File: module/setup/view/settings/citiesimages_edit.phtml, line: 75
@@ -23994,8 +23994,8 @@ msgstr ""
 # File: module/setup/view/hotels/travolutionary.phtml, line: 51
 # File: module/setup/view/hotels/yalago.phtml, line: 73
 # File: module/setup/view/hotels/yalago.phtml, line: 74
-# File: module/setup/view/settings/cities_edit.phtml, line: 301
-# File: module/setup/view/settings/cities_edit.phtml, line: 302
+# File: module/setup/view/settings/cities_edit.phtml, line: 315
+# File: module/setup/view/settings/cities_edit.phtml, line: 316
 # File: module/setup/view/transfers/nexustours.phtml, line: 54
 # File: module/setup/view/transfers/nexustours.phtml, line: 55
 msgid "Currency"
@@ -31709,7 +31709,7 @@ msgid "Update Communication Tag"
 msgstr ""
 #
 # File: module/ages/view/ages/companies/currencyexchange.phtml, line: 5
-# File: module/setup/view/settings/cities_edit.phtml, line: 297
+# File: module/setup/view/settings/cities_edit.phtml, line: 311
 # File: module/setup/view/settings/currencies.phtml, line: 5
 # File: module/setup/view/settings/currencies.phtml, line: 74
 # File: module/setup/view/settings/currencies.phtml, line: 75
@@ -34128,6 +34128,8 @@ msgstr ""
 #
 # File: module/ages/view/ages/customers/editholidaydates.phtml, line: 10
 # File: module/manager/view/index/index.phtml, line: 29
+# File: module/setup/view/settings/cities_edit.phtml, line: 245
+# File: module/setup/view/settings/cities_edit.phtml, line: 250
 msgid "Month"
 msgstr ""
 #
@@ -36556,9 +36558,9 @@ msgid "External Memo"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2349
-# File: module/setup/view/settings/cities_edit.phtml, line: 335
-# File: module/setup/view/settings/cities_edit.phtml, line: 339
-# File: module/setup/view/settings/cities_edit.phtml, line: 340
+# File: module/setup/view/settings/cities_edit.phtml, line: 349
+# File: module/setup/view/settings/cities_edit.phtml, line: 353
+# File: module/setup/view/settings/cities_edit.phtml, line: 354
 msgid "Documents"
 msgstr ""
 #
@@ -40172,7 +40174,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/flyers_add.phtml, line: 17
 # File: module/ages/view/ages/newsletter/flyers_edit.phtml, line: 17
 # File: module/ages/view/ages/newsletter/flyers_edit.phtml, line: 36
-# File: module/setup/view/settings/cities_edit.phtml, line: 776
+# File: module/setup/view/settings/cities_edit.phtml, line: 790
 msgid "Thumbnail"
 msgstr ""
 #
@@ -58052,883 +58054,891 @@ msgstr ""
 msgid "Kids"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 242
-msgid "Custom"
+# File: module/setup/view/settings/cities_edit.phtml, line: 244
+msgid "Best Month(s) to Travel"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 246
 # File: module/setup/view/settings/cities_edit.phtml, line: 249
-msgid "Custom 1"
+msgid "Crowded Month(s) to Travel"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 253
 # File: module/setup/view/settings/cities_edit.phtml, line: 256
-msgid "Custom 2"
+msgid "Custom"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 260
 # File: module/setup/view/settings/cities_edit.phtml, line: 263
-msgid "Custom 3"
+msgid "Custom 1"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 267
 # File: module/setup/view/settings/cities_edit.phtml, line: 270
-msgid "Custom 4"
+msgid "Custom 2"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 274
 # File: module/setup/view/settings/cities_edit.phtml, line: 277
-msgid "Custom 5"
+msgid "Custom 3"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 281
 # File: module/setup/view/settings/cities_edit.phtml, line: 284
-msgid "Custom 6"
+msgid "Custom 4"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 288
 # File: module/setup/view/settings/cities_edit.phtml, line: 291
+msgid "Custom 5"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 295
+# File: module/setup/view/settings/cities_edit.phtml, line: 298
+msgid "Custom 6"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 302
+# File: module/setup/view/settings/cities_edit.phtml, line: 305
 msgid "Custom 7"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 305
-# File: module/setup/view/settings/cities_edit.phtml, line: 306
+# File: module/setup/view/settings/cities_edit.phtml, line: 319
+# File: module/setup/view/settings/cities_edit.phtml, line: 320
 msgid "Currency ES"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 309
-# File: module/setup/view/settings/cities_edit.phtml, line: 310
+# File: module/setup/view/settings/cities_edit.phtml, line: 323
+# File: module/setup/view/settings/cities_edit.phtml, line: 324
 msgid "Currency FR"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 313
-# File: module/setup/view/settings/cities_edit.phtml, line: 314
+# File: module/setup/view/settings/cities_edit.phtml, line: 327
+# File: module/setup/view/settings/cities_edit.phtml, line: 328
 msgid "Currency DE"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 317
-# File: module/setup/view/settings/cities_edit.phtml, line: 318
+# File: module/setup/view/settings/cities_edit.phtml, line: 331
+# File: module/setup/view/settings/cities_edit.phtml, line: 332
 msgid "Currency IT"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 321
-# File: module/setup/view/settings/cities_edit.phtml, line: 322
+# File: module/setup/view/settings/cities_edit.phtml, line: 335
+# File: module/setup/view/settings/cities_edit.phtml, line: 336
 msgid "Currency PT"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 325
-# File: module/setup/view/settings/cities_edit.phtml, line: 326
+# File: module/setup/view/settings/cities_edit.phtml, line: 339
+# File: module/setup/view/settings/cities_edit.phtml, line: 340
 msgid "Currency AR"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 329
-# File: module/setup/view/settings/cities_edit.phtml, line: 330
-msgid "Currency ZH"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 343
 # File: module/setup/view/settings/cities_edit.phtml, line: 344
+msgid "Currency ZH"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 357
+# File: module/setup/view/settings/cities_edit.phtml, line: 358
 msgid "Documents ES"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 347
+# File: module/setup/view/settings/cities_edit.phtml, line: 361
 msgid "Documents FR"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 348
+# File: module/setup/view/settings/cities_edit.phtml, line: 362
 msgid "Documentsy FR"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 351
-# File: module/setup/view/settings/cities_edit.phtml, line: 352
+# File: module/setup/view/settings/cities_edit.phtml, line: 365
+# File: module/setup/view/settings/cities_edit.phtml, line: 366
 msgid "Documents DE"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 355
-# File: module/setup/view/settings/cities_edit.phtml, line: 356
+# File: module/setup/view/settings/cities_edit.phtml, line: 369
+# File: module/setup/view/settings/cities_edit.phtml, line: 370
 msgid "Documents IT"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 359
-# File: module/setup/view/settings/cities_edit.phtml, line: 360
+# File: module/setup/view/settings/cities_edit.phtml, line: 373
+# File: module/setup/view/settings/cities_edit.phtml, line: 374
 msgid "Documents PT"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 363
-# File: module/setup/view/settings/cities_edit.phtml, line: 364
+# File: module/setup/view/settings/cities_edit.phtml, line: 377
+# File: module/setup/view/settings/cities_edit.phtml, line: 378
 msgid "Documents AR"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 367
-# File: module/setup/view/settings/cities_edit.phtml, line: 368
+# File: module/setup/view/settings/cities_edit.phtml, line: 381
+# File: module/setup/view/settings/cities_edit.phtml, line: 382
 msgid "Documents ZH"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 373
-# File: module/setup/view/settings/cities_edit.phtml, line: 377
-# File: module/setup/view/settings/cities_edit.phtml, line: 378
+# File: module/setup/view/settings/cities_edit.phtml, line: 387
+# File: module/setup/view/settings/cities_edit.phtml, line: 391
+# File: module/setup/view/settings/cities_edit.phtml, line: 392
 # File: module/setup/view/settings/citiessections_add.phtml, line: 49
 # File: module/setup/view/settings/citiessections_edit.phtml, line: 54
 msgid "Weather"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 381
-# File: module/setup/view/settings/cities_edit.phtml, line: 382
+# File: module/setup/view/settings/cities_edit.phtml, line: 395
+# File: module/setup/view/settings/cities_edit.phtml, line: 396
 msgid "Weather ES"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 385
-# File: module/setup/view/settings/cities_edit.phtml, line: 386
+# File: module/setup/view/settings/cities_edit.phtml, line: 399
+# File: module/setup/view/settings/cities_edit.phtml, line: 400
 msgid "Weather FR"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 389
-# File: module/setup/view/settings/cities_edit.phtml, line: 390
+# File: module/setup/view/settings/cities_edit.phtml, line: 403
+# File: module/setup/view/settings/cities_edit.phtml, line: 404
 msgid "Weather IT"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 393
-# File: module/setup/view/settings/cities_edit.phtml, line: 396
+# File: module/setup/view/settings/cities_edit.phtml, line: 407
+# File: module/setup/view/settings/cities_edit.phtml, line: 410
 msgid "Weather DE"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 400
-# File: module/setup/view/settings/cities_edit.phtml, line: 401
+# File: module/setup/view/settings/cities_edit.phtml, line: 414
+# File: module/setup/view/settings/cities_edit.phtml, line: 415
 msgid "Weather PT"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 404
-# File: module/setup/view/settings/cities_edit.phtml, line: 405
-msgid "Weather AR"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 408
-# File: module/setup/view/settings/cities_edit.phtml, line: 409
-msgid "Weather ZH"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 414
 # File: module/setup/view/settings/cities_edit.phtml, line: 418
 # File: module/setup/view/settings/cities_edit.phtml, line: 419
-msgid "Transportation"
+msgid "Weather AR"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 422
 # File: module/setup/view/settings/cities_edit.phtml, line: 423
+msgid "Weather ZH"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 428
+# File: module/setup/view/settings/cities_edit.phtml, line: 432
+# File: module/setup/view/settings/cities_edit.phtml, line: 433
+msgid "Transportation"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 436
+# File: module/setup/view/settings/cities_edit.phtml, line: 437
 msgid "Transportation ES"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 426
-# File: module/setup/view/settings/cities_edit.phtml, line: 427
+# File: module/setup/view/settings/cities_edit.phtml, line: 440
+# File: module/setup/view/settings/cities_edit.phtml, line: 441
 msgid "Transportation FR"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 430
-# File: module/setup/view/settings/cities_edit.phtml, line: 431
+# File: module/setup/view/settings/cities_edit.phtml, line: 444
+# File: module/setup/view/settings/cities_edit.phtml, line: 445
 msgid "Transportation DE"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 434
-# File: module/setup/view/settings/cities_edit.phtml, line: 435
+# File: module/setup/view/settings/cities_edit.phtml, line: 448
+# File: module/setup/view/settings/cities_edit.phtml, line: 449
 msgid "Transportation IT"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 438
-# File: module/setup/view/settings/cities_edit.phtml, line: 439
+# File: module/setup/view/settings/cities_edit.phtml, line: 452
+# File: module/setup/view/settings/cities_edit.phtml, line: 453
 msgid "Transportation PT"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 442
-# File: module/setup/view/settings/cities_edit.phtml, line: 443
-msgid "Transportation AR"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 446
-# File: module/setup/view/settings/cities_edit.phtml, line: 447
-msgid "Transportation ZH"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 452
 # File: module/setup/view/settings/cities_edit.phtml, line: 456
 # File: module/setup/view/settings/cities_edit.phtml, line: 457
-msgid "Tips"
+msgid "Transportation AR"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 460
 # File: module/setup/view/settings/cities_edit.phtml, line: 461
+msgid "Transportation ZH"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 466
+# File: module/setup/view/settings/cities_edit.phtml, line: 470
+# File: module/setup/view/settings/cities_edit.phtml, line: 471
+msgid "Tips"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 474
+# File: module/setup/view/settings/cities_edit.phtml, line: 475
 msgid "Tips ES"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 464
-# File: module/setup/view/settings/cities_edit.phtml, line: 465
+# File: module/setup/view/settings/cities_edit.phtml, line: 478
+# File: module/setup/view/settings/cities_edit.phtml, line: 479
 msgid "Tips FR"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 468
-# File: module/setup/view/settings/cities_edit.phtml, line: 469
+# File: module/setup/view/settings/cities_edit.phtml, line: 482
+# File: module/setup/view/settings/cities_edit.phtml, line: 483
 msgid "Tips DE"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 472
-# File: module/setup/view/settings/cities_edit.phtml, line: 473
+# File: module/setup/view/settings/cities_edit.phtml, line: 486
+# File: module/setup/view/settings/cities_edit.phtml, line: 487
 msgid "Tips IT"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 476
-# File: module/setup/view/settings/cities_edit.phtml, line: 477
+# File: module/setup/view/settings/cities_edit.phtml, line: 490
+# File: module/setup/view/settings/cities_edit.phtml, line: 491
 msgid "Tips PT"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 480
-# File: module/setup/view/settings/cities_edit.phtml, line: 481
+# File: module/setup/view/settings/cities_edit.phtml, line: 494
+# File: module/setup/view/settings/cities_edit.phtml, line: 495
 msgid "Tips AR"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 484
-# File: module/setup/view/settings/cities_edit.phtml, line: 485
+# File: module/setup/view/settings/cities_edit.phtml, line: 498
+# File: module/setup/view/settings/cities_edit.phtml, line: 499
 msgid "Tips ZH"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 490
+# File: module/setup/view/settings/cities_edit.phtml, line: 504
 # File: module/setup/view/settings/countries_edit.phtml, line: 59
 # File: module/setup/view/settings/states_edit.phtml, line: 52
 msgid "Localization"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 494
-# File: module/setup/view/settings/cities_edit.phtml, line: 495
+# File: module/setup/view/settings/cities_edit.phtml, line: 508
+# File: module/setup/view/settings/cities_edit.phtml, line: 509
 msgid "SEO Title"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 498
-# File: module/setup/view/settings/cities_edit.phtml, line: 499
+# File: module/setup/view/settings/cities_edit.phtml, line: 512
+# File: module/setup/view/settings/cities_edit.phtml, line: 513
 msgid "SEO Title EL"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 502
-# File: module/setup/view/settings/cities_edit.phtml, line: 503
+# File: module/setup/view/settings/cities_edit.phtml, line: 516
+# File: module/setup/view/settings/cities_edit.phtml, line: 517
 msgid "SEO Title JA"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 506
-# File: module/setup/view/settings/cities_edit.phtml, line: 507
+# File: module/setup/view/settings/cities_edit.phtml, line: 520
+# File: module/setup/view/settings/cities_edit.phtml, line: 521
 msgid "SEO Title SV"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 510
-# File: module/setup/view/settings/cities_edit.phtml, line: 511
+# File: module/setup/view/settings/cities_edit.phtml, line: 524
+# File: module/setup/view/settings/cities_edit.phtml, line: 525
 msgid "SEO Title RU"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 514
-# File: module/setup/view/settings/cities_edit.phtml, line: 515
+# File: module/setup/view/settings/cities_edit.phtml, line: 528
+# File: module/setup/view/settings/cities_edit.phtml, line: 529
 msgid "SEO Title DE"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 518
-# File: module/setup/view/settings/cities_edit.phtml, line: 519
+# File: module/setup/view/settings/cities_edit.phtml, line: 532
+# File: module/setup/view/settings/cities_edit.phtml, line: 533
 msgid "SEO Title IT"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 522
-# File: module/setup/view/settings/cities_edit.phtml, line: 523
+# File: module/setup/view/settings/cities_edit.phtml, line: 536
+# File: module/setup/view/settings/cities_edit.phtml, line: 537
 msgid "SEO Title DA"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 526
-# File: module/setup/view/settings/cities_edit.phtml, line: 527
+# File: module/setup/view/settings/cities_edit.phtml, line: 540
+# File: module/setup/view/settings/cities_edit.phtml, line: 541
 msgid "SEO Title FR"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 530
-# File: module/setup/view/settings/cities_edit.phtml, line: 531
+# File: module/setup/view/settings/cities_edit.phtml, line: 544
+# File: module/setup/view/settings/cities_edit.phtml, line: 545
 msgid "SEO Title AR"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 534
-# File: module/setup/view/settings/cities_edit.phtml, line: 535
+# File: module/setup/view/settings/cities_edit.phtml, line: 548
+# File: module/setup/view/settings/cities_edit.phtml, line: 549
 msgid "SEO Title PT"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 538
-# File: module/setup/view/settings/cities_edit.phtml, line: 539
-msgid "SEO Title ZH"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 542
-# File: module/setup/view/settings/cities_edit.phtml, line: 543
-msgid "SEO Title ES"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 548
 # File: module/setup/view/settings/cities_edit.phtml, line: 552
 # File: module/setup/view/settings/cities_edit.phtml, line: 553
-msgid "SEO Keywords"
+msgid "SEO Title ZH"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 556
 # File: module/setup/view/settings/cities_edit.phtml, line: 557
+msgid "SEO Title ES"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 562
+# File: module/setup/view/settings/cities_edit.phtml, line: 566
+# File: module/setup/view/settings/cities_edit.phtml, line: 567
+msgid "SEO Keywords"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 570
+# File: module/setup/view/settings/cities_edit.phtml, line: 571
 msgid "SEO Keywords EL"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 560
-# File: module/setup/view/settings/cities_edit.phtml, line: 561
+# File: module/setup/view/settings/cities_edit.phtml, line: 574
+# File: module/setup/view/settings/cities_edit.phtml, line: 575
 msgid "SEO Keywords JA"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 564
-# File: module/setup/view/settings/cities_edit.phtml, line: 565
+# File: module/setup/view/settings/cities_edit.phtml, line: 578
+# File: module/setup/view/settings/cities_edit.phtml, line: 579
 msgid "SEO Keywords SV"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 568
-# File: module/setup/view/settings/cities_edit.phtml, line: 569
+# File: module/setup/view/settings/cities_edit.phtml, line: 582
+# File: module/setup/view/settings/cities_edit.phtml, line: 583
 msgid "SEO Keywords RU"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 572
-# File: module/setup/view/settings/cities_edit.phtml, line: 573
+# File: module/setup/view/settings/cities_edit.phtml, line: 586
+# File: module/setup/view/settings/cities_edit.phtml, line: 587
 msgid "SEO Keywords DE"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 576
-# File: module/setup/view/settings/cities_edit.phtml, line: 577
+# File: module/setup/view/settings/cities_edit.phtml, line: 590
+# File: module/setup/view/settings/cities_edit.phtml, line: 591
 msgid "SEO Keywords IT"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 580
-# File: module/setup/view/settings/cities_edit.phtml, line: 581
+# File: module/setup/view/settings/cities_edit.phtml, line: 594
+# File: module/setup/view/settings/cities_edit.phtml, line: 595
 msgid "SEO Keywords DA"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 584
-# File: module/setup/view/settings/cities_edit.phtml, line: 585
+# File: module/setup/view/settings/cities_edit.phtml, line: 598
+# File: module/setup/view/settings/cities_edit.phtml, line: 599
 msgid "SEO Keywords FR"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 588
-# File: module/setup/view/settings/cities_edit.phtml, line: 589
+# File: module/setup/view/settings/cities_edit.phtml, line: 602
+# File: module/setup/view/settings/cities_edit.phtml, line: 603
 msgid "SEO Keywords AR"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 592
-# File: module/setup/view/settings/cities_edit.phtml, line: 593
+# File: module/setup/view/settings/cities_edit.phtml, line: 606
+# File: module/setup/view/settings/cities_edit.phtml, line: 607
 msgid "SEO Keywords PT"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 596
-# File: module/setup/view/settings/cities_edit.phtml, line: 597
-msgid "SEO Keywords ZH"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 600
-# File: module/setup/view/settings/cities_edit.phtml, line: 601
-msgid "SEO Keywords ES"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 606
 # File: module/setup/view/settings/cities_edit.phtml, line: 610
 # File: module/setup/view/settings/cities_edit.phtml, line: 611
-msgid "SEO Description"
+msgid "SEO Keywords ZH"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 614
 # File: module/setup/view/settings/cities_edit.phtml, line: 615
+msgid "SEO Keywords ES"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 620
+# File: module/setup/view/settings/cities_edit.phtml, line: 624
+# File: module/setup/view/settings/cities_edit.phtml, line: 625
+msgid "SEO Description"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 628
+# File: module/setup/view/settings/cities_edit.phtml, line: 629
 msgid "SEO Description EL"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 618
-# File: module/setup/view/settings/cities_edit.phtml, line: 619
+# File: module/setup/view/settings/cities_edit.phtml, line: 632
+# File: module/setup/view/settings/cities_edit.phtml, line: 633
 msgid "SEO Description JA"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 622
-# File: module/setup/view/settings/cities_edit.phtml, line: 623
+# File: module/setup/view/settings/cities_edit.phtml, line: 636
+# File: module/setup/view/settings/cities_edit.phtml, line: 637
 msgid "SEO Description SV"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 626
-# File: module/setup/view/settings/cities_edit.phtml, line: 627
+# File: module/setup/view/settings/cities_edit.phtml, line: 640
+# File: module/setup/view/settings/cities_edit.phtml, line: 641
 msgid "SEO Description RU"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 630
-# File: module/setup/view/settings/cities_edit.phtml, line: 631
+# File: module/setup/view/settings/cities_edit.phtml, line: 644
+# File: module/setup/view/settings/cities_edit.phtml, line: 645
 msgid "SEO Description DE"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 634
-# File: module/setup/view/settings/cities_edit.phtml, line: 635
+# File: module/setup/view/settings/cities_edit.phtml, line: 648
+# File: module/setup/view/settings/cities_edit.phtml, line: 649
 msgid "SEO Description IT"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 638
-# File: module/setup/view/settings/cities_edit.phtml, line: 639
+# File: module/setup/view/settings/cities_edit.phtml, line: 652
+# File: module/setup/view/settings/cities_edit.phtml, line: 653
 msgid "SEO Description DA"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 642
-# File: module/setup/view/settings/cities_edit.phtml, line: 643
+# File: module/setup/view/settings/cities_edit.phtml, line: 656
+# File: module/setup/view/settings/cities_edit.phtml, line: 657
 msgid "SEO Description FR"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 646
-# File: module/setup/view/settings/cities_edit.phtml, line: 647
+# File: module/setup/view/settings/cities_edit.phtml, line: 660
+# File: module/setup/view/settings/cities_edit.phtml, line: 661
 msgid "SEO Description AR"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 650
-# File: module/setup/view/settings/cities_edit.phtml, line: 651
+# File: module/setup/view/settings/cities_edit.phtml, line: 664
+# File: module/setup/view/settings/cities_edit.phtml, line: 665
 msgid "SEO Description PT"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 654
-# File: module/setup/view/settings/cities_edit.phtml, line: 655
+# File: module/setup/view/settings/cities_edit.phtml, line: 668
+# File: module/setup/view/settings/cities_edit.phtml, line: 669
 msgid "SEO Description ZH"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 658
-# File: module/setup/view/settings/cities_edit.phtml, line: 659
+# File: module/setup/view/settings/cities_edit.phtml, line: 672
+# File: module/setup/view/settings/cities_edit.phtml, line: 673
 msgid "SEO Description ES"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 661
+# File: module/setup/view/settings/cities_edit.phtml, line: 675
 msgid "H1"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 662
+# File: module/setup/view/settings/cities_edit.phtml, line: 676
 msgid "H2"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 663
+# File: module/setup/view/settings/cities_edit.phtml, line: 677
 msgid "H3"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 668
+# File: module/setup/view/settings/cities_edit.phtml, line: 682
 msgid "City XML"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 671
+# File: module/setup/view/settings/cities_edit.phtml, line: 685
 msgid "City XML 1"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 672
+# File: module/setup/view/settings/cities_edit.phtml, line: 686
 msgid "Expedia"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 673
+# File: module/setup/view/settings/cities_edit.phtml, line: 687
 msgid "City XML 3"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 674
+# File: module/setup/view/settings/cities_edit.phtml, line: 688
 msgid "City XML 4"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 675
+# File: module/setup/view/settings/cities_edit.phtml, line: 689
 msgid "City XML 5"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 676
+# File: module/setup/view/settings/cities_edit.phtml, line: 690
 msgid "City XML 6"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 677
+# File: module/setup/view/settings/cities_edit.phtml, line: 691
 msgid "City XML 6a"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 678
+# File: module/setup/view/settings/cities_edit.phtml, line: 692
 msgid "City XML 6b"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 679
+# File: module/setup/view/settings/cities_edit.phtml, line: 693
 msgid "City XML 7"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 680
+# File: module/setup/view/settings/cities_edit.phtml, line: 694
 msgid "City XML 8"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 681
+# File: module/setup/view/settings/cities_edit.phtml, line: 695
 msgid "City XML 9"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 682
+# File: module/setup/view/settings/cities_edit.phtml, line: 696
 msgid "City XML 10"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 683
+# File: module/setup/view/settings/cities_edit.phtml, line: 697
 msgid "City XML 11"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 684
+# File: module/setup/view/settings/cities_edit.phtml, line: 698
 msgid "City XML 12"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 685
+# File: module/setup/view/settings/cities_edit.phtml, line: 699
 msgid "City XML 13"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 686
+# File: module/setup/view/settings/cities_edit.phtml, line: 700
 msgid "City XML 14"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 687
+# File: module/setup/view/settings/cities_edit.phtml, line: 701
 msgid "City XML 15"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 688
+# File: module/setup/view/settings/cities_edit.phtml, line: 702
 msgid "Miki Travel"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 689
+# File: module/setup/view/settings/cities_edit.phtml, line: 703
 msgid "City XML 17"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 690
+# File: module/setup/view/settings/cities_edit.phtml, line: 704
 msgid "City XML 18"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 691
+# File: module/setup/view/settings/cities_edit.phtml, line: 705
 msgid "City XML 19"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 692
+# File: module/setup/view/settings/cities_edit.phtml, line: 706
 msgid "City XML 20"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 693
+# File: module/setup/view/settings/cities_edit.phtml, line: 707
 msgid "City XML 21"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 694
+# File: module/setup/view/settings/cities_edit.phtml, line: 708
 msgid "City XML 22"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 695
+# File: module/setup/view/settings/cities_edit.phtml, line: 709
 msgid "City XML 23"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 696
+# File: module/setup/view/settings/cities_edit.phtml, line: 710
 msgid "City XML 24"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 697
+# File: module/setup/view/settings/cities_edit.phtml, line: 711
 msgid "City XML 25"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 698
+# File: module/setup/view/settings/cities_edit.phtml, line: 712
 msgid "City XML 26"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 699
+# File: module/setup/view/settings/cities_edit.phtml, line: 713
 msgid "City XML 27"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 700
+# File: module/setup/view/settings/cities_edit.phtml, line: 714
 msgid "City XML 28"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 701
+# File: module/setup/view/settings/cities_edit.phtml, line: 715
 msgid "City XML 29"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 702
+# File: module/setup/view/settings/cities_edit.phtml, line: 716
 msgid "City XML 30"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 703
+# File: module/setup/view/settings/cities_edit.phtml, line: 717
 msgid "City XML 31"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 704
+# File: module/setup/view/settings/cities_edit.phtml, line: 718
 msgid "City XML 32"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 705
+# File: module/setup/view/settings/cities_edit.phtml, line: 719
 msgid "City XML 33"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 706
+# File: module/setup/view/settings/cities_edit.phtml, line: 720
 msgid "City XML 34"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 707
+# File: module/setup/view/settings/cities_edit.phtml, line: 721
 msgid "City XML 35"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 708
+# File: module/setup/view/settings/cities_edit.phtml, line: 722
 msgid "City XML 36"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 709
+# File: module/setup/view/settings/cities_edit.phtml, line: 723
 msgid "City XML 37"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 710
+# File: module/setup/view/settings/cities_edit.phtml, line: 724
 msgid "City XML 38"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 711
+# File: module/setup/view/settings/cities_edit.phtml, line: 725
 msgid "Restel"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 712
+# File: module/setup/view/settings/cities_edit.phtml, line: 726
 msgid "City XML 40"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 713
+# File: module/setup/view/settings/cities_edit.phtml, line: 727
 msgid "City XML 41"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 714
+# File: module/setup/view/settings/cities_edit.phtml, line: 728
 msgid "City XML 42"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 715
+# File: module/setup/view/settings/cities_edit.phtml, line: 729
 msgid "City XML 43"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 716
+# File: module/setup/view/settings/cities_edit.phtml, line: 730
 msgid "City XML 44"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 717
+# File: module/setup/view/settings/cities_edit.phtml, line: 731
 msgid "City XML 45"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 718
+# File: module/setup/view/settings/cities_edit.phtml, line: 732
 msgid "City XML 46"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 719
+# File: module/setup/view/settings/cities_edit.phtml, line: 733
 msgid "City XML 47"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 720
+# File: module/setup/view/settings/cities_edit.phtml, line: 734
 msgid "City XML 48"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 721
+# File: module/setup/view/settings/cities_edit.phtml, line: 735
 msgid "City XML 49"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 722
+# File: module/setup/view/settings/cities_edit.phtml, line: 736
 msgid "City XML 50"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 723
+# File: module/setup/view/settings/cities_edit.phtml, line: 737
 msgid "City XML 51"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 724
+# File: module/setup/view/settings/cities_edit.phtml, line: 738
 msgid "City XML 52"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 725
+# File: module/setup/view/settings/cities_edit.phtml, line: 739
 msgid "City XML 53"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 726
+# File: module/setup/view/settings/cities_edit.phtml, line: 740
 msgid "City XML 54"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 727
+# File: module/setup/view/settings/cities_edit.phtml, line: 741
 msgid "City XML 55"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 728
+# File: module/setup/view/settings/cities_edit.phtml, line: 742
 msgid "City XML 56"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 729
+# File: module/setup/view/settings/cities_edit.phtml, line: 743
 msgid "City XML 57"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 730
+# File: module/setup/view/settings/cities_edit.phtml, line: 744
 msgid "City XML 58"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 731
+# File: module/setup/view/settings/cities_edit.phtml, line: 745
 msgid "City XML 59"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 732
+# File: module/setup/view/settings/cities_edit.phtml, line: 746
 msgid "City XML 60"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 733
+# File: module/setup/view/settings/cities_edit.phtml, line: 747
 msgid "City XML 61"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 734
+# File: module/setup/view/settings/cities_edit.phtml, line: 748
 msgid "City XML 62"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 735
+# File: module/setup/view/settings/cities_edit.phtml, line: 749
 msgid "City XML 63"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 736
+# File: module/setup/view/settings/cities_edit.phtml, line: 750
 msgid "Omnibees"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 737
+# File: module/setup/view/settings/cities_edit.phtml, line: 751
 msgid "City XML 65"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 738
+# File: module/setup/view/settings/cities_edit.phtml, line: 752
 msgid "City XML 66"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 739
+# File: module/setup/view/settings/cities_edit.phtml, line: 753
 msgid "City XML 67"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 740
+# File: module/setup/view/settings/cities_edit.phtml, line: 754
 msgid "City XML 68"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 741
+# File: module/setup/view/settings/cities_edit.phtml, line: 755
 msgid "City XML 69"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 742
+# File: module/setup/view/settings/cities_edit.phtml, line: 756
 msgid "City XML 70"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 743
+# File: module/setup/view/settings/cities_edit.phtml, line: 757
 msgid "City XML 71"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 744
+# File: module/setup/view/settings/cities_edit.phtml, line: 758
 msgid "City XML 72"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 745
+# File: module/setup/view/settings/cities_edit.phtml, line: 759
 msgid "City XML 73"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 746
+# File: module/setup/view/settings/cities_edit.phtml, line: 760
 msgid "City XML 74"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 747
+# File: module/setup/view/settings/cities_edit.phtml, line: 761
 msgid "City XML 75"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 748
+# File: module/setup/view/settings/cities_edit.phtml, line: 762
 msgid "City XML 76"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 749
+# File: module/setup/view/settings/cities_edit.phtml, line: 763
 msgid "City XML 77"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 750
+# File: module/setup/view/settings/cities_edit.phtml, line: 764
 msgid "City XML 78"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 751
+# File: module/setup/view/settings/cities_edit.phtml, line: 765
 msgid "City XML 79"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 752
+# File: module/setup/view/settings/cities_edit.phtml, line: 766
 msgid "City XML 80"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 753
+# File: module/setup/view/settings/cities_edit.phtml, line: 767
 msgid "Blue Diamond"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 754
+# File: module/setup/view/settings/cities_edit.phtml, line: 768
 msgid "City XML 82"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 755
+# File: module/setup/view/settings/cities_edit.phtml, line: 769
 msgid "City XML 83"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 756
+# File: module/setup/view/settings/cities_edit.phtml, line: 770
 msgid "City XML 84"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 757
+# File: module/setup/view/settings/cities_edit.phtml, line: 771
 msgid "City XML 85"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 758
+# File: module/setup/view/settings/cities_edit.phtml, line: 772
 msgid "City XML 88"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 759
+# File: module/setup/view/settings/cities_edit.phtml, line: 773
 msgid "IBS"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 760
+# File: module/setup/view/settings/cities_edit.phtml, line: 774
 msgid "City XML 103"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 761
+# File: module/setup/view/settings/cities_edit.phtml, line: 775
 msgid "Valentin Hotels"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 762
+# File: module/setup/view/settings/cities_edit.phtml, line: 776
 msgid "Hotetec"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 763
+# File: module/setup/view/settings/cities_edit.phtml, line: 777
 msgid "Avoris"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 770
+# File: module/setup/view/settings/cities_edit.phtml, line: 784
 msgid "Image1"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 771
+# File: module/setup/view/settings/cities_edit.phtml, line: 785
 msgid "Image1 Caption"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 772
+# File: module/setup/view/settings/cities_edit.phtml, line: 786
 msgid "Image2"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 773
+# File: module/setup/view/settings/cities_edit.phtml, line: 787
 msgid "Image2 Caption"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 774
+# File: module/setup/view/settings/cities_edit.phtml, line: 788
 msgid "Image3"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 774
+# File: module/setup/view/settings/cities_edit.phtml, line: 788
 msgid "Imag3"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 775
+# File: module/setup/view/settings/cities_edit.phtml, line: 789
 msgid "Image3 Caption"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 777
+# File: module/setup/view/settings/cities_edit.phtml, line: 791
 msgid "Video1"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 778
+# File: module/setup/view/settings/cities_edit.phtml, line: 792
 msgid "Video2"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 779
+# File: module/setup/view/settings/cities_edit.phtml, line: 793
 msgid "Video3"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 780
+# File: module/setup/view/settings/cities_edit.phtml, line: 794
 msgid "Video4"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 781
+# File: module/setup/view/settings/cities_edit.phtml, line: 795
 msgid "Video5"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 815
+# File: module/setup/view/settings/cities_edit.phtml, line: 829
 # File: module/setup/view/settings/citiesimages_edit.phtml, line: 105
 msgid "Please enter city name"
 msgstr ""
