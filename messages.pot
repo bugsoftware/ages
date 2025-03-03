@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-03 15:45-0500\n"
+"POT-Creation-Date: 2025-03-03 16:20-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -8909,6 +8909,8 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_disableagents.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_disableusers.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_lowcustomers.phtml, line: 20
+# File: module/ages/src/Controller/Templates/notification_newsletters_detail.phtml, line: 20
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 20
 msgid "Dear"
 msgstr ""
 #
@@ -9137,6 +9139,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Newsletter.php, line: 7269
 # File: module/ages/src/Controller/Reports.php, line: 4214
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 43
 # File: module/ages/view/ages/activities/analysis.phtml, line: 18
 # File: module/ages/view/ages/activities/analysis.phtml, line: 22
 # File: module/ages/view/ages/agents/addtransaction.phtml, line: 13
@@ -10259,6 +10262,8 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_disableagents.phtml, line: 28
 # File: module/ages/src/Controller/Templates/notification_disableusers.phtml, line: 28
 # File: module/ages/src/Controller/Templates/notification_lowcustomers.phtml, line: 27
+# File: module/ages/src/Controller/Templates/notification_newsletters_detail.phtml, line: 36
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 49
 msgid "Warm regards,"
 msgstr ""
 #
@@ -11419,6 +11424,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_disableagents.phtml, line: 22
 # File: module/ages/src/Controller/Templates/notification_disableusers.phtml, line: 22
 # File: module/ages/src/Controller/Templates/notification_lowcustomers.phtml, line: 22
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 22
 msgid "We hope this message finds you well."
 msgstr ""
 #
@@ -11459,6 +11465,8 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_disableagents.phtml, line: 26
 # File: module/ages/src/Controller/Templates/notification_disableusers.phtml, line: 26
 # File: module/ages/src/Controller/Templates/notification_lowcustomers.phtml, line: 25
+# File: module/ages/src/Controller/Templates/notification_newsletters_detail.phtml, line: 34
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 47
 msgid "Should you have any questions or require further assistance, do not hesitate to contact us."
 msgstr ""
 #
@@ -11475,6 +11483,8 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_disableagents.phtml, line: 27
 # File: module/ages/src/Controller/Templates/notification_disableusers.phtml, line: 27
 # File: module/ages/src/Controller/Templates/notification_lowcustomers.phtml, line: 26
+# File: module/ages/src/Controller/Templates/notification_newsletters_detail.phtml, line: 35
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 48
 msgid "Thank you for choosing our services. We look forward to continuing our business relationship."
 msgstr ""
 #
@@ -11491,6 +11501,8 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_disableagents.phtml, line: 29
 # File: module/ages/src/Controller/Templates/notification_disableusers.phtml, line: 29
 # File: module/ages/src/Controller/Templates/notification_lowcustomers.phtml, line: 28
+# File: module/ages/src/Controller/Templates/notification_newsletters_detail.phtml, line: 37
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 50
 msgid "Click & Book Team"
 msgstr ""
 #
@@ -11507,6 +11519,8 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 29
 # File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 24
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 29
+# File: module/ages/src/Controller/Templates/notification_newsletters_detail.phtml, line: 26
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 38
 msgid "Please review your account for additional information."
 msgstr ""
 #
@@ -13705,6 +13719,85 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/travelers-choice.phtml, line: 1277
 msgid "Unscubscribe"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newsletters_detail.phtml, line: 22
+msgid "We sent a total of"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newsletters_detail.phtml, line: 22
+msgid "of marketing emails to your customers for the campaiign"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newsletters_detail.phtml, line: 23
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 24
+msgid "Campaign:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newsletters_detail.phtml, line: 25
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 23
+msgid "Please find attached the Campaign Report for"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newsletters_detail.phtml, line: 25
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 23
+msgid "This report provides a comprehensive overview of our campaign performance and key metrics."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newsletters_detail.phtml, line: 27
+msgid "Breakdown of customers interested in the campaign:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newsletters_detail.phtml, line: 30
+msgid "Customer:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 27
+msgid "Total Emails Sent:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 28
+msgid "Total Emails Dropped:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 29
+msgid "Total Emails Deferred:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 30
+msgid "Total Emails Bounced:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 31
+msgid "Total Emails Delivered:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 32
+msgid "Total Emails Opened:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 33
+msgid "Total Emails Clicked:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 34
+msgid "Total Emails Unique Open:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 35
+msgid "Total Emails Unique Click:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 36
+msgid "Marked as Spam:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 40
+msgid "Breakdown of emails sent by agent"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 43
+msgid "emails sent"
 msgstr ""
 #
 # File: module/ages/src/Controller/Tours.php, line: 433
