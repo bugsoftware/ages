@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-15 06:21-0400\n"
+"POT-Creation-Date: 2025-04-15 08:44-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23181,6 +23181,7 @@ msgstr ""
 # File: module/ages/view/ages/affiliates/edit_payments.phtml, line: 11
 # File: module/ages/view/ages/agents/add_payments.phtml, line: 8
 # File: module/ages/view/ages/agents/edit_payments.phtml, line: 8
+# File: module/ages/view/ages/companies/edit_payments.phtml, line: 49
 # File: module/ages/view/ages/sub-agents/add_payments.phtml, line: 8
 # File: module/ages/view/ages/sub-agents/edit_payments.phtml, line: 8
 # File: module/setup/view/settings/payments-b2b.phtml, line: 15
@@ -27323,6 +27324,7 @@ msgid "Enable BCP"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/edit_payments.phtml, line: 153
+# File: module/ages/view/ages/companies/edit_payments.phtml, line: 57
 msgid "Enable Moneygram"
 msgstr ""
 #
@@ -32040,11 +32042,23 @@ msgid "Disable Credit Card"
 msgstr ""
 #
 # File: module/ages/view/ages/companies/edit_payments.phtml, line: 19
-msgid "Disable Book Now and Pay Later"
+msgid "Disable Stripe"
 msgstr ""
 #
 # File: module/ages/view/ages/companies/edit_payments.phtml, line: 29
+msgid "Disable Book Now and Pay Later"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/edit_payments.phtml, line: 39
 msgid "Disable Moneygram"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/edit_payments.phtml, line: 53
+msgid "Enable Book Now and Pay Later"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/edit_payments.phtml, line: 61
+msgid "Enable Stripe"
 msgstr ""
 #
 # File: module/ages/view/ages/companies/editcurrency.phtml, line: 5
