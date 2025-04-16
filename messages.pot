@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-16 02:21-0400\n"
+"POT-Creation-Date: 2025-04-16 08:41-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25518,10 +25518,47 @@ msgid "Enable Amadeus GDS Hotels"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_payments.phtml, line: 134
-# File: module/ages/view/ages/agents/edit_payments.phtml, line: 161
+# File: module/ages/view/ages/agents/edit_payments.phtml, line: 136
 # File: module/ages/view/ages/sub-agents/add_payments.phtml, line: 134
-# File: module/ages/view/ages/sub-agents/edit_payments.phtml, line: 134
+# File: module/ages/view/ages/sub-agents/edit_payments.phtml, line: 136
+msgid "Enable Travel Payments"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_payments.phtml, line: 137
+# File: module/ages/view/ages/agents/edit_payments.phtml, line: 142
+# File: module/ages/view/ages/sub-agents/add_payments.phtml, line: 137
+# File: module/ages/view/ages/sub-agents/edit_payments.phtml, line: 142
+msgid "Enable BCP"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_payments.phtml, line: 145
+# File: module/ages/view/ages/agents/edit_payments.phtml, line: 153
+# File: module/ages/view/ages/companies/edit_payments.phtml, line: 57
+# File: module/ages/view/ages/sub-agents/add_payments.phtml, line: 145
+# File: module/ages/view/ages/sub-agents/edit_payments.phtml, line: 153
+msgid "Enable Moneygram"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_payments.phtml, line: 150
+# File: module/ages/view/ages/agents/edit_payments.phtml, line: 159
+# File: module/ages/view/ages/companies/edit_payments.phtml, line: 65
+# File: module/ages/view/ages/sub-agents/add_payments.phtml, line: 150
+# File: module/ages/view/ages/sub-agents/edit_payments.phtml, line: 159
+msgid "Enable Stripe"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_payments.phtml, line: 160
+# File: module/ages/view/ages/agents/edit_payments.phtml, line: 169
+# File: module/ages/view/ages/sub-agents/add_payments.phtml, line: 160
+# File: module/ages/view/ages/sub-agents/edit_payments.phtml, line: 169
 msgid "Allow Receivables"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_payments.phtml, line: 168
+# File: module/ages/view/ages/agents/edit_payments.phtml, line: 179
+# File: module/ages/view/ages/sub-agents/add_payments.phtml, line: 168
+# File: module/ages/view/ages/sub-agents/edit_payments.phtml, line: 179
+msgid "Credit Cart NDC"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 9
@@ -27313,24 +27350,6 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/edit_otp.phtml, line: 15
 # File: module/ages/view/ages/users/otp.phtml, line: 25
 msgid "Browser Language"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/edit_payments.phtml, line: 136
-msgid "Enable Travel Payments"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/edit_payments.phtml, line: 142
-msgid "Enable BCP"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/edit_payments.phtml, line: 153
-# File: module/ages/view/ages/companies/edit_payments.phtml, line: 57
-msgid "Enable Moneygram"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/edit_payments.phtml, line: 170
-# File: module/ages/view/ages/sub-agents/edit_payments.phtml, line: 143
-msgid "Credit Cart NDC"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 33
@@ -32055,10 +32074,6 @@ msgstr ""
 #
 # File: module/ages/view/ages/companies/edit_payments.phtml, line: 53
 msgid "Enable Book Now and Pay Later"
-msgstr ""
-#
-# File: module/ages/view/ages/companies/edit_payments.phtml, line: 65
-msgid "Enable Stripe"
 msgstr ""
 #
 # File: module/ages/view/ages/companies/edit_payments.phtml, line: 67
