@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-06 06:17-0400\n"
+"POT-Creation-Date: 2025-05-06 08:00-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10493,6 +10493,7 @@ msgstr ""
 # File: module/setup/view/transfers/trapsatur.phtml, line: 76
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 74
 # File: module/setup/view/transfers/didatravel.phtml, line: 62
+# File: module/setup/view/transfers/daytrip.phtml, line: 60
 msgid "Update"
 msgstr ""
 #
@@ -16257,6 +16258,7 @@ msgstr ""
 # File: module/setup/view/transfers/trapsatur.phtml, line: 27
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 26
 # File: module/setup/view/transfers/didatravel.phtml, line: 23
+# File: module/setup/view/transfers/daytrip.phtml, line: 21
 msgid "Affiliate"
 msgstr ""
 #
@@ -45276,6 +45278,7 @@ msgstr ""
 # File: module/setup/view/transfers/trapsatur.phtml, line: 30
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 29
 # File: module/setup/view/transfers/didatravel.phtml, line: 26
+# File: module/setup/view/transfers/daytrip.phtml, line: 24
 msgid "Default - All Affiliates"
 msgstr ""
 #
@@ -45736,6 +45739,8 @@ msgstr ""
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 42
 # File: module/setup/view/transfers/didatravel.phtml, line: 34
 # File: module/setup/view/transfers/didatravel.phtml, line: 35
+# File: module/setup/view/transfers/daytrip.phtml, line: 32
+# File: module/setup/view/transfers/daytrip.phtml, line: 33
 msgid "Service URL"
 msgstr ""
 #
@@ -46238,6 +46243,8 @@ msgstr ""
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 48
 # File: module/setup/view/transfers/didatravel.phtml, line: 39
 # File: module/setup/view/transfers/didatravel.phtml, line: 40
+# File: module/setup/view/transfers/daytrip.phtml, line: 37
+# File: module/setup/view/transfers/daytrip.phtml, line: 38
 msgid "B2B Markup"
 msgstr ""
 #
@@ -46607,6 +46614,8 @@ msgstr ""
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 52
 # File: module/setup/view/transfers/didatravel.phtml, line: 42
 # File: module/setup/view/transfers/didatravel.phtml, line: 43
+# File: module/setup/view/transfers/daytrip.phtml, line: 40
+# File: module/setup/view/transfers/daytrip.phtml, line: 41
 msgid "B2C Markup"
 msgstr ""
 #
@@ -46974,6 +46983,8 @@ msgstr ""
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 56
 # File: module/setup/view/transfers/didatravel.phtml, line: 45
 # File: module/setup/view/transfers/didatravel.phtml, line: 46
+# File: module/setup/view/transfers/daytrip.phtml, line: 43
+# File: module/setup/view/transfers/daytrip.phtml, line: 44
 msgid "Search Timeout"
 msgstr ""
 #
@@ -47343,6 +47354,8 @@ msgstr ""
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 60
 # File: module/setup/view/transfers/didatravel.phtml, line: 48
 # File: module/setup/view/transfers/didatravel.phtml, line: 49
+# File: module/setup/view/transfers/daytrip.phtml, line: 46
+# File: module/setup/view/transfers/daytrip.phtml, line: 47
 msgid "Search Order"
 msgstr ""
 #
@@ -47608,6 +47621,8 @@ msgstr ""
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 69
 # File: module/setup/view/transfers/didatravel.phtml, line: 55
 # File: module/setup/view/transfers/didatravel.phtml, line: 57
+# File: module/setup/view/transfers/daytrip.phtml, line: 53
+# File: module/setup/view/transfers/daytrip.phtml, line: 55
 msgid "Emergency Contacts"
 msgstr ""
 #
@@ -47816,6 +47831,7 @@ msgstr ""
 # File: module/setup/view/transfers/trapsatur.phtml, line: 142
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 137
 # File: module/setup/view/transfers/didatravel.phtml, line: 122
+# File: module/setup/view/transfers/daytrip.phtml, line: 114
 msgid "Please enter B2B markup"
 msgstr ""
 #
@@ -48116,6 +48132,7 @@ msgstr ""
 # File: module/setup/view/transfers/trapsatur.phtml, line: 145
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 143
 # File: module/setup/view/transfers/didatravel.phtml, line: 125
+# File: module/setup/view/transfers/daytrip.phtml, line: 117
 msgid "Please enter B2C markup"
 msgstr ""
 #
@@ -48310,6 +48327,7 @@ msgstr ""
 # File: module/setup/view/transfers/trapsatur.phtml, line: 148
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 146
 # File: module/setup/view/transfers/didatravel.phtml, line: 128
+# File: module/setup/view/transfers/daytrip.phtml, line: 120
 msgid "Please enter search time out"
 msgstr ""
 #
@@ -48504,6 +48522,7 @@ msgstr ""
 # File: module/setup/view/transfers/trapsatur.phtml, line: 151
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 149
 # File: module/setup/view/transfers/didatravel.phtml, line: 131
+# File: module/setup/view/transfers/daytrip.phtml, line: 123
 msgid "Please enter search order"
 msgstr ""
 #
@@ -48781,6 +48800,7 @@ msgstr ""
 # File: module/setup/view/transfers/shuttlefare.phtml, line: 119
 # File: module/setup/view/transfers/trapsatur.phtml, line: 136
 # File: module/setup/view/transfers/didatravel.phtml, line: 119
+# File: module/setup/view/transfers/daytrip.phtml, line: 111
 msgid "Please enter service url"
 msgstr ""
 #
@@ -49485,6 +49505,8 @@ msgstr ""
 # File: module/setup/view/hotels/zoytrip.phtml, line: 28
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 37
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 38
+# File: module/setup/view/transfers/daytrip.phtml, line: 15
+# File: module/setup/view/transfers/daytrip.phtml, line: 16
 msgid "API Key"
 msgstr ""
 #
@@ -49530,6 +49552,7 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 187
 # File: module/setup/view/hotels/zoytrip.phtml, line: 115
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 134
+# File: module/setup/view/transfers/daytrip.phtml, line: 108
 msgid "Please enter API Key"
 msgstr ""
 #
@@ -61542,6 +61565,10 @@ msgstr ""
 #
 # File: module/setup/view/transfers/didatravel.phtml, line: 13
 msgid "Enable Dida Travel - Ground Transfer"
+msgstr ""
+#
+# File: module/setup/view/transfers/daytrip.phtml, line: 13
+msgid "Enable DayTrip - Transfers"
 msgstr ""
 #
 # File: vendor/sendgrid/php-http-client/test/unit/ClientTest.php, line: 41
