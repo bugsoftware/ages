@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-07 07:54-0400\n"
+"POT-Creation-Date: 2025-05-07 08:15-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6514,7 +6514,6 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit.phtml, line: 55
 # File: module/ages/view/ages/agents/edit_customers.phtml, line: 12
 # File: module/ages/view/ages/agents/edit_leads.phtml, line: 88
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 127
 # File: module/ages/view/ages/agents/edit_telemarketing.phtml, line: 18
 # File: module/ages/view/ages/agents/import.phtml, line: 13
 # File: module/ages/view/ages/agents/import.phtml, line: 51
@@ -6529,6 +6528,7 @@ msgstr ""
 # File: module/ages/view/ages/agents/telemarketing.phtml, line: 49
 # File: module/ages/view/ages/agents/transfercustomers.phtml, line: 26
 # File: module/ages/view/ages/agents/withoutsales.phtml, line: 34
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 127
 # File: module/ages/view/ages/air/chartersreport.phtml, line: 40
 # File: module/ages/view/ages/air/index.phtml, line: 14
 # File: module/ages/view/ages/cars/index.phtml, line: 14
@@ -8688,13 +8688,6 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 9246
 # File: module/ages/src/Controller/Reports.php, line: 9247
 # File: module/ages/src/Controller/Reports.php, line: 10812
-# File: module/ages/src/Controller/SubAgents.php, line: 3682
-# File: module/ages/src/Controller/SubAgents.php, line: 3709
-# File: module/ages/src/Controller/SubAgents.php, line: 3836
-# File: module/ages/src/Controller/SubAgents.php, line: 6180
-# File: module/ages/src/Controller/SubAgents.php, line: 6205
-# File: module/ages/src/Controller/SubAgents.php, line: 6329
-# File: module/ages/src/Controller/SubAgents.php, line: 6462
 # File: module/ages/src/Controller/Tours.php, line: 3952
 # File: module/ages/src/Controller/Tours.php, line: 4055
 # File: module/ages/src/Controller/Transfers.php, line: 457
@@ -8712,6 +8705,13 @@ msgstr ""
 # File: module/ages/src/Controller/Users.php, line: 8074
 # File: module/ages/src/Controller/Users.php, line: 8351
 # File: module/ages/src/Controller/Users.php, line: 8373
+# File: module/ages/src/Controller/SubAgents.php, line: 3682
+# File: module/ages/src/Controller/SubAgents.php, line: 3709
+# File: module/ages/src/Controller/SubAgents.php, line: 3836
+# File: module/ages/src/Controller/SubAgents.php, line: 6180
+# File: module/ages/src/Controller/SubAgents.php, line: 6205
+# File: module/ages/src/Controller/SubAgents.php, line: 6329
+# File: module/ages/src/Controller/SubAgents.php, line: 6462
 # File: module/ages/view/ages/affiliates/add_branches.phtml, line: 8
 # File: module/ages/view/ages/affiliates/add_cms.phtml, line: 23
 # File: module/ages/view/ages/affiliates/add_flights.phtml, line: 17
@@ -9456,9 +9456,6 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 8989
 # File: module/ages/src/Controller/Reports.php, line: 11978
 # File: module/ages/src/Controller/Reports.php, line: 11992
-# File: module/ages/src/Controller/SubAgents.php, line: 3609
-# File: module/ages/src/Controller/SubAgents.php, line: 6102
-# File: module/ages/src/Controller/SubAgents.php, line: 6677
 # File: module/ages/src/Controller/Tours.php, line: 877
 # File: module/ages/src/Controller/Tours.php, line: 1283
 # File: module/ages/src/Controller/Transfers.php, line: 3374
@@ -9471,6 +9468,9 @@ msgstr ""
 # File: module/ages/src/Controller/Users.php, line: 7694
 # File: module/ages/src/Controller/Users.php, line: 8096
 # File: module/ages/src/Controller/Users.php, line: 8323
+# File: module/ages/src/Controller/SubAgents.php, line: 3609
+# File: module/ages/src/Controller/SubAgents.php, line: 6102
+# File: module/ages/src/Controller/SubAgents.php, line: 6677
 # File: module/ages/view/ages/reports/flights.phtml, line: 30
 # File: module/manager/src/Controller/Hotel.php, line: 240
 msgid "All Companies"
@@ -9579,7 +9579,6 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit.phtml, line: 18
 # File: module/ages/view/ages/agents/edit_customers.phtml, line: 11
 # File: module/ages/view/ages/agents/edit_leads.phtml, line: 29
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 126
 # File: module/ages/view/ages/agents/import.phtml, line: 15
 # File: module/ages/view/ages/agents/import.phtml, line: 51
 # File: module/ages/view/ages/agents/index.phtml, line: 31
@@ -9590,6 +9589,7 @@ msgstr ""
 # File: module/ages/view/ages/agents/search.phtml, line: 29
 # File: module/ages/view/ages/agents/withoutsales.phtml, line: 30
 # File: module/ages/view/ages/agents/zombie.phtml, line: 30
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 126
 # File: module/ages/view/ages/air/chartersreport.phtml, line: 39
 # File: module/ages/view/ages/air/searchticket.phtml, line: 29
 # File: module/ages/view/ages/companies/agents.phtml, line: 27
@@ -9666,7 +9666,6 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit.phtml, line: 17
 # File: module/ages/view/ages/agents/edit_customers.phtml, line: 10
 # File: module/ages/view/ages/agents/edit_leads.phtml, line: 17
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 125
 # File: module/ages/view/ages/agents/import.phtml, line: 14
 # File: module/ages/view/ages/agents/import.phtml, line: 51
 # File: module/ages/view/ages/agents/index.phtml, line: 32
@@ -9677,6 +9676,7 @@ msgstr ""
 # File: module/ages/view/ages/agents/search.phtml, line: 30
 # File: module/ages/view/ages/agents/withoutsales.phtml, line: 31
 # File: module/ages/view/ages/agents/zombie.phtml, line: 31
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 125
 # File: module/ages/view/ages/air/chartersreport.phtml, line: 38
 # File: module/ages/view/ages/air/searchticket.phtml, line: 28
 # File: module/ages/view/ages/companies/agents.phtml, line: 28
@@ -13850,10 +13850,6 @@ msgstr ""
 msgid "Fixed Price"
 msgstr ""
 #
-# File: module/ages/src/Controller/SubAgents.php, line: 4082
-msgid "No Company"
-msgstr ""
-#
 # File: module/ages/src/Controller/Tours.php, line: 433
 # File: module/ages/src/Controller/Tours.php, line: 3387
 msgid "No Meals Included"
@@ -14158,6 +14154,10 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Voucher.php, line: 2589
 msgid "Guide"
+msgstr ""
+#
+# File: module/ages/src/Controller/SubAgents.php, line: 4082
+msgid "No Company"
 msgstr ""
 #
 # File: module/ages/view/ages/access-denied/index.phtml, line: 8
@@ -19070,7 +19070,6 @@ msgstr ""
 # File: module/ages/view/ages/affiliates/search.phtml, line: 15
 # File: module/ages/view/ages/affiliates/search.phtml, line: 30
 # File: module/ages/view/ages/agents/detailedreport.phtml, line: 17
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 124
 # File: module/ages/view/ages/agents/import.phtml, line: 51
 # File: module/ages/view/ages/agents/index.phtml, line: 41
 # File: module/ages/view/ages/agents/leads.phtml, line: 43
@@ -19080,6 +19079,7 @@ msgstr ""
 # File: module/ages/view/ages/agents/usage.phtml, line: 30
 # File: module/ages/view/ages/agents/withoutsales.phtml, line: 40
 # File: module/ages/view/ages/agents/zombie.phtml, line: 39
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 124
 # File: module/ages/view/ages/air/add_priority.phtml, line: 13
 # File: module/ages/view/ages/air/addtoxicairlines.phtml, line: 13
 # File: module/ages/view/ages/air/addtoxicfares.phtml, line: 14
@@ -27365,24 +27365,6 @@ msgstr ""
 msgid "Browser Language"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 33
-msgid "Deny Access to My Quotes Inventory"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 55
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 61
-msgid "Disable Custom Menu Options"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 56
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 62
-msgid "Disable Old Engine"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 118
-msgid "Agent Administrator - Can view and manage bookings for"
-msgstr ""
-#
 # File: module/ages/view/ages/agents/edit_points_origin.phtml, line: 27
 # File: module/ages/view/ages/sub-agents/edit_points_origin.phtml, line: 27
 msgid "Add Point of Origin"
@@ -28006,6 +27988,24 @@ msgstr ""
 #
 # File: module/ages/view/ages/agents/zombie.phtml, line: 71
 msgid "zombie agents"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 33
+msgid "Deny Access to My Quotes Inventory"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 55
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 61
+msgid "Disable Custom Menu Options"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 56
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 62
+msgid "Disable Old Engine"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 118
+msgid "Agent Administrator - Can view and manage bookings for"
 msgstr ""
 #
 # File: module/ages/view/ages/air/add_discount.phtml, line: 4
