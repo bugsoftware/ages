@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-20 09:09-0400\n"
+"POT-Creation-Date: 2025-06-20 09:45-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,13 +49,13 @@ msgstr ""
 #
 # File: module/ages/language/languages.php, line: 10
 # File: module/ages/view/ages/agents/add.phtml, line: 7
-# File: module/ages/view/ages/agents/add.phtml, line: 221
+# File: module/ages/view/ages/agents/add.phtml, line: 226
 msgid "Add New Agent"
 msgstr ""
 #
 # File: module/ages/language/languages.php, line: 11
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 7
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 217
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 223
 msgid "Add New Sub Agent"
 msgstr ""
 #
@@ -70,17 +70,17 @@ msgid "Add New Transaction"
 msgstr ""
 #
 # File: module/ages/language/languages.php, line: 14
-# File: module/ages/view/ages/agents/add.phtml, line: 186
+# File: module/ages/view/ages/agents/add.phtml, line: 191
 # File: module/ages/view/ages/agents/add_chat.phtml, line: 1
 # File: module/ages/view/ages/agents/add_chat.phtml, line: 5
-# File: module/ages/view/ages/agents/edit.phtml, line: 176
+# File: module/ages/view/ages/agents/edit.phtml, line: 186
 # File: module/ages/view/ages/agents/edit_chat.phtml, line: 1
 # File: module/ages/view/ages/agents/edit_chat.phtml, line: 5
 # File: module/ages/view/ages/index/index.phtml, line: 116
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 183
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 189
 # File: module/ages/view/ages/sub-agents/add_chat.phtml, line: 1
 # File: module/ages/view/ages/sub-agents/add_chat.phtml, line: 5
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 177
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 186
 # File: module/ages/view/ages/sub-agents/edit_chat.phtml, line: 1
 # File: module/ages/view/ages/sub-agents/edit_chat.phtml, line: 5
 msgid "Chat"
@@ -161,8 +161,8 @@ msgstr ""
 # File: module/ages/view/ages/agents/deletetelemarketing.phtml, line: 91
 # File: module/ages/view/ages/agents/distributions.phtml, line: 44
 # File: module/ages/view/ages/agents/distributions.phtml, line: 46
-# File: module/ages/view/ages/agents/edit.phtml, line: 931
-# File: module/ages/view/ages/agents/edit.phtml, line: 933
+# File: module/ages/view/ages/agents/edit.phtml, line: 941
+# File: module/ages/view/ages/agents/edit.phtml, line: 943
 # File: module/ages/view/ages/agents/edit_featured_specialist.phtml, line: 46
 # File: module/ages/view/ages/agents/edit_featured_specialist.phtml, line: 48
 # File: module/ages/view/ages/agents/edit_points_origin.phtml, line: 45
@@ -569,7 +569,7 @@ msgstr ""
 # File: module/ages/view/ages/agents/branches.phtml, line: 60
 # File: module/ages/view/ages/agents/deletetelemarketing.phtml, line: 89
 # File: module/ages/view/ages/agents/distributions.phtml, line: 44
-# File: module/ages/view/ages/agents/edit.phtml, line: 931
+# File: module/ages/view/ages/agents/edit.phtml, line: 941
 # File: module/ages/view/ages/agents/edit_featured_specialist.phtml, line: 46
 # File: module/ages/view/ages/agents/edit_points_origin.phtml, line: 45
 # File: module/ages/view/ages/agents/edit_reservations.phtml, line: 30
@@ -7084,9 +7084,9 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1323
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1361
-# File: module/ages/view/ages/agents/add.phtml, line: 170
+# File: module/ages/view/ages/agents/add.phtml, line: 175
 # File: module/ages/view/ages/agents/add_insurance.phtml, line: 1
-# File: module/ages/view/ages/agents/edit.phtml, line: 153
+# File: module/ages/view/ages/agents/edit.phtml, line: 163
 # File: module/ages/view/ages/agents/edit_insurance.phtml, line: 1
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 59
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 49
@@ -7094,9 +7094,9 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 44
 # File: module/ages/view/ages/dynamic-packaging/reservations.phtml, line: 43
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 72
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 166
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 172
 # File: module/ages/view/ages/sub-agents/add_insurance.phtml, line: 1
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 154
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 163
 # File: module/ages/view/ages/sub-agents/edit_insurance.phtml, line: 1
 # File: module/setup/view/settings/insurance.phtml, line: 5
 msgid "Insurance"
@@ -7347,11 +7347,11 @@ msgstr ""
 # File: module/ages/view/ages/activities/staticactivities.phtml, line: 16
 # File: module/ages/view/ages/affiliates/add.phtml, line: 106
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 106
-# File: module/ages/view/ages/agents/add.phtml, line: 176
+# File: module/ages/view/ages/agents/add.phtml, line: 181
 # File: module/ages/view/ages/agents/branches.phtml, line: 14
 # File: module/ages/view/ages/agents/branches_add.phtml, line: 15
 # File: module/ages/view/ages/agents/branches_edit.phtml, line: 15
-# File: module/ages/view/ages/agents/edit.phtml, line: 159
+# File: module/ages/view/ages/agents/edit.phtml, line: 169
 # File: module/ages/view/ages/cars/listreservations.phtml, line: 30
 # File: module/ages/view/ages/cars/reservations.phtml, line: 18
 # File: module/ages/view/ages/cars/searchreservation.phtml, line: 33
@@ -7374,8 +7374,8 @@ msgstr ""
 # File: module/ages/view/ages/packages/listreservations.phtml, line: 18
 # File: module/ages/view/ages/packages/reservations.phtml, line: 17
 # File: module/ages/view/ages/packages/searchreservations.phtml, line: 31
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 172
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 160
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 178
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 169
 # File: module/ages/view/ages/tours/add.phtml, line: 13
 # File: module/ages/view/ages/tours/edit.phtml, line: 13
 # File: module/ages/view/ages/transfers/prices_add.phtml, line: 56
@@ -7566,8 +7566,8 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 90
 # File: module/ages/src/Controller/Agents.php, line: 4247
-# File: module/ages/src/Controller/Agents.php, line: 10682
-# File: module/ages/src/Controller/Agents.php, line: 13164
+# File: module/ages/src/Controller/Agents.php, line: 10685
+# File: module/ages/src/Controller/Agents.php, line: 13176
 # File: module/ages/src/Controller/Air.php, line: 3668
 # File: module/ages/src/Controller/Cruises.php, line: 2883
 # File: module/ages/src/Controller/Cruises.php, line: 3058
@@ -7589,8 +7589,8 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 2629
 # File: module/ages/src/Controller/Reports.php, line: 3760
 # File: module/ages/src/Controller/Reports.php, line: 8909
-# File: module/ages/src/Controller/SubAgents.php, line: 3990
-# File: module/ages/src/Controller/SubAgents.php, line: 6485
+# File: module/ages/src/Controller/SubAgents.php, line: 3993
+# File: module/ages/src/Controller/SubAgents.php, line: 6496
 # File: module/ages/view/ages/agents/add_reservations.phtml, line: 70
 # File: module/ages/view/ages/agents/edit_reservations.phtml, line: 69
 # File: module/ages/view/ages/air/listreservations.phtml, line: 72
@@ -8256,7 +8256,7 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 1166
 # File: module/ages/src/Controller/Agents.php, line: 1486
 # File: module/ages/src/Controller/Agents.php, line: 1611
-# File: module/ages/src/Controller/Agents.php, line: 9114
+# File: module/ages/src/Controller/Agents.php, line: 9116
 # File: module/ages/src/Controller/Air.php, line: 1203
 # File: module/ages/src/Controller/Air.php, line: 2060
 # File: module/ages/src/Controller/Air.php, line: 2082
@@ -8509,6 +8509,8 @@ msgid "All"
 msgstr ""
 #
 # File: module/ages/src/Controller/Activities.php, line: 288
+# File: module/ages/src/Controller/Agents.php, line: 10689
+# File: module/ages/src/Controller/Agents.php, line: 13180
 # File: module/ages/src/Controller/Air.php, line: 1207
 # File: module/ages/src/Controller/Air.php, line: 2149
 # File: module/ages/src/Controller/Air.php, line: 2343
@@ -8526,6 +8528,8 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 2194
 # File: module/ages/src/Controller/Tours.php, line: 287
 # File: module/ages/src/Controller/Transfers.php, line: 288
+# File: module/ages/src/Controller/SubAgents.php, line: 4011
+# File: module/ages/src/Controller/SubAgents.php, line: 6514
 # File: module/ages/view/ages/agents/index.phtml, line: 60
 # File: module/ages/view/ages/agents/withoutsales.phtml, line: 56
 # File: module/ages/view/ages/agents/zombie.phtml, line: 55
@@ -8540,6 +8544,8 @@ msgid "B2B"
 msgstr ""
 #
 # File: module/ages/src/Controller/Activities.php, line: 292
+# File: module/ages/src/Controller/Agents.php, line: 10691
+# File: module/ages/src/Controller/Agents.php, line: 13182
 # File: module/ages/src/Controller/Air.php, line: 1211
 # File: module/ages/src/Controller/Air.php, line: 2153
 # File: module/ages/src/Controller/Air.php, line: 2347
@@ -8558,6 +8564,8 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 5720
 # File: module/ages/src/Controller/Tours.php, line: 291
 # File: module/ages/src/Controller/Transfers.php, line: 292
+# File: module/ages/src/Controller/SubAgents.php, line: 4013
+# File: module/ages/src/Controller/SubAgents.php, line: 6516
 # File: module/ages/view/ages/air/private.phtml, line: 28
 # File: module/ages/view/ages/air/toxicairlines.phtml, line: 40
 # File: module/ages/view/ages/air/toxicfares.phtml, line: 37
@@ -8593,15 +8601,15 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 4044
 # File: module/ages/src/Controller/Agents.php, line: 4073
 # File: module/ages/src/Controller/Agents.php, line: 4157
-# File: module/ages/src/Controller/Agents.php, line: 9579
-# File: module/ages/src/Controller/Agents.php, line: 10431
-# File: module/ages/src/Controller/Agents.php, line: 10460
-# File: module/ages/src/Controller/Agents.php, line: 10544
-# File: module/ages/src/Controller/Agents.php, line: 10631
-# File: module/ages/src/Controller/Agents.php, line: 12916
-# File: module/ages/src/Controller/Agents.php, line: 12945
-# File: module/ages/src/Controller/Agents.php, line: 13029
-# File: module/ages/src/Controller/Agents.php, line: 13113
+# File: module/ages/src/Controller/Agents.php, line: 9582
+# File: module/ages/src/Controller/Agents.php, line: 10434
+# File: module/ages/src/Controller/Agents.php, line: 10463
+# File: module/ages/src/Controller/Agents.php, line: 10547
+# File: module/ages/src/Controller/Agents.php, line: 10634
+# File: module/ages/src/Controller/Agents.php, line: 12928
+# File: module/ages/src/Controller/Agents.php, line: 12957
+# File: module/ages/src/Controller/Agents.php, line: 13041
+# File: module/ages/src/Controller/Agents.php, line: 13125
 # File: module/ages/src/Controller/Air.php, line: 1362
 # File: module/ages/src/Controller/Air.php, line: 1376
 # File: module/ages/src/Controller/Air.php, line: 1846
@@ -8738,13 +8746,13 @@ msgstr ""
 # File: module/ages/src/Controller/Users.php, line: 8074
 # File: module/ages/src/Controller/Users.php, line: 8351
 # File: module/ages/src/Controller/Users.php, line: 8373
-# File: module/ages/src/Controller/SubAgents.php, line: 3779
-# File: module/ages/src/Controller/SubAgents.php, line: 3806
-# File: module/ages/src/Controller/SubAgents.php, line: 3933
-# File: module/ages/src/Controller/SubAgents.php, line: 6279
-# File: module/ages/src/Controller/SubAgents.php, line: 6304
-# File: module/ages/src/Controller/SubAgents.php, line: 6428
-# File: module/ages/src/Controller/SubAgents.php, line: 6561
+# File: module/ages/src/Controller/SubAgents.php, line: 3782
+# File: module/ages/src/Controller/SubAgents.php, line: 3809
+# File: module/ages/src/Controller/SubAgents.php, line: 3936
+# File: module/ages/src/Controller/SubAgents.php, line: 6290
+# File: module/ages/src/Controller/SubAgents.php, line: 6315
+# File: module/ages/src/Controller/SubAgents.php, line: 6439
+# File: module/ages/src/Controller/SubAgents.php, line: 6578
 # File: module/ages/view/ages/affiliates/add_branches.phtml, line: 8
 # File: module/ages/view/ages/affiliates/add_cms.phtml, line: 23
 # File: module/ages/view/ages/affiliates/add_flights.phtml, line: 17
@@ -8812,7 +8820,7 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 1976
 # File: module/ages/src/Controller/Agents.php, line: 1977
 # File: module/ages/src/Controller/Agents.php, line: 4494
-# File: module/ages/src/Controller/Agents.php, line: 9589
+# File: module/ages/src/Controller/Agents.php, line: 9592
 # File: module/ages/src/Controller/Air.php, line: 3092
 # File: module/ages/src/Controller/Air.php, line: 3277
 # File: module/ages/src/Controller/Air.php, line: 3578
@@ -9405,32 +9413,32 @@ msgstr ""
 # File: module/ages/src/Controller/Affiliates.php, line: 2703
 # File: module/ages/src/Controller/Affiliates.php, line: 3938
 # File: module/ages/src/Controller/Agents.php, line: 4243
-# File: module/ages/src/Controller/Agents.php, line: 10678
-# File: module/ages/src/Controller/Agents.php, line: 13160
+# File: module/ages/src/Controller/Agents.php, line: 10681
+# File: module/ages/src/Controller/Agents.php, line: 13172
 # File: module/ages/src/Controller/CMS.php, line: 11633
 # File: module/ages/src/Controller/CMS.php, line: 17831
 # File: module/ages/src/Controller/Newsletter.php, line: 1939
 # File: module/ages/src/Controller/Newsletter.php, line: 5869
 # File: module/ages/src/Controller/Reports.php, line: 2621
 # File: module/ages/src/Controller/Reports.php, line: 3752
-# File: module/ages/src/Controller/SubAgents.php, line: 3986
-# File: module/ages/src/Controller/SubAgents.php, line: 6481
+# File: module/ages/src/Controller/SubAgents.php, line: 3989
+# File: module/ages/src/Controller/SubAgents.php, line: 6492
 msgid "Enable"
 msgstr ""
 #
 # File: module/ages/src/Controller/Affiliates.php, line: 2705
 # File: module/ages/src/Controller/Affiliates.php, line: 3940
 # File: module/ages/src/Controller/Agents.php, line: 4245
-# File: module/ages/src/Controller/Agents.php, line: 10680
-# File: module/ages/src/Controller/Agents.php, line: 13162
+# File: module/ages/src/Controller/Agents.php, line: 10683
+# File: module/ages/src/Controller/Agents.php, line: 13174
 # File: module/ages/src/Controller/CMS.php, line: 11629
 # File: module/ages/src/Controller/CMS.php, line: 17827
 # File: module/ages/src/Controller/Newsletter.php, line: 1935
 # File: module/ages/src/Controller/Newsletter.php, line: 5865
 # File: module/ages/src/Controller/Reports.php, line: 2625
 # File: module/ages/src/Controller/Reports.php, line: 3756
-# File: module/ages/src/Controller/SubAgents.php, line: 3988
-# File: module/ages/src/Controller/SubAgents.php, line: 6483
+# File: module/ages/src/Controller/SubAgents.php, line: 3991
+# File: module/ages/src/Controller/SubAgents.php, line: 6494
 msgid "Disable"
 msgstr ""
 #
@@ -9439,11 +9447,11 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 1992
 # File: module/ages/src/Controller/Agents.php, line: 3966
 # File: module/ages/src/Controller/Agents.php, line: 5195
-# File: module/ages/src/Controller/Agents.php, line: 10353
-# File: module/ages/src/Controller/Agents.php, line: 12837
-# File: module/ages/src/Controller/Agents.php, line: 13391
-# File: module/ages/src/Controller/Agents.php, line: 13558
-# File: module/ages/src/Controller/Agents.php, line: 13752
+# File: module/ages/src/Controller/Agents.php, line: 10356
+# File: module/ages/src/Controller/Agents.php, line: 12849
+# File: module/ages/src/Controller/Agents.php, line: 13409
+# File: module/ages/src/Controller/Agents.php, line: 13576
+# File: module/ages/src/Controller/Agents.php, line: 13770
 # File: module/ages/src/Controller/Air.php, line: 4346
 # File: module/ages/src/Controller/Air.php, line: 4568
 # File: module/ages/src/Controller/CMS.php, line: 4559
@@ -9507,9 +9515,9 @@ msgstr ""
 # File: module/ages/src/Controller/Users.php, line: 7694
 # File: module/ages/src/Controller/Users.php, line: 8096
 # File: module/ages/src/Controller/Users.php, line: 8323
-# File: module/ages/src/Controller/SubAgents.php, line: 3706
-# File: module/ages/src/Controller/SubAgents.php, line: 6201
-# File: module/ages/src/Controller/SubAgents.php, line: 6776
+# File: module/ages/src/Controller/SubAgents.php, line: 3709
+# File: module/ages/src/Controller/SubAgents.php, line: 6212
+# File: module/ages/src/Controller/SubAgents.php, line: 6793
 # File: module/ages/view/ages/reports/flights.phtml, line: 30
 # File: module/manager/src/Controller/Hotel.php, line: 240
 msgid "All Companies"
@@ -9518,22 +9526,22 @@ msgstr ""
 # File: module/ages/src/Controller/Affiliates.php, line: 3092
 # File: module/ages/src/Controller/Affiliates.php, line: 4923
 # File: module/ages/src/Controller/Agents.php, line: 3996
-# File: module/ages/src/Controller/Agents.php, line: 10383
-# File: module/ages/src/Controller/Agents.php, line: 12868
+# File: module/ages/src/Controller/Agents.php, line: 10386
+# File: module/ages/src/Controller/Agents.php, line: 12880
 # File: module/ages/src/Controller/Reports.php, line: 10657
 # File: module/ages/src/Controller/Reports.php, line: 10834
-# File: module/ages/src/Controller/SubAgents.php, line: 3732
-# File: module/ages/src/Controller/SubAgents.php, line: 6227
+# File: module/ages/src/Controller/SubAgents.php, line: 3735
+# File: module/ages/src/Controller/SubAgents.php, line: 6238
 msgid "All Supervisors"
 msgstr ""
 #
 # File: module/ages/src/Controller/Affiliates.php, line: 3173
 # File: module/ages/src/Controller/Affiliates.php, line: 5090
 # File: module/ages/src/Controller/Agents.php, line: 4265
-# File: module/ages/src/Controller/Agents.php, line: 10700
-# File: module/ages/src/Controller/Agents.php, line: 13182
-# File: module/ages/src/Controller/SubAgents.php, line: 4008
-# File: module/ages/src/Controller/SubAgents.php, line: 6503
+# File: module/ages/src/Controller/Agents.php, line: 10710
+# File: module/ages/src/Controller/Agents.php, line: 13200
+# File: module/ages/src/Controller/SubAgents.php, line: 4017
+# File: module/ages/src/Controller/SubAgents.php, line: 6520
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5595
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 135
 msgid "Mr."
@@ -9542,10 +9550,10 @@ msgstr ""
 # File: module/ages/src/Controller/Affiliates.php, line: 3175
 # File: module/ages/src/Controller/Affiliates.php, line: 5092
 # File: module/ages/src/Controller/Agents.php, line: 4267
-# File: module/ages/src/Controller/Agents.php, line: 10702
-# File: module/ages/src/Controller/Agents.php, line: 13184
-# File: module/ages/src/Controller/SubAgents.php, line: 4010
-# File: module/ages/src/Controller/SubAgents.php, line: 6505
+# File: module/ages/src/Controller/Agents.php, line: 10712
+# File: module/ages/src/Controller/Agents.php, line: 13202
+# File: module/ages/src/Controller/SubAgents.php, line: 4019
+# File: module/ages/src/Controller/SubAgents.php, line: 6522
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5596
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 136
 msgid "Ms."
@@ -9554,8 +9562,8 @@ msgstr ""
 # File: module/ages/src/Controller/Affiliates.php, line: 5540
 # File: module/ages/src/Controller/Agents.php, line: 2020
 # File: module/ages/src/Controller/Agents.php, line: 4179
-# File: module/ages/src/Controller/Agents.php, line: 10594
-# File: module/ages/src/Controller/Agents.php, line: 13076
+# File: module/ages/src/Controller/Agents.php, line: 10597
+# File: module/ages/src/Controller/Agents.php, line: 13088
 # File: module/ages/src/Controller/CMS.php, line: 9398
 # File: module/ages/src/Controller/Cruises.php, line: 1544
 # File: module/ages/src/Controller/Hotels.php, line: 1201
@@ -9580,8 +9588,8 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 3401
 # File: module/ages/src/Controller/Reports.php, line: 7215
 # File: module/ages/src/Controller/Reports.php, line: 11818
-# File: module/ages/src/Controller/SubAgents.php, line: 3893
-# File: module/ages/src/Controller/SubAgents.php, line: 6388
+# File: module/ages/src/Controller/SubAgents.php, line: 3896
+# File: module/ages/src/Controller/SubAgents.php, line: 6399
 # File: module/ages/view/ages/cms/recommendedhotels_edit.phtml, line: 17
 # File: module/ages/view/ages/cms/recommendedhotels_edit.phtml, line: 18
 # File: module/ages/view/ages/cms/recommendedhotels_edit.phtml, line: 19
@@ -10208,10 +10216,10 @@ msgid "No Business Unit assigned"
 msgstr ""
 #
 # File: module/ages/src/Controller/Agents.php, line: 4022
-# File: module/ages/src/Controller/Agents.php, line: 10409
-# File: module/ages/src/Controller/Agents.php, line: 12894
-# File: module/ages/src/Controller/SubAgents.php, line: 3758
-# File: module/ages/src/Controller/SubAgents.php, line: 6253
+# File: module/ages/src/Controller/Agents.php, line: 10412
+# File: module/ages/src/Controller/Agents.php, line: 12906
+# File: module/ages/src/Controller/SubAgents.php, line: 3761
+# File: module/ages/src/Controller/SubAgents.php, line: 6264
 msgid "All Executives"
 msgstr ""
 #
@@ -10282,7 +10290,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Agents.php, line: 5730
 # File: module/ages/src/Controller/Agents.php, line: 5882
-# File: module/ages/src/Controller/Agents.php, line: 13363
+# File: module/ages/src/Controller/Agents.php, line: 13381
 # File: module/ages/src/Controller/CMS.php, line: 9051
 # File: module/ages/src/Controller/CMS.php, line: 11683
 # File: module/ages/src/Controller/CMS.php, line: 12537
@@ -10306,7 +10314,7 @@ msgstr ""
 # File: module/ages/src/Controller/Newsletter.php, line: 5544
 # File: module/ages/src/Controller/ServiceFees.php, line: 1339
 # File: module/ages/src/Controller/SubAgents.php, line: 474
-# File: module/ages/src/Controller/SubAgents.php, line: 6748
+# File: module/ages/src/Controller/SubAgents.php, line: 6765
 # File: module/ages/view/ages/newsletter/exceptions.phtml, line: 21
 msgid "All Agents"
 msgstr ""
@@ -10317,9 +10325,9 @@ msgstr ""
 msgid "All Sub Agents"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 9460
-# File: module/ages/src/Controller/Agents.php, line: 10873
-# File: module/ages/src/Controller/Agents.php, line: 13049
+# File: module/ages/src/Controller/Agents.php, line: 9463
+# File: module/ages/src/Controller/Agents.php, line: 10883
+# File: module/ages/src/Controller/Agents.php, line: 13061
 # File: module/ages/src/Controller/CMS.php, line: 3229
 # File: module/ages/src/Controller/CMS.php, line: 3358
 # File: module/ages/src/Controller/CMS.php, line: 4852
@@ -10330,7 +10338,7 @@ msgstr ""
 msgid "All Languages"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 9594
+# File: module/ages/src/Controller/Agents.php, line: 9597
 # File: module/ages/src/Controller/Customers.php, line: 8669
 # File: module/ages/view/ages/customers/cancellationrequests.phtml, line: 57
 # File: module/ages/view/ages/customers/dropboxsign.phtml, line: 52
@@ -10356,7 +10364,7 @@ msgstr ""
 msgid "View"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 9597
+# File: module/ages/src/Controller/Agents.php, line: 9600
 # File: module/ages/src/Controller/Customers.php, line: 8672
 # File: module/ages/view/ages/agents/edit_leads.phtml, line: 154
 # File: module/ages/view/ages/cms/regions_details_edit.phtml, line: 47
@@ -10581,37 +10589,37 @@ msgstr ""
 msgid "Update"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 13367
-# File: module/ages/src/Controller/SubAgents.php, line: 6752
+# File: module/ages/src/Controller/Agents.php, line: 13385
+# File: module/ages/src/Controller/SubAgents.php, line: 6769
 msgid "Enabled Agents"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 13371
-# File: module/ages/src/Controller/SubAgents.php, line: 6756
+# File: module/ages/src/Controller/Agents.php, line: 13389
+# File: module/ages/src/Controller/SubAgents.php, line: 6773
 msgid "Disabled Agents"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 13375
-# File: module/ages/src/Controller/SubAgents.php, line: 6760
+# File: module/ages/src/Controller/Agents.php, line: 13393
+# File: module/ages/src/Controller/SubAgents.php, line: 6777
 # File: module/ages/view/ages/reports/agentsbycompany.phtml, line: 27
 msgid "Agents Pending Review"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 13395
-# File: module/ages/src/Controller/SubAgents.php, line: 6780
+# File: module/ages/src/Controller/Agents.php, line: 13413
+# File: module/ages/src/Controller/SubAgents.php, line: 6797
 msgid "No Company Assigned"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 13434
-# File: module/ages/src/Controller/Agents.php, line: 13587
-# File: module/ages/src/Controller/Agents.php, line: 13781
+# File: module/ages/src/Controller/Agents.php, line: 13452
+# File: module/ages/src/Controller/Agents.php, line: 13605
+# File: module/ages/src/Controller/Agents.php, line: 13799
 # File: module/ages/src/Controller/CMS.php, line: 9493
 # File: module/ages/src/Controller/CMS.php, line: 9543
-# File: module/ages/src/Controller/SubAgents.php, line: 6822
+# File: module/ages/src/Controller/SubAgents.php, line: 6839
 msgid "All Agent Types"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 14152
+# File: module/ages/src/Controller/Agents.php, line: 14170
 # File: module/ages/view/ages/affiliates/add.phtml, line: 44
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 44
 # File: module/ages/view/ages/agents/add_transactions.phtml, line: 29
@@ -10626,7 +10634,7 @@ msgstr ""
 msgid "Credit"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 14156
+# File: module/ages/src/Controller/Agents.php, line: 14174
 # File: module/ages/view/ages/affiliates/add.phtml, line: 45
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 45
 # File: module/ages/view/ages/agents/add_transactions.phtml, line: 27
@@ -11323,9 +11331,9 @@ msgstr ""
 # File: module/ages/view/ages/affiliates/add_hotels.phtml, line: 1
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 93
 # File: module/ages/view/ages/affiliates/edit_hotels.phtml, line: 1
-# File: module/ages/view/ages/agents/add.phtml, line: 162
+# File: module/ages/view/ages/agents/add.phtml, line: 167
 # File: module/ages/view/ages/agents/add_hotels.phtml, line: 1
-# File: module/ages/view/ages/agents/edit.phtml, line: 145
+# File: module/ages/view/ages/agents/edit.phtml, line: 155
 # File: module/ages/view/ages/agents/edit_hotels.phtml, line: 1
 # File: module/ages/view/ages/air/index.phtml, line: 5
 # File: module/ages/view/ages/cms/banners.phtml, line: 34
@@ -11354,9 +11362,9 @@ msgstr ""
 # File: module/ages/view/ages/reports/salessummaryamount.phtml, line: 59
 # File: module/ages/view/ages/service-fees/recurringplans_add.phtml, line: 32
 # File: module/ages/view/ages/service-fees/recurringplans_edit.phtml, line: 30
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 158
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 164
 # File: module/ages/view/ages/sub-agents/add_hotels.phtml, line: 1
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 146
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 155
 # File: module/ages/view/ages/sub-agents/edit_hotels.phtml, line: 1
 # File: module/ages/view/ages/tours/edititinerary.phtml, line: 25
 # File: module/ages/view/ages/tours/itinerary_add.phtml, line: 25
@@ -11461,9 +11469,9 @@ msgstr ""
 # File: module/ages/view/ages/affiliates/add_activities.phtml, line: 1
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 96
 # File: module/ages/view/ages/affiliates/edit_activities.phtml, line: 1
-# File: module/ages/view/ages/agents/add.phtml, line: 165
+# File: module/ages/view/ages/agents/add.phtml, line: 170
 # File: module/ages/view/ages/agents/add_activities.phtml, line: 1
-# File: module/ages/view/ages/agents/edit.phtml, line: 148
+# File: module/ages/view/ages/agents/edit.phtml, line: 158
 # File: module/ages/view/ages/agents/edit_activities.phtml, line: 1
 # File: module/ages/view/ages/cms/banners.phtml, line: 37
 # File: module/ages/view/ages/cms/pagesfromthe_add.phtml, line: 45
@@ -11495,9 +11503,9 @@ msgstr ""
 # File: module/ages/view/ages/reports/salessummaryamount.phtml, line: 74
 # File: module/ages/view/ages/service-fees/recurringplans_add.phtml, line: 37
 # File: module/ages/view/ages/service-fees/recurringplans_edit.phtml, line: 35
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 161
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 167
 # File: module/ages/view/ages/sub-agents/add_activities.phtml, line: 1
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 149
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 158
 # File: module/ages/view/ages/sub-agents/edit_activities.phtml, line: 1
 # File: module/setup/view/index/index.phtml, line: 185
 # File: module/setup/view/settings/businessintelligence.phtml, line: 77
@@ -11520,9 +11528,9 @@ msgstr ""
 # File: module/ages/view/ages/affiliates/add_cars.phtml, line: 1
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 95
 # File: module/ages/view/ages/affiliates/edit_cars.phtml, line: 1
-# File: module/ages/view/ages/agents/add.phtml, line: 164
+# File: module/ages/view/ages/agents/add.phtml, line: 169
 # File: module/ages/view/ages/agents/add_cars.phtml, line: 1
-# File: module/ages/view/ages/agents/edit.phtml, line: 147
+# File: module/ages/view/ages/agents/edit.phtml, line: 157
 # File: module/ages/view/ages/agents/edit_cars.phtml, line: 1
 # File: module/ages/view/ages/cars/analysis.phtml, line: 82
 # File: module/ages/view/ages/cars/index.phtml, line: 5
@@ -11537,9 +11545,9 @@ msgstr ""
 # File: module/ages/view/ages/reports/salessummaryamount.phtml, line: 84
 # File: module/ages/view/ages/service-fees/recurringplans_add.phtml, line: 33
 # File: module/ages/view/ages/service-fees/recurringplans_edit.phtml, line: 31
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 160
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 166
 # File: module/ages/view/ages/sub-agents/add_cars.phtml, line: 1
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 148
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 157
 # File: module/ages/view/ages/sub-agents/edit_cars.phtml, line: 1
 # File: module/setup/view/index/index.phtml, line: 117
 # File: module/setup/view/settings/businessintelligence.phtml, line: 71
@@ -11564,9 +11572,9 @@ msgstr ""
 # File: module/ages/view/ages/affiliates/add_transfers.phtml, line: 1
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 97
 # File: module/ages/view/ages/affiliates/edit_transfers.phtml, line: 1
-# File: module/ages/view/ages/agents/add.phtml, line: 166
+# File: module/ages/view/ages/agents/add.phtml, line: 171
 # File: module/ages/view/ages/agents/add_transfers.phtml, line: 1
-# File: module/ages/view/ages/agents/edit.phtml, line: 149
+# File: module/ages/view/ages/agents/edit.phtml, line: 159
 # File: module/ages/view/ages/agents/edit_transfers.phtml, line: 1
 # File: module/ages/view/ages/cms/banners.phtml, line: 38
 # File: module/ages/view/ages/newsletter/create.phtml, line: 62
@@ -11579,9 +11587,9 @@ msgstr ""
 # File: module/ages/view/ages/reports/transfers.phtml, line: 40
 # File: module/ages/view/ages/service-fees/recurringplans_add.phtml, line: 38
 # File: module/ages/view/ages/service-fees/recurringplans_edit.phtml, line: 36
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 162
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 168
 # File: module/ages/view/ages/sub-agents/add_transfers.phtml, line: 1
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 150
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 159
 # File: module/ages/view/ages/sub-agents/edit_transfers.phtml, line: 1
 # File: module/ages/view/ages/transfers/analysis.phtml, line: 82
 # File: module/ages/view/ages/transfers/categories.phtml, line: 5
@@ -11614,9 +11622,9 @@ msgstr ""
 # File: module/ages/view/ages/affiliates/add_cruises.phtml, line: 1
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 99
 # File: module/ages/view/ages/affiliates/edit_cruises.phtml, line: 1
-# File: module/ages/view/ages/agents/add.phtml, line: 168
+# File: module/ages/view/ages/agents/add.phtml, line: 173
 # File: module/ages/view/ages/agents/add_cruises.phtml, line: 1
-# File: module/ages/view/ages/agents/edit.phtml, line: 151
+# File: module/ages/view/ages/agents/edit.phtml, line: 161
 # File: module/ages/view/ages/agents/edit_cruises.phtml, line: 1
 # File: module/ages/view/ages/cms/banners.phtml, line: 40
 # File: module/ages/view/ages/companies/edit.phtml, line: 103
@@ -11656,9 +11664,9 @@ msgstr ""
 # File: module/ages/view/ages/reports/salessummaryamount.phtml, line: 79
 # File: module/ages/view/ages/service-fees/recurringplans_add.phtml, line: 35
 # File: module/ages/view/ages/service-fees/recurringplans_edit.phtml, line: 33
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 164
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 170
 # File: module/ages/view/ages/sub-agents/add_cruises.phtml, line: 1
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 152
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 161
 # File: module/ages/view/ages/sub-agents/edit_cruises.phtml, line: 1
 # File: module/setup/view/cruises/amenities.phtml, line: 5
 # File: module/setup/view/cruises/cabincategories.phtml, line: 5
@@ -11702,7 +11710,7 @@ msgstr ""
 # File: module/ages/src/Controller/ServiceFees.php, line: 1994
 # File: module/ages/view/ages/affiliates/add.phtml, line: 98
 # File: module/ages/view/ages/affiliates/add_packages.phtml, line: 1
-# File: module/ages/view/ages/agents/add.phtml, line: 167
+# File: module/ages/view/ages/agents/add.phtml, line: 172
 # File: module/ages/view/ages/agents/add_packages.phtml, line: 1
 # File: module/ages/view/ages/cms/banners.phtml, line: 39
 # File: module/ages/view/ages/newsletter/create.phtml, line: 64
@@ -11728,9 +11736,9 @@ msgstr ""
 # File: module/ages/view/ages/reports/packages.phtml, line: 40
 # File: module/ages/view/ages/service-fees/recurringplans_add.phtml, line: 39
 # File: module/ages/view/ages/service-fees/recurringplans_edit.phtml, line: 37
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 163
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 169
 # File: module/ages/view/ages/sub-agents/add_packages.phtml, line: 1
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 151
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 160
 # File: module/ages/view/ages/sub-agents/edit_packages.phtml, line: 1
 # File: module/setup/view/index/index.phtml, line: 259
 # File: module/setup/view/settings/businessintelligence.phtml, line: 93
@@ -12027,8 +12035,8 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 1360
 # File: module/ages/view/ages/affiliates/add.phtml, line: 94
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 94
-# File: module/ages/view/ages/agents/add.phtml, line: 163
-# File: module/ages/view/ages/agents/edit.phtml, line: 146
+# File: module/ages/view/ages/agents/add.phtml, line: 168
+# File: module/ages/view/ages/agents/edit.phtml, line: 156
 # File: module/ages/view/ages/air/backendreport.phtml, line: 5
 # File: module/ages/view/ages/cms/pagesfromthe_add.phtml, line: 44
 # File: module/ages/view/ages/cms/pagesfromthe_edit.phtml, line: 47
@@ -12039,8 +12047,8 @@ msgstr ""
 # File: module/ages/view/ages/reports/flights.phtml, line: 153
 # File: module/ages/view/ages/service-fees/recurringplans_add.phtml, line: 34
 # File: module/ages/view/ages/service-fees/recurringplans_edit.phtml, line: 32
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 159
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 147
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 165
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 156
 # File: module/setup/view/index/index.phtml, line: 81
 # File: module/setup/view/settings/countries_edit.phtml, line: 71
 # File: module/setup/view/settings/states_edit.phtml, line: 64
@@ -12265,9 +12273,9 @@ msgstr ""
 # File: module/ages/view/ages/activities/analysis.phtml, line: 95
 # File: module/ages/view/ages/activities/analysis.phtml, line: 184
 # File: module/ages/view/ages/activities/analysis.phtml, line: 220
-# File: module/ages/view/ages/agents/add.phtml, line: 178
+# File: module/ages/view/ages/agents/add.phtml, line: 183
 # File: module/ages/view/ages/agents/add_reservations.phtml, line: 4
-# File: module/ages/view/ages/agents/edit.phtml, line: 161
+# File: module/ages/view/ages/agents/edit.phtml, line: 171
 # File: module/ages/view/ages/agents/edit_reservations.phtml, line: 4
 # File: module/ages/view/ages/agents/report.phtml, line: 694
 # File: module/ages/view/ages/agents/report.phtml, line: 723
@@ -12299,9 +12307,9 @@ msgstr ""
 # File: module/ages/view/ages/reports/analysis.phtml, line: 184
 # File: module/ages/view/ages/reports/analysis.phtml, line: 220
 # File: module/ages/view/ages/reports/statistics.phtml, line: 214
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 174
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 180
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 4
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 162
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 171
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 4
 # File: module/ages/view/ages/tours/analysis.phtml, line: 95
 # File: module/ages/view/ages/tours/analysis.phtml, line: 184
@@ -12317,7 +12325,7 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 1392
 # File: module/ages/view/ages/agents/deletetelemarketing.phtml, line: 17
 # File: module/ages/view/ages/agents/edit.phtml, line: 13
-# File: module/ages/view/ages/agents/edit.phtml, line: 171
+# File: module/ages/view/ages/agents/edit.phtml, line: 181
 # File: module/ages/view/ages/agents/edit_customers.phtml, line: 4
 # File: module/ages/view/ages/agents/report.phtml, line: 690
 # File: module/ages/view/ages/agents/returncustomers.phtml, line: 17
@@ -12349,7 +12357,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/newcustomers.phtml, line: 95
 # File: module/ages/view/ages/service-fees/recurringplans_add.phtml, line: 42
 # File: module/ages/view/ages/service-fees/recurringplans_edit.phtml, line: 40
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 172
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 181
 # File: module/ages/view/ages/sub-agents/edit_customers.phtml, line: 4
 msgid "Customers"
 msgstr ""
@@ -12436,10 +12444,10 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 1761
 # File: module/ages/src/Controller/Customers.php, line: 1865
 # File: module/ages/src/Controller/Customers.php, line: 2180
-# File: module/ages/view/ages/agents/add.phtml, line: 141
-# File: module/ages/view/ages/agents/edit.phtml, line: 123
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 138
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 125
+# File: module/ages/view/ages/agents/add.phtml, line: 146
+# File: module/ages/view/ages/agents/edit.phtml, line: 133
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 144
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 134
 msgid "Reward Points"
 msgstr ""
 #
@@ -14258,7 +14266,7 @@ msgstr ""
 msgid "Guide"
 msgstr ""
 #
-# File: module/ages/src/Controller/SubAgents.php, line: 4179
+# File: module/ages/src/Controller/SubAgents.php, line: 4188
 msgid "No Company"
 msgstr ""
 #
@@ -15051,7 +15059,7 @@ msgstr ""
 # File: module/ages/view/ages/activities/edit.phtml, line: 106
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 107
 # File: module/ages/view/ages/affiliates/edit_seo.phtml, line: 1
-# File: module/ages/view/ages/agents/edit.phtml, line: 175
+# File: module/ages/view/ages/agents/edit.phtml, line: 185
 # File: module/ages/view/ages/agents/edit_seo.phtml, line: 1
 # File: module/ages/view/ages/cms/promotions_add.phtml, line: 16
 # File: module/ages/view/ages/cms/promotions_edit.phtml, line: 16
@@ -15078,7 +15086,7 @@ msgstr ""
 # File: module/ages/view/ages/packages/edit.phtml, line: 162
 # File: module/ages/view/ages/packages/edit.phtml, line: 165
 # File: module/ages/view/ages/reports/cruisessales.phtml, line: 49
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 176
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 185
 # File: module/ages/view/ages/sub-agents/edit_seo.phtml, line: 1
 # File: module/ages/view/ages/tours/add.phtml, line: 20
 # File: module/ages/view/ages/tours/add.phtml, line: 21
@@ -15385,8 +15393,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/edit.phtml, line: 252
 # File: module/ages/view/ages/affiliates/add.phtml, line: 882
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 450
-# File: module/ages/view/ages/agents/add.phtml, line: 972
-# File: module/ages/view/ages/agents/edit.phtml, line: 1005
+# File: module/ages/view/ages/agents/add.phtml, line: 977
+# File: module/ages/view/ages/agents/edit.phtml, line: 1015
 # File: module/ages/view/ages/companies/addsuppliers.phtml, line: 385
 # File: module/ages/view/ages/companies/locations_add.phtml, line: 141
 # File: module/ages/view/ages/companies/locations_edit.phtml, line: 158
@@ -15398,8 +15406,8 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/edit.phtml, line: 129
 # File: module/ages/view/ages/packages/add_modals.phtml, line: 17
 # File: module/ages/view/ages/packages/edit_modals.phtml, line: 13
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 966
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 969
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 972
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 978
 # File: module/ages/view/ages/tours/edititinerary.phtml, line: 89
 # File: module/ages/view/ages/tours/itinerary_add.phtml, line: 90
 # File: module/ages/view/ages/users/add.phtml, line: 1404
@@ -15411,8 +15419,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/edit.phtml, line: 255
 # File: module/ages/view/ages/affiliates/add.phtml, line: 885
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 453
-# File: module/ages/view/ages/agents/add.phtml, line: 975
-# File: module/ages/view/ages/agents/edit.phtml, line: 1008
+# File: module/ages/view/ages/agents/add.phtml, line: 980
+# File: module/ages/view/ages/agents/edit.phtml, line: 1018
 # File: module/ages/view/ages/companies/addsuppliers.phtml, line: 388
 # File: module/ages/view/ages/companies/locations_add.phtml, line: 144
 # File: module/ages/view/ages/companies/locations_edit.phtml, line: 161
@@ -15424,8 +15432,8 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/edit.phtml, line: 132
 # File: module/ages/view/ages/packages/add_modals.phtml, line: 25
 # File: module/ages/view/ages/packages/edit_modals.phtml, line: 14
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 969
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 972
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 975
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 981
 # File: module/ages/view/ages/tours/edititinerary.phtml, line: 92
 # File: module/ages/view/ages/tours/itinerary_add.phtml, line: 93
 # File: module/ages/view/ages/users/add.phtml, line: 1407
@@ -15437,8 +15445,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/edit.phtml, line: 258
 # File: module/ages/view/ages/affiliates/add.phtml, line: 888
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 456
-# File: module/ages/view/ages/agents/add.phtml, line: 978
-# File: module/ages/view/ages/agents/edit.phtml, line: 1011
+# File: module/ages/view/ages/agents/add.phtml, line: 983
+# File: module/ages/view/ages/agents/edit.phtml, line: 1021
 # File: module/ages/view/ages/companies/addsuppliers.phtml, line: 391
 # File: module/ages/view/ages/companies/locations_add.phtml, line: 147
 # File: module/ages/view/ages/companies/locations_edit.phtml, line: 164
@@ -15450,8 +15458,8 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/edit.phtml, line: 135
 # File: module/ages/view/ages/packages/add_modals.phtml, line: 33
 # File: module/ages/view/ages/packages/edit_modals.phtml, line: 15
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 972
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 975
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 978
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 984
 # File: module/ages/view/ages/tours/edititinerary.phtml, line: 95
 # File: module/ages/view/ages/tours/itinerary_add.phtml, line: 96
 # File: module/ages/view/ages/users/add.phtml, line: 1410
@@ -15466,8 +15474,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 170
 # File: module/ages/view/ages/affiliates/add.phtml, line: 902
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 470
-# File: module/ages/view/ages/agents/add.phtml, line: 992
-# File: module/ages/view/ages/agents/edit.phtml, line: 1026
+# File: module/ages/view/ages/agents/add.phtml, line: 997
+# File: module/ages/view/ages/agents/edit.phtml, line: 1036
 # File: module/ages/view/ages/cms/content_add.phtml, line: 29
 # File: module/ages/view/ages/cms/content_add.phtml, line: 114
 # File: module/ages/view/ages/cms/content_edit.phtml, line: 31
@@ -15531,8 +15539,8 @@ msgstr ""
 # File: module/ages/view/ages/service-fees/geotargetmarkup_add.phtml, line: 99
 # File: module/ages/view/ages/service-fees/geotargetmarkup_edit.phtml, line: 39
 # File: module/ages/view/ages/service-fees/geotargetmarkup_edit.phtml, line: 101
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 986
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 989
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 992
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 998
 # File: module/ages/view/ages/tours/edititinerary.phtml, line: 109
 # File: module/ages/view/ages/tours/itinerary_add.phtml, line: 110
 # File: module/ages/view/ages/transfers/pricing_add.phtml, line: 288
@@ -15601,42 +15609,42 @@ msgstr ""
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 797
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 870
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 883
-# File: module/ages/view/ages/agents/add.phtml, line: 292
-# File: module/ages/view/ages/agents/add.phtml, line: 305
-# File: module/ages/view/ages/agents/add.phtml, line: 377
-# File: module/ages/view/ages/agents/add.phtml, line: 390
-# File: module/ages/view/ages/agents/add.phtml, line: 463
-# File: module/ages/view/ages/agents/add.phtml, line: 476
-# File: module/ages/view/ages/agents/add.phtml, line: 549
-# File: module/ages/view/ages/agents/add.phtml, line: 562
-# File: module/ages/view/ages/agents/add.phtml, line: 635
-# File: module/ages/view/ages/agents/add.phtml, line: 648
-# File: module/ages/view/ages/agents/add.phtml, line: 721
-# File: module/ages/view/ages/agents/add.phtml, line: 734
-# File: module/ages/view/ages/agents/add.phtml, line: 807
-# File: module/ages/view/ages/agents/add.phtml, line: 820
-# File: module/ages/view/ages/agents/add.phtml, line: 893
-# File: module/ages/view/ages/agents/add.phtml, line: 906
-# File: module/ages/view/ages/agents/add.phtml, line: 1001
-# File: module/ages/view/ages/agents/add.phtml, line: 1027
-# File: module/ages/view/ages/agents/edit.phtml, line: 299
-# File: module/ages/view/ages/agents/edit.phtml, line: 312
-# File: module/ages/view/ages/agents/edit.phtml, line: 384
-# File: module/ages/view/ages/agents/edit.phtml, line: 397
-# File: module/ages/view/ages/agents/edit.phtml, line: 470
-# File: module/ages/view/ages/agents/edit.phtml, line: 483
-# File: module/ages/view/ages/agents/edit.phtml, line: 556
-# File: module/ages/view/ages/agents/edit.phtml, line: 569
-# File: module/ages/view/ages/agents/edit.phtml, line: 642
-# File: module/ages/view/ages/agents/edit.phtml, line: 655
-# File: module/ages/view/ages/agents/edit.phtml, line: 728
-# File: module/ages/view/ages/agents/edit.phtml, line: 741
-# File: module/ages/view/ages/agents/edit.phtml, line: 814
-# File: module/ages/view/ages/agents/edit.phtml, line: 827
-# File: module/ages/view/ages/agents/edit.phtml, line: 898
-# File: module/ages/view/ages/agents/edit.phtml, line: 911
-# File: module/ages/view/ages/agents/edit.phtml, line: 1035
-# File: module/ages/view/ages/agents/edit.phtml, line: 1061
+# File: module/ages/view/ages/agents/add.phtml, line: 297
+# File: module/ages/view/ages/agents/add.phtml, line: 310
+# File: module/ages/view/ages/agents/add.phtml, line: 382
+# File: module/ages/view/ages/agents/add.phtml, line: 395
+# File: module/ages/view/ages/agents/add.phtml, line: 468
+# File: module/ages/view/ages/agents/add.phtml, line: 481
+# File: module/ages/view/ages/agents/add.phtml, line: 554
+# File: module/ages/view/ages/agents/add.phtml, line: 567
+# File: module/ages/view/ages/agents/add.phtml, line: 640
+# File: module/ages/view/ages/agents/add.phtml, line: 653
+# File: module/ages/view/ages/agents/add.phtml, line: 726
+# File: module/ages/view/ages/agents/add.phtml, line: 739
+# File: module/ages/view/ages/agents/add.phtml, line: 812
+# File: module/ages/view/ages/agents/add.phtml, line: 825
+# File: module/ages/view/ages/agents/add.phtml, line: 898
+# File: module/ages/view/ages/agents/add.phtml, line: 911
+# File: module/ages/view/ages/agents/add.phtml, line: 1006
+# File: module/ages/view/ages/agents/add.phtml, line: 1032
+# File: module/ages/view/ages/agents/edit.phtml, line: 309
+# File: module/ages/view/ages/agents/edit.phtml, line: 322
+# File: module/ages/view/ages/agents/edit.phtml, line: 394
+# File: module/ages/view/ages/agents/edit.phtml, line: 407
+# File: module/ages/view/ages/agents/edit.phtml, line: 480
+# File: module/ages/view/ages/agents/edit.phtml, line: 493
+# File: module/ages/view/ages/agents/edit.phtml, line: 566
+# File: module/ages/view/ages/agents/edit.phtml, line: 579
+# File: module/ages/view/ages/agents/edit.phtml, line: 652
+# File: module/ages/view/ages/agents/edit.phtml, line: 665
+# File: module/ages/view/ages/agents/edit.phtml, line: 738
+# File: module/ages/view/ages/agents/edit.phtml, line: 751
+# File: module/ages/view/ages/agents/edit.phtml, line: 824
+# File: module/ages/view/ages/agents/edit.phtml, line: 837
+# File: module/ages/view/ages/agents/edit.phtml, line: 908
+# File: module/ages/view/ages/agents/edit.phtml, line: 921
+# File: module/ages/view/ages/agents/edit.phtml, line: 1045
+# File: module/ages/view/ages/agents/edit.phtml, line: 1071
 # File: module/ages/view/ages/cms/areasimages_add.phtml, line: 86
 # File: module/ages/view/ages/cms/areasimages_add.phtml, line: 99
 # File: module/ages/view/ages/cms/areasimages_edit.phtml, line: 90
@@ -15856,42 +15864,42 @@ msgstr ""
 # File: module/ages/view/ages/service-fees/geotargetmarkup_add.phtml, line: 134
 # File: module/ages/view/ages/service-fees/geotargetmarkup_edit.phtml, line: 110
 # File: module/ages/view/ages/service-fees/geotargetmarkup_edit.phtml, line: 136
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 288
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 301
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 372
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 385
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 458
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 471
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 544
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 557
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 630
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 643
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 716
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 729
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 802
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 815
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 888
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 901
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 995
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 1021
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 294
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 307
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 378
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 391
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 464
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 477
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 550
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 563
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 636
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 649
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 722
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 735
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 808
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 821
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 892
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 905
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 998
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1024
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 294
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 307
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 378
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 391
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 464
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 477
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 550
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 563
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 636
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 649
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 722
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 735
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 808
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 821
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 894
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 907
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 1001
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 1027
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 303
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 316
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 387
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 400
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 473
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 486
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 559
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 572
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 645
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 658
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 731
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 744
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 817
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 830
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 901
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 914
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1007
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1033
 # File: module/ages/view/ages/tours/edititinerary.phtml, line: 118
 # File: module/ages/view/ages/tours/edititinerary.phtml, line: 144
 # File: module/ages/view/ages/tours/images_add.phtml, line: 162
@@ -15978,8 +15986,8 @@ msgstr ""
 # File: module/ages/view/ages/activities/prices_edit.phtml, line: 196
 # File: module/ages/view/ages/affiliates/add.phtml, line: 928
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 496
-# File: module/ages/view/ages/agents/add.phtml, line: 1018
-# File: module/ages/view/ages/agents/edit.phtml, line: 1052
+# File: module/ages/view/ages/agents/add.phtml, line: 1023
+# File: module/ages/view/ages/agents/edit.phtml, line: 1062
 # File: module/ages/view/ages/cms/content_add.phtml, line: 37
 # File: module/ages/view/ages/cms/content_add.phtml, line: 140
 # File: module/ages/view/ages/cms/content_edit.phtml, line: 40
@@ -16039,8 +16047,8 @@ msgstr ""
 # File: module/ages/view/ages/service-fees/geotargetmarkup_add.phtml, line: 125
 # File: module/ages/view/ages/service-fees/geotargetmarkup_edit.phtml, line: 48
 # File: module/ages/view/ages/service-fees/geotargetmarkup_edit.phtml, line: 127
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 1012
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1015
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 1018
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1024
 # File: module/ages/view/ages/tours/edititinerary.phtml, line: 135
 # File: module/ages/view/ages/tours/itinerary_add.phtml, line: 136
 # File: module/ages/view/ages/transfers/pricing_add.phtml, line: 314
@@ -18896,38 +18904,38 @@ msgstr ""
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 798
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 871
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 884
-# File: module/ages/view/ages/agents/add.phtml, line: 293
-# File: module/ages/view/ages/agents/add.phtml, line: 306
-# File: module/ages/view/ages/agents/add.phtml, line: 378
-# File: module/ages/view/ages/agents/add.phtml, line: 391
-# File: module/ages/view/ages/agents/add.phtml, line: 464
-# File: module/ages/view/ages/agents/add.phtml, line: 477
-# File: module/ages/view/ages/agents/add.phtml, line: 550
-# File: module/ages/view/ages/agents/add.phtml, line: 563
-# File: module/ages/view/ages/agents/add.phtml, line: 636
-# File: module/ages/view/ages/agents/add.phtml, line: 649
-# File: module/ages/view/ages/agents/add.phtml, line: 722
-# File: module/ages/view/ages/agents/add.phtml, line: 735
-# File: module/ages/view/ages/agents/add.phtml, line: 808
-# File: module/ages/view/ages/agents/add.phtml, line: 821
-# File: module/ages/view/ages/agents/add.phtml, line: 894
-# File: module/ages/view/ages/agents/add.phtml, line: 907
-# File: module/ages/view/ages/agents/edit.phtml, line: 300
-# File: module/ages/view/ages/agents/edit.phtml, line: 313
-# File: module/ages/view/ages/agents/edit.phtml, line: 385
-# File: module/ages/view/ages/agents/edit.phtml, line: 398
-# File: module/ages/view/ages/agents/edit.phtml, line: 471
-# File: module/ages/view/ages/agents/edit.phtml, line: 484
-# File: module/ages/view/ages/agents/edit.phtml, line: 557
-# File: module/ages/view/ages/agents/edit.phtml, line: 570
-# File: module/ages/view/ages/agents/edit.phtml, line: 643
-# File: module/ages/view/ages/agents/edit.phtml, line: 656
-# File: module/ages/view/ages/agents/edit.phtml, line: 729
-# File: module/ages/view/ages/agents/edit.phtml, line: 742
-# File: module/ages/view/ages/agents/edit.phtml, line: 815
-# File: module/ages/view/ages/agents/edit.phtml, line: 828
-# File: module/ages/view/ages/agents/edit.phtml, line: 899
-# File: module/ages/view/ages/agents/edit.phtml, line: 912
+# File: module/ages/view/ages/agents/add.phtml, line: 298
+# File: module/ages/view/ages/agents/add.phtml, line: 311
+# File: module/ages/view/ages/agents/add.phtml, line: 383
+# File: module/ages/view/ages/agents/add.phtml, line: 396
+# File: module/ages/view/ages/agents/add.phtml, line: 469
+# File: module/ages/view/ages/agents/add.phtml, line: 482
+# File: module/ages/view/ages/agents/add.phtml, line: 555
+# File: module/ages/view/ages/agents/add.phtml, line: 568
+# File: module/ages/view/ages/agents/add.phtml, line: 641
+# File: module/ages/view/ages/agents/add.phtml, line: 654
+# File: module/ages/view/ages/agents/add.phtml, line: 727
+# File: module/ages/view/ages/agents/add.phtml, line: 740
+# File: module/ages/view/ages/agents/add.phtml, line: 813
+# File: module/ages/view/ages/agents/add.phtml, line: 826
+# File: module/ages/view/ages/agents/add.phtml, line: 899
+# File: module/ages/view/ages/agents/add.phtml, line: 912
+# File: module/ages/view/ages/agents/edit.phtml, line: 310
+# File: module/ages/view/ages/agents/edit.phtml, line: 323
+# File: module/ages/view/ages/agents/edit.phtml, line: 395
+# File: module/ages/view/ages/agents/edit.phtml, line: 408
+# File: module/ages/view/ages/agents/edit.phtml, line: 481
+# File: module/ages/view/ages/agents/edit.phtml, line: 494
+# File: module/ages/view/ages/agents/edit.phtml, line: 567
+# File: module/ages/view/ages/agents/edit.phtml, line: 580
+# File: module/ages/view/ages/agents/edit.phtml, line: 653
+# File: module/ages/view/ages/agents/edit.phtml, line: 666
+# File: module/ages/view/ages/agents/edit.phtml, line: 739
+# File: module/ages/view/ages/agents/edit.phtml, line: 752
+# File: module/ages/view/ages/agents/edit.phtml, line: 825
+# File: module/ages/view/ages/agents/edit.phtml, line: 838
+# File: module/ages/view/ages/agents/edit.phtml, line: 909
+# File: module/ages/view/ages/agents/edit.phtml, line: 922
 # File: module/ages/view/ages/cms/areasimages_add.phtml, line: 87
 # File: module/ages/view/ages/cms/areasimages_add.phtml, line: 100
 # File: module/ages/view/ages/cms/areasimages_edit.phtml, line: 91
@@ -19050,38 +19058,38 @@ msgstr ""
 # File: module/ages/view/ages/packages/edit_itinerary.phtml, line: 163
 # File: module/ages/view/ages/packages/type_add.phtml, line: 114
 # File: module/ages/view/ages/packages/type_add.phtml, line: 127
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 289
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 302
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 373
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 386
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 459
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 472
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 545
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 558
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 631
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 644
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 717
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 730
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 803
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 816
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 889
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 902
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 295
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 308
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 379
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 392
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 465
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 478
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 551
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 564
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 637
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 650
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 723
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 736
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 809
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 822
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 893
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 906
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 295
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 308
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 379
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 392
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 465
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 478
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 551
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 564
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 637
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 650
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 723
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 736
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 809
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 822
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 895
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 908
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 304
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 317
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 388
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 401
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 474
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 487
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 560
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 573
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 646
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 659
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 732
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 745
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 818
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 831
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 902
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 915
 # File: module/ages/view/ages/tours/images_add.phtml, line: 163
 # File: module/ages/view/ages/tours/images_add.phtml, line: 176
 # File: module/ages/view/ages/tours/itineraryimages_add.phtml, line: 164
@@ -21381,10 +21389,10 @@ msgstr ""
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 85
 # File: module/ages/view/ages/affiliates/index.phtml, line: 18
 # File: module/ages/view/ages/affiliates/search.phtml, line: 33
-# File: module/ages/view/ages/agents/add.phtml, line: 152
+# File: module/ages/view/ages/agents/add.phtml, line: 157
 # File: module/ages/view/ages/agents/add_transactions.phtml, line: 15
 # File: module/ages/view/ages/agents/addtransaction.phtml, line: 24
-# File: module/ages/view/ages/agents/edit.phtml, line: 134
+# File: module/ages/view/ages/agents/edit.phtml, line: 144
 # File: module/ages/view/ages/agents/edit_leads.phtml, line: 174
 # File: module/ages/view/ages/agents/edit_transactions.phtml, line: 15
 # File: module/ages/view/ages/agents/transactions.phtml, line: 38
@@ -21434,9 +21442,9 @@ msgstr ""
 # File: module/ages/view/ages/packages/add_generalconditions.phtml, line: 21
 # File: module/ages/view/ages/packages/edit_generalconditions.phtml, line: 16
 # File: module/ages/view/ages/packages/edit_generalconditions.phtml, line: 18
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 148
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 154
 # File: module/ages/view/ages/sub-agents/add_transactions.phtml, line: 15
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 135
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 144
 # File: module/ages/view/ages/sub-agents/edit_transactions.phtml, line: 15
 # File: module/manager/view/contracts/addspecialoffers.phtml, line: 100
 # File: module/manager/view/contracts/addstopsale.phtml, line: 24
@@ -21448,28 +21456,28 @@ msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add.phtml, line: 86
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 86
-# File: module/ages/view/ages/agents/add.phtml, line: 153
-# File: module/ages/view/ages/agents/edit.phtml, line: 135
+# File: module/ages/view/ages/agents/add.phtml, line: 158
+# File: module/ages/view/ages/agents/edit.phtml, line: 145
 # File: module/ages/view/ages/customers/add.phtml, line: 148
 # File: module/ages/view/ages/customers/edit.phtml, line: 183
 # File: module/ages/view/ages/customers/edit.phtml, line: 185
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2346
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 149
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 136
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 155
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 145
 msgid "Customer Memo"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add.phtml, line: 92
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 92
-# File: module/ages/view/ages/agents/add.phtml, line: 161
-# File: module/ages/view/ages/agents/edit.phtml, line: 144
+# File: module/ages/view/ages/agents/add.phtml, line: 166
+# File: module/ages/view/ages/agents/edit.phtml, line: 154
 # File: module/ages/view/ages/agents/edit_cmsb2b.phtml, line: 27
 # File: module/ages/view/ages/companies/edit.phtml, line: 101
 # File: module/ages/view/ages/companies/edit_permissions.phtml, line: 2
 # File: module/ages/view/ages/customers/add.phtml, line: 163
 # File: module/ages/view/ages/customers/edit.phtml, line: 202
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 157
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 145
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 163
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 154
 # File: module/ages/view/ages/sub-agents/edit_cmsb2b.phtml, line: 23
 # File: module/ages/view/ages/users/add.phtml, line: 99
 # File: module/ages/view/ages/users/edit.phtml, line: 105
@@ -21480,13 +21488,13 @@ msgstr ""
 # File: module/ages/view/ages/affiliates/add_trains.phtml, line: 1
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 100
 # File: module/ages/view/ages/affiliates/edit_trains.phtml, line: 1
-# File: module/ages/view/ages/agents/add.phtml, line: 169
+# File: module/ages/view/ages/agents/add.phtml, line: 174
 # File: module/ages/view/ages/agents/add_trains.phtml, line: 1
-# File: module/ages/view/ages/agents/edit.phtml, line: 152
+# File: module/ages/view/ages/agents/edit.phtml, line: 162
 # File: module/ages/view/ages/agents/edit_trains.phtml, line: 1
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 165
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 171
 # File: module/ages/view/ages/sub-agents/add_trains.phtml, line: 1
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 153
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 162
 # File: module/ages/view/ages/sub-agents/edit_trains.phtml, line: 1
 # File: module/setup/view/index/index.phtml, line: 295
 msgid "Trains"
@@ -21494,10 +21502,10 @@ msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add.phtml, line: 101
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 101
-# File: module/ages/view/ages/agents/add.phtml, line: 171
-# File: module/ages/view/ages/agents/edit.phtml, line: 154
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 167
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 155
+# File: module/ages/view/ages/agents/add.phtml, line: 176
+# File: module/ages/view/ages/agents/edit.phtml, line: 164
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 173
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 164
 msgid "Social Media"
 msgstr ""
 #
@@ -21505,9 +21513,9 @@ msgstr ""
 # File: module/ages/view/ages/affiliates/add_payments.phtml, line: 1
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 102
 # File: module/ages/view/ages/affiliates/edit_payments.phtml, line: 2
-# File: module/ages/view/ages/agents/add.phtml, line: 172
+# File: module/ages/view/ages/agents/add.phtml, line: 177
 # File: module/ages/view/ages/agents/add_payments.phtml, line: 1
-# File: module/ages/view/ages/agents/edit.phtml, line: 155
+# File: module/ages/view/ages/agents/edit.phtml, line: 165
 # File: module/ages/view/ages/agents/edit_payments.phtml, line: 1
 # File: module/ages/view/ages/companies/edit.phtml, line: 104
 # File: module/ages/view/ages/companies/edit_payments.phtml, line: 1
@@ -21520,9 +21528,9 @@ msgstr ""
 # File: module/ages/view/ages/reports/payments.phtml, line: 229
 # File: module/ages/view/ages/reports/payments.phtml, line: 236
 # File: module/ages/view/ages/reports/payments.phtml, line: 237
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 168
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 174
 # File: module/ages/view/ages/sub-agents/add_payments.phtml, line: 1
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 156
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 165
 # File: module/ages/view/ages/sub-agents/edit_payments.phtml, line: 1
 # File: module/setup/view/settings/payments.phtml, line: 5
 msgid "Payments"
@@ -21532,17 +21540,17 @@ msgstr ""
 # File: module/ages/view/ages/affiliates/add_branches.phtml, line: 1
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 103
 # File: module/ages/view/ages/affiliates/edit_branches.phtml, line: 1
-# File: module/ages/view/ages/agents/add.phtml, line: 173
+# File: module/ages/view/ages/agents/add.phtml, line: 178
 # File: module/ages/view/ages/agents/add_branches.phtml, line: 1
 # File: module/ages/view/ages/agents/branches.phtml, line: 5
 # File: module/ages/view/ages/agents/branches.phtml, line: 100
 # File: module/ages/view/ages/agents/branches.phtml, line: 101
 # File: module/ages/view/ages/agents/branches.phtml, line: 106
-# File: module/ages/view/ages/agents/edit.phtml, line: 156
+# File: module/ages/view/ages/agents/edit.phtml, line: 166
 # File: module/ages/view/ages/agents/edit_branches.phtml, line: 1
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 169
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 175
 # File: module/ages/view/ages/sub-agents/add_branches.phtml, line: 1
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 157
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 166
 # File: module/ages/view/ages/sub-agents/edit_branches.phtml, line: 1
 # File: module/setup/view/air/branches.phtml, line: 5
 # File: module/setup/view/air/branches.phtml, line: 66
@@ -21555,10 +21563,10 @@ msgstr ""
 # File: module/ages/view/ages/affiliates/add.phtml, line: 105
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 104
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 105
-# File: module/ages/view/ages/agents/add.phtml, line: 174
-# File: module/ages/view/ages/agents/add.phtml, line: 175
-# File: module/ages/view/ages/agents/edit.phtml, line: 157
-# File: module/ages/view/ages/agents/edit.phtml, line: 158
+# File: module/ages/view/ages/agents/add.phtml, line: 179
+# File: module/ages/view/ages/agents/add.phtml, line: 180
+# File: module/ages/view/ages/agents/edit.phtml, line: 167
+# File: module/ages/view/ages/agents/edit.phtml, line: 168
 # File: module/ages/view/ages/cms/areas.phtml, line: 5
 # File: module/ages/view/ages/cms/areasimages.phtml, line: 5
 # File: module/ages/view/ages/cms/banners.phtml, line: 5
@@ -21598,10 +21606,10 @@ msgstr ""
 # File: module/ages/view/ages/cms/regions.phtml, line: 5
 # File: module/ages/view/ages/cms/trendingdestinations.phtml, line: 5
 # File: module/ages/view/ages/cms/viewregionsdestinations.phtml, line: 5
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 170
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 171
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 158
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 159
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 176
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 177
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 167
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 168
 # File: module/setup/view/settings/cities_edit.phtml, line: 122
 # File: module/setup/view/settings/countries_edit.phtml, line: 102
 # File: module/setup/view/settings/states_edit.phtml, line: 100
@@ -21610,8 +21618,8 @@ msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add.phtml, line: 869
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 437
-# File: module/ages/view/ages/agents/add.phtml, line: 959
-# File: module/ages/view/ages/agents/edit.phtml, line: 992
+# File: module/ages/view/ages/agents/add.phtml, line: 964
+# File: module/ages/view/ages/agents/edit.phtml, line: 1002
 # File: module/ages/view/ages/customers/add.phtml, line: 315
 # File: module/ages/view/ages/customers/addpassdocuments.phtml, line: 75
 # File: module/ages/view/ages/customers/edit.phtml, line: 412
@@ -21620,8 +21628,8 @@ msgstr ""
 # File: module/ages/view/ages/hotels/editusers.phtml, line: 224
 # File: module/ages/view/ages/newsletter/add.phtml, line: 81
 # File: module/ages/view/ages/newsletter/edit.phtml, line: 116
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 953
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 956
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 959
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 965
 # File: module/ages/view/ages/users/add.phtml, line: 1394
 # File: module/ages/view/ages/users/edit.phtml, line: 1420
 # File: module/setup/view/hotels/hoteldo.phtml, line: 284
@@ -21630,8 +21638,8 @@ msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add.phtml, line: 872
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 440
-# File: module/ages/view/ages/agents/add.phtml, line: 962
-# File: module/ages/view/ages/agents/edit.phtml, line: 995
+# File: module/ages/view/ages/agents/add.phtml, line: 967
+# File: module/ages/view/ages/agents/edit.phtml, line: 1005
 # File: module/ages/view/ages/customers/add.phtml, line: 318
 # File: module/ages/view/ages/customers/addpassdocuments.phtml, line: 78
 # File: module/ages/view/ages/customers/edit.phtml, line: 415
@@ -21640,8 +21648,8 @@ msgstr ""
 # File: module/ages/view/ages/hotels/editusers.phtml, line: 227
 # File: module/ages/view/ages/newsletter/add.phtml, line: 84
 # File: module/ages/view/ages/newsletter/edit.phtml, line: 119
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 956
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 959
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 962
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 968
 # File: module/ages/view/ages/users/add.phtml, line: 1397
 # File: module/ages/view/ages/users/edit.phtml, line: 1423
 # File: module/setup/view/hotels/hoteldo.phtml, line: 287
@@ -21650,21 +21658,21 @@ msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add.phtml, line: 875
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 443
-# File: module/ages/view/ages/agents/add.phtml, line: 965
-# File: module/ages/view/ages/agents/edit.phtml, line: 998
+# File: module/ages/view/ages/agents/add.phtml, line: 970
+# File: module/ages/view/ages/agents/edit.phtml, line: 1008
 # File: module/ages/view/ages/hotels/edit.phtml, line: 391
 # File: module/ages/view/ages/hotels/editibsroomtype.phtml, line: 83
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 436
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 959
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 962
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 965
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 971
 # File: module/manager/view/hotel/index.phtml, line: 94
 msgid "Please enter adress"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add.phtml, line: 878
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 446
-# File: module/ages/view/ages/agents/add.phtml, line: 968
-# File: module/ages/view/ages/agents/edit.phtml, line: 1001
+# File: module/ages/view/ages/agents/add.phtml, line: 973
+# File: module/ages/view/ages/agents/edit.phtml, line: 1011
 # File: module/ages/view/ages/customers/add.phtml, line: 321
 # File: module/ages/view/ages/customers/addpassdocuments.phtml, line: 81
 # File: module/ages/view/ages/customers/edit.phtml, line: 418
@@ -21674,8 +21682,8 @@ msgstr ""
 # File: module/ages/view/ages/login/index.phtml, line: 65
 # File: module/ages/view/ages/newsletter/add.phtml, line: 87
 # File: module/ages/view/ages/newsletter/edit.phtml, line: 122
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 962
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 965
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 968
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 974
 # File: module/ages/view/ages/users/add.phtml, line: 1400
 # File: module/ages/view/ages/users/edit.phtml, line: 1426
 # File: module/manager/view/login/index.phtml, line: 65
@@ -21685,8 +21693,8 @@ msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add.phtml, line: 879
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 447
-# File: module/ages/view/ages/agents/add.phtml, line: 969
-# File: module/ages/view/ages/agents/edit.phtml, line: 1002
+# File: module/ages/view/ages/agents/add.phtml, line: 974
+# File: module/ages/view/ages/agents/edit.phtml, line: 1012
 # File: module/ages/view/ages/customers/add.phtml, line: 322
 # File: module/ages/view/ages/customers/addpassdocuments.phtml, line: 82
 # File: module/ages/view/ages/customers/edit.phtml, line: 419
@@ -21696,8 +21704,8 @@ msgstr ""
 # File: module/ages/view/ages/login/index.phtml, line: 133
 # File: module/ages/view/ages/newsletter/add.phtml, line: 88
 # File: module/ages/view/ages/newsletter/edit.phtml, line: 123
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 963
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 966
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 969
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 975
 # File: module/ages/view/ages/users/add.phtml, line: 1401
 # File: module/ages/view/ages/users/edit.phtml, line: 1427
 # File: module/manager/view/login/index.phtml, line: 133
@@ -24301,7 +24309,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 98
 # File: module/ages/view/ages/affiliates/edit_packages.phtml, line: 1
-# File: module/ages/view/ages/agents/edit.phtml, line: 150
+# File: module/ages/view/ages/agents/edit.phtml, line: 160
 # File: module/ages/view/ages/agents/edit_packages.phtml, line: 1
 msgid "Packages/Tours"
 msgstr ""
@@ -24796,60 +24804,71 @@ msgstr ""
 msgid "Plan"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add.phtml, line: 140
-# File: module/ages/view/ages/agents/add.phtml, line: 141
-# File: module/ages/view/ages/agents/edit.phtml, line: 122
+# File: module/ages/view/ages/agents/add.phtml, line: 137
+# File: module/ages/view/ages/agents/add.phtml, line: 139
+# File: module/ages/view/ages/agents/edit.phtml, line: 121
+# File: module/ages/view/ages/agents/edit.phtml, line: 123
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 135
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 137
 # File: module/ages/view/ages/sub-agents/edit.phtml, line: 124
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 126
+msgid "Credit Card Profile"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add.phtml, line: 145
+# File: module/ages/view/ages/agents/add.phtml, line: 146
+# File: module/ages/view/ages/agents/edit.phtml, line: 132
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 143
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 133
 msgid "Enable Reward Points"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add.phtml, line: 142
-# File: module/ages/view/ages/agents/edit.phtml, line: 124
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 139
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 126
+# File: module/ages/view/ages/agents/add.phtml, line: 147
+# File: module/ages/view/ages/agents/edit.phtml, line: 134
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 145
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 135
 msgid "Earn Points"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add.phtml, line: 143
-# File: module/ages/view/ages/agents/edit.phtml, line: 125
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 140
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 127
+# File: module/ages/view/ages/agents/add.phtml, line: 148
+# File: module/ages/view/ages/agents/edit.phtml, line: 135
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 146
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 136
 msgid "Per Amount Spent"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add.phtml, line: 144
-# File: module/ages/view/ages/agents/edit.phtml, line: 126
+# File: module/ages/view/ages/agents/add.phtml, line: 149
+# File: module/ages/view/ages/agents/edit.phtml, line: 136
 # File: module/ages/view/ages/companies/add.phtml, line: 57
 # File: module/ages/view/ages/companies/edit.phtml, line: 56
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 141
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 128
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 147
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 137
 msgid "Set base markup to 0 (Overwrite fallback markup)"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add.phtml, line: 147
-# File: module/ages/view/ages/agents/edit.phtml, line: 129
+# File: module/ages/view/ages/agents/add.phtml, line: 152
+# File: module/ages/view/ages/agents/edit.phtml, line: 139
 # File: module/ages/view/ages/customers/knowledgebase_add.phtml, line: 15
 # File: module/ages/view/ages/customers/knowledgebase_add.phtml, line: 18
 # File: module/ages/view/ages/customers/knowledgebase_add.phtml, line: 42
 # File: module/ages/view/ages/customers/knowledgebase_edit.phtml, line: 16
 # File: module/ages/view/ages/customers/knowledgebase_edit.phtml, line: 19
 # File: module/ages/view/ages/customers/knowledgebase_edit.phtml, line: 43
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 144
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 131
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 150
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 140
 # File: module/setup/view/settings/countries_edit.phtml, line: 21
 msgid "Video"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add.phtml, line: 148
-# File: module/ages/view/ages/agents/edit.phtml, line: 130
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 145
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 132
+# File: module/ages/view/ages/agents/add.phtml, line: 153
+# File: module/ages/view/ages/agents/edit.phtml, line: 140
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 151
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 141
 msgid "Photo 2"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add.phtml, line: 149
-# File: module/ages/view/ages/agents/edit.phtml, line: 131
+# File: module/ages/view/ages/agents/add.phtml, line: 154
+# File: module/ages/view/ages/agents/edit.phtml, line: 141
 # File: module/ages/view/ages/cruises/add_ships.phtml, line: 19
 # File: module/ages/view/ages/cruises/edit_ships.phtml, line: 20
 # File: module/ages/view/ages/cruises/editstaticships.phtml, line: 75
@@ -24859,27 +24878,27 @@ msgstr ""
 # File: module/ages/view/ages/hotels/editstatichotelsplaces.phtml, line: 125
 # File: module/ages/view/ages/hotels/editstatichotelstripadvisor.phtml, line: 147
 # File: module/ages/view/ages/hotels/editstatichotelstripadvisor.phtml, line: 149
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 146
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 133
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 152
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 142
 # File: module/ages/view/ages/users/specialists_edit.phtml, line: 55
 msgid "Rating"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add.phtml, line: 150
-# File: module/ages/view/ages/agents/edit.phtml, line: 132
+# File: module/ages/view/ages/agents/add.phtml, line: 155
+# File: module/ages/view/ages/agents/edit.phtml, line: 142
 msgid "Allow Live Help"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add.phtml, line: 154
-# File: module/ages/view/ages/agents/edit.phtml, line: 136
+# File: module/ages/view/ages/agents/add.phtml, line: 159
+# File: module/ages/view/ages/agents/edit.phtml, line: 146
 # File: module/ages/view/ages/cruises/add_ships.phtml, line: 69
 # File: module/ages/view/ages/cruises/add_ships.phtml, line: 71
 # File: module/ages/view/ages/cruises/edit_ships.phtml, line: 70
 # File: module/ages/view/ages/cruises/edit_ships.phtml, line: 72
 # File: module/ages/view/ages/cruises/editstaticshipsoverview.phtml, line: 2
 # File: module/ages/view/ages/cruises/editstaticshipsoverview.phtml, line: 12
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 150
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 137
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 156
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 146
 # File: module/setup/view/cruises/edit-cruiseships.phtml, line: 25
 # File: module/setup/view/settings/cities_edit.phtml, line: 180
 # File: module/setup/view/settings/cities_edit.phtml, line: 184
@@ -24889,57 +24908,57 @@ msgstr ""
 msgid "Overview"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add.phtml, line: 155
-# File: module/ages/view/ages/agents/edit.phtml, line: 137
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 151
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 138
+# File: module/ages/view/ages/agents/add.phtml, line: 160
+# File: module/ages/view/ages/agents/edit.phtml, line: 147
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 157
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 147
 msgid "Overview (Spanish)"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add.phtml, line: 177
+# File: module/ages/view/ages/agents/add.phtml, line: 182
 # File: module/ages/view/ages/agents/add_events.phtml, line: 4
-# File: module/ages/view/ages/agents/edit.phtml, line: 172
+# File: module/ages/view/ages/agents/edit.phtml, line: 182
 # File: module/ages/view/ages/agents/edit_auditing.phtml, line: 4
 # File: module/ages/view/ages/agents/edit_leads.phtml, line: 164
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 173
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 179
 # File: module/ages/view/ages/sub-agents/add_events.phtml, line: 4
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 173
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 182
 # File: module/ages/view/ages/sub-agents/edit_events.phtml, line: 4
 # File: module/setup/view/settings/cities_edit.phtml, line: 228
 # File: module/setup/view/settings/cities_edit.phtml, line: 229
 msgid "Events"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add.phtml, line: 179
+# File: module/ages/view/ages/agents/add.phtml, line: 184
 # File: module/ages/view/ages/agents/add_transactions.phtml, line: 4
-# File: module/ages/view/ages/agents/edit.phtml, line: 162
+# File: module/ages/view/ages/agents/edit.phtml, line: 172
 # File: module/ages/view/ages/agents/edit_transactions.phtml, line: 4
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2363
 # File: module/ages/view/ages/reports/b2bwallet.phtml, line: 38
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 175
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 181
 # File: module/ages/view/ages/sub-agents/add_transactions.phtml, line: 4
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 163
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 172
 # File: module/ages/view/ages/sub-agents/edit_transactions.phtml, line: 4
 msgid "Transactions"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add.phtml, line: 180
-# File: module/ages/view/ages/agents/edit.phtml, line: 163
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 176
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 164
+# File: module/ages/view/ages/agents/add.phtml, line: 185
+# File: module/ages/view/ages/agents/edit.phtml, line: 173
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 182
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 173
 msgid "Hotel Searches"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add.phtml, line: 181
-# File: module/ages/view/ages/agents/edit.phtml, line: 164
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 177
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 165
+# File: module/ages/view/ages/agents/add.phtml, line: 186
+# File: module/ages/view/ages/agents/edit.phtml, line: 174
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 183
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 174
 msgid "Air Searches"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add.phtml, line: 182
+# File: module/ages/view/ages/agents/add.phtml, line: 187
 # File: module/ages/view/ages/agents/add_giftcards.phtml, line: 4
-# File: module/ages/view/ages/agents/edit.phtml, line: 165
+# File: module/ages/view/ages/agents/edit.phtml, line: 175
 # File: module/ages/view/ages/agents/edit_giftcards.phtml, line: 4
 # File: module/ages/view/ages/cms/pagescruises_add.phtml, line: 21
 # File: module/ages/view/ages/cms/pagescruises_edit.phtml, line: 21
@@ -24948,50 +24967,50 @@ msgstr ""
 # File: module/ages/view/ages/customers/editgiftcards.phtml, line: 2
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 5
 # File: module/ages/view/ages/gift-cards/pointstransactions.phtml, line: 5
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 178
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 184
 # File: module/ages/view/ages/sub-agents/add_giftcards.phtml, line: 4
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 166
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 175
 # File: module/ages/view/ages/sub-agents/edit_giftcards.phtml, line: 4
 msgid "Gift Cards"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add.phtml, line: 183
+# File: module/ages/view/ages/agents/add.phtml, line: 188
 # File: module/ages/view/ages/agents/add_rewards.phtml, line: 4
 # File: module/ages/view/ages/agents/add_rewards.phtml, line: 11
-# File: module/ages/view/ages/agents/edit.phtml, line: 166
+# File: module/ages/view/ages/agents/edit.phtml, line: 176
 # File: module/ages/view/ages/agents/edit_rewards.phtml, line: 4
 # File: module/ages/view/ages/agents/edit_rewards.phtml, line: 11
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2987
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 179
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 185
 # File: module/ages/view/ages/sub-agents/add_rewards.phtml, line: 4
 # File: module/ages/view/ages/sub-agents/add_rewards.phtml, line: 11
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 167
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 176
 # File: module/ages/view/ages/sub-agents/edit_rewards.phtml, line: 4
 # File: module/ages/view/ages/sub-agents/edit_rewards.phtml, line: 11
 msgid "Rewards - Points"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add.phtml, line: 184
+# File: module/ages/view/ages/agents/add.phtml, line: 189
 # File: module/ages/view/ages/agents/add_recurringplanevents.phtml, line: 4
-# File: module/ages/view/ages/agents/edit.phtml, line: 167
+# File: module/ages/view/ages/agents/edit.phtml, line: 177
 # File: module/ages/view/ages/agents/edit_recurringplanevents.phtml, line: 4
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 180
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 186
 # File: module/ages/view/ages/sub-agents/add_recurringplanevents.phtml, line: 4
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 168
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 177
 # File: module/ages/view/ages/sub-agents/edit_recurringplanevents.phtml, line: 4
 msgid "Recurring Plan Charges"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add.phtml, line: 185
+# File: module/ages/view/ages/agents/add.phtml, line: 190
 # File: module/ages/view/ages/agents/add_accounting.phtml, line: 1
-# File: module/ages/view/ages/agents/edit.phtml, line: 168
+# File: module/ages/view/ages/agents/edit.phtml, line: 178
 # File: module/ages/view/ages/agents/edit_accounting.phtml, line: 1
 # File: module/ages/view/ages/customers/edit.phtml, line: 227
 # File: module/ages/view/ages/customers/editaccounting.phtml, line: 4
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 108
-# File: module/ages/view/ages/sub-agents/add.phtml, line: 182
+# File: module/ages/view/ages/sub-agents/add.phtml, line: 188
 # File: module/ages/view/ages/sub-agents/add_accounting.phtml, line: 1
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 169
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 178
 # File: module/ages/view/ages/sub-agents/edit_accounting.phtml, line: 1
 msgid "Accounting"
 msgstr ""
@@ -26731,43 +26750,43 @@ msgstr ""
 msgid "Referer"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 126
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 128
+# File: module/ages/view/ages/agents/edit.phtml, line: 136
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 137
 msgid "Overwrite fallback markup"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 160
+# File: module/ages/view/ages/agents/edit.phtml, line: 170
 # File: module/ages/view/ages/agents/edit_events.phtml, line: 4
 # File: module/ages/view/ages/customers/edit.phtml, line: 226
 # File: module/ages/view/ages/customers/editauditing.phtml, line: 2
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2351
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 161
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 170
 # File: module/ages/view/ages/sub-agents/edit_auditing.phtml, line: 4
 msgid "Auditing"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 169
+# File: module/ages/view/ages/agents/edit.phtml, line: 179
 # File: module/ages/view/ages/agents/edit_points_origin.phtml, line: 4
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 170
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 179
 # File: module/ages/view/ages/sub-agents/edit_points_origin.phtml, line: 4
 msgid "Points of Origin"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 170
+# File: module/ages/view/ages/agents/edit.phtml, line: 180
 # File: module/ages/view/ages/agents/edit_featured_specialist.phtml, line: 4
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 171
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 180
 msgid "Featured Specialist"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 173
+# File: module/ages/view/ages/agents/edit.phtml, line: 183
 # File: module/ages/view/ages/agents/edit_otp.phtml, line: 4
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 174
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 183
 # File: module/ages/view/ages/sub-agents/edit_otp.phtml, line: 4
 # File: module/ages/view/ages/users/otp.phtml, line: 5
 msgid "OTP"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 174
+# File: module/ages/view/ages/agents/edit.phtml, line: 184
 # File: module/ages/view/ages/agents/edit_telemarketing.phtml, line: 4
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 5
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 147
@@ -26777,12 +26796,12 @@ msgstr ""
 # File: module/ages/view/ages/customers/telemarketing.phtml, line: 106
 # File: module/ages/view/ages/customers/telemarketing.phtml, line: 107
 # File: module/ages/view/ages/customers/telemarketing.phtml, line: 112
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 175
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 184
 # File: module/ages/view/ages/sub-agents/edit_telemarketing.phtml, line: 4
 msgid "Telemarketing"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 177
+# File: module/ages/view/ages/agents/edit.phtml, line: 187
 # File: module/ages/view/ages/agents/edit_documents.phtml, line: 4
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2349
 # File: module/setup/view/settings/cities_edit.phtml, line: 349
@@ -26791,44 +26810,44 @@ msgstr ""
 msgid "Documents"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 221
+# File: module/ages/view/ages/agents/edit.phtml, line: 231
 msgid "Update Agent"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 222
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 219
+# File: module/ages/view/ages/agents/edit.phtml, line: 232
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 228
 msgid "Send Welcome Letter"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 223
-# File: module/ages/view/ages/agents/edit.phtml, line: 1632
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 220
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1619
+# File: module/ages/view/ages/agents/edit.phtml, line: 233
+# File: module/ages/view/ages/agents/edit.phtml, line: 1642
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 229
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1628
 msgid "Send Plan Selection"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 225
+# File: module/ages/view/ages/agents/edit.phtml, line: 235
 msgid "Agent's Report"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 226
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 221
+# File: module/ages/view/ages/agents/edit.phtml, line: 236
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 230
 msgid "Reset Google Authenticator"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 929
+# File: module/ages/view/ages/agents/edit.phtml, line: 939
 msgid "Agent Status Change"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 930
+# File: module/ages/view/ages/agents/edit.phtml, line: 940
 msgid "Changing th status of the agent will also change the status of all subagents. Do you want to continue?"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 935
+# File: module/ages/view/ages/agents/edit.phtml, line: 945
 msgid "Updating Agent"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 936
+# File: module/ages/view/ages/agents/edit.phtml, line: 946
 # File: module/ages/view/ages/agents/loggingin.phtml, line: 153
 # File: module/ages/view/ages/agents/markups.phtml, line: 139
 # File: module/ages/view/ages/cruises/staticshipsbulkimagesadd.phtml, line: 114
@@ -26847,24 +26866,24 @@ msgstr ""
 msgid "Please wait..."
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 945
+# File: module/ages/view/ages/agents/edit.phtml, line: 955
 msgid "Update Cancelled"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 946
+# File: module/ages/view/ages/agents/edit.phtml, line: 956
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3408
 msgid "Action cancelled..."
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 1613
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1600
+# File: module/ages/view/ages/agents/edit.phtml, line: 1623
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1609
 msgid "Send welcome letter"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 1614
-# File: module/ages/view/ages/agents/edit.phtml, line: 1618
-# File: module/ages/view/ages/agents/edit.phtml, line: 1633
-# File: module/ages/view/ages/agents/edit.phtml, line: 1637
+# File: module/ages/view/ages/agents/edit.phtml, line: 1624
+# File: module/ages/view/ages/agents/edit.phtml, line: 1628
+# File: module/ages/view/ages/agents/edit.phtml, line: 1643
+# File: module/ages/view/ages/agents/edit.phtml, line: 1647
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3491
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3495
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3510
@@ -26879,15 +26898,15 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3644
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 6141
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 6145
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1601
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1605
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1620
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1624
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1610
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1614
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1629
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1633
 msgid "Enter email address"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 1615
-# File: module/ages/view/ages/agents/edit.phtml, line: 1634
+# File: module/ages/view/ages/agents/edit.phtml, line: 1625
+# File: module/ages/view/ages/agents/edit.phtml, line: 1644
 # File: module/ages/view/ages/agents/edit_featured_specialist.phtml, line: 69
 # File: module/ages/view/ages/agents/edit_points_origin.phtml, line: 68
 # File: module/ages/view/ages/agents/supervise.phtml, line: 90
@@ -26978,8 +26997,8 @@ msgstr ""
 # File: module/ages/view/ages/reports/airlines.phtml, line: 591
 # File: module/ages/view/ages/reports/b2bwallet.phtml, line: 112
 # File: module/ages/view/ages/reports/distributionscommunications.phtml, line: 297
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1602
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1621
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1611
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1630
 # File: module/ages/view/ages/sub-agents/edit_featured_specialist.phtml, line: 67
 # File: module/ages/view/ages/sub-agents/edit_points_origin.phtml, line: 68
 # File: module/setup/view/settings/cruisesmapping.phtml, line: 179
@@ -26987,10 +27006,10 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 1615
-# File: module/ages/view/ages/agents/edit.phtml, line: 1620
-# File: module/ages/view/ages/agents/edit.phtml, line: 1634
-# File: module/ages/view/ages/agents/edit.phtml, line: 1639
+# File: module/ages/view/ages/agents/edit.phtml, line: 1625
+# File: module/ages/view/ages/agents/edit.phtml, line: 1630
+# File: module/ages/view/ages/agents/edit.phtml, line: 1644
+# File: module/ages/view/ages/agents/edit.phtml, line: 1649
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3492
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3497
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3511
@@ -27007,21 +27026,21 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 6142
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 6147
 # File: module/ages/view/ages/reports/airlines.phtml, line: 591
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1602
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1607
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1621
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1626
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1611
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1616
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1630
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 1635
 msgid "Send"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 1664
+# File: module/ages/view/ages/agents/edit.phtml, line: 1674
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2863
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2866
 # File: module/ages/view/ages/index/index.phtml, line: 259
 msgid "Warning"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/edit.phtml, line: 1665
+# File: module/ages/view/ages/agents/edit.phtml, line: 1675
 msgid "This agent is disabled!"
 msgstr ""
 #
@@ -43015,7 +43034,7 @@ msgstr ""
 msgid "Edit Sub Agent"
 msgstr ""
 #
-# File: module/ages/view/ages/sub-agents/edit.phtml, line: 219
+# File: module/ages/view/ages/sub-agents/edit.phtml, line: 228
 msgid "Update Sub Agent"
 msgstr ""
 #
