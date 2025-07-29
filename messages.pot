@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-28 02:06-0400\n"
+"POT-Creation-Date: 2025-07-29 09:48-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3247,7 +3247,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/profit.phtml, line: 128
 # File: module/ages/view/ages/reports/sales.phtml, line: 144
 # File: module/ages/view/ages/reports/supervisorsales.phtml, line: 70
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 62
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 66
 # File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 58
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 65
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 65
@@ -3446,6 +3446,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/profit.phtml, line: 95
 # File: module/ages/view/ages/reports/sales.phtml, line: 109
 # File: module/ages/view/ages/reports/supervisorsales.phtml, line: 56
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 62
 # File: module/ages/view/ages/transfers/checkin.phtml, line: 107
 # File: module/ages/view/ages/transfers/checkin.phtml, line: 138
 # File: module/ages/view/ages/transfers/listreservations.phtml, line: 101
@@ -10219,7 +10220,7 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 1189
 # File: module/ages/view/ages/agents/detailedreport.phtml, line: 55
 # File: module/ages/view/ages/agents/leads.phtml, line: 103
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 91
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 95
 # File: module/setup/view/settings/citiessections_add.phtml, line: 50
 # File: module/setup/view/settings/citiessections_edit.phtml, line: 55
 msgid "Other"
@@ -12283,6 +12284,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 70
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 156
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 201
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 64
 msgid "Cancelled"
 msgstr ""
 #
@@ -13084,7 +13086,6 @@ msgstr ""
 # File: module/ages/view/ages/reports/insurancessales.phtml, line: 41
 # File: module/ages/view/ages/reports/invoices.phtml, line: 16
 # File: module/ages/view/ages/reports/searches.phtml, line: 45
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 35
 msgid "Customer"
 msgstr ""
 #
@@ -17229,7 +17230,7 @@ msgstr ""
 # File: module/ages/view/ages/service-fees/geotargetmarkup.phtml, line: 39
 # File: module/ages/view/ages/service-fees/list.phtml, line: 35
 # File: module/ages/view/ages/service-fees/recurringplans.phtml, line: 31
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 96
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 100
 # File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 62
 # File: module/ages/view/ages/sub-agents/index.phtml, line: 73
 # File: module/ages/view/ages/sub-agents/search.phtml, line: 54
@@ -19330,6 +19331,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/sales.phtml, line: 12
 # File: module/ages/view/ages/reports/sales.phtml, line: 13
 # File: module/ages/view/ages/reports/supervisoragents.phtml, line: 25
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 35
 # File: module/ages/view/ages/sub-agents/index.phtml, line: 42
 # File: module/ages/view/ages/sub-agents/index.phtml, line: 49
 # File: module/ages/view/ages/sub-agents/search.phtml, line: 28
@@ -19546,7 +19548,7 @@ msgstr ""
 # File: module/ages/view/ages/service-fees/geotargetmarkup.phtml, line: 105
 # File: module/ages/view/ages/service-fees/list.phtml, line: 105
 # File: module/ages/view/ages/service-fees/recurringplans.phtml, line: 97
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 139
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 143
 # File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 105
 # File: module/ages/view/ages/sub-agents/index.phtml, line: 174
 # File: module/ages/view/ages/tours/list.phtml, line: 101
@@ -42952,9 +42954,9 @@ msgid "Update Recurring Plan"
 msgstr ""
 #
 # File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 26
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 133
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 134
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 139
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 137
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 138
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 143
 msgid "Recurring Plans Transactions"
 msgstr ""
 #
@@ -42962,62 +42964,62 @@ msgstr ""
 msgid "Year"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 67
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 71
 # File: module/manager/view/index/index.phtml, line: 30
 msgid "January"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 69
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 73
 # File: module/manager/view/index/index.phtml, line: 31
 msgid "February"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 71
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 75
 # File: module/manager/view/index/index.phtml, line: 32
 msgid "March"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 73
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 77
 # File: module/manager/view/index/index.phtml, line: 33
 msgid "April"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 75
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 79
 # File: module/manager/view/index/index.phtml, line: 34
 msgid "May"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 77
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 81
 # File: module/manager/view/index/index.phtml, line: 35
 msgid "June"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 79
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 83
 # File: module/manager/view/index/index.phtml, line: 36
 msgid "July"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 81
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 85
 # File: module/manager/view/index/index.phtml, line: 37
 msgid "August"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 83
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 87
 # File: module/manager/view/index/index.phtml, line: 38
 msgid "September"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 85
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 89
 # File: module/manager/view/index/index.phtml, line: 39
 msgid "October"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 87
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 91
 # File: module/manager/view/index/index.phtml, line: 40
 msgid "November"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 89
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 93
 # File: module/manager/view/index/index.phtml, line: 41
 msgid "December"
 msgstr ""
