@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-17 10:25-0400\n"
+"POT-Creation-Date: 2025-10-19 04:04-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -9288,8 +9288,8 @@ msgstr ""
 # File: module/setup/src/Controller/amenities.php, line: 219
 # File: module/setup/src/Controller/cabincategories.php, line: 192
 # File: module/setup/src/Controller/cabincategories.php, line: 207
-# File: module/setup/src/Controller/cities.php, line: 636
-# File: module/setup/src/Controller/cities.php, line: 650
+# File: module/setup/src/Controller/cities.php, line: 640
+# File: module/setup/src/Controller/cities.php, line: 654
 # File: module/setup/src/Controller/citiesimages.php, line: 54
 # File: module/setup/src/Controller/citiesimages.php, line: 68
 # File: module/setup/src/Controller/cruiseships.php, line: 246
@@ -17950,7 +17950,7 @@ msgstr ""
 # File: module/ages/view/ages/tours/images.phtml, line: 97
 # File: module/ages/view/ages/tours/images.phtml, line: 104
 # File: module/ages/view/ages/tours/images.phtml, line: 105
-# File: module/setup/view/settings/cities_edit.phtml, line: 801
+# File: module/setup/view/settings/cities_edit.phtml, line: 803
 msgid "Images"
 msgstr ""
 #
@@ -24316,7 +24316,7 @@ msgstr ""
 # File: module/setup/view/intelligence/preferredhotels_add.phtml, line: 17
 # File: module/setup/view/intelligence/preferredhotels_edit.phtml, line: 18
 # File: module/setup/view/settings/businessintelligence.phtml, line: 148
-# File: module/setup/view/settings/cities_edit.phtml, line: 819
+# File: module/setup/view/settings/cities_edit.phtml, line: 821
 # File: module/setup/view/settings/citieshotelsmapping_add.phtml, line: 36
 # File: module/setup/view/settings/citieshotelsmapping_edit.phtml, line: 35
 # File: module/setup/view/settings/citiesimages_edit.phtml, line: 75
@@ -40821,7 +40821,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/flyers_add.phtml, line: 17
 # File: module/ages/view/ages/newsletter/flyers_edit.phtml, line: 17
 # File: module/ages/view/ages/newsletter/flyers_edit.phtml, line: 36
-# File: module/setup/view/settings/cities_edit.phtml, line: 810
+# File: module/setup/view/settings/cities_edit.phtml, line: 812
 msgid "Thumbnail"
 msgstr ""
 #
@@ -59896,55 +59896,63 @@ msgstr ""
 msgid "Avoris"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 804
-msgid "Image1"
+# File: module/setup/view/settings/cities_edit.phtml, line: 798
+msgid "Hotelbeds Activity"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 805
-msgid "Image1 Caption"
+# File: module/setup/view/settings/cities_edit.phtml, line: 799
+msgid "Viator Activity"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 806
-msgid "Image2"
+msgid "Image1"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 807
-msgid "Image2 Caption"
+msgid "Image1 Caption"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 808
-msgid "Image3"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 808
-msgid "Imag3"
+msgid "Image2"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 809
-msgid "Image3 Caption"
+msgid "Image2 Caption"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 810
+msgid "Image3"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 810
+msgid "Imag3"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 811
-msgid "Video1"
-msgstr ""
-#
-# File: module/setup/view/settings/cities_edit.phtml, line: 812
-msgid "Video2"
+msgid "Image3 Caption"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 813
-msgid "Video3"
+msgid "Video1"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 814
-msgid "Video4"
+msgid "Video2"
 msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 815
+msgid "Video3"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 816
+msgid "Video4"
+msgstr ""
+#
+# File: module/setup/view/settings/cities_edit.phtml, line: 817
 msgid "Video5"
 msgstr ""
 #
-# File: module/setup/view/settings/cities_edit.phtml, line: 849
+# File: module/setup/view/settings/cities_edit.phtml, line: 851
 # File: module/setup/view/settings/citiesimages_edit.phtml, line: 105
 msgid "Please enter city name"
 msgstr ""
