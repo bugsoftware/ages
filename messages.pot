@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-24 12:46-0400\n"
+"POT-Creation-Date: 2025-10-28 10:37-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10725,7 +10725,7 @@ msgstr ""
 # File: module/setup/view/activities/daytrip.phtml, line: 60
 # File: module/setup/view/air/aeromexico.phtml, line: 174
 # File: module/setup/view/air/airgateway.phtml, line: 57
-# File: module/setup/view/air/amadeus.phtml, line: 283
+# File: module/setup/view/air/amadeus.phtml, line: 300
 # File: module/setup/view/air/americanairlines.phtml, line: 173
 # File: module/setup/view/air/avianca.phtml, line: 198
 # File: module/setup/view/air/copa.phtml, line: 163
@@ -10743,6 +10743,7 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 212
 # File: module/setup/view/air/unitedairlines.phtml, line: 174
 # File: module/setup/view/air/volaris.phtml, line: 93
+# File: module/setup/view/air/tapndcsabre.phtml, line: 58
 # File: module/setup/view/cars/amadeus.phtml, line: 156
 # File: module/setup/view/cars/avis.phtml, line: 79
 # File: module/setup/view/cars/avisbudget.phtml, line: 109
@@ -16486,6 +16487,7 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 63
 # File: module/setup/view/air/unitedairlines.phtml, line: 17
 # File: module/setup/view/air/volaris.phtml, line: 24
+# File: module/setup/view/air/tapndcsabre.phtml, line: 29
 # File: module/setup/view/cars/amadeus.phtml, line: 23
 # File: module/setup/view/cars/avis.phtml, line: 25
 # File: module/setup/view/cars/avisbudget.phtml, line: 25
@@ -21250,6 +21252,8 @@ msgstr ""
 # File: module/setup/view/air/travelport.phtml, line: 312
 # File: module/setup/view/air/volaris.phtml, line: 66
 # File: module/setup/view/air/volaris.phtml, line: 70
+# File: module/setup/view/air/tapndcsabre.phtml, line: 19
+# File: module/setup/view/air/tapndcsabre.phtml, line: 20
 # File: module/setup/view/cars/amadeus.phtml, line: 18
 # File: module/setup/view/cars/amadeus.phtml, line: 19
 # File: module/setup/view/cars/avis.phtml, line: 20
@@ -25554,6 +25558,8 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/edit_events.phtml, line: 12
 # File: module/setup/view/activities/coming2.phtml, line: 16
 # File: module/setup/view/activities/coming2.phtml, line: 17
+# File: module/setup/view/air/tapndcsabre.phtml, line: 15
+# File: module/setup/view/air/tapndcsabre.phtml, line: 16
 # File: module/setup/view/cruises/msc.phtml, line: 16
 # File: module/setup/view/cruises/msc.phtml, line: 17
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 24
@@ -26396,6 +26402,7 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 76
 # File: module/setup/view/air/unitedairlines.phtml, line: 28
 # File: module/setup/view/air/volaris.phtml, line: 35
+# File: module/setup/view/air/tapndcsabre.phtml, line: 40
 # File: module/setup/view/cars/amadeus.phtml, line: 34
 # File: module/setup/view/cars/avis.phtml, line: 36
 # File: module/setup/view/cars/avisbudget.phtml, line: 36
@@ -33886,9 +33893,10 @@ msgstr ""
 # File: module/setup/view/activities/nexustours.phtml, line: 147
 # File: module/setup/view/activities/tourico.phtml, line: 158
 # File: module/setup/view/activities/trapsatur.phtml, line: 132
-# File: module/setup/view/air/amadeus.phtml, line: 406
+# File: module/setup/view/air/amadeus.phtml, line: 423
 # File: module/setup/view/air/avianca.phtml, line: 283
 # File: module/setup/view/air/volaris.phtml, line: 189
+# File: module/setup/view/air/tapndcsabre.phtml, line: 118
 # File: module/setup/view/cars/amadeus.phtml, line: 270
 # File: module/setup/view/cars/bookinggo.phtml, line: 130
 # File: module/setup/view/cars/tourico.phtml, line: 149
@@ -45599,6 +45607,7 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 67
 # File: module/setup/view/air/unitedairlines.phtml, line: 20
 # File: module/setup/view/air/volaris.phtml, line: 27
+# File: module/setup/view/air/tapndcsabre.phtml, line: 32
 # File: module/setup/view/cars/amadeus.phtml, line: 26
 # File: module/setup/view/cars/avis.phtml, line: 28
 # File: module/setup/view/cars/avisbudget.phtml, line: 28
@@ -45787,6 +45796,7 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 80
 # File: module/setup/view/air/unitedairlines.phtml, line: 31
 # File: module/setup/view/air/volaris.phtml, line: 38
+# File: module/setup/view/air/tapndcsabre.phtml, line: 43
 # File: module/setup/view/cars/amadeus.phtml, line: 37
 # File: module/setup/view/cars/avis.phtml, line: 39
 # File: module/setup/view/cars/avisbudget.phtml, line: 39
@@ -46425,6 +46435,7 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 181
 # File: module/setup/view/air/unitedairlines.phtml, line: 168
 # File: module/setup/view/air/volaris.phtml, line: 87
+# File: module/setup/view/air/tapndcsabre.phtml, line: 52
 # File: module/setup/view/cars/amadeus.phtml, line: 142
 # File: module/setup/view/cars/amadeus.phtml, line: 143
 # File: module/setup/view/cars/avis.phtml, line: 61
@@ -46798,6 +46809,7 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 189
 # File: module/setup/view/air/unitedairlines.phtml, line: 169
 # File: module/setup/view/air/volaris.phtml, line: 88
+# File: module/setup/view/air/tapndcsabre.phtml, line: 53
 # File: module/setup/view/cars/amadeus.phtml, line: 145
 # File: module/setup/view/cars/amadeus.phtml, line: 146
 # File: module/setup/view/cars/avis.phtml, line: 65
@@ -47172,6 +47184,7 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 197
 # File: module/setup/view/air/unitedairlines.phtml, line: 170
 # File: module/setup/view/air/volaris.phtml, line: 89
+# File: module/setup/view/air/tapndcsabre.phtml, line: 54
 # File: module/setup/view/cars/amadeus.phtml, line: 148
 # File: module/setup/view/cars/amadeus.phtml, line: 149
 # File: module/setup/view/cars/avis.phtml, line: 69
@@ -47546,6 +47559,7 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 206
 # File: module/setup/view/air/unitedairlines.phtml, line: 171
 # File: module/setup/view/air/volaris.phtml, line: 90
+# File: module/setup/view/air/tapndcsabre.phtml, line: 55
 # File: module/setup/view/cars/amadeus.phtml, line: 151
 # File: module/setup/view/cars/amadeus.phtml, line: 152
 # File: module/setup/view/cars/avis.phtml, line: 73
@@ -48165,7 +48179,7 @@ msgstr ""
 # File: module/setup/view/activities/daytrip.phtml, line: 114
 # File: module/setup/view/air/aeromexico.phtml, line: 294
 # File: module/setup/view/air/airgateway.phtml, line: 117
-# File: module/setup/view/air/amadeus.phtml, line: 475
+# File: module/setup/view/air/amadeus.phtml, line: 492
 # File: module/setup/view/air/americanairlines.phtml, line: 293
 # File: module/setup/view/air/avianca.phtml, line: 280
 # File: module/setup/view/air/copa.phtml, line: 277
@@ -48182,6 +48196,7 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 342
 # File: module/setup/view/air/unitedairlines.phtml, line: 294
 # File: module/setup/view/air/volaris.phtml, line: 165
+# File: module/setup/view/air/tapndcsabre.phtml, line: 112
 # File: module/setup/view/cars/amadeus.phtml, line: 336
 # File: module/setup/view/cars/avis.phtml, line: 141
 # File: module/setup/view/cars/avisbudget.phtml, line: 174
@@ -48468,7 +48483,7 @@ msgstr ""
 # File: module/setup/view/activities/daytrip.phtml, line: 117
 # File: module/setup/view/air/aeromexico.phtml, line: 354
 # File: module/setup/view/air/airgateway.phtml, line: 123
-# File: module/setup/view/air/amadeus.phtml, line: 478
+# File: module/setup/view/air/amadeus.phtml, line: 495
 # File: module/setup/view/air/americanairlines.phtml, line: 371
 # File: module/setup/view/air/avianca.phtml, line: 316
 # File: module/setup/view/air/copa.phtml, line: 349
@@ -48485,6 +48500,7 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 345
 # File: module/setup/view/air/unitedairlines.phtml, line: 354
 # File: module/setup/view/air/volaris.phtml, line: 192
+# File: module/setup/view/air/tapndcsabre.phtml, line: 121
 # File: module/setup/view/cars/amadeus.phtml, line: 339
 # File: module/setup/view/cars/avis.phtml, line: 153
 # File: module/setup/view/cars/avisbudget.phtml, line: 189
@@ -48664,7 +48680,7 @@ msgstr ""
 # File: module/setup/view/activities/daytrip.phtml, line: 120
 # File: module/setup/view/air/aeromexico.phtml, line: 357
 # File: module/setup/view/air/airgateway.phtml, line: 126
-# File: module/setup/view/air/amadeus.phtml, line: 481
+# File: module/setup/view/air/amadeus.phtml, line: 498
 # File: module/setup/view/air/americanairlines.phtml, line: 374
 # File: module/setup/view/air/avianca.phtml, line: 319
 # File: module/setup/view/air/copa.phtml, line: 352
@@ -48681,6 +48697,7 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 348
 # File: module/setup/view/air/unitedairlines.phtml, line: 357
 # File: module/setup/view/air/volaris.phtml, line: 195
+# File: module/setup/view/air/tapndcsabre.phtml, line: 124
 # File: module/setup/view/cars/amadeus.phtml, line: 342
 # File: module/setup/view/cars/avis.phtml, line: 156
 # File: module/setup/view/cars/avisbudget.phtml, line: 192
@@ -48861,7 +48878,7 @@ msgstr ""
 # File: module/setup/view/activities/daytrip.phtml, line: 123
 # File: module/setup/view/air/aeromexico.phtml, line: 378
 # File: module/setup/view/air/airgateway.phtml, line: 135
-# File: module/setup/view/air/amadeus.phtml, line: 484
+# File: module/setup/view/air/amadeus.phtml, line: 501
 # File: module/setup/view/air/americanairlines.phtml, line: 377
 # File: module/setup/view/air/avianca.phtml, line: 322
 # File: module/setup/view/air/copa.phtml, line: 355
@@ -48878,6 +48895,7 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 351
 # File: module/setup/view/air/unitedairlines.phtml, line: 378
 # File: module/setup/view/air/volaris.phtml, line: 198
+# File: module/setup/view/air/tapndcsabre.phtml, line: 127
 # File: module/setup/view/cars/amadeus.phtml, line: 345
 # File: module/setup/view/cars/avis.phtml, line: 159
 # File: module/setup/view/cars/avisbudget.phtml, line: 195
@@ -49056,6 +49074,7 @@ msgid "ES"
 msgstr ""
 #
 # File: module/setup/view/activities/coming2.phtml, line: 159
+# File: module/setup/view/air/tapndcsabre.phtml, line: 109
 # File: module/setup/view/hotels/aictravel.phtml, line: 141
 # File: module/setup/view/hotels/avoris.phtml, line: 164
 # File: module/setup/view/hotels/bahiaprincipe.phtml, line: 191
@@ -49219,7 +49238,7 @@ msgstr ""
 # File: module/setup/view/activities/gltours.phtml, line: 113
 # File: module/setup/view/activities/tourico.phtml, line: 155
 # File: module/setup/view/activities/trapsatur.phtml, line: 129
-# File: module/setup/view/air/amadeus.phtml, line: 403
+# File: module/setup/view/air/amadeus.phtml, line: 420
 # File: module/setup/view/cars/amadeus.phtml, line: 267
 # File: module/setup/view/cars/tourico.phtml, line: 146
 # File: module/setup/view/cruises/amadeus.phtml, line: 304
@@ -49254,7 +49273,7 @@ msgstr ""
 # File: module/setup/view/activities/trapsatur.phtml, line: 135
 # File: module/setup/view/activities/viator.phtml, line: 178
 # File: module/setup/view/activities/daytrip.phtml, line: 111
-# File: module/setup/view/air/amadeus.phtml, line: 409
+# File: module/setup/view/air/amadeus.phtml, line: 426
 # File: module/setup/view/air/galileo.phtml, line: 175
 # File: module/setup/view/air/priceline.phtml, line: 155
 # File: module/setup/view/air/travelport.phtml, line: 430
@@ -49586,7 +49605,7 @@ msgstr ""
 #
 # File: module/setup/view/activities/hotelbeds.phtml, line: 173
 # File: module/setup/view/activities/viator.phtml, line: 196
-# File: module/setup/view/air/amadeus.phtml, line: 412
+# File: module/setup/view/air/amadeus.phtml, line: 429
 # File: module/setup/view/hotels/abreu.phtml, line: 226
 # File: module/setup/view/hotels/actiontravel.phtml, line: 182
 # File: module/setup/view/hotels/aio.phtml, line: 255
@@ -49617,7 +49636,7 @@ msgstr ""
 #
 # File: module/setup/view/activities/hotelbeds.phtml, line: 176
 # File: module/setup/view/activities/viator.phtml, line: 199
-# File: module/setup/view/air/amadeus.phtml, line: 415
+# File: module/setup/view/air/amadeus.phtml, line: 432
 # File: module/setup/view/hotels/abreu.phtml, line: 229
 # File: module/setup/view/hotels/actiontravel.phtml, line: 185
 # File: module/setup/view/hotels/aio.phtml, line: 258
@@ -50841,6 +50860,8 @@ msgid "Queue Number"
 msgstr ""
 #
 # File: module/setup/view/air/amadeus.phtml, line: 117
+# File: module/setup/view/air/tapndcsabre.phtml, line: 23
+# File: module/setup/view/air/tapndcsabre.phtml, line: 24
 # File: module/setup/view/cars/amadeus.phtml, line: 74
 # File: module/setup/view/cruises/amadeus.phtml, line: 87
 # File: module/setup/view/hotels/amadeus.phtml, line: 80
@@ -51060,7 +51081,19 @@ msgstr ""
 msgid "Amadeus Upselling Version (v1)"
 msgstr ""
 #
-# File: module/setup/view/air/amadeus.phtml, line: 418
+# File: module/setup/view/air/amadeus.phtml, line: 288
+msgid "Disable Supplier American Airlines Direct NDC"
+msgstr ""
+#
+# File: module/setup/view/air/amadeus.phtml, line: 292
+msgid "Disable Supplier United Airlines Direct NDC"
+msgstr ""
+#
+# File: module/setup/view/air/amadeus.phtml, line: 296
+msgid "Disable Supplier Avianca Airlines Direct NDC"
+msgstr ""
+#
+# File: module/setup/view/air/amadeus.phtml, line: 435
 # File: module/setup/view/cars/amadeus.phtml, line: 288
 # File: module/setup/view/cruises/amadeus.phtml, line: 316
 # File: module/setup/view/hotels/amadeus.phtml, line: 309
@@ -51068,7 +51101,7 @@ msgstr ""
 msgid "Please enter organization ID"
 msgstr ""
 #
-# File: module/setup/view/air/amadeus.phtml, line: 421
+# File: module/setup/view/air/amadeus.phtml, line: 438
 # File: module/setup/view/cars/amadeus.phtml, line: 291
 # File: module/setup/view/cruises/amadeus.phtml, line: 325
 # File: module/setup/view/hotels/amadeus.phtml, line: 312
@@ -51076,7 +51109,7 @@ msgstr ""
 msgid "Please enter WSAP"
 msgstr ""
 #
-# File: module/setup/view/air/amadeus.phtml, line: 424
+# File: module/setup/view/air/amadeus.phtml, line: 441
 # File: module/setup/view/cars/amadeus.phtml, line: 294
 # File: module/setup/view/cruises/amadeus.phtml, line: 328
 # File: module/setup/view/hotels/amadeus.phtml, line: 321
@@ -51084,7 +51117,7 @@ msgstr ""
 msgid "Please enter pseudo city code"
 msgstr ""
 #
-# File: module/setup/view/air/amadeus.phtml, line: 427
+# File: module/setup/view/air/amadeus.phtml, line: 444
 # File: module/setup/view/cars/amadeus.phtml, line: 297
 # File: module/setup/view/cruises/amadeus.phtml, line: 331
 # File: module/setup/view/hotels/amadeus.phtml, line: 324
@@ -51092,7 +51125,7 @@ msgstr ""
 msgid "Please enter agent duty code"
 msgstr ""
 #
-# File: module/setup/view/air/amadeus.phtml, line: 430
+# File: module/setup/view/air/amadeus.phtml, line: 447
 # File: module/setup/view/cars/amadeus.phtml, line: 300
 # File: module/setup/view/cruises/amadeus.phtml, line: 334
 # File: module/setup/view/hotels/amadeus.phtml, line: 327
@@ -51100,36 +51133,36 @@ msgstr ""
 msgid "Please enter requestor type"
 msgstr ""
 #
-# File: module/setup/view/air/amadeus.phtml, line: 433
+# File: module/setup/view/air/amadeus.phtml, line: 450
 # File: module/setup/view/settings/b2bwallet.phtml, line: 227
 msgid "Please enter security version"
 msgstr ""
 #
-# File: module/setup/view/air/amadeus.phtml, line: 436
+# File: module/setup/view/air/amadeus.phtml, line: 453
 msgid "Please enter fare master pricer"
 msgstr ""
 #
-# File: module/setup/view/air/amadeus.phtml, line: 439
+# File: module/setup/view/air/amadeus.phtml, line: 456
 msgid "Please enter PNR version"
 msgstr ""
 #
-# File: module/setup/view/air/amadeus.phtml, line: 442
+# File: module/setup/view/air/amadeus.phtml, line: 459
 msgid "Please enter fare price PNR with booking class version"
 msgstr ""
 #
-# File: module/setup/view/air/amadeus.phtml, line: 445
+# File: module/setup/view/air/amadeus.phtml, line: 462
 msgid "Please enter fare get fare rules version"
 msgstr ""
 #
-# File: module/setup/view/air/amadeus.phtml, line: 448
+# File: module/setup/view/air/amadeus.phtml, line: 465
 msgid "Please enter ticket create TST from pricing version"
 msgstr ""
 #
-# File: module/setup/view/air/amadeus.phtml, line: 451
+# File: module/setup/view/air/amadeus.phtml, line: 468
 msgid "Please enter PNR add multi elements version"
 msgstr ""
 #
-# File: module/setup/view/air/amadeus.phtml, line: 454
+# File: module/setup/view/air/amadeus.phtml, line: 471
 # File: module/setup/view/cars/amadeus.phtml, line: 303
 # File: module/setup/view/cruises/amadeus.phtml, line: 337
 # File: module/setup/view/hotels/amadeus.phtml, line: 330
@@ -51137,34 +51170,34 @@ msgstr ""
 msgid "Please enter security signout version"
 msgstr ""
 #
-# File: module/setup/view/air/amadeus.phtml, line: 457
+# File: module/setup/view/air/amadeus.phtml, line: 474
 msgid "Please enter PNR retrieve version"
 msgstr ""
 #
-# File: module/setup/view/air/amadeus.phtml, line: 460
+# File: module/setup/view/air/amadeus.phtml, line: 477
 msgid "Please enter queue place PNR version"
 msgstr ""
 #
-# File: module/setup/view/air/amadeus.phtml, line: 463
+# File: module/setup/view/air/amadeus.phtml, line: 480
 msgid "Please enter master price calendar search"
 msgstr ""
 #
-# File: module/setup/view/air/amadeus.phtml, line: 466
+# File: module/setup/view/air/amadeus.phtml, line: 483
 msgid "Please enter doc issuance issue ticket version"
 msgstr ""
 #
-# File: module/setup/view/air/amadeus.phtml, line: 469
+# File: module/setup/view/air/amadeus.phtml, line: 486
 msgid "Please enter ticket create TST"
 msgstr ""
 #
-# File: module/setup/view/air/amadeus.phtml, line: 472
+# File: module/setup/view/air/amadeus.phtml, line: 489
 # File: module/setup/view/cars/amadeus.phtml, line: 333
 # File: module/setup/view/cruises/amadeus.phtml, line: 379
 # File: module/setup/view/hotels/amadeus.phtml, line: 336
 msgid "Please enter queue number"
 msgstr ""
 #
-# File: module/setup/view/air/amadeus.phtml, line: 487
+# File: module/setup/view/air/amadeus.phtml, line: 504
 msgid "Please enter number of solutions to return"
 msgstr ""
 #
@@ -52643,6 +52676,14 @@ msgstr ""
 # File: module/setup/view/air/volaris.phtml, line: 186
 # File: module/setup/view/hotels/infinitas.phtml, line: 170
 msgid "Please enter User Name"
+msgstr ""
+#
+# File: module/setup/view/air/tapndcsabre.phtml, line: 13
+msgid "Enable TAP NDC (Via Sabre)"
+msgstr ""
+#
+# File: module/setup/view/air/tapndcsabre.phtml, line: 115
+msgid "Please enter Environment"
 msgstr ""
 #
 # File: module/setup/view/cars/amadeus.phtml, line: 13
