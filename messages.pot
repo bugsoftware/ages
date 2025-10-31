@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-31 09:19-0400\n"
+"POT-Creation-Date: 2025-10-31 17:50-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23937,19 +23937,11 @@ msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 20
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 20
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 24
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 24
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 24
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 24
 msgid "Deny Sub Agent Management"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 21
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 21
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 25
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 25
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 25
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 25
 msgid "Deny Access to MyBookings"
 msgstr ""
 #
@@ -23982,10 +23974,6 @@ msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 27
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 27
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 33
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 33
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 33
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 33
 msgid "Deny Access to Commission Report"
 msgstr ""
 #
@@ -25870,7 +25858,7 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 9
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 9
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 9
-msgid "Deny Access to Tours Inventory"
+msgid "Deny Access to Tours Inventory (Escorted Tours)"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 10
@@ -25901,11 +25889,25 @@ msgstr ""
 msgid "Deny Access to Bounced Emails"
 msgstr ""
 #
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 24
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 24
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 24
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 24
+msgid "Deny Sub Agent Management (Agents)"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 25
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 25
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 25
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 25
+msgid "Deny Access to MyBookings (Reservations)"
+msgstr ""
+#
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 26
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 26
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 26
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 26
-msgid "Deny Access to Newsletters Inventory"
+msgid "Deny Access to Newsletters Inventory (Marketing)"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 27
@@ -25913,6 +25915,13 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 27
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 27
 msgid "Deny Access to Insurance"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 33
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 33
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 33
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 33
+msgid "Deny Access to Commission Report (Reports)"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 34
