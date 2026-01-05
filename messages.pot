@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-05 09:36-0500\n"
+"POT-Creation-Date: 2026-01-05 13:03-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2209,6 +2209,9 @@ msgstr ""
 # File: module/ages/src/Controller/GiftCards.php, line: 2077
 # File: module/ages/src/Controller/Packages.php, line: 3686
 # File: module/ages/src/Controller/Packages.php, line: 4071
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 607
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 622
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 647
 # File: module/ages/view/ages/agents/branches_edit.phtml, line: 11
 # File: module/ages/view/ages/agents/distributions_edit.phtml, line: 11
 # File: module/ages/view/ages/cms/featuredhotels.phtml, line: 12
@@ -2732,6 +2735,7 @@ msgstr ""
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 140
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 16349
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 17828
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2408
 # File: module/ages/view/ages/activities/checkin.phtml, line: 37
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 28
 # File: module/ages/view/ages/affiliates/report.phtml, line: 24
@@ -3920,6 +3924,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1665
 # File: module/ages/src/Controller/Packages.php, line: 3821
 # File: module/ages/src/Controller/Packages.php, line: 4083
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1665
 # File: module/ages/view/ages/customers/travelling.phtml, line: 47
 # File: module/ages/view/ages/customers/travellingtomorrow.phtml, line: 47
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 42
@@ -3994,6 +3999,8 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/settlement.phtml, line: 161
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 461
 # File: module/ages/src/Controller/CMS.php, line: 1625
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1728
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2116
 # File: module/ages/view/ages/agents/add_airsearches.phtml, line: 11
 # File: module/ages/view/ages/agents/add_searches.phtml, line: 11
 # File: module/ages/view/ages/agents/edit_accounting.phtml, line: 30
@@ -4180,6 +4187,10 @@ msgstr ""
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 17824
 # File: module/ages/src/Controller/Reports.php, line: 1753
 # File: module/ages/src/Controller/Reports.php, line: 4660
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 429
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 489
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 530
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1525
 # File: module/ages/view/ages/activities/listreservations.phtml, line: 13
 # File: module/ages/view/ages/activities/reservations.phtml, line: 13
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 18
@@ -4327,6 +4338,9 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 4503
 # File: module/ages/src/Controller/Reports.php, line: 8477
 # File: module/ages/src/Controller/Reports.php, line: 8480
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1567
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1755
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2143
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 37
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 38
 # File: module/ages/view/ages/hotels/addibsagecategory.phtml, line: 16
@@ -4348,6 +4362,9 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2143
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 271
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 474
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1567
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1755
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2143
 # File: module/ages/view/ages/activities/prices.phtml, line: 23
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 268
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 546
@@ -4442,6 +4459,9 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2143
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 271
 # File: module/ages/src/Controller/Reports.php, line: 8483
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1567
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1755
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2143
 # File: module/manager/view/contracts/mealsupplements.phtml, line: 119
 msgid "Child"
 msgstr ""
@@ -4461,6 +4481,9 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 475
 # File: module/ages/src/Controller/Customers.php, line: 4252
 # File: module/ages/src/Controller/Customers.php, line: 4507
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1567
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1755
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2143
 # File: module/ages/view/ages/activities/prices.phtml, line: 24
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 344
 # File: module/ages/view/ages/activities/prices_add.phtml, line: 622
@@ -4804,6 +4827,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/invoice_order_receipt.phtml, line: 181
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2407
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 168
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2407
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 17
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 27
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 27
@@ -4828,6 +4852,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/invoice_order_receipt.phtml, line: 183
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 572
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 572
 msgid "Quantity"
 msgstr ""
 #
@@ -4884,6 +4909,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/invoice_order_receipt.phtml, line: 216
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 809
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 391
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 809
 msgid "VAT"
 msgstr ""
 #
@@ -5550,6 +5576,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/quote_1.phtml, line: 218
 # File: module/ages/src/Controller/Templates/quote_1.phtml, line: 466
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 704
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 704
 msgid "children"
 msgstr ""
 #
@@ -5569,6 +5596,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation.phtml, line: 75
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 201
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 159
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 201
 # File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 287
 # File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 329
 # File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 332
@@ -5594,6 +5622,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/quote_1.phtml, line: 466
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 704
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 704
 msgid "adults"
 msgstr ""
 #
@@ -5616,6 +5645,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2598
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 169
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 272
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2598
 msgid "total"
 msgstr ""
 #
@@ -5731,6 +5761,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation.phtml, line: 180
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 690
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 690
 msgid "Room"
 msgstr ""
 #
@@ -5744,6 +5775,11 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1806
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 344
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 661
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 738
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 747
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 752
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1797
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1806
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4697
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5137
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5204
@@ -5754,6 +5790,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation.phtml, line: 207
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 753
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 753
 msgid "All cancellations are subject to administrative fees in accordance with the terms and conditions."
 msgstr ""
 #
@@ -5834,6 +5871,9 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1754
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2142
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 549
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1566
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1754
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2142
 # File: module/ages/view/ages/transfers/vehicles.phtml, line: 38
 # File: module/ages/view/ages/transfers/vehicles_add.phtml, line: 58
 # File: module/ages/view/ages/transfers/vehicles_add.phtml, line: 60
@@ -5912,6 +5952,9 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1124
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1169
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1372
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1124
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1169
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1372
 # File: module/ages/view/ages/activities/add.phtml, line: 21
 # File: module/ages/view/ages/activities/edit.phtml, line: 87
 # File: module/ages/view/ages/activities/edit.phtml, line: 90
@@ -5943,12 +5986,17 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1170
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1373
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 878
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1125
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1170
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1373
 msgid "days"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation.phtml, line: 515
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2432
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2446
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2432
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2446
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 26
 # File: module/ages/view/ages/reports/profit.phtml, line: 44
 # File: module/ages/view/ages/reports/sales.phtml, line: 56
@@ -5990,24 +6038,29 @@ msgid "Contact info"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 29
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 29
 msgid "Reservation Request"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 44
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 44
 # File: module/ages/view/ages/agents/detailedreport.phtml, line: 47
 msgid "Travel Agent"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 48
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 35
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 48
 msgid "Booking Confirmation"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 51
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 51
 msgid "Record Locator"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 54
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 54
 msgid "Lead Guest/Passenger Name"
 msgstr ""
 #
@@ -6038,6 +6091,23 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 8605
 # File: module/ages/src/Controller/Customers.php, line: 9824
 # File: module/ages/src/Controller/Hotels.php, line: 9527
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 54
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 259
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 260
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 261
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 262
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 874
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 875
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 876
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 877
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1848
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1849
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1850
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1851
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2185
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2186
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2187
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2188
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 27
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 23
 msgid "Ms"
@@ -6071,16 +6141,35 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 9820
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 15971
 # File: module/ages/src/Controller/Hotels.php, line: 9519
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 54
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 259
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 260
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 261
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 262
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 874
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 875
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 876
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 877
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1848
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1849
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1850
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1851
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2185
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2186
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2187
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2188
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 26
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 23
 msgid "Mr"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 69
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 69
 msgid "View Your Reservation Online"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 72
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 72
 msgid "Manage Your Account & Bookings"
 msgstr ""
 #
@@ -6092,10 +6181,18 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1665
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2048
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 50
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 92
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 622
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1069
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1317
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1477
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1665
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2048
 msgid "Offer Confirmation - Guest Copy"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 92
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 92
 msgid "Air / Transport"
 msgstr ""
 #
@@ -6107,6 +6204,13 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1672
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2060
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 53
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 104
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 634
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1081
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1329
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1484
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1672
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2060
 msgid "Reservation ID"
 msgstr ""
 #
@@ -6115,6 +6219,10 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1342
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2073
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 58
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 117
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1094
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1342
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2073
 # File: module/ages/view/ages/cms/featureddynamicpackages.phtml, line: 13
 # File: module/ages/view/ages/cms/featuredpackages.phtml, line: 13
 # File: module/ages/view/ages/packages/add.phtml, line: 264
@@ -6126,6 +6234,8 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 130
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 430
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 130
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 430
 # File: module/ages/view/ages/agents/deletetelemarketing.phtml, line: 49
 # File: module/ages/view/ages/agents/edit_telemarketing.phtml, line: 15
 # File: module/ages/view/ages/agents/returncustomers.phtml, line: 49
@@ -6217,6 +6327,13 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1700
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2088
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 65
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 132
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 662
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1109
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1357
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1512
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1700
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2088
 msgid "Issue Date"
 msgstr ""
 #
@@ -6227,6 +6344,12 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1713
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2101
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 70
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 145
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1122
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1167
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1370
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1713
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2101
 # File: module/ages/view/ages/activities/searchreservations.phtml, line: 18
 # File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 87
 # File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 96
@@ -6250,6 +6373,8 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 147
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1715
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 147
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1715
 # File: module/ages/view/ages/air/chartersavailability_add.phtml, line: 93
 # File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 103
 # File: module/ages/view/ages/air/chartersavailability_edit.phtml, line: 106
@@ -6258,6 +6383,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 160
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 143
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 160
 # File: module/ages/view/ages/air/listreservations.phtml, line: 39
 # File: module/ages/view/ages/air/reservations.phtml, line: 19
 # File: module/ages/view/ages/air/search.phtml, line: 22
@@ -6276,6 +6402,11 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1436
 # File: module/ages/src/Controller/Templates/settlement.phtml, line: 162
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 77
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 173
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1137
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1206
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1385
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1436
 # File: module/ages/view/ages/agents/edit_accounting.phtml, line: 29
 # File: module/ages/view/ages/customers/editaccounting.phtml, line: 14
 # File: module/ages/view/ages/customers/editaccountingconnectivity.phtml, line: 14
@@ -6308,6 +6439,7 @@ msgid "Itinerary"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 175
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 175
 msgid "Airline Confirmation Number"
 msgstr ""
 #
@@ -6325,6 +6457,12 @@ msgstr ""
 # File: module/ages/src/Controller/Newsletter.php, line: 4217
 # File: module/ages/src/Controller/Reports.php, line: 1766
 # File: module/ages/src/Controller/Reports.php, line: 1801
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 176
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 706
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1401
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1554
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1742
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2130
 # File: module/ages/view/ages/agents/edit_telemarketing.phtml, line: 36
 # File: module/ages/view/ages/agents/leads.phtml, line: 92
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 128
@@ -6349,6 +6487,7 @@ msgid "Pending"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 199
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 199
 msgid "Flight Number"
 msgstr ""
 #
@@ -6360,6 +6499,13 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1753
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2141
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 95
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 213
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 717
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1183
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1412
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1565
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1753
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2141
 msgid "Agent ID:"
 msgstr ""
 #
@@ -6371,6 +6517,13 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1753
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2141
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 95
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 213
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 717
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1183
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1412
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1565
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1753
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2141
 msgid "Agent Number:"
 msgstr ""
 #
@@ -6379,10 +6532,15 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1184
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1413
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 96
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 214
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 718
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1184
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1413
 msgid "Restrictions"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 216
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 216
 msgid "Distribution Channel"
 msgstr ""
 #
@@ -6390,6 +6548,10 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 852
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1826
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2163
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 237
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 852
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1826
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2163
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2337
 msgid "Passenger Information"
 msgstr ""
@@ -6410,6 +6572,22 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2171
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2172
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2173
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 244
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 245
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 246
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 247
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 859
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 860
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 861
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 862
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1833
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1834
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1835
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1836
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2170
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2171
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2172
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2173
 msgid "Pax #"
 msgstr ""
 #
@@ -6419,6 +6597,10 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2184
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 37
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 115
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 258
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 873
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1847
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2184
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3884
 # File: module/ages/view/ages/hotels/listreservations.phtml, line: 30
 # File: module/ages/view/ages/hotels/reservations.phtml, line: 18
@@ -6433,6 +6615,10 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1861
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2198
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 122
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 272
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 887
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1861
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2198
 msgid "Date of birth"
 msgstr ""
 #
@@ -6441,6 +6627,10 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1919
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2256
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 986
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 322
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 945
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1919
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2256
 # File: module/ages/view/ages/air/chartersreport.phtml, line: 42
 # File: module/ages/view/ages/customers/addpassdocuments.phtml, line: 28
 # File: module/ages/view/ages/customers/editpassdocuments.phtml, line: 28
@@ -6466,6 +6656,13 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 7736
 # File: module/ages/src/Controller/Newsletter.php, line: 7274
 # File: module/ages/src/Controller/Reports.php, line: 1755
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 337
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 960
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1934
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2271
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2372
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2376
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2380
 # File: module/ages/view/ages/affiliates/add.phtml, line: 30
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 30
 # File: module/ages/view/ages/affiliates/report.phtml, line: 20
@@ -6644,6 +6841,10 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 7735
 # File: module/ages/src/Controller/Newsletter.php, line: 7273
 # File: module/ages/src/Controller/Reports.php, line: 1754
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 351
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 974
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1948
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2285
 # File: module/ages/view/ages/affiliates/add.phtml, line: 36
 # File: module/ages/view/ages/affiliates/commissions.phtml, line: 21
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 36
@@ -6897,6 +7098,10 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 989
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1963
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2300
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 366
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 989
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1963
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2300
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2470
 # File: module/ages/view/ages/gift-cards/add.phtml, line: 31
 # File: module/ages/view/ages/gift-cards/edit.phtml, line: 47
@@ -6904,11 +7109,14 @@ msgid "Expiration Date"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 424
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 424
 msgid "Itinerary Details"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 431
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 567
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 431
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 567
 # File: module/ages/view/ages/agents/add_airsearches.phtml, line: 12
 # File: module/ages/view/ages/agents/edit_airsearches.phtml, line: 15
 # File: module/ages/view/ages/air/chartersavailability.phtml, line: 41
@@ -6920,20 +7128,26 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 432
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 568
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 432
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 568
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2044
 msgid "Arrival"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 460
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 464
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 460
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 464
 msgid "Time:"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 484
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 484
 msgid "Ticketing Details"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 490
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 490
 # File: module/ages/view/ages/air/listreservations.phtml, line: 32
 # File: module/ages/view/ages/air/searchticket.phtml, line: 11
 # File: module/ages/view/ages/air/searchticket.phtml, line: 25
@@ -6942,6 +7156,8 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 491
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 569
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 491
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 569
 # File: module/ages/view/ages/customers/travelling.phtml, line: 32
 # File: module/ages/view/ages/customers/travellingtomorrow.phtml, line: 32
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2753
@@ -6949,22 +7165,27 @@ msgid "Passenger"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 525
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 525
 msgid "Loyalty Program Details"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 531
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 531
 msgid "Points"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 543
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 543
 msgid "points will be credited to your account one day after the final day of your journey"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 562
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 562
 msgid "Baggage Details"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 570
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 570
 # File: module/ages/view/ages/cms/contentcities.phtml, line: 12
 # File: module/ages/view/ages/cms/contentcities_edit.phtml, line: 12
 # File: module/ages/view/ages/cruises/add_ships.phtml, line: 12
@@ -7000,10 +7221,12 @@ msgid "Category"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 571
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 571
 msgid "Baggage"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 660
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 660
 # File: module/ages/view/ages/affiliates/add.phtml, line: 19
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 19
 # File: module/ages/view/ages/agents/add.phtml, line: 24
@@ -7060,10 +7283,12 @@ msgid "Address"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 675
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 675
 msgid "Check In Date"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 677
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 677
 msgid "Check Out Date"
 msgstr ""
 #
@@ -7072,11 +7297,15 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 735
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 897
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 982
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 703
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1398
 msgid "Paxes"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 705
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1400
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 705
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1400
 # File: module/ages/view/ages/activities/searchreservations.phtml, line: 33
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2176
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2222
@@ -7089,80 +7318,102 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 739
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1798
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 336
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 739
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1798
 msgid "You can cancel reservation"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 739
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1798
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 336
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 739
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1798
 msgid "without any penalties"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 739
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1798
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 336
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 739
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1798
 msgid "BEFORE"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 741
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1800
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 338
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 741
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1800
 msgid "This is a Non-Refundable booking. It cannot be cancelled, amended or modified."
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 742
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1801
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 742
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1801
 msgid "Please note that this booking is non-refundable, meaning no money will be returned under any circumstances. It cannot be changed or amended, and no refund will be given for failure to arrive at the property."
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 755
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 351
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 755
 msgid "Comments or Special Requests"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 763
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 357
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 763
 msgid "Check-in instructions"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 771
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 363
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 771
 msgid "Special Check-in instructions"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 784
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 369
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 784
 msgid "Mandatory Fees"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 792
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 375
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 792
 msgid "Optionals"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 800
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 381
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 800
 msgid "Know before you go"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 804
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 808
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1596
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 804
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 808
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1596
 msgid "Notes"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 809
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 391
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 809
 msgid "Payable through"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 809
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 391
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 809
 msgid "acting as agent for the service operating company, details of which can be provided upon request."
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 809
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 391
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 809
 # File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 341
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentspay.phtml, line: 344
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentsunknown.phtml, line: 343
@@ -7174,14 +7425,17 @@ msgid "Reference"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 812
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 812
 msgid "Provider Emergency Contacts"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 829
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 829
 msgid "Important details to help you prepare for your visit"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 835
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 835
 msgid "If you have any questions or special requests ahead of your stay, feel free to reach out. We're here to ensure your visit is as comfortable and memorable as possible."
 msgstr ""
 #
@@ -7191,30 +7445,40 @@ msgstr ""
 # File: module/ages/src/Controller/ServiceFees.php, line: 1635
 # File: module/ages/src/Controller/ServiceFees.php, line: 1840
 # File: module/ages/src/Controller/ServiceFees.php, line: 2000
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3746
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1054
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1069
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1107
 msgid "Escorted Tour"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1150
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1150
 msgid "Additional Nights"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1151
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1151
 # File: module/manager/src/Controller/CancellationPolicies.php, line: 398
 msgid "night"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1151
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1373
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1151
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1373
 # File: module/manager/src/Controller/CancellationPolicies.php, line: 400
 # File: module/manager/src/Controller/SpecialOffers.php, line: 233
 msgid "nights"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1151
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1151
 msgid "at the beginning of trip"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1151
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1151
 msgid "at the end of trip"
 msgstr ""
 #
@@ -7231,6 +7495,7 @@ msgstr ""
 # File: module/ages/src/Controller/ServiceFees.php, line: 1615
 # File: module/ages/src/Controller/ServiceFees.php, line: 1820
 # File: module/ages/src/Controller/ServiceFees.php, line: 1995
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1152
 # File: module/ages/view/ages/affiliates/add.phtml, line: 97
 # File: module/ages/view/ages/affiliates/add_transfers.phtml, line: 1
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 97
@@ -7270,20 +7535,26 @@ msgid "Transfers"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1153
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1153
 msgid "Transfer on Arrival"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1153
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1153
 msgid "Transfer on Departure"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1200
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1430
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1200
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1430
 msgid "Detailed Itinerary"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1205
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1435
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1205
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1435
 # File: module/ages/view/ages/activities/analysis.phtml, line: 213
 # File: module/ages/view/ages/air/analysis.phtml, line: 213
 # File: module/ages/view/ages/cars/analysis.phtml, line: 213
@@ -7316,16 +7587,23 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1243
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1244
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1243
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1244
 msgid "Includes"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1272
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1272
 msgid "Planned Hotels"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1303
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1317
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1355
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3753
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1303
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1317
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1355
 # File: module/ages/view/ages/cms/featuredpackages_add.phtml, line: 12
 # File: module/ages/view/ages/cms/featuredpackages_edit.phtml, line: 12
 # File: module/ages/view/ages/customers/travelling.phtml, line: 47
@@ -7356,12 +7634,14 @@ msgid "Package"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1472
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1472
 msgid "Activity Details"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1477
 # File: module/ages/src/Controller/Packages.php, line: 3807
 # File: module/ages/src/Controller/Packages.php, line: 4079
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1477
 # File: module/ages/view/ages/activities/images.phtml, line: 9
 # File: module/ages/view/ages/activities/images.phtml, line: 20
 # File: module/ages/view/ages/activities/images_add.phtml, line: 16
@@ -7384,6 +7664,7 @@ msgid "Activity"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1497
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1497
 # File: module/ages/view/ages/activities/add.phtml, line: 55
 # File: module/ages/view/ages/activities/add_highlights.phtml, line: 7
 # File: module/ages/view/ages/activities/add_highlights.phtml, line: 9
@@ -7399,6 +7680,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/travelers-choice.phtml, line: 623
 # File: module/ages/src/Controller/Packages.php, line: 1106
 # File: module/ages/src/Controller/Packages.php, line: 1768
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1510
 # File: module/ages/view/ages/activities/add.phtml, line: 13
 # File: module/ages/view/ages/activities/edit.phtml, line: 33
 # File: module/ages/view/ages/activities/edit.phtml, line: 36
@@ -7461,6 +7743,7 @@ msgid "Location"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1527
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1527
 # File: module/ages/view/ages/activities/listreservations.phtml, line: 18
 # File: module/ages/view/ages/customers/editglobalwareinvoice.phtml, line: 52
 # File: module/ages/view/ages/hotels/listreservations.phtml, line: 32
@@ -7483,6 +7766,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 706
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 868
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 952
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1540
 # File: module/ages/view/ages/customers/cancellationrequests.phtml, line: 36
 # File: module/ages/view/ages/customers/cancellationrequestsedit.phtml, line: 54
 # File: module/ages/view/ages/customers/cancellationrequestsedit.phtml, line: 57
@@ -7505,27 +7789,33 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1553
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1741
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1553
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1741
 msgid "Voucher Number"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1582
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 778
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1582
 msgid "Departure Point"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1599
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 757
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 965
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1599
 msgid "From:"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1600
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 760
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 965
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1600
 msgid "To:"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1610
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1610
 # File: module/ages/view/ages/affiliates/add.phtml, line: 85
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 85
 # File: module/ages/view/ages/affiliates/index.phtml, line: 18
@@ -7597,10 +7887,12 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1617
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 786
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1617
 msgid "Know Before You Go"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1623
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1623
 # File: module/ages/view/ages/agents/import.phtml, line: 16
 # File: module/ages/view/ages/companies/addbusinessunits.phtml, line: 18
 # File: module/ages/view/ages/companies/businessunits_edit.phtml, line: 18
@@ -7610,39 +7902,47 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1628
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 794
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1628
 msgid "Safety Measures"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1633
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 802
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1633
 msgid "Inclusions & Exclusions"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1636
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 805
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1636
 msgid "What's Included"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1640
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 813
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1640
 msgid "What's not Included"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1646
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 822
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1646
 msgid "Tour Language"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1651
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 828
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1651
 msgid "Special Instructions"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1660
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1660
 msgid "Transfers Details"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1685
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1685
 # File: module/ages/view/ages/cms/featuredtransfers.phtml, line: 13
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5277
 # File: module/ages/view/ages/newsletter/addtransfer.phtml, line: 11
@@ -7658,15 +7958,20 @@ msgid "Transfer Type"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1698
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 1698
 msgid "Transfer From"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2032
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2032
 msgid "Insurance Details"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2048
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2086
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3760
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2048
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2086
 # File: module/ages/view/ages/agents/add.phtml, line: 175
 # File: module/ages/view/ages/agents/add_insurance.phtml, line: 1
 # File: module/ages/view/ages/agents/edit.phtml, line: 160
@@ -7686,6 +7991,7 @@ msgid "Insurance"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2103
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2103
 # File: module/ages/view/ages/customers/editglobalwareinvoice.phtml, line: 30
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2756
 # File: module/ages/view/ages/newsletter/addtransfer.phtml, line: 18
@@ -7696,11 +8002,13 @@ msgid "Return Date"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2129
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2129
 # File: module/ages/view/ages/reports/insurancessales.phtml, line: 43
 msgid "Policy Number"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2369
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2369
 msgid "Emergency Numbers"
 msgstr ""
 #
@@ -7710,95 +8018,115 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 1024
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 1039
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 1054
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2372
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2376
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2380
 msgid "WhatsApp"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2384
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 1064
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2384
 # File: module/setup/view/settings/settings.phtml, line: 737
 msgid "Emergency Email"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2401
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 166
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2401
 msgid "Charges"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2419
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2419
 msgid "Sub Total"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2459
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 210
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2459
 msgid "Total Charge"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2492
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 222
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2492
 msgid "Promotions Applied"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2525
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 233
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2525
 msgid "The minimum deposit for this reservation is Non-Refundable. A change fee of 100 USD per guest will apply for ship or sail date changes."
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2563
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 253
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2563
 msgid "on board credit"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2579
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 109
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 260
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2579
 msgid "Guest #1"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2584
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 110
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 263
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2584
 msgid "Guest #2"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2589
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 111
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 266
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2589
 msgid "Guest #3"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2594
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 112
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 269
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2594
 msgid "Guest #4"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2676
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 307
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2676
 msgid "Travel arrangements"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2677
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 308
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2677
 msgid "Local Times"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2690
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 312
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2690
 msgid "Arrive"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2693
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 313
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2693
 msgid "Depart"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2703
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 315
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2703
 msgid "Cruise Itinerary:"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2739
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 323
+# File: module/ages/src/Templates/reservation_v2.phtml, line: 2739
 msgid "Cruise itinerary may change without notice as conditions warrant."
 msgstr ""
 #
@@ -10680,7 +11008,8 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 1185
 # File: module/ages/src/Controller/Customers.php, line: 8673
 # File: module/ages/src/Controller/Customers.php, line: 9892
-# File: module/ages/src/Controller/Voucher.php, line: 2557
+# File: module/ages/src/Controller/Voucher.php, line: 2642
+# File: module/ages/src/Shared/Sendemailv2.php, line: 2970
 # File: module/ages/view/ages/agents/leads.phtml, line: 99
 # File: module/ages/view/ages/cruises/editstaticships.phtml, line: 143
 # File: module/ages/view/ages/login/index.phtml, line: 71
@@ -10714,7 +11043,8 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 1187
 # File: module/ages/src/Controller/Customers.php, line: 8677
 # File: module/ages/src/Controller/Customers.php, line: 9896
-# File: module/ages/src/Controller/Voucher.php, line: 2560
+# File: module/ages/src/Controller/Voucher.php, line: 2645
+# File: module/ages/src/Shared/Sendemailv2.php, line: 2973
 # File: module/ages/view/ages/agents/leads.phtml, line: 101
 # File: module/ages/view/ages/cruises/editstaticships.phtml, line: 145
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 357
@@ -11961,6 +12291,7 @@ msgstr ""
 # File: module/ages/src/Controller/ServiceFees.php, line: 1619
 # File: module/ages/src/Controller/ServiceFees.php, line: 1824
 # File: module/ages/src/Controller/ServiceFees.php, line: 1996
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3739
 # File: module/ages/view/ages/affiliates/add_flights.phtml, line: 1
 # File: module/ages/view/ages/affiliates/edit_flights.phtml, line: 1
 # File: module/ages/view/ages/agents/add_flights.phtml, line: 1
@@ -13147,7 +13478,8 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Customers.php, line: 8681
 # File: module/ages/src/Controller/Customers.php, line: 9900
-# File: module/ages/src/Controller/Voucher.php, line: 2566
+# File: module/ages/src/Controller/Voucher.php, line: 2651
+# File: module/ages/src/Shared/Sendemailv2.php, line: 2979
 # File: module/ages/view/ages/cruises/editstaticships.phtml, line: 151
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 363
 # File: module/ages/view/ages/hotels/editstatichotelsportuguese.phtml, line: 2
@@ -13198,7 +13530,8 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Customers.php, line: 8689
 # File: module/ages/src/Controller/Customers.php, line: 9908
-# File: module/ages/src/Controller/Voucher.php, line: 2563
+# File: module/ages/src/Controller/Voucher.php, line: 2648
+# File: module/ages/src/Shared/Sendemailv2.php, line: 2976
 # File: module/ages/view/ages/cruises/editstaticships.phtml, line: 149
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 361
 # File: module/ages/view/ages/hotels/editstatichotelsitalian.phtml, line: 2
@@ -13224,7 +13557,8 @@ msgid "Italian"
 msgstr ""
 #
 # File: module/ages/src/Controller/Customers.php, line: 8693
-# File: module/ages/src/Controller/Voucher.php, line: 2569
+# File: module/ages/src/Controller/Voucher.php, line: 2654
+# File: module/ages/src/Shared/Sendemailv2.php, line: 2982
 # File: module/ages/view/ages/cruises/editstaticships.phtml, line: 153
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 365
 # File: module/ages/view/ages/hotels/editstatichotelsgerman.phtml, line: 2
@@ -14745,7 +15079,8 @@ msgstr ""
 msgid "Agent not found"
 msgstr ""
 #
-# File: module/ages/src/Controller/Voucher.php, line: 2572
+# File: module/ages/src/Controller/Voucher.php, line: 2657
+# File: module/ages/src/Shared/Sendemailv2.php, line: 2985
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 373
 # File: module/ages/view/ages/hotels/editstatichotelsjapanese.phtml, line: 2
 # File: module/ages/view/ages/login/index.phtml, line: 90
@@ -14763,14 +15098,16 @@ msgstr ""
 msgid "Japanese"
 msgstr ""
 #
-# File: module/ages/src/Controller/Voucher.php, line: 2575
+# File: module/ages/src/Controller/Voucher.php, line: 2660
+# File: module/ages/src/Shared/Sendemailv2.php, line: 2988
 # File: module/setup/view/cars/cartrawler.phtml, line: 193
 # File: module/setup/view/hotels/gta.phtml, line: 70
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 85
 msgid "Korean"
 msgstr ""
 #
-# File: module/ages/src/Controller/Voucher.php, line: 2578
+# File: module/ages/src/Controller/Voucher.php, line: 2663
+# File: module/ages/src/Shared/Sendemailv2.php, line: 2991
 # File: module/ages/view/ages/cruises/editstaticships.phtml, line: 159
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 371
 # File: module/ages/view/ages/hotels/editstatichotelsrussian.phtml, line: 2
@@ -14787,7 +15124,8 @@ msgstr ""
 msgid "Russian"
 msgstr ""
 #
-# File: module/ages/src/Controller/Voucher.php, line: 2581
+# File: module/ages/src/Controller/Voucher.php, line: 2666
+# File: module/ages/src/Shared/Sendemailv2.php, line: 2994
 # File: module/ages/view/ages/cruises/editstaticships.phtml, line: 157
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 369
 # File: module/ages/view/ages/hotels/editstatichotelschinese.phtml, line: 2
@@ -14803,16 +15141,60 @@ msgstr ""
 msgid "Chinese"
 msgstr ""
 #
-# File: module/ages/src/Controller/Voucher.php, line: 2586
+# File: module/ages/src/Controller/Voucher.php, line: 2671
+# File: module/ages/src/Shared/Sendemailv2.php, line: 2999
 msgid "Audio"
 msgstr ""
 #
-# File: module/ages/src/Controller/Voucher.php, line: 2589
+# File: module/ages/src/Controller/Voucher.php, line: 2674
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3002
 msgid "Guide"
 msgstr ""
 #
 # File: module/ages/src/Controller/SubAgents.php, line: 4199
 msgid "No Company"
+msgstr ""
+#
+# File: module/ages/src/Shared/Sendemailv2.php, line: 505
+# File: module/ages/src/Shared/Sendemailv2.php, line: 511
+msgid "Reservation is being processed"
+msgstr ""
+#
+# File: module/ages/src/Shared/Sendemailv2.php, line: 947
+msgid "Your Reservation is Confirmed"
+msgstr ""
+#
+# File: module/ages/src/Shared/Sendemailv2.php, line: 949
+# File: module/ages/src/Shared/Sendemailv2.php, line: 955
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4619
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4621
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4644
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4646
+msgid "Your Reservation with"
+msgstr ""
+#
+# File: module/ages/src/Shared/Sendemailv2.php, line: 949
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4619
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4644
+msgid "is Confirmed"
+msgstr ""
+#
+# File: module/ages/src/Shared/Sendemailv2.php, line: 953
+msgid "Your Reservation is Being Processed"
+msgstr ""
+#
+# File: module/ages/src/Shared/Sendemailv2.php, line: 955
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4621
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4646
+msgid "is Being Processed"
+msgstr ""
+#
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3764
+msgid "Only"
+msgstr ""
+#
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4318
+msgid "Your MoneyGram Order Confirmation and Reference Number"
 msgstr ""
 #
 # File: module/ages/view/ages/access-denied/index.phtml, line: 8
