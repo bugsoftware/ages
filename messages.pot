@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-19 02:08-0500\n"
+"POT-Creation-Date: 2026-01-20 18:51-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -367,12 +367,12 @@ msgstr ""
 # File: module/ages/view/ages/customers/supervise.phtml, line: 102
 # File: module/ages/view/ages/customers/telemarketing.phtml, line: 65
 # File: module/ages/view/ages/customers/telemarketing.phtml, line: 67
-# File: module/ages/view/ages/customers/zombie.phtml, line: 170
-# File: module/ages/view/ages/customers/zombie.phtml, line: 172
-# File: module/ages/view/ages/customers/whitelist.phtml, line: 48
-# File: module/ages/view/ages/customers/whitelist.phtml, line: 50
 # File: module/ages/view/ages/customers/viplist.phtml, line: 48
 # File: module/ages/view/ages/customers/viplist.phtml, line: 50
+# File: module/ages/view/ages/customers/whitelist.phtml, line: 48
+# File: module/ages/view/ages/customers/whitelist.phtml, line: 50
+# File: module/ages/view/ages/customers/zombie.phtml, line: 170
+# File: module/ages/view/ages/customers/zombie.phtml, line: 172
 # File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 56
 # File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 58
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 112
@@ -677,9 +677,9 @@ msgstr ""
 # File: module/ages/view/ages/customers/searchglobalware.phtml, line: 71
 # File: module/ages/view/ages/customers/supervise.phtml, line: 100
 # File: module/ages/view/ages/customers/telemarketing.phtml, line: 65
-# File: module/ages/view/ages/customers/zombie.phtml, line: 170
-# File: module/ages/view/ages/customers/whitelist.phtml, line: 48
 # File: module/ages/view/ages/customers/viplist.phtml, line: 48
+# File: module/ages/view/ages/customers/whitelist.phtml, line: 48
+# File: module/ages/view/ages/customers/zombie.phtml, line: 170
 # File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 56
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 112
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3161
@@ -2715,11 +2715,11 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4693
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5125
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 50
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 105
 # File: module/ages/view/ages/reports/agentsbenchmark.phtml, line: 60
 # File: module/ages/view/ages/reports/companies.phtml, line: 57
 # File: module/ages/view/ages/reports/hotelssales.phtml, line: 72
 # File: module/ages/view/ages/reports/insurancessales.phtml, line: 45
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 105
 # File: module/ages/view/ages/transfers/checkin.phtml, line: 38
 msgid "Net"
 msgstr ""
@@ -2785,6 +2785,7 @@ msgstr ""
 # File: module/ages/view/ages/hotels/checkin.phtml, line: 51
 # File: module/ages/view/ages/index/index.phtml, line: 158
 # File: module/ages/view/ages/index/index.phtml, line: 183
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 106
 # File: module/ages/view/ages/reports/agentsbenchmark.phtml, line: 61
 # File: module/ages/view/ages/reports/companies.phtml, line: 58
 # File: module/ages/view/ages/reports/hotelssales.phtml, line: 73
@@ -2794,7 +2795,6 @@ msgstr ""
 # File: module/ages/view/ages/reports/profit.phtml, line: 46
 # File: module/ages/view/ages/reports/sales.phtml, line: 58
 # File: module/ages/view/ages/reports/supervisorsales.phtml, line: 25
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 106
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 17
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 17
 # File: module/ages/view/ages/transfers/checkin.phtml, line: 39
@@ -3765,6 +3765,9 @@ msgstr ""
 # File: module/ages/view/ages/packages/editpreferredhotels.phtml, line: 13
 # File: module/ages/view/ages/packages/preferredcruises.phtml, line: 23
 # File: module/ages/view/ages/packages/preferredhotels.phtml, line: 23
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 27
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 29
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 104
 # File: module/ages/view/ages/reports/activities.phtml, line: 22
 # File: module/ages/view/ages/reports/activities.phtml, line: 23
 # File: module/ages/view/ages/reports/cars.phtml, line: 22
@@ -3794,9 +3797,6 @@ msgstr ""
 # File: module/ages/view/ages/reports/tours.phtml, line: 23
 # File: module/ages/view/ages/reports/transfers.phtml, line: 22
 # File: module/ages/view/ages/reports/transfers.phtml, line: 23
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 27
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 29
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 104
 # File: module/ages/view/ages/tours/listreservations.phtml, line: 20
 # File: module/ages/view/ages/tours/reservations.phtml, line: 20
 # File: module/ages/view/ages/tours/searchreservations.phtml, line: 13
@@ -4251,6 +4251,7 @@ msgstr ""
 # File: module/ages/view/ages/packages/listreservations.phtml, line: 12
 # File: module/ages/view/ages/packages/reservations.phtml, line: 12
 # File: module/ages/view/ages/packages/searchreservations.phtml, line: 26
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 100
 # File: module/ages/view/ages/reports/agentsbenchmark.phtml, line: 55
 # File: module/ages/view/ages/reports/b2bwallet.phtml, line: 30
 # File: module/ages/view/ages/reports/companies.phtml, line: 49
@@ -4261,7 +4262,6 @@ msgstr ""
 # File: module/ages/view/ages/reports/insurancessales.phtml, line: 38
 # File: module/ages/view/ages/reports/invoices.phtml, line: 13
 # File: module/ages/view/ages/reports/supervisorsales.phtml, line: 18
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 100
 # File: module/ages/view/ages/sub-agents/edit_telemarketing.phtml, line: 10
 # File: module/ages/view/ages/tours/listreservations.phtml, line: 16
 # File: module/ages/view/ages/tours/reservations.phtml, line: 16
@@ -5275,6 +5275,9 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/whatsapp.phtml, line: 33
 # File: module/ages/view/ages/packages/analysis.phtml, line: 18
 # File: module/ages/view/ages/packages/analysis.phtml, line: 22
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 17
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 21
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 103
 # File: module/ages/view/ages/reports/activities.phtml, line: 19
 # File: module/ages/view/ages/reports/activities.phtml, line: 20
 # File: module/ages/view/ages/reports/agents.phtml, line: 10
@@ -5337,9 +5340,6 @@ msgstr ""
 # File: module/ages/view/ages/reports/tours.phtml, line: 20
 # File: module/ages/view/ages/reports/transfers.phtml, line: 19
 # File: module/ages/view/ages/reports/transfers.phtml, line: 20
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 17
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 21
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 103
 # File: module/ages/view/ages/service-fees/geotargetmarkup.phtml, line: 17
 # File: module/ages/view/ages/service-fees/geotargetmarkup_add.phtml, line: 12
 # File: module/ages/view/ages/service-fees/geotargetmarkup_edit.phtml, line: 12
@@ -6739,13 +6739,13 @@ msgstr ""
 # File: module/ages/view/ages/customers/search.phtml, line: 17
 # File: module/ages/view/ages/customers/search.phtml, line: 39
 # File: module/ages/view/ages/customers/supportedit.phtml, line: 111
-# File: module/ages/view/ages/customers/zombie.phtml, line: 48
-# File: module/ages/view/ages/customers/whitelist.phtml, line: 14
-# File: module/ages/view/ages/customers/whitelist_add.phtml, line: 13
-# File: module/ages/view/ages/customers/whitelist_edit.phtml, line: 13
 # File: module/ages/view/ages/customers/viplist.phtml, line: 14
 # File: module/ages/view/ages/customers/viplist_add.phtml, line: 13
 # File: module/ages/view/ages/customers/viplist_edit.phtml, line: 13
+# File: module/ages/view/ages/customers/whitelist.phtml, line: 14
+# File: module/ages/view/ages/customers/whitelist_add.phtml, line: 13
+# File: module/ages/view/ages/customers/whitelist_edit.phtml, line: 13
+# File: module/ages/view/ages/customers/zombie.phtml, line: 48
 # File: module/ages/view/ages/dynamic-packaging/add_quotes.phtml, line: 16
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 23
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 33
@@ -6864,6 +6864,7 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit.phtml, line: 55
 # File: module/ages/view/ages/agents/edit_customers.phtml, line: 12
 # File: module/ages/view/ages/agents/edit_leads.phtml, line: 88
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 136
 # File: module/ages/view/ages/agents/edit_telemarketing.phtml, line: 18
 # File: module/ages/view/ages/agents/import.phtml, line: 13
 # File: module/ages/view/ages/agents/import.phtml, line: 51
@@ -6878,7 +6879,6 @@ msgstr ""
 # File: module/ages/view/ages/agents/telemarketing.phtml, line: 49
 # File: module/ages/view/ages/agents/transfercustomers.phtml, line: 26
 # File: module/ages/view/ages/agents/withoutsales.phtml, line: 34
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 136
 # File: module/ages/view/ages/air/chartersreport.phtml, line: 40
 # File: module/ages/view/ages/air/index.phtml, line: 14
 # File: module/ages/view/ages/cars/index.phtml, line: 14
@@ -6938,13 +6938,13 @@ msgstr ""
 # File: module/ages/view/ages/customers/searchglobalware.phtml, line: 32
 # File: module/ages/view/ages/customers/supportedit.phtml, line: 83
 # File: module/ages/view/ages/customers/supportedit.phtml, line: 86
-# File: module/ages/view/ages/customers/zombie.phtml, line: 47
-# File: module/ages/view/ages/customers/whitelist.phtml, line: 12
-# File: module/ages/view/ages/customers/whitelist_add.phtml, line: 11
-# File: module/ages/view/ages/customers/whitelist_edit.phtml, line: 11
 # File: module/ages/view/ages/customers/viplist.phtml, line: 12
 # File: module/ages/view/ages/customers/viplist_add.phtml, line: 11
 # File: module/ages/view/ages/customers/viplist_edit.phtml, line: 11
+# File: module/ages/view/ages/customers/whitelist.phtml, line: 12
+# File: module/ages/view/ages/customers/whitelist_add.phtml, line: 11
+# File: module/ages/view/ages/customers/whitelist_edit.phtml, line: 11
+# File: module/ages/view/ages/customers/zombie.phtml, line: 47
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 24
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 34
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 34
@@ -7334,10 +7334,10 @@ msgstr ""
 # File: module/setup/view/air/amadeus.phtml, line: 309
 # File: module/setup/view/hotels/ati.phtml, line: 78
 # File: module/setup/view/hotels/ati.phtml, line: 79
-# File: module/setup/view/hotels/hoteldo.phtml, line: 75
-# File: module/setup/view/hotels/hoteldo.phtml, line: 76
 # File: module/setup/view/hotels/ebookingcenter.phtml, line: 58
 # File: module/setup/view/hotels/ebookingcenter.phtml, line: 59
+# File: module/setup/view/hotels/hoteldo.phtml, line: 75
+# File: module/setup/view/hotels/hoteldo.phtml, line: 76
 # File: module/setup/view/packages/generali.phtml, line: 69
 # File: module/setup/view/packages/generali.phtml, line: 70
 # File: module/setup/view/settings/settings.phtml, line: 476
@@ -8401,7 +8401,6 @@ msgid "stars"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/travelers-choice.phtml, line: 1277
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 43
 msgid "If you don't want to receive emails, please"
 msgstr ""
 #
@@ -8460,14 +8459,14 @@ msgstr ""
 # File: module/ages/view/ages/hotels/searchreservations.phtml, line: 23
 # File: module/ages/view/ages/hotels/searchreservations.phtml, line: 24
 # File: module/ages/view/ages/index/index.phtml, line: 146
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 43
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 45
 # File: module/ages/view/ages/reports/hotels.phtml, line: 37
 # File: module/ages/view/ages/reports/hotels.phtml, line: 38
 # File: module/ages/view/ages/reports/payments.phtml, line: 36
 # File: module/ages/view/ages/reports/profit.phtml, line: 48
 # File: module/ages/view/ages/reports/sales.phtml, line: 60
 # File: module/ages/view/ages/reports/supervisorsales.phtml, line: 23
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 43
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 45
 msgid "Reservation Status"
 msgstr ""
 #
@@ -9009,80 +9008,6 @@ msgstr ""
 msgid "Total Commission Amount"
 msgstr ""
 #
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 20
-msgid "welcome to"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 22
-msgid "For every"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 22
-msgid "you spend, you earn"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 22
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 25
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 26
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 27
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 28
-msgid "points"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 22
-msgid "Your points unlock exclusive rewards, upgrades, and member-only perks - the more you travel, the faster you rise!"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 23
-msgid "Here's how it works:"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 25
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 26
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 27
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 28
-msgid "Spend"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 25
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 26
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 27
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 28
-msgid "Earn"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 25
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 26
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 27
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 28
-msgid "Worth"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 30
-msgid "Your journeys don't just take you places - they build your rewards balance for future adventures."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 31
-msgid "Start earning today and make every journey more rewarding!"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 32
-msgid "This offer is valid across all products - hotels, flights, transfers, tours, and more."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 33
-# File: module/ages/view/ages/hotels/index.phtml, line: 65
-msgid "Activate"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 43
-# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 5
-# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 88
-# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 89
-# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 94
-msgid "Unsubscribe"
-msgstr ""
-#
 # File: module/ages/src/Controller/Activities.php, line: 244
 # File: module/ages/src/Controller/Affiliates.php, line: 5340
 # File: module/ages/src/Controller/Air.php, line: 1163
@@ -9457,10 +9382,10 @@ msgstr ""
 # File: module/ages/src/Controller/Insurances.php, line: 287
 # File: module/ages/src/Controller/Packages.php, line: 291
 # File: module/ages/src/Controller/Reports.php, line: 2641
-# File: module/ages/src/Controller/Tours.php, line: 287
-# File: module/ages/src/Controller/Transfers.php, line: 288
 # File: module/ages/src/Controller/SubAgents.php, line: 4022
 # File: module/ages/src/Controller/SubAgents.php, line: 6536
+# File: module/ages/src/Controller/Tours.php, line: 287
+# File: module/ages/src/Controller/Transfers.php, line: 288
 # File: module/ages/view/ages/agents/index.phtml, line: 60
 # File: module/ages/view/ages/agents/withoutsales.phtml, line: 56
 # File: module/ages/view/ages/agents/zombie.phtml, line: 55
@@ -9494,10 +9419,10 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 339
 # File: module/ages/src/Controller/Reports.php, line: 2645
 # File: module/ages/src/Controller/Reports.php, line: 6167
-# File: module/ages/src/Controller/Tours.php, line: 291
-# File: module/ages/src/Controller/Transfers.php, line: 292
 # File: module/ages/src/Controller/SubAgents.php, line: 4024
 # File: module/ages/src/Controller/SubAgents.php, line: 6538
+# File: module/ages/src/Controller/Tours.php, line: 291
+# File: module/ages/src/Controller/Transfers.php, line: 292
 # File: module/ages/view/ages/air/private.phtml, line: 28
 # File: module/ages/view/ages/air/toxicairlines.phtml, line: 40
 # File: module/ages/view/ages/air/toxicfares.phtml, line: 37
@@ -9664,6 +9589,13 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 9733
 # File: module/ages/src/Controller/Reports.php, line: 9734
 # File: module/ages/src/Controller/Reports.php, line: 11299
+# File: module/ages/src/Controller/SubAgents.php, line: 3791
+# File: module/ages/src/Controller/SubAgents.php, line: 3818
+# File: module/ages/src/Controller/SubAgents.php, line: 3945
+# File: module/ages/src/Controller/SubAgents.php, line: 6310
+# File: module/ages/src/Controller/SubAgents.php, line: 6335
+# File: module/ages/src/Controller/SubAgents.php, line: 6459
+# File: module/ages/src/Controller/SubAgents.php, line: 6600
 # File: module/ages/src/Controller/Tours.php, line: 3952
 # File: module/ages/src/Controller/Tours.php, line: 4055
 # File: module/ages/src/Controller/Transfers.php, line: 457
@@ -9681,13 +9613,6 @@ msgstr ""
 # File: module/ages/src/Controller/Users.php, line: 8233
 # File: module/ages/src/Controller/Users.php, line: 8510
 # File: module/ages/src/Controller/Users.php, line: 8532
-# File: module/ages/src/Controller/SubAgents.php, line: 3791
-# File: module/ages/src/Controller/SubAgents.php, line: 3818
-# File: module/ages/src/Controller/SubAgents.php, line: 3945
-# File: module/ages/src/Controller/SubAgents.php, line: 6310
-# File: module/ages/src/Controller/SubAgents.php, line: 6335
-# File: module/ages/src/Controller/SubAgents.php, line: 6459
-# File: module/ages/src/Controller/SubAgents.php, line: 6600
 # File: module/ages/view/ages/affiliates/add_branches.phtml, line: 8
 # File: module/ages/view/ages/affiliates/add_cms.phtml, line: 23
 # File: module/ages/view/ages/affiliates/add_flights.phtml, line: 17
@@ -10440,6 +10365,9 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 12465
 # File: module/ages/src/Controller/Reports.php, line: 12479
 # File: module/ages/src/Controller/ServiceFees.php, line: 850
+# File: module/ages/src/Controller/SubAgents.php, line: 3718
+# File: module/ages/src/Controller/SubAgents.php, line: 6232
+# File: module/ages/src/Controller/SubAgents.php, line: 6815
 # File: module/ages/src/Controller/Tours.php, line: 877
 # File: module/ages/src/Controller/Tours.php, line: 1283
 # File: module/ages/src/Controller/Transfers.php, line: 3374
@@ -10452,9 +10380,6 @@ msgstr ""
 # File: module/ages/src/Controller/Users.php, line: 7853
 # File: module/ages/src/Controller/Users.php, line: 8255
 # File: module/ages/src/Controller/Users.php, line: 8482
-# File: module/ages/src/Controller/SubAgents.php, line: 3718
-# File: module/ages/src/Controller/SubAgents.php, line: 6232
-# File: module/ages/src/Controller/SubAgents.php, line: 6815
 # File: module/ages/view/ages/reports/flights.phtml, line: 30
 # File: module/manager/src/Controller/Hotel.php, line: 240
 msgid "All Companies"
@@ -10563,6 +10488,7 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit.phtml, line: 18
 # File: module/ages/view/ages/agents/edit_customers.phtml, line: 11
 # File: module/ages/view/ages/agents/edit_leads.phtml, line: 29
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 135
 # File: module/ages/view/ages/agents/import.phtml, line: 15
 # File: module/ages/view/ages/agents/import.phtml, line: 51
 # File: module/ages/view/ages/agents/index.phtml, line: 31
@@ -10573,7 +10499,6 @@ msgstr ""
 # File: module/ages/view/ages/agents/search.phtml, line: 29
 # File: module/ages/view/ages/agents/withoutsales.phtml, line: 30
 # File: module/ages/view/ages/agents/zombie.phtml, line: 30
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 135
 # File: module/ages/view/ages/air/chartersreport.phtml, line: 39
 # File: module/ages/view/ages/air/searchticket.phtml, line: 29
 # File: module/ages/view/ages/companies/agents.phtml, line: 27
@@ -10650,6 +10575,7 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit.phtml, line: 17
 # File: module/ages/view/ages/agents/edit_customers.phtml, line: 10
 # File: module/ages/view/ages/agents/edit_leads.phtml, line: 17
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 134
 # File: module/ages/view/ages/agents/import.phtml, line: 14
 # File: module/ages/view/ages/agents/import.phtml, line: 51
 # File: module/ages/view/ages/agents/index.phtml, line: 32
@@ -10660,7 +10586,6 @@ msgstr ""
 # File: module/ages/view/ages/agents/search.phtml, line: 30
 # File: module/ages/view/ages/agents/withoutsales.phtml, line: 31
 # File: module/ages/view/ages/agents/zombie.phtml, line: 31
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 134
 # File: module/ages/view/ages/air/chartersreport.phtml, line: 38
 # File: module/ages/view/ages/air/searchticket.phtml, line: 28
 # File: module/ages/view/ages/companies/agents.phtml, line: 28
@@ -11330,6 +11255,7 @@ msgstr ""
 # File: module/ages/view/ages/users/edit.phtml, line: 1307
 # File: module/setup/view/activities/actiontravel.phtml, line: 84
 # File: module/setup/view/activities/coming2.phtml, line: 99
+# File: module/setup/view/activities/daytrip.phtml, line: 60
 # File: module/setup/view/activities/destinationservices.phtml, line: 67
 # File: module/setup/view/activities/gltours.phtml, line: 62
 # File: module/setup/view/activities/hotelbeds.phtml, line: 92
@@ -11342,11 +11268,11 @@ msgstr ""
 # File: module/setup/view/activities/trapsatur.phtml, line: 75
 # File: module/setup/view/activities/tuimusement.phtml, line: 66
 # File: module/setup/view/activities/viator.phtml, line: 100
-# File: module/setup/view/activities/daytrip.phtml, line: 60
 # File: module/setup/view/air/aeromexico.phtml, line: 174
 # File: module/setup/view/air/airgateway.phtml, line: 57
 # File: module/setup/view/air/amadeus.phtml, line: 333
 # File: module/setup/view/air/americanairlines.phtml, line: 173
+# File: module/setup/view/air/arajetsabre.phtml, line: 58
 # File: module/setup/view/air/avianca.phtml, line: 198
 # File: module/setup/view/air/copa.phtml, line: 163
 # File: module/setup/view/air/ctm.phtml, line: 60
@@ -11354,18 +11280,17 @@ msgstr ""
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 174
 # File: module/setup/view/air/kiu.phtml, line: 155
 # File: module/setup/view/air/latam.phtml, line: 207
+# File: module/setup/view/air/latamndcsabre.phtml, line: 58
 # File: module/setup/view/air/mystifly.phtml, line: 77
 # File: module/setup/view/air/priceline.phtml, line: 98
 # File: module/setup/view/air/sabre.phtml, line: 503
 # File: module/setup/view/air/sky.phtml, line: 50
+# File: module/setup/view/air/tapndcsabre.phtml, line: 58
 # File: module/setup/view/air/travelport.phtml, line: 350
 # File: module/setup/view/air/travelportpaypai.phtml, line: 129
 # File: module/setup/view/air/turkishairlines.phtml, line: 212
 # File: module/setup/view/air/unitedairlines.phtml, line: 174
 # File: module/setup/view/air/volaris.phtml, line: 93
-# File: module/setup/view/air/tapndcsabre.phtml, line: 58
-# File: module/setup/view/air/latamndcsabre.phtml, line: 58
-# File: module/setup/view/air/arajetsabre.phtml, line: 58
 # File: module/setup/view/cars/amadeus.phtml, line: 156
 # File: module/setup/view/cars/avis.phtml, line: 79
 # File: module/setup/view/cars/avisbudget.phtml, line: 109
@@ -11402,6 +11327,7 @@ msgstr ""
 # File: module/setup/view/hotels/belive.phtml, line: 126
 # File: module/setup/view/hotels/bluediamond.phtml, line: 121
 # File: module/setup/view/hotels/bonotel.phtml, line: 96
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 201
 # File: module/setup/view/hotels/catalonia.phtml, line: 142
 # File: module/setup/view/hotels/citytours.phtml, line: 87
 # File: module/setup/view/hotels/coming2.phtml, line: 111
@@ -11414,6 +11340,7 @@ msgstr ""
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 93
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 86
 # File: module/setup/view/hotels/dotw.phtml, line: 156
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 120
 # File: module/setup/view/hotels/eetglobal.phtml, line: 90
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 93
 # File: module/setup/view/hotels/enjoycuba.phtml, line: 99
@@ -11498,8 +11425,6 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 106
 # File: module/setup/view/hotels/youtravel.phtml, line: 85
 # File: module/setup/view/hotels/zoytrip.phtml, line: 61
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 120
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 201
 # File: module/setup/view/packages/abreu.phtml, line: 57
 # File: module/setup/view/packages/assistcard.phtml, line: 97
 # File: module/setup/view/packages/citytours.phtml, line: 67
@@ -11519,6 +11444,8 @@ msgstr ""
 # File: module/setup/view/trains/travelport.phtml, line: 101
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 72
 # File: module/setup/view/transfers/actiontravel.phtml, line: 63
+# File: module/setup/view/transfers/daytrip.phtml, line: 60
+# File: module/setup/view/transfers/didatravel.phtml, line: 63
 # File: module/setup/view/transfers/gltours.phtml, line: 62
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 137
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 103
@@ -11526,8 +11453,6 @@ msgstr ""
 # File: module/setup/view/transfers/shuttlefare.phtml, line: 62
 # File: module/setup/view/transfers/trapsatur.phtml, line: 76
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 74
-# File: module/setup/view/transfers/didatravel.phtml, line: 63
-# File: module/setup/view/transfers/daytrip.phtml, line: 60
 msgid "Update"
 msgstr ""
 #
@@ -13256,9 +13181,9 @@ msgstr ""
 # File: module/ages/view/ages/customers/telemarketing.phtml, line: 5
 # File: module/ages/view/ages/customers/travelling.phtml, line: 25
 # File: module/ages/view/ages/customers/travellingtomorrow.phtml, line: 25
-# File: module/ages/view/ages/customers/zombie.phtml, line: 9
-# File: module/ages/view/ages/customers/whitelist.phtml, line: 5
 # File: module/ages/view/ages/customers/viplist.phtml, line: 5
+# File: module/ages/view/ages/customers/whitelist.phtml, line: 5
+# File: module/ages/view/ages/customers/zombie.phtml, line: 9
 # File: module/ages/view/ages/reports/airlines.phtml, line: 153
 # File: module/ages/view/ages/reports/businessunits.phtml, line: 33
 # File: module/ages/view/ages/reports/customersbycompany.phtml, line: 19
@@ -13273,6 +13198,7 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 1508
 # File: module/ages/src/Controller/Customers.php, line: 1707
 # File: module/ages/src/Controller/Customers.php, line: 1886
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 91
 # File: module/ages/view/ages/reports/agents.phtml, line: 35
 # File: module/ages/view/ages/reports/agentsbenchmark.phtml, line: 43
 # File: module/ages/view/ages/reports/agentsbycompany.phtml, line: 9
@@ -13307,7 +13233,6 @@ msgstr ""
 # File: module/ages/view/ages/reports/supervisoragents.phtml, line: 5
 # File: module/ages/view/ages/reports/supervisorsales.phtml, line: 5
 # File: module/ages/view/ages/reports/suppliersusage.phtml, line: 26
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 91
 msgid "Reports"
 msgstr ""
 #
@@ -13943,12 +13868,12 @@ msgstr ""
 # File: module/ages/view/ages/customers/supportedit.phtml, line: 39
 # File: module/ages/view/ages/customers/travelling.phtml, line: 32
 # File: module/ages/view/ages/customers/travellingtomorrow.phtml, line: 32
-# File: module/ages/view/ages/customers/whitelist.phtml, line: 13
-# File: module/ages/view/ages/customers/whitelist_add.phtml, line: 12
-# File: module/ages/view/ages/customers/whitelist_edit.phtml, line: 12
 # File: module/ages/view/ages/customers/viplist.phtml, line: 13
 # File: module/ages/view/ages/customers/viplist_add.phtml, line: 12
 # File: module/ages/view/ages/customers/viplist_edit.phtml, line: 12
+# File: module/ages/view/ages/customers/whitelist.phtml, line: 13
+# File: module/ages/view/ages/customers/whitelist_add.phtml, line: 12
+# File: module/ages/view/ages/customers/whitelist_edit.phtml, line: 12
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 22
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 32
 # File: module/ages/view/ages/dynamic-packaging/listreservationsexpiring.phtml, line: 32
@@ -14903,6 +14828,10 @@ msgstr ""
 msgid "Fixed Price"
 msgstr ""
 #
+# File: module/ages/src/Controller/SubAgents.php, line: 4199
+msgid "No Company"
+msgstr ""
+#
 # File: module/ages/src/Controller/Tours.php, line: 433
 # File: module/ages/src/Controller/Tours.php, line: 3387
 msgid "No Meals Included"
@@ -15213,10 +15142,6 @@ msgstr ""
 # File: module/ages/src/Controller/Voucher.php, line: 2704
 # File: module/ages/src/Shared/Sendemailv2.php, line: 3034
 msgid "Guide"
-msgstr ""
-#
-# File: module/ages/src/Controller/SubAgents.php, line: 4199
-msgid "No Company"
 msgstr ""
 #
 # File: module/ages/src/Shared/Sendemailv2.php, line: 505
@@ -16019,6 +15944,8 @@ msgstr ""
 # File: module/setup/view/air/airports.phtml, line: 15
 # File: module/setup/view/hotels/ati.phtml, line: 82
 # File: module/setup/view/hotels/ati.phtml, line: 83
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 66
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 67
 # File: module/setup/view/hotels/expedia.phtml, line: 194
 # File: module/setup/view/hotels/expedia.phtml, line: 195
 # File: module/setup/view/hotels/hoteldo.phtml, line: 83
@@ -16027,8 +15954,6 @@ msgstr ""
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 97
 # File: module/setup/view/hotels/tbo.phtml, line: 96
 # File: module/setup/view/hotels/tbo.phtml, line: 97
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 66
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 67
 # File: module/setup/view/packages/generali.phtml, line: 73
 # File: module/setup/view/packages/generali.phtml, line: 74
 # File: module/setup/view/settings/citiesmapping.phtml, line: 51
@@ -17145,6 +17070,7 @@ msgstr ""
 # File: module/ages/view/ages/users/specialists_edit.phtml, line: 21
 # File: module/setup/view/activities/actiontravel.phtml, line: 24
 # File: module/setup/view/activities/coming2.phtml, line: 30
+# File: module/setup/view/activities/daytrip.phtml, line: 21
 # File: module/setup/view/activities/destinationservices.phtml, line: 16
 # File: module/setup/view/activities/gltours.phtml, line: 22
 # File: module/setup/view/activities/hotelbeds.phtml, line: 26
@@ -17157,12 +17083,12 @@ msgstr ""
 # File: module/setup/view/activities/trapsatur.phtml, line: 26
 # File: module/setup/view/activities/tuimusement.phtml, line: 26
 # File: module/setup/view/activities/viator.phtml, line: 16
-# File: module/setup/view/activities/daytrip.phtml, line: 21
 # File: module/setup/view/air/addtoxicairlines.phtml, line: 12
 # File: module/setup/view/air/aeromexico.phtml, line: 17
 # File: module/setup/view/air/airgateway.phtml, line: 21
 # File: module/setup/view/air/amadeus.phtml, line: 23
 # File: module/setup/view/air/americanairlines.phtml, line: 16
+# File: module/setup/view/air/arajetsabre.phtml, line: 29
 # File: module/setup/view/air/avianca.phtml, line: 27
 # File: module/setup/view/air/copa.phtml, line: 16
 # File: module/setup/view/air/ctm.phtml, line: 23
@@ -17175,10 +17101,12 @@ msgstr ""
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 17
 # File: module/setup/view/air/kiu.phtml, line: 92
 # File: module/setup/view/air/latam.phtml, line: 26
+# File: module/setup/view/air/latamndcsabre.phtml, line: 29
 # File: module/setup/view/air/mystifly.phtml, line: 26
 # File: module/setup/view/air/priceline.phtml, line: 20
 # File: module/setup/view/air/sabre.phtml, line: 62
 # File: module/setup/view/air/sky.phtml, line: 21
+# File: module/setup/view/air/tapndcsabre.phtml, line: 29
 # File: module/setup/view/air/toxicairlines.phtml, line: 14
 # File: module/setup/view/air/travelport.phtml, line: 23
 # File: module/setup/view/air/travelport.phtml, line: 188
@@ -17186,9 +17114,6 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 63
 # File: module/setup/view/air/unitedairlines.phtml, line: 17
 # File: module/setup/view/air/volaris.phtml, line: 24
-# File: module/setup/view/air/tapndcsabre.phtml, line: 29
-# File: module/setup/view/air/latamndcsabre.phtml, line: 29
-# File: module/setup/view/air/arajetsabre.phtml, line: 29
 # File: module/setup/view/cars/amadeus.phtml, line: 23
 # File: module/setup/view/cars/avis.phtml, line: 25
 # File: module/setup/view/cars/avisbudget.phtml, line: 25
@@ -17225,6 +17150,7 @@ msgstr ""
 # File: module/setup/view/hotels/belive.phtml, line: 27
 # File: module/setup/view/hotels/bluediamond.phtml, line: 27
 # File: module/setup/view/hotels/bonotel.phtml, line: 17
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 23
 # File: module/setup/view/hotels/catalonia.phtml, line: 27
 # File: module/setup/view/hotels/citytours.phtml, line: 25
 # File: module/setup/view/hotels/coming2.phtml, line: 30
@@ -17237,6 +17163,7 @@ msgstr ""
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 15
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 30
 # File: module/setup/view/hotels/dotw.phtml, line: 26
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 25
 # File: module/setup/view/hotels/eetglobal.phtml, line: 30
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 25
 # File: module/setup/view/hotels/enjoycuba.phtml, line: 18
@@ -17322,8 +17249,6 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 15
 # File: module/setup/view/hotels/youtravel.phtml, line: 25
 # File: module/setup/view/hotels/zoytrip.phtml, line: 15
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 25
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 23
 # File: module/setup/view/packages/abreu.phtml, line: 26
 # File: module/setup/view/packages/assistcard.phtml, line: 24
 # File: module/setup/view/packages/citytours.phtml, line: 30
@@ -17351,6 +17276,8 @@ msgstr ""
 # File: module/setup/view/trains/travelport.phtml, line: 23
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 23
 # File: module/setup/view/transfers/actiontravel.phtml, line: 23
+# File: module/setup/view/transfers/daytrip.phtml, line: 21
+# File: module/setup/view/transfers/didatravel.phtml, line: 21
 # File: module/setup/view/transfers/gltours.phtml, line: 23
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 23
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 20
@@ -17358,8 +17285,6 @@ msgstr ""
 # File: module/setup/view/transfers/shuttlefare.phtml, line: 23
 # File: module/setup/view/transfers/trapsatur.phtml, line: 27
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 26
-# File: module/setup/view/transfers/didatravel.phtml, line: 21
-# File: module/setup/view/transfers/daytrip.phtml, line: 21
 msgid "Affiliate"
 msgstr ""
 #
@@ -17398,6 +17323,7 @@ msgstr ""
 # File: module/ages/view/ages/hotels/analysis.phtml, line: 59
 # File: module/ages/view/ages/insurances/analysis.phtml, line: 59
 # File: module/ages/view/ages/packages/analysis.phtml, line: 59
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 56
 # File: module/ages/view/ages/reports/activities.phtml, line: 27
 # File: module/ages/view/ages/reports/agents.phtml, line: 25
 # File: module/ages/view/ages/reports/agentsbenchmark.phtml, line: 31
@@ -17423,7 +17349,6 @@ msgstr ""
 # File: module/ages/view/ages/reports/statistics.phtml, line: 32
 # File: module/ages/view/ages/reports/tours.phtml, line: 27
 # File: module/ages/view/ages/reports/transfers.phtml, line: 27
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 56
 # File: module/ages/view/ages/tours/analysis.phtml, line: 59
 # File: module/ages/view/ages/transfers/analysis.phtml, line: 59
 msgid "Reservation Date from"
@@ -17440,6 +17365,7 @@ msgstr ""
 # File: module/ages/view/ages/hotels/analysis.phtml, line: 66
 # File: module/ages/view/ages/insurances/analysis.phtml, line: 66
 # File: module/ages/view/ages/packages/analysis.phtml, line: 66
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 62
 # File: module/ages/view/ages/reports/activities.phtml, line: 28
 # File: module/ages/view/ages/reports/agents.phtml, line: 26
 # File: module/ages/view/ages/reports/agentsbenchmark.phtml, line: 32
@@ -17465,7 +17391,6 @@ msgstr ""
 # File: module/ages/view/ages/reports/statistics.phtml, line: 33
 # File: module/ages/view/ages/reports/tours.phtml, line: 28
 # File: module/ages/view/ages/reports/transfers.phtml, line: 28
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 62
 # File: module/ages/view/ages/tours/analysis.phtml, line: 66
 # File: module/ages/view/ages/transfers/analysis.phtml, line: 66
 msgid "Reservation Date to"
@@ -17492,6 +17417,7 @@ msgstr ""
 # File: module/ages/view/ages/insurances/analysis.phtml, line: 71
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 15
 # File: module/ages/view/ages/packages/analysis.phtml, line: 71
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 79
 # File: module/ages/view/ages/reports/activities.phtml, line: 33
 # File: module/ages/view/ages/reports/agentsbenchmark.phtml, line: 37
 # File: module/ages/view/ages/reports/airlines.phtml, line: 50
@@ -17518,7 +17444,6 @@ msgstr ""
 # File: module/ages/view/ages/reports/statistics.phtml, line: 36
 # File: module/ages/view/ages/reports/tours.phtml, line: 33
 # File: module/ages/view/ages/reports/transfers.phtml, line: 33
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 79
 # File: module/ages/view/ages/tours/analysis.phtml, line: 71
 # File: module/ages/view/ages/transfers/analysis.phtml, line: 71
 # File: module/ages/view/ages/transfers/checkin.phtml, line: 14
@@ -17570,6 +17495,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/sendtoagent.phtml, line: 354
 # File: module/ages/view/ages/newsletter/stats.phtml, line: 233
 # File: module/ages/view/ages/packages/analysis.phtml, line: 236
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 216
 # File: module/ages/view/ages/reports/activities.phtml, line: 144
 # File: module/ages/view/ages/reports/airlines.phtml, line: 552
 # File: module/ages/view/ages/reports/analysis.phtml, line: 236
@@ -17587,7 +17513,6 @@ msgstr ""
 # File: module/ages/view/ages/reports/statistics.phtml, line: 486
 # File: module/ages/view/ages/reports/tours.phtml, line: 144
 # File: module/ages/view/ages/reports/transfers.phtml, line: 144
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 216
 # File: module/ages/view/ages/tours/analysis.phtml, line: 236
 # File: module/ages/view/ages/transfers/analysis.phtml, line: 236
 # File: module/ages/view/layout/layout.phtml, line: 96
@@ -17626,6 +17551,8 @@ msgstr ""
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 125
 # File: module/ages/view/ages/hotels/listreservations.phtml, line: 27
 # File: module/ages/view/ages/hotels/reservations.phtml, line: 15
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 68
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 101
 # File: module/ages/view/ages/reports/activities.phtml, line: 29
 # File: module/ages/view/ages/reports/agentsbenchmark.phtml, line: 33
 # File: module/ages/view/ages/reports/agentsbenchmark.phtml, line: 56
@@ -17643,8 +17570,6 @@ msgstr ""
 # File: module/ages/view/ages/reports/packages.phtml, line: 29
 # File: module/ages/view/ages/reports/tours.phtml, line: 29
 # File: module/ages/view/ages/reports/transfers.phtml, line: 29
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 68
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 101
 # File: module/ages/view/ages/sub-agents/add_searches.phtml, line: 12
 # File: module/ages/view/ages/sub-agents/edit_searches.phtml, line: 12
 # File: module/ages/view/ages/transfers/checkin.phtml, line: 11
@@ -17796,9 +17721,9 @@ msgstr ""
 # File: module/ages/view/ages/customers/telemarketing.phtml, line: 25
 # File: module/ages/view/ages/customers/travelling.phtml, line: 39
 # File: module/ages/view/ages/customers/travellingtomorrow.phtml, line: 39
-# File: module/ages/view/ages/customers/zombie.phtml, line: 50
-# File: module/ages/view/ages/customers/whitelist.phtml, line: 15
 # File: module/ages/view/ages/customers/viplist.phtml, line: 15
+# File: module/ages/view/ages/customers/whitelist.phtml, line: 15
+# File: module/ages/view/ages/customers/zombie.phtml, line: 50
 # File: module/ages/view/ages/dynamic-packaging/add_images.phtml, line: 9
 # File: module/ages/view/ages/dynamic-packaging/add_itinerary.phtml, line: 17
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 26
@@ -18111,9 +18036,9 @@ msgstr ""
 # File: module/ages/view/ages/customers/search.phtml, line: 59
 # File: module/ages/view/ages/customers/searchglobalware.phtml, line: 51
 # File: module/ages/view/ages/customers/searchglobalware.phtml, line: 52
-# File: module/ages/view/ages/customers/zombie.phtml, line: 69
-# File: module/ages/view/ages/customers/whitelist.phtml, line: 25
 # File: module/ages/view/ages/customers/viplist.phtml, line: 25
+# File: module/ages/view/ages/customers/whitelist.phtml, line: 25
+# File: module/ages/view/ages/customers/zombie.phtml, line: 69
 # File: module/ages/view/ages/dynamic-packaging/add_itinerary.phtml, line: 132
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 204
 # File: module/ages/view/ages/dynamic-packaging/edit_itinerary.phtml, line: 70
@@ -19158,12 +19083,12 @@ msgstr ""
 # File: module/ages/view/ages/customers/searchglobalware.phtml, line: 69
 # File: module/ages/view/ages/customers/telemarketing.phtml, line: 44
 # File: module/ages/view/ages/customers/telemarketing.phtml, line: 63
-# File: module/ages/view/ages/customers/zombie.phtml, line: 69
-# File: module/ages/view/ages/customers/zombie.phtml, line: 168
-# File: module/ages/view/ages/customers/whitelist.phtml, line: 27
-# File: module/ages/view/ages/customers/whitelist.phtml, line: 46
 # File: module/ages/view/ages/customers/viplist.phtml, line: 27
 # File: module/ages/view/ages/customers/viplist.phtml, line: 46
+# File: module/ages/view/ages/customers/whitelist.phtml, line: 27
+# File: module/ages/view/ages/customers/whitelist.phtml, line: 46
+# File: module/ages/view/ages/customers/zombie.phtml, line: 69
+# File: module/ages/view/ages/customers/zombie.phtml, line: 168
 # File: module/ages/view/ages/dynamic-packaging/add_images.phtml, line: 55
 # File: module/ages/view/ages/dynamic-packaging/add_itinerary.phtml, line: 132
 # File: module/ages/view/ages/dynamic-packaging/edit_images.phtml, line: 16
@@ -20189,6 +20114,7 @@ msgstr ""
 # File: module/ages/view/ages/affiliates/search.phtml, line: 15
 # File: module/ages/view/ages/affiliates/search.phtml, line: 30
 # File: module/ages/view/ages/agents/detailedreport.phtml, line: 17
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 133
 # File: module/ages/view/ages/agents/import.phtml, line: 51
 # File: module/ages/view/ages/agents/index.phtml, line: 41
 # File: module/ages/view/ages/agents/leads.phtml, line: 43
@@ -20198,7 +20124,6 @@ msgstr ""
 # File: module/ages/view/ages/agents/usage.phtml, line: 30
 # File: module/ages/view/ages/agents/withoutsales.phtml, line: 40
 # File: module/ages/view/ages/agents/zombie.phtml, line: 39
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 133
 # File: module/ages/view/ages/air/add_priority.phtml, line: 13
 # File: module/ages/view/ages/air/addtoxicairlines.phtml, line: 13
 # File: module/ages/view/ages/air/addtoxicfares.phtml, line: 14
@@ -20287,6 +20212,8 @@ msgstr ""
 # File: module/ages/view/ages/packages/index.phtml, line: 37
 # File: module/ages/view/ages/packages/search.phtml, line: 12
 # File: module/ages/view/ages/packages/search.phtml, line: 30
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 35
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 37
 # File: module/ages/view/ages/reports/agentsbenchmark.phtml, line: 16
 # File: module/ages/view/ages/reports/agentsbenchmark.phtml, line: 17
 # File: module/ages/view/ages/reports/agentsnonusage.phtml, line: 23
@@ -20307,8 +20234,6 @@ msgstr ""
 # File: module/ages/view/ages/reports/sales.phtml, line: 12
 # File: module/ages/view/ages/reports/sales.phtml, line: 13
 # File: module/ages/view/ages/reports/supervisoragents.phtml, line: 25
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 35
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 37
 # File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 35
 # File: module/ages/view/ages/sub-agents/index.phtml, line: 42
 # File: module/ages/view/ages/sub-agents/index.phtml, line: 49
@@ -20473,8 +20398,8 @@ msgstr ""
 # File: module/ages/view/ages/customers/questions.phtml, line: 70
 # File: module/ages/view/ages/customers/supervisereport.phtml, line: 160
 # File: module/ages/view/ages/customers/telemarketing.phtml, line: 112
-# File: module/ages/view/ages/customers/whitelist.phtml, line: 94
 # File: module/ages/view/ages/customers/viplist.phtml, line: 94
+# File: module/ages/view/ages/customers/whitelist.phtml, line: 94
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 262
 # File: module/ages/view/ages/dynamic-packaging/globalware.phtml, line: 119
 # File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 104
@@ -20683,6 +20608,7 @@ msgstr ""
 # File: module/ages/view/ages/hotels/statichotels.phtml, line: 25
 # File: module/ages/view/ages/insurances/list.phtml, line: 12
 # File: module/ages/view/ages/insurances/search.phtml, line: 29
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 99
 # File: module/ages/view/ages/reports/agentsbenchmark.phtml, line: 50
 # File: module/ages/view/ages/reports/b2bwallet.phtml, line: 29
 # File: module/ages/view/ages/reports/companies.phtml, line: 45
@@ -20696,7 +20622,6 @@ msgstr ""
 # File: module/ages/view/ages/reports/sales.phtml, line: 42
 # File: module/ages/view/ages/reports/settlements.phtml, line: 33
 # File: module/ages/view/ages/reports/supervisorsales.phtml, line: 17
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 99
 # File: module/ages/view/ages/tours/listreservations.phtml, line: 12
 # File: module/ages/view/ages/tours/reservations.phtml, line: 12
 # File: module/ages/view/ages/tours/searchreservations.phtml, line: 32
@@ -21908,26 +21833,26 @@ msgstr ""
 # File: module/setup/view/activities/trapsatur.phtml, line: 22
 # File: module/setup/view/air/amadeus.phtml, line: 18
 # File: module/setup/view/air/amadeus.phtml, line: 19
+# File: module/setup/view/air/arajetsabre.phtml, line: 19
+# File: module/setup/view/air/arajetsabre.phtml, line: 20
 # File: module/setup/view/air/avianca.phtml, line: 72
 # File: module/setup/view/air/avianca.phtml, line: 76
 # File: module/setup/view/air/ctm.phtml, line: 18
 # File: module/setup/view/air/ctm.phtml, line: 19
 # File: module/setup/view/air/kiu.phtml, line: 79
 # File: module/setup/view/air/kiu.phtml, line: 83
+# File: module/setup/view/air/latamndcsabre.phtml, line: 19
+# File: module/setup/view/air/latamndcsabre.phtml, line: 20
 # File: module/setup/view/air/mystifly.phtml, line: 21
 # File: module/setup/view/air/mystifly.phtml, line: 22
+# File: module/setup/view/air/tapndcsabre.phtml, line: 19
+# File: module/setup/view/air/tapndcsabre.phtml, line: 20
 # File: module/setup/view/air/travelport.phtml, line: 253
 # File: module/setup/view/air/travelport.phtml, line: 254
 # File: module/setup/view/air/travelport.phtml, line: 311
 # File: module/setup/view/air/travelport.phtml, line: 312
 # File: module/setup/view/air/volaris.phtml, line: 66
 # File: module/setup/view/air/volaris.phtml, line: 70
-# File: module/setup/view/air/tapndcsabre.phtml, line: 19
-# File: module/setup/view/air/tapndcsabre.phtml, line: 20
-# File: module/setup/view/air/latamndcsabre.phtml, line: 19
-# File: module/setup/view/air/latamndcsabre.phtml, line: 20
-# File: module/setup/view/air/arajetsabre.phtml, line: 19
-# File: module/setup/view/air/arajetsabre.phtml, line: 20
 # File: module/setup/view/cars/amadeus.phtml, line: 18
 # File: module/setup/view/cars/amadeus.phtml, line: 19
 # File: module/setup/view/cars/avis.phtml, line: 20
@@ -21983,6 +21908,8 @@ msgstr ""
 # File: module/setup/view/hotels/bluediamond.phtml, line: 21
 # File: module/setup/view/hotels/bluediamond.phtml, line: 22
 # File: module/setup/view/hotels/bonotel.phtml, line: 13
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 18
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 19
 # File: module/setup/view/hotels/catalonia.phtml, line: 21
 # File: module/setup/view/hotels/catalonia.phtml, line: 22
 # File: module/setup/view/hotels/citytours.phtml, line: 19
@@ -22102,8 +22029,6 @@ msgstr ""
 # File: module/setup/view/hotels/webhotelier.phtml, line: 21
 # File: module/setup/view/hotels/youtravel.phtml, line: 19
 # File: module/setup/view/hotels/youtravel.phtml, line: 20
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 18
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 19
 # File: module/setup/view/packages/abreu.phtml, line: 20
 # File: module/setup/view/packages/abreu.phtml, line: 21
 # File: module/setup/view/packages/citytours.phtml, line: 26
@@ -25158,6 +25083,7 @@ msgstr ""
 # File: module/setup/view/hotels/aio.phtml, line: 100
 # File: module/setup/view/hotels/aio.phtml, line: 101
 # File: module/setup/view/hotels/amadeus.phtml, line: 108
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 108
 # File: module/setup/view/hotels/ctrip.phtml, line: 58
 # File: module/setup/view/hotels/ctrip.phtml, line: 59
 # File: module/setup/view/hotels/expedia.phtml, line: 104
@@ -25187,7 +25113,6 @@ msgstr ""
 # File: module/setup/view/hotels/travolutionary.phtml, line: 51
 # File: module/setup/view/hotels/yalago.phtml, line: 73
 # File: module/setup/view/hotels/yalago.phtml, line: 74
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 108
 # File: module/setup/view/settings/cities_edit.phtml, line: 436
 # File: module/setup/view/settings/cities_edit.phtml, line: 437
 # File: module/setup/view/transfers/nexustours.phtml, line: 54
@@ -26252,12 +26177,12 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/edit_events.phtml, line: 12
 # File: module/setup/view/activities/coming2.phtml, line: 16
 # File: module/setup/view/activities/coming2.phtml, line: 17
-# File: module/setup/view/air/tapndcsabre.phtml, line: 15
-# File: module/setup/view/air/tapndcsabre.phtml, line: 16
-# File: module/setup/view/air/latamndcsabre.phtml, line: 15
-# File: module/setup/view/air/latamndcsabre.phtml, line: 16
 # File: module/setup/view/air/arajetsabre.phtml, line: 15
 # File: module/setup/view/air/arajetsabre.phtml, line: 16
+# File: module/setup/view/air/latamndcsabre.phtml, line: 15
+# File: module/setup/view/air/latamndcsabre.phtml, line: 16
+# File: module/setup/view/air/tapndcsabre.phtml, line: 15
+# File: module/setup/view/air/tapndcsabre.phtml, line: 16
 # File: module/setup/view/cruises/msc.phtml, line: 16
 # File: module/setup/view/cruises/msc.phtml, line: 17
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 24
@@ -26899,6 +26824,8 @@ msgstr ""
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 132
 # File: module/ages/view/ages/hotels/listreservations.phtml, line: 28
 # File: module/ages/view/ages/hotels/reservations.phtml, line: 16
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 74
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 102
 # File: module/ages/view/ages/reports/activities.phtml, line: 30
 # File: module/ages/view/ages/reports/agentsbenchmark.phtml, line: 34
 # File: module/ages/view/ages/reports/agentsbenchmark.phtml, line: 57
@@ -26916,8 +26843,6 @@ msgstr ""
 # File: module/ages/view/ages/reports/packages.phtml, line: 30
 # File: module/ages/view/ages/reports/tours.phtml, line: 30
 # File: module/ages/view/ages/reports/transfers.phtml, line: 30
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 74
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 102
 # File: module/ages/view/ages/sub-agents/add_searches.phtml, line: 13
 # File: module/ages/view/ages/sub-agents/edit_searches.phtml, line: 13
 msgid "Check Out"
@@ -27114,6 +27039,7 @@ msgstr ""
 # File: module/setup/view/air/airgateway.phtml, line: 32
 # File: module/setup/view/air/amadeus.phtml, line: 34
 # File: module/setup/view/air/americanairlines.phtml, line: 27
+# File: module/setup/view/air/arajetsabre.phtml, line: 40
 # File: module/setup/view/air/avianca.phtml, line: 40
 # File: module/setup/view/air/copa.phtml, line: 27
 # File: module/setup/view/air/ctm.phtml, line: 34
@@ -27121,18 +27047,17 @@ msgstr ""
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 28
 # File: module/setup/view/air/kiu.phtml, line: 105
 # File: module/setup/view/air/latam.phtml, line: 38
+# File: module/setup/view/air/latamndcsabre.phtml, line: 40
 # File: module/setup/view/air/mystifly.phtml, line: 37
 # File: module/setup/view/air/priceline.phtml, line: 33
 # File: module/setup/view/air/sabre.phtml, line: 75
 # File: module/setup/view/air/sky.phtml, line: 32
+# File: module/setup/view/air/tapndcsabre.phtml, line: 40
 # File: module/setup/view/air/travelport.phtml, line: 34
 # File: module/setup/view/air/travelportpaypai.phtml, line: 40
 # File: module/setup/view/air/turkishairlines.phtml, line: 76
 # File: module/setup/view/air/unitedairlines.phtml, line: 28
 # File: module/setup/view/air/volaris.phtml, line: 35
-# File: module/setup/view/air/tapndcsabre.phtml, line: 40
-# File: module/setup/view/air/latamndcsabre.phtml, line: 40
-# File: module/setup/view/air/arajetsabre.phtml, line: 40
 # File: module/setup/view/cars/amadeus.phtml, line: 34
 # File: module/setup/view/cars/avis.phtml, line: 36
 # File: module/setup/view/cars/avisbudget.phtml, line: 36
@@ -27166,6 +27091,7 @@ msgstr ""
 # File: module/setup/view/hotels/belive.phtml, line: 38
 # File: module/setup/view/hotels/bluediamond.phtml, line: 38
 # File: module/setup/view/hotels/bonotel.phtml, line: 28
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 34
 # File: module/setup/view/hotels/catalonia.phtml, line: 38
 # File: module/setup/view/hotels/citytours.phtml, line: 36
 # File: module/setup/view/hotels/coming2.phtml, line: 41
@@ -27178,6 +27104,7 @@ msgstr ""
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 26
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 41
 # File: module/setup/view/hotels/dotw.phtml, line: 37
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 36
 # File: module/setup/view/hotels/eetglobal.phtml, line: 41
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 36
 # File: module/setup/view/hotels/enjoycuba.phtml, line: 29
@@ -27262,8 +27189,6 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 19
 # File: module/setup/view/hotels/youtravel.phtml, line: 36
 # File: module/setup/view/hotels/zoytrip.phtml, line: 19
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 36
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 34
 # File: module/setup/view/intelligence/citypairs.phtml, line: 22
 # File: module/setup/view/intelligence/citypairs_add.phtml, line: 16
 # File: module/setup/view/intelligence/citypairs_edit.phtml, line: 16
@@ -28115,6 +28040,27 @@ msgstr ""
 msgid "Edit Customer"
 msgstr ""
 #
+# File: module/ages/view/ages/agents/edit_documents.phtml, line: 10
+msgid "Type of Document"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/edit_documents.phtml, line: 11
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2689
+msgid "Document"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/edit_documents.phtml, line: 17
+msgid "Identity Document"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/edit_documents.phtml, line: 17
+msgid "Bank Document"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/edit_documents.phtml, line: 18
+msgid "View Document"
+msgstr ""
+#
 # File: module/ages/view/ages/agents/edit_featured_specialist.phtml, line: 27
 # File: module/ages/view/ages/packages/add_modals.phtml, line: 42
 # File: module/ages/view/ages/packages/edit_modals.phtml, line: 18
@@ -28369,6 +28315,24 @@ msgstr ""
 msgid "Browser Language"
 msgstr ""
 #
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 34
+msgid "Deny Access to My Quotes Inventory"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 56
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 62
+msgid "Disable Custom Menu Options"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 57
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 63
+msgid "Disable Old Engine"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 127
+msgid "Agent Administrator - Can view and manage bookings for"
+msgstr ""
+#
 # File: module/ages/view/ages/agents/edit_points_origin.phtml, line: 27
 # File: module/ages/view/ages/sub-agents/edit_points_origin.phtml, line: 27
 msgid "Add Point of Origin"
@@ -28567,10 +28531,10 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 9
 # File: module/ages/view/ages/newsletter/globalstats.phtml, line: 19
 # File: module/ages/view/ages/newsletter/stats.phtml, line: 57
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 80
 # File: module/ages/view/ages/reports/distributions.phtml, line: 20
 # File: module/ages/view/ages/reports/distributionscommunications.phtml, line: 65
 # File: module/ages/view/ages/reports/hotels.phtml, line: 50
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 80
 # File: module/ages/view/ages/users/eventviewer.phtml, line: 12
 msgid "Export"
 msgstr ""
@@ -28989,45 +28953,6 @@ msgstr ""
 #
 # File: module/ages/view/ages/agents/zombie.phtml, line: 71
 msgid "zombie agents"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 34
-msgid "Deny Access to My Quotes Inventory"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 56
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 62
-msgid "Disable Custom Menu Options"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 57
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 63
-msgid "Disable Old Engine"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 127
-msgid "Agent Administrator - Can view and manage bookings for"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/edit_documents.phtml, line: 10
-msgid "Type of Document"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/edit_documents.phtml, line: 11
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2689
-msgid "Document"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/edit_documents.phtml, line: 17
-msgid "Identity Document"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/edit_documents.phtml, line: 17
-msgid "Bank Document"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/edit_documents.phtml, line: 18
-msgid "View Document"
 msgstr ""
 #
 # File: module/ages/view/ages/air/add_discount.phtml, line: 4
@@ -34667,11 +34592,11 @@ msgstr ""
 # File: module/setup/view/activities/tourico.phtml, line: 158
 # File: module/setup/view/activities/trapsatur.phtml, line: 132
 # File: module/setup/view/air/amadeus.phtml, line: 498
-# File: module/setup/view/air/avianca.phtml, line: 283
-# File: module/setup/view/air/volaris.phtml, line: 189
-# File: module/setup/view/air/tapndcsabre.phtml, line: 118
-# File: module/setup/view/air/latamndcsabre.phtml, line: 118
 # File: module/setup/view/air/arajetsabre.phtml, line: 118
+# File: module/setup/view/air/avianca.phtml, line: 283
+# File: module/setup/view/air/latamndcsabre.phtml, line: 118
+# File: module/setup/view/air/tapndcsabre.phtml, line: 118
+# File: module/setup/view/air/volaris.phtml, line: 189
 # File: module/setup/view/cars/amadeus.phtml, line: 270
 # File: module/setup/view/cars/bookinggo.phtml, line: 130
 # File: module/setup/view/cars/tourico.phtml, line: 149
@@ -34695,6 +34620,7 @@ msgstr ""
 # File: module/setup/view/hotels/belive.phtml, line: 189
 # File: module/setup/view/hotels/bluediamond.phtml, line: 184
 # File: module/setup/view/hotels/bonotel.phtml, line: 162
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 300
 # File: module/setup/view/hotels/catalonia.phtml, line: 205
 # File: module/setup/view/hotels/citytours.phtml, line: 150
 # File: module/setup/view/hotels/coming2.phtml, line: 177
@@ -34704,6 +34630,7 @@ msgstr ""
 # File: module/setup/view/hotels/dhisco.phtml, line: 143
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 149
 # File: module/setup/view/hotels/dotw.phtml, line: 213
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 198
 # File: module/setup/view/hotels/eetglobal.phtml, line: 156
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 159
 # File: module/setup/view/hotels/goglobal.phtml, line: 167
@@ -34756,8 +34683,6 @@ msgstr ""
 # File: module/setup/view/hotels/webbeds.phtml, line: 163
 # File: module/setup/view/hotels/webhotelier.phtml, line: 163
 # File: module/setup/view/hotels/youtravel.phtml, line: 148
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 198
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 300
 # File: module/setup/view/packages/abreu.phtml, line: 111
 # File: module/setup/view/packages/citytours.phtml, line: 130
 # File: module/setup/view/packages/europamundo.phtml, line: 170
@@ -34829,10 +34754,10 @@ msgstr ""
 #
 # File: module/ages/view/ages/customers/blacklist_add.phtml, line: 49
 # File: module/ages/view/ages/customers/blacklist_edit.phtml, line: 47
-# File: module/ages/view/ages/customers/whitelist_add.phtml, line: 50
-# File: module/ages/view/ages/customers/whitelist_edit.phtml, line: 48
 # File: module/ages/view/ages/customers/viplist_add.phtml, line: 50
 # File: module/ages/view/ages/customers/viplist_edit.phtml, line: 48
+# File: module/ages/view/ages/customers/whitelist_add.phtml, line: 50
+# File: module/ages/view/ages/customers/whitelist_edit.phtml, line: 48
 # File: module/setup/view/activities/hotelbeds.phtml, line: 170
 # File: module/setup/view/activities/projectexpedition.phtml, line: 141
 # File: module/setup/view/cars/bookinggo.phtml, line: 145
@@ -35164,6 +35089,8 @@ msgstr ""
 # File: module/setup/view/hotels/ati.phtml, line: 95
 # File: module/setup/view/hotels/ctrip.phtml, line: 71
 # File: module/setup/view/hotels/ctrip.phtml, line: 72
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 78
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 79
 # File: module/setup/view/hotels/expedia.phtml, line: 63
 # File: module/setup/view/hotels/expedia.phtml, line: 64
 # File: module/setup/view/hotels/gnrconnect.phtml, line: 62
@@ -35176,8 +35103,6 @@ msgstr ""
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 87
 # File: module/setup/view/hotels/tbo.phtml, line: 86
 # File: module/setup/view/hotels/tbo.phtml, line: 87
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 78
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 79
 msgid "Phone Number"
 msgstr ""
 #
@@ -36046,6 +35971,56 @@ msgstr ""
 msgid "Car"
 msgstr ""
 #
+# File: module/ages/view/ages/customers/viplist.phtml, line: 5
+# File: module/ages/view/ages/customers/viplist.phtml, line: 88
+# File: module/ages/view/ages/customers/viplist.phtml, line: 89
+# File: module/ages/view/ages/customers/viplist.phtml, line: 94
+msgid "Viplist"
+msgstr ""
+#
+# File: module/ages/view/ages/customers/viplist.phtml, line: 47
+msgid "Are you sure you want to delete this viplist?"
+msgstr ""
+#
+# File: module/ages/view/ages/customers/viplist.phtml, line: 78
+# File: module/ages/view/ages/customers/viplist_add.phtml, line: 5
+# File: module/ages/view/ages/customers/viplist_add.phtml, line: 18
+msgid "Add New Viplist"
+msgstr ""
+#
+# File: module/ages/view/ages/customers/viplist_edit.phtml, line: 5
+msgid "Edit Viplist"
+msgstr ""
+#
+# File: module/ages/view/ages/customers/viplist_edit.phtml, line: 17
+msgid "Update Viplist"
+msgstr ""
+#
+# File: module/ages/view/ages/customers/whitelist.phtml, line: 5
+# File: module/ages/view/ages/customers/whitelist.phtml, line: 88
+# File: module/ages/view/ages/customers/whitelist.phtml, line: 89
+# File: module/ages/view/ages/customers/whitelist.phtml, line: 94
+msgid "Whitelist"
+msgstr ""
+#
+# File: module/ages/view/ages/customers/whitelist.phtml, line: 47
+msgid "Are you sure you want to delete this whitelist?"
+msgstr ""
+#
+# File: module/ages/view/ages/customers/whitelist.phtml, line: 78
+# File: module/ages/view/ages/customers/whitelist_add.phtml, line: 5
+# File: module/ages/view/ages/customers/whitelist_add.phtml, line: 18
+msgid "Add New Whitelist"
+msgstr ""
+#
+# File: module/ages/view/ages/customers/whitelist_edit.phtml, line: 5
+msgid "Edit Whitelist"
+msgstr ""
+#
+# File: module/ages/view/ages/customers/whitelist_edit.phtml, line: 17
+msgid "Update Whitelist"
+msgstr ""
+#
 # File: module/ages/view/ages/customers/zombie.phtml, line: 9
 # File: module/ages/view/ages/customers/zombie.phtml, line: 114
 msgid "List Customers - Zombies"
@@ -36098,56 +36073,6 @@ msgstr ""
 #
 # File: module/ages/view/ages/customers/zombie.phtml, line: 218
 msgid "Before clicking the assign agent button. Please select the customer(s) you want to assign to the agent."
-msgstr ""
-#
-# File: module/ages/view/ages/customers/whitelist.phtml, line: 5
-# File: module/ages/view/ages/customers/whitelist.phtml, line: 88
-# File: module/ages/view/ages/customers/whitelist.phtml, line: 89
-# File: module/ages/view/ages/customers/whitelist.phtml, line: 94
-msgid "Whitelist"
-msgstr ""
-#
-# File: module/ages/view/ages/customers/whitelist.phtml, line: 47
-msgid "Are you sure you want to delete this whitelist?"
-msgstr ""
-#
-# File: module/ages/view/ages/customers/whitelist.phtml, line: 78
-# File: module/ages/view/ages/customers/whitelist_add.phtml, line: 5
-# File: module/ages/view/ages/customers/whitelist_add.phtml, line: 18
-msgid "Add New Whitelist"
-msgstr ""
-#
-# File: module/ages/view/ages/customers/whitelist_edit.phtml, line: 5
-msgid "Edit Whitelist"
-msgstr ""
-#
-# File: module/ages/view/ages/customers/whitelist_edit.phtml, line: 17
-msgid "Update Whitelist"
-msgstr ""
-#
-# File: module/ages/view/ages/customers/viplist.phtml, line: 5
-# File: module/ages/view/ages/customers/viplist.phtml, line: 88
-# File: module/ages/view/ages/customers/viplist.phtml, line: 89
-# File: module/ages/view/ages/customers/viplist.phtml, line: 94
-msgid "Viplist"
-msgstr ""
-#
-# File: module/ages/view/ages/customers/viplist.phtml, line: 47
-msgid "Are you sure you want to delete this viplist?"
-msgstr ""
-#
-# File: module/ages/view/ages/customers/viplist.phtml, line: 78
-# File: module/ages/view/ages/customers/viplist_add.phtml, line: 5
-# File: module/ages/view/ages/customers/viplist_add.phtml, line: 18
-msgid "Add New Viplist"
-msgstr ""
-#
-# File: module/ages/view/ages/customers/viplist_edit.phtml, line: 5
-msgid "Edit Viplist"
-msgstr ""
-#
-# File: module/ages/view/ages/customers/viplist_edit.phtml, line: 17
-msgid "Update Viplist"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/add.phtml, line: 6
@@ -40504,10 +40429,10 @@ msgstr ""
 # File: module/ages/view/ages/hotels/editstatichotelstripadvisor.phtml, line: 108
 # File: module/setup/view/air/amadeus.phtml, line: 312
 # File: module/setup/view/air/amadeus.phtml, line: 313
-# File: module/setup/view/hotels/expedia.phtml, line: 203
-# File: module/setup/view/hotels/expedia.phtml, line: 204
 # File: module/setup/view/hotels/ebookingcenter.phtml, line: 70
 # File: module/setup/view/hotels/ebookingcenter.phtml, line: 71
+# File: module/setup/view/hotels/expedia.phtml, line: 203
+# File: module/setup/view/hotels/expedia.phtml, line: 204
 msgid "Postal Code"
 msgstr ""
 #
@@ -40749,6 +40674,10 @@ msgstr ""
 #
 # File: module/ages/view/ages/hotels/index.phtml, line: 63
 msgid "Inactivate"
+msgstr ""
+#
+# File: module/ages/view/ages/hotels/index.phtml, line: 65
+msgid "Activate"
 msgstr ""
 #
 # File: module/ages/view/ages/hotels/listusers.phtml, line: 5
@@ -42095,6 +42024,13 @@ msgstr ""
 msgid "Most Internet Service Providers (ISPs) provide a feedback loop, sending specific spam complaints to the Email Service Providers (ESPs), like we. When we receive a notice, we fire a spam event, so that you can react appropriately-or at the very least, never send another email to that address!"
 msgstr ""
 #
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 5
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 88
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 89
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 94
+msgid "Unsubscribe"
+msgstr ""
+#
 # File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 77
 # File: module/ages/view/ages/newsletter/unsubscribe_add.phtml, line: 5
 # File: module/ages/view/ages/newsletter/unsubscribe_add.phtml, line: 18
@@ -42729,8 +42665,8 @@ msgstr ""
 # File: module/manager/view/index/index.phtml, line: 20
 # File: module/setup/view/cars/cartrawler.phtml, line: 213
 # File: module/setup/view/hotels/amadeus.phtml, line: 113
-# File: module/setup/view/hotels/jactravel.phtml, line: 104
 # File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 113
+# File: module/setup/view/hotels/jactravel.phtml, line: 104
 msgid "Availability"
 msgstr ""
 #
@@ -42909,6 +42845,10 @@ msgstr ""
 # File: module/ages/view/ages/packages/types.phtml, line: 102
 # File: module/ages/view/ages/packages/types.phtml, line: 107
 msgid "Package Types"
+msgstr ""
+#
+# File: module/ages/view/ages/reports/accountingreport.phtml, line: 91
+msgid "Accounting Report"
 msgstr ""
 #
 # File: module/ages/view/ages/reports/activities.phtml, line: 40
@@ -43766,10 +43706,6 @@ msgstr ""
 # File: module/ages/view/ages/reports/transfers.phtml, line: 40
 # File: module/ages/view/ages/reports/transfers.phtml, line: 44
 msgid "Transfers Report"
-msgstr ""
-#
-# File: module/ages/view/ages/reports/accountingreport.phtml, line: 91
-msgid "Accounting Report"
 msgstr ""
 #
 # File: module/ages/view/ages/service-fees/add.phtml, line: 12
@@ -46423,6 +46359,7 @@ msgstr ""
 #
 # File: module/setup/view/activities/actiontravel.phtml, line: 27
 # File: module/setup/view/activities/coming2.phtml, line: 33
+# File: module/setup/view/activities/daytrip.phtml, line: 24
 # File: module/setup/view/activities/destinationservices.phtml, line: 19
 # File: module/setup/view/activities/gltours.phtml, line: 25
 # File: module/setup/view/activities/hotelbeds.phtml, line: 29
@@ -46435,11 +46372,11 @@ msgstr ""
 # File: module/setup/view/activities/trapsatur.phtml, line: 29
 # File: module/setup/view/activities/tuimusement.phtml, line: 29
 # File: module/setup/view/activities/viator.phtml, line: 19
-# File: module/setup/view/activities/daytrip.phtml, line: 24
 # File: module/setup/view/air/aeromexico.phtml, line: 20
 # File: module/setup/view/air/airgateway.phtml, line: 24
 # File: module/setup/view/air/amadeus.phtml, line: 26
 # File: module/setup/view/air/americanairlines.phtml, line: 19
+# File: module/setup/view/air/arajetsabre.phtml, line: 32
 # File: module/setup/view/air/avianca.phtml, line: 31
 # File: module/setup/view/air/copa.phtml, line: 19
 # File: module/setup/view/air/ctm.phtml, line: 26
@@ -46447,18 +46384,17 @@ msgstr ""
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 20
 # File: module/setup/view/air/kiu.phtml, line: 96
 # File: module/setup/view/air/latam.phtml, line: 29
+# File: module/setup/view/air/latamndcsabre.phtml, line: 32
 # File: module/setup/view/air/mystifly.phtml, line: 29
 # File: module/setup/view/air/priceline.phtml, line: 23
 # File: module/setup/view/air/sabre.phtml, line: 66
 # File: module/setup/view/air/sky.phtml, line: 24
+# File: module/setup/view/air/tapndcsabre.phtml, line: 32
 # File: module/setup/view/air/travelport.phtml, line: 26
 # File: module/setup/view/air/travelportpaypai.phtml, line: 31
 # File: module/setup/view/air/turkishairlines.phtml, line: 67
 # File: module/setup/view/air/unitedairlines.phtml, line: 20
 # File: module/setup/view/air/volaris.phtml, line: 27
-# File: module/setup/view/air/tapndcsabre.phtml, line: 32
-# File: module/setup/view/air/latamndcsabre.phtml, line: 32
-# File: module/setup/view/air/arajetsabre.phtml, line: 32
 # File: module/setup/view/cars/amadeus.phtml, line: 26
 # File: module/setup/view/cars/avis.phtml, line: 28
 # File: module/setup/view/cars/avisbudget.phtml, line: 28
@@ -46495,6 +46431,7 @@ msgstr ""
 # File: module/setup/view/hotels/belive.phtml, line: 30
 # File: module/setup/view/hotels/bluediamond.phtml, line: 30
 # File: module/setup/view/hotels/bonotel.phtml, line: 20
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 26
 # File: module/setup/view/hotels/catalonia.phtml, line: 30
 # File: module/setup/view/hotels/citytours.phtml, line: 28
 # File: module/setup/view/hotels/coming2.phtml, line: 33
@@ -46507,6 +46444,7 @@ msgstr ""
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 18
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 33
 # File: module/setup/view/hotels/dotw.phtml, line: 29
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 28
 # File: module/setup/view/hotels/eetglobal.phtml, line: 33
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 28
 # File: module/setup/view/hotels/enjoycuba.phtml, line: 21
@@ -46591,8 +46529,6 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 16
 # File: module/setup/view/hotels/youtravel.phtml, line: 28
 # File: module/setup/view/hotels/zoytrip.phtml, line: 16
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 28
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 26
 # File: module/setup/view/packages/abreu.phtml, line: 29
 # File: module/setup/view/packages/assistcard.phtml, line: 27
 # File: module/setup/view/packages/citytours.phtml, line: 33
@@ -46612,6 +46548,8 @@ msgstr ""
 # File: module/setup/view/trains/travelport.phtml, line: 26
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 26
 # File: module/setup/view/transfers/actiontravel.phtml, line: 26
+# File: module/setup/view/transfers/daytrip.phtml, line: 24
+# File: module/setup/view/transfers/didatravel.phtml, line: 24
 # File: module/setup/view/transfers/gltours.phtml, line: 26
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 26
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 23
@@ -46619,8 +46557,6 @@ msgstr ""
 # File: module/setup/view/transfers/shuttlefare.phtml, line: 26
 # File: module/setup/view/transfers/trapsatur.phtml, line: 30
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 29
-# File: module/setup/view/transfers/didatravel.phtml, line: 24
-# File: module/setup/view/transfers/daytrip.phtml, line: 24
 msgid "Default - All Affiliates"
 msgstr ""
 #
@@ -46632,6 +46568,7 @@ msgstr ""
 # File: module/setup/view/air/airgateway.phtml, line: 35
 # File: module/setup/view/air/amadeus.phtml, line: 37
 # File: module/setup/view/air/americanairlines.phtml, line: 30
+# File: module/setup/view/air/arajetsabre.phtml, line: 43
 # File: module/setup/view/air/avianca.phtml, line: 43
 # File: module/setup/view/air/copa.phtml, line: 30
 # File: module/setup/view/air/ctm.phtml, line: 37
@@ -46639,18 +46576,17 @@ msgstr ""
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 31
 # File: module/setup/view/air/kiu.phtml, line: 109
 # File: module/setup/view/air/latam.phtml, line: 41
+# File: module/setup/view/air/latamndcsabre.phtml, line: 43
 # File: module/setup/view/air/mystifly.phtml, line: 40
 # File: module/setup/view/air/priceline.phtml, line: 36
 # File: module/setup/view/air/sabre.phtml, line: 79
 # File: module/setup/view/air/sky.phtml, line: 35
+# File: module/setup/view/air/tapndcsabre.phtml, line: 43
 # File: module/setup/view/air/travelport.phtml, line: 37
 # File: module/setup/view/air/travelportpaypai.phtml, line: 44
 # File: module/setup/view/air/turkishairlines.phtml, line: 80
 # File: module/setup/view/air/unitedairlines.phtml, line: 31
 # File: module/setup/view/air/volaris.phtml, line: 38
-# File: module/setup/view/air/tapndcsabre.phtml, line: 43
-# File: module/setup/view/air/latamndcsabre.phtml, line: 43
-# File: module/setup/view/air/arajetsabre.phtml, line: 43
 # File: module/setup/view/cars/amadeus.phtml, line: 37
 # File: module/setup/view/cars/avis.phtml, line: 39
 # File: module/setup/view/cars/avisbudget.phtml, line: 39
@@ -46684,6 +46620,7 @@ msgstr ""
 # File: module/setup/view/hotels/belive.phtml, line: 41
 # File: module/setup/view/hotels/bluediamond.phtml, line: 41
 # File: module/setup/view/hotels/bonotel.phtml, line: 31
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 37
 # File: module/setup/view/hotels/catalonia.phtml, line: 41
 # File: module/setup/view/hotels/citytours.phtml, line: 39
 # File: module/setup/view/hotels/coming2.phtml, line: 44
@@ -46696,6 +46633,7 @@ msgstr ""
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 29
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 44
 # File: module/setup/view/hotels/dotw.phtml, line: 40
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 39
 # File: module/setup/view/hotels/eetglobal.phtml, line: 44
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 39
 # File: module/setup/view/hotels/enjoycuba.phtml, line: 32
@@ -46780,8 +46718,6 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 20
 # File: module/setup/view/hotels/youtravel.phtml, line: 39
 # File: module/setup/view/hotels/zoytrip.phtml, line: 20
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 39
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 37
 # File: module/setup/view/settings/b2bwallet.phtml, line: 37
 # File: module/setup/view/trains/travelport.phtml, line: 37
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 36
@@ -46793,6 +46729,8 @@ msgstr ""
 # File: module/setup/view/activities/actiontravel.phtml, line: 47
 # File: module/setup/view/activities/coming2.phtml, line: 54
 # File: module/setup/view/activities/coming2.phtml, line: 55
+# File: module/setup/view/activities/daytrip.phtml, line: 32
+# File: module/setup/view/activities/daytrip.phtml, line: 33
 # File: module/setup/view/activities/gltours.phtml, line: 33
 # File: module/setup/view/activities/gltours.phtml, line: 34
 # File: module/setup/view/activities/hotelbeds.phtml, line: 51
@@ -46812,8 +46750,6 @@ msgstr ""
 # File: module/setup/view/activities/trapsatur.phtml, line: 38
 # File: module/setup/view/activities/viator.phtml, line: 27
 # File: module/setup/view/activities/viator.phtml, line: 28
-# File: module/setup/view/activities/daytrip.phtml, line: 32
-# File: module/setup/view/activities/daytrip.phtml, line: 33
 # File: module/setup/view/air/aeromexico.phtml, line: 15
 # File: module/setup/view/air/airgateway.phtml, line: 17
 # File: module/setup/view/air/amadeus.phtml, line: 114
@@ -46890,6 +46826,7 @@ msgstr ""
 # File: module/setup/view/hotels/bluediamond.phtml, line: 50
 # File: module/setup/view/hotels/bonotel.phtml, line: 52
 # File: module/setup/view/hotels/bonotel.phtml, line: 53
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 77
 # File: module/setup/view/hotels/catalonia.phtml, line: 49
 # File: module/setup/view/hotels/catalonia.phtml, line: 50
 # File: module/setup/view/hotels/citytours.phtml, line: 55
@@ -46910,6 +46847,8 @@ msgstr ""
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 55
 # File: module/setup/view/hotels/dotw.phtml, line: 62
 # File: module/setup/view/hotels/dotw.phtml, line: 63
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 47
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 48
 # File: module/setup/view/hotels/eetglobal.phtml, line: 54
 # File: module/setup/view/hotels/eetglobal.phtml, line: 55
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 53
@@ -47046,9 +46985,6 @@ msgstr ""
 # File: module/setup/view/hotels/youtravel.phtml, line: 52
 # File: module/setup/view/hotels/zoytrip.phtml, line: 23
 # File: module/setup/view/hotels/zoytrip.phtml, line: 24
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 47
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 48
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 77
 # File: module/setup/view/packages/abreu.phtml, line: 37
 # File: module/setup/view/packages/abreu.phtml, line: 38
 # File: module/setup/view/packages/citytours.phtml, line: 43
@@ -47075,6 +47011,10 @@ msgstr ""
 # File: module/setup/view/trains/travelport.phtml, line: 53
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 52
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 53
+# File: module/setup/view/transfers/daytrip.phtml, line: 32
+# File: module/setup/view/transfers/daytrip.phtml, line: 33
+# File: module/setup/view/transfers/didatravel.phtml, line: 32
+# File: module/setup/view/transfers/didatravel.phtml, line: 33
 # File: module/setup/view/transfers/gltours.phtml, line: 34
 # File: module/setup/view/transfers/gltours.phtml, line: 35
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 34
@@ -47089,10 +47029,6 @@ msgstr ""
 # File: module/setup/view/transfers/trapsatur.phtml, line: 39
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 41
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 42
-# File: module/setup/view/transfers/didatravel.phtml, line: 32
-# File: module/setup/view/transfers/didatravel.phtml, line: 33
-# File: module/setup/view/transfers/daytrip.phtml, line: 32
-# File: module/setup/view/transfers/daytrip.phtml, line: 33
 msgid "Service URL"
 msgstr ""
 #
@@ -47131,6 +47067,7 @@ msgstr ""
 # File: module/setup/view/hotels/belive.phtml, line: 96
 # File: module/setup/view/hotels/bluediamond.phtml, line: 90
 # File: module/setup/view/hotels/bonotel.phtml, line: 83
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 183
 # File: module/setup/view/hotels/catalonia.phtml, line: 112
 # File: module/setup/view/hotels/citytours.phtml, line: 58
 # File: module/setup/view/hotels/coming2.phtml, line: 82
@@ -47143,6 +47080,7 @@ msgstr ""
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 80
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 57
 # File: module/setup/view/hotels/dotw.phtml, line: 143
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 93
 # File: module/setup/view/hotels/eetglobal.phtml, line: 61
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 64
 # File: module/setup/view/hotels/enjoycuba.phtml, line: 70
@@ -47227,8 +47165,6 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 30
 # File: module/setup/view/hotels/youtravel.phtml, line: 58
 # File: module/setup/view/hotels/zoytrip.phtml, line: 30
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 93
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 183
 # File: module/setup/view/transfers/nexustours.phtml, line: 57
 msgid "Parallel Search"
 msgstr ""
@@ -47237,6 +47173,8 @@ msgstr ""
 # File: module/setup/view/activities/actiontravel.phtml, line: 60
 # File: module/setup/view/activities/coming2.phtml, line: 74
 # File: module/setup/view/activities/coming2.phtml, line: 75
+# File: module/setup/view/activities/daytrip.phtml, line: 37
+# File: module/setup/view/activities/daytrip.phtml, line: 38
 # File: module/setup/view/activities/destinationservices.phtml, line: 43
 # File: module/setup/view/activities/destinationservices.phtml, line: 44
 # File: module/setup/view/activities/gltours.phtml, line: 39
@@ -47261,13 +47199,12 @@ msgstr ""
 # File: module/setup/view/activities/tuimusement.phtml, line: 42
 # File: module/setup/view/activities/viator.phtml, line: 73
 # File: module/setup/view/activities/viator.phtml, line: 74
-# File: module/setup/view/activities/daytrip.phtml, line: 37
-# File: module/setup/view/activities/daytrip.phtml, line: 38
 # File: module/setup/view/air/aeromexico.phtml, line: 168
 # File: module/setup/view/air/airgateway.phtml, line: 51
 # File: module/setup/view/air/amadeus.phtml, line: 223
 # File: module/setup/view/air/amadeus.phtml, line: 224
 # File: module/setup/view/air/americanairlines.phtml, line: 167
+# File: module/setup/view/air/arajetsabre.phtml, line: 52
 # File: module/setup/view/air/avianca.phtml, line: 164
 # File: module/setup/view/air/avianca.phtml, line: 168
 # File: module/setup/view/air/copa.phtml, line: 157
@@ -47279,6 +47216,7 @@ msgstr ""
 # File: module/setup/view/air/kiu.phtml, line: 124
 # File: module/setup/view/air/latam.phtml, line: 176
 # File: module/setup/view/air/latam.phtml, line: 179
+# File: module/setup/view/air/latamndcsabre.phtml, line: 52
 # File: module/setup/view/air/mystifly.phtml, line: 62
 # File: module/setup/view/air/mystifly.phtml, line: 63
 # File: module/setup/view/air/priceline.phtml, line: 81
@@ -47286,15 +47224,13 @@ msgstr ""
 # File: module/setup/view/air/sabre.phtml, line: 183
 # File: module/setup/view/air/sabre.phtml, line: 187
 # File: module/setup/view/air/sky.phtml, line: 44
+# File: module/setup/view/air/tapndcsabre.phtml, line: 52
 # File: module/setup/view/air/travelport.phtml, line: 47
 # File: module/setup/view/air/travelport.phtml, line: 48
 # File: module/setup/view/air/turkishairlines.phtml, line: 177
 # File: module/setup/view/air/turkishairlines.phtml, line: 181
 # File: module/setup/view/air/unitedairlines.phtml, line: 168
 # File: module/setup/view/air/volaris.phtml, line: 87
-# File: module/setup/view/air/tapndcsabre.phtml, line: 52
-# File: module/setup/view/air/latamndcsabre.phtml, line: 52
-# File: module/setup/view/air/arajetsabre.phtml, line: 52
 # File: module/setup/view/cars/amadeus.phtml, line: 142
 # File: module/setup/view/cars/amadeus.phtml, line: 143
 # File: module/setup/view/cars/avis.phtml, line: 61
@@ -47364,6 +47300,7 @@ msgstr ""
 # File: module/setup/view/hotels/bluediamond.phtml, line: 95
 # File: module/setup/view/hotels/bonotel.phtml, line: 68
 # File: module/setup/view/hotels/bonotel.phtml, line: 69
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 185
 # File: module/setup/view/hotels/catalonia.phtml, line: 115
 # File: module/setup/view/hotels/catalonia.phtml, line: 116
 # File: module/setup/view/hotels/citytours.phtml, line: 62
@@ -47386,6 +47323,8 @@ msgstr ""
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 62
 # File: module/setup/view/hotels/dotw.phtml, line: 130
 # File: module/setup/view/hotels/dotw.phtml, line: 131
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 95
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 96
 # File: module/setup/view/hotels/eetglobal.phtml, line: 65
 # File: module/setup/view/hotels/eetglobal.phtml, line: 66
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 68
@@ -47550,9 +47489,6 @@ msgstr ""
 # File: module/setup/view/hotels/youtravel.phtml, line: 61
 # File: module/setup/view/hotels/zoytrip.phtml, line: 36
 # File: module/setup/view/hotels/zoytrip.phtml, line: 37
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 95
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 96
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 185
 # File: module/setup/view/packages/abreu.phtml, line: 43
 # File: module/setup/view/packages/abreu.phtml, line: 44
 # File: module/setup/view/packages/assistcard.phtml, line: 75
@@ -47589,6 +47525,10 @@ msgstr ""
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 35
 # File: module/setup/view/transfers/actiontravel.phtml, line: 40
 # File: module/setup/view/transfers/actiontravel.phtml, line: 41
+# File: module/setup/view/transfers/daytrip.phtml, line: 37
+# File: module/setup/view/transfers/daytrip.phtml, line: 38
+# File: module/setup/view/transfers/didatravel.phtml, line: 36
+# File: module/setup/view/transfers/didatravel.phtml, line: 37
 # File: module/setup/view/transfers/gltours.phtml, line: 39
 # File: module/setup/view/transfers/gltours.phtml, line: 40
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 110
@@ -47603,10 +47543,6 @@ msgstr ""
 # File: module/setup/view/transfers/trapsatur.phtml, line: 54
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 47
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 48
-# File: module/setup/view/transfers/didatravel.phtml, line: 36
-# File: module/setup/view/transfers/didatravel.phtml, line: 37
-# File: module/setup/view/transfers/daytrip.phtml, line: 37
-# File: module/setup/view/transfers/daytrip.phtml, line: 38
 msgid "B2B Markup"
 msgstr ""
 #
@@ -47614,6 +47550,8 @@ msgstr ""
 # File: module/setup/view/activities/actiontravel.phtml, line: 63
 # File: module/setup/view/activities/coming2.phtml, line: 77
 # File: module/setup/view/activities/coming2.phtml, line: 78
+# File: module/setup/view/activities/daytrip.phtml, line: 40
+# File: module/setup/view/activities/daytrip.phtml, line: 41
 # File: module/setup/view/activities/destinationservices.phtml, line: 46
 # File: module/setup/view/activities/destinationservices.phtml, line: 47
 # File: module/setup/view/activities/gltours.phtml, line: 42
@@ -47638,13 +47576,12 @@ msgstr ""
 # File: module/setup/view/activities/tuimusement.phtml, line: 45
 # File: module/setup/view/activities/viator.phtml, line: 77
 # File: module/setup/view/activities/viator.phtml, line: 78
-# File: module/setup/view/activities/daytrip.phtml, line: 40
-# File: module/setup/view/activities/daytrip.phtml, line: 41
 # File: module/setup/view/air/aeromexico.phtml, line: 169
 # File: module/setup/view/air/airgateway.phtml, line: 52
 # File: module/setup/view/air/amadeus.phtml, line: 227
 # File: module/setup/view/air/amadeus.phtml, line: 228
 # File: module/setup/view/air/americanairlines.phtml, line: 168
+# File: module/setup/view/air/arajetsabre.phtml, line: 53
 # File: module/setup/view/air/avianca.phtml, line: 172
 # File: module/setup/view/air/avianca.phtml, line: 176
 # File: module/setup/view/air/copa.phtml, line: 158
@@ -47656,6 +47593,7 @@ msgstr ""
 # File: module/setup/view/air/kiu.phtml, line: 132
 # File: module/setup/view/air/latam.phtml, line: 183
 # File: module/setup/view/air/latam.phtml, line: 186
+# File: module/setup/view/air/latamndcsabre.phtml, line: 53
 # File: module/setup/view/air/mystifly.phtml, line: 65
 # File: module/setup/view/air/mystifly.phtml, line: 66
 # File: module/setup/view/air/priceline.phtml, line: 85
@@ -47663,15 +47601,13 @@ msgstr ""
 # File: module/setup/view/air/sabre.phtml, line: 191
 # File: module/setup/view/air/sabre.phtml, line: 195
 # File: module/setup/view/air/sky.phtml, line: 45
+# File: module/setup/view/air/tapndcsabre.phtml, line: 53
 # File: module/setup/view/air/travelport.phtml, line: 50
 # File: module/setup/view/air/travelport.phtml, line: 51
 # File: module/setup/view/air/turkishairlines.phtml, line: 185
 # File: module/setup/view/air/turkishairlines.phtml, line: 189
 # File: module/setup/view/air/unitedairlines.phtml, line: 169
 # File: module/setup/view/air/volaris.phtml, line: 88
-# File: module/setup/view/air/tapndcsabre.phtml, line: 53
-# File: module/setup/view/air/latamndcsabre.phtml, line: 53
-# File: module/setup/view/air/arajetsabre.phtml, line: 53
 # File: module/setup/view/cars/amadeus.phtml, line: 145
 # File: module/setup/view/cars/amadeus.phtml, line: 146
 # File: module/setup/view/cars/avis.phtml, line: 65
@@ -47741,6 +47677,7 @@ msgstr ""
 # File: module/setup/view/hotels/bluediamond.phtml, line: 99
 # File: module/setup/view/hotels/bonotel.phtml, line: 72
 # File: module/setup/view/hotels/bonotel.phtml, line: 73
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 186
 # File: module/setup/view/hotels/catalonia.phtml, line: 119
 # File: module/setup/view/hotels/catalonia.phtml, line: 120
 # File: module/setup/view/hotels/citytours.phtml, line: 65
@@ -47763,6 +47700,8 @@ msgstr ""
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 65
 # File: module/setup/view/hotels/dotw.phtml, line: 133
 # File: module/setup/view/hotels/dotw.phtml, line: 134
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 98
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 99
 # File: module/setup/view/hotels/eetglobal.phtml, line: 68
 # File: module/setup/view/hotels/eetglobal.phtml, line: 69
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 71
@@ -47927,9 +47866,6 @@ msgstr ""
 # File: module/setup/view/hotels/youtravel.phtml, line: 64
 # File: module/setup/view/hotels/zoytrip.phtml, line: 39
 # File: module/setup/view/hotels/zoytrip.phtml, line: 40
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 98
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 99
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 186
 # File: module/setup/view/packages/abreu.phtml, line: 46
 # File: module/setup/view/packages/abreu.phtml, line: 47
 # File: module/setup/view/packages/assistcard.phtml, line: 78
@@ -47968,6 +47904,10 @@ msgstr ""
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 38
 # File: module/setup/view/transfers/actiontravel.phtml, line: 43
 # File: module/setup/view/transfers/actiontravel.phtml, line: 44
+# File: module/setup/view/transfers/daytrip.phtml, line: 40
+# File: module/setup/view/transfers/daytrip.phtml, line: 41
+# File: module/setup/view/transfers/didatravel.phtml, line: 40
+# File: module/setup/view/transfers/didatravel.phtml, line: 41
 # File: module/setup/view/transfers/gltours.phtml, line: 42
 # File: module/setup/view/transfers/gltours.phtml, line: 43
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 114
@@ -47982,10 +47922,6 @@ msgstr ""
 # File: module/setup/view/transfers/trapsatur.phtml, line: 57
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 51
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 52
-# File: module/setup/view/transfers/didatravel.phtml, line: 40
-# File: module/setup/view/transfers/didatravel.phtml, line: 41
-# File: module/setup/view/transfers/daytrip.phtml, line: 40
-# File: module/setup/view/transfers/daytrip.phtml, line: 41
 msgid "B2C Markup"
 msgstr ""
 #
@@ -47993,6 +47929,8 @@ msgstr ""
 # File: module/setup/view/activities/actiontravel.phtml, line: 66
 # File: module/setup/view/activities/coming2.phtml, line: 80
 # File: module/setup/view/activities/coming2.phtml, line: 81
+# File: module/setup/view/activities/daytrip.phtml, line: 43
+# File: module/setup/view/activities/daytrip.phtml, line: 44
 # File: module/setup/view/activities/destinationservices.phtml, line: 49
 # File: module/setup/view/activities/destinationservices.phtml, line: 50
 # File: module/setup/view/activities/gltours.phtml, line: 45
@@ -48017,13 +47955,12 @@ msgstr ""
 # File: module/setup/view/activities/tuimusement.phtml, line: 48
 # File: module/setup/view/activities/viator.phtml, line: 81
 # File: module/setup/view/activities/viator.phtml, line: 82
-# File: module/setup/view/activities/daytrip.phtml, line: 43
-# File: module/setup/view/activities/daytrip.phtml, line: 44
 # File: module/setup/view/air/aeromexico.phtml, line: 170
 # File: module/setup/view/air/airgateway.phtml, line: 53
 # File: module/setup/view/air/amadeus.phtml, line: 231
 # File: module/setup/view/air/amadeus.phtml, line: 232
 # File: module/setup/view/air/americanairlines.phtml, line: 169
+# File: module/setup/view/air/arajetsabre.phtml, line: 54
 # File: module/setup/view/air/avianca.phtml, line: 180
 # File: module/setup/view/air/avianca.phtml, line: 184
 # File: module/setup/view/air/copa.phtml, line: 159
@@ -48035,6 +47972,7 @@ msgstr ""
 # File: module/setup/view/air/kiu.phtml, line: 140
 # File: module/setup/view/air/latam.phtml, line: 190
 # File: module/setup/view/air/latam.phtml, line: 193
+# File: module/setup/view/air/latamndcsabre.phtml, line: 54
 # File: module/setup/view/air/mystifly.phtml, line: 68
 # File: module/setup/view/air/mystifly.phtml, line: 69
 # File: module/setup/view/air/priceline.phtml, line: 89
@@ -48042,14 +47980,12 @@ msgstr ""
 # File: module/setup/view/air/sabre.phtml, line: 199
 # File: module/setup/view/air/sabre.phtml, line: 203
 # File: module/setup/view/air/sky.phtml, line: 46
+# File: module/setup/view/air/tapndcsabre.phtml, line: 54
 # File: module/setup/view/air/travelport.phtml, line: 53
 # File: module/setup/view/air/turkishairlines.phtml, line: 193
 # File: module/setup/view/air/turkishairlines.phtml, line: 197
 # File: module/setup/view/air/unitedairlines.phtml, line: 170
 # File: module/setup/view/air/volaris.phtml, line: 89
-# File: module/setup/view/air/tapndcsabre.phtml, line: 54
-# File: module/setup/view/air/latamndcsabre.phtml, line: 54
-# File: module/setup/view/air/arajetsabre.phtml, line: 54
 # File: module/setup/view/cars/amadeus.phtml, line: 148
 # File: module/setup/view/cars/amadeus.phtml, line: 149
 # File: module/setup/view/cars/avis.phtml, line: 69
@@ -48121,6 +48057,7 @@ msgstr ""
 # File: module/setup/view/hotels/bluediamond.phtml, line: 103
 # File: module/setup/view/hotels/bonotel.phtml, line: 75
 # File: module/setup/view/hotels/bonotel.phtml, line: 76
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 187
 # File: module/setup/view/hotels/catalonia.phtml, line: 123
 # File: module/setup/view/hotels/catalonia.phtml, line: 124
 # File: module/setup/view/hotels/citytours.phtml, line: 68
@@ -48143,6 +48080,8 @@ msgstr ""
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 68
 # File: module/setup/view/hotels/dotw.phtml, line: 136
 # File: module/setup/view/hotels/dotw.phtml, line: 137
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 101
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 102
 # File: module/setup/view/hotels/eetglobal.phtml, line: 71
 # File: module/setup/view/hotels/eetglobal.phtml, line: 72
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 74
@@ -48306,9 +48245,6 @@ msgstr ""
 # File: module/setup/view/hotels/youtravel.phtml, line: 67
 # File: module/setup/view/hotels/zoytrip.phtml, line: 42
 # File: module/setup/view/hotels/zoytrip.phtml, line: 43
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 101
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 102
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 187
 # File: module/setup/view/packages/abreu.phtml, line: 49
 # File: module/setup/view/packages/abreu.phtml, line: 50
 # File: module/setup/view/packages/assistcard.phtml, line: 81
@@ -48345,6 +48281,10 @@ msgstr ""
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 41
 # File: module/setup/view/transfers/actiontravel.phtml, line: 46
 # File: module/setup/view/transfers/actiontravel.phtml, line: 47
+# File: module/setup/view/transfers/daytrip.phtml, line: 43
+# File: module/setup/view/transfers/daytrip.phtml, line: 44
+# File: module/setup/view/transfers/didatravel.phtml, line: 44
+# File: module/setup/view/transfers/didatravel.phtml, line: 45
 # File: module/setup/view/transfers/gltours.phtml, line: 45
 # File: module/setup/view/transfers/gltours.phtml, line: 46
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 118
@@ -48359,10 +48299,6 @@ msgstr ""
 # File: module/setup/view/transfers/trapsatur.phtml, line: 60
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 55
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 56
-# File: module/setup/view/transfers/didatravel.phtml, line: 44
-# File: module/setup/view/transfers/didatravel.phtml, line: 45
-# File: module/setup/view/transfers/daytrip.phtml, line: 43
-# File: module/setup/view/transfers/daytrip.phtml, line: 44
 msgid "Search Timeout"
 msgstr ""
 #
@@ -48370,6 +48306,8 @@ msgstr ""
 # File: module/setup/view/activities/actiontravel.phtml, line: 70
 # File: module/setup/view/activities/coming2.phtml, line: 84
 # File: module/setup/view/activities/coming2.phtml, line: 85
+# File: module/setup/view/activities/daytrip.phtml, line: 46
+# File: module/setup/view/activities/daytrip.phtml, line: 47
 # File: module/setup/view/activities/destinationservices.phtml, line: 53
 # File: module/setup/view/activities/destinationservices.phtml, line: 54
 # File: module/setup/view/activities/gltours.phtml, line: 48
@@ -48394,13 +48332,12 @@ msgstr ""
 # File: module/setup/view/activities/tuimusement.phtml, line: 52
 # File: module/setup/view/activities/viator.phtml, line: 85
 # File: module/setup/view/activities/viator.phtml, line: 86
-# File: module/setup/view/activities/daytrip.phtml, line: 46
-# File: module/setup/view/activities/daytrip.phtml, line: 47
 # File: module/setup/view/air/aeromexico.phtml, line: 171
 # File: module/setup/view/air/airgateway.phtml, line: 54
 # File: module/setup/view/air/amadeus.phtml, line: 236
 # File: module/setup/view/air/amadeus.phtml, line: 237
 # File: module/setup/view/air/americanairlines.phtml, line: 170
+# File: module/setup/view/air/arajetsabre.phtml, line: 55
 # File: module/setup/view/air/avianca.phtml, line: 188
 # File: module/setup/view/air/avianca.phtml, line: 192
 # File: module/setup/view/air/copa.phtml, line: 160
@@ -48412,6 +48349,7 @@ msgstr ""
 # File: module/setup/view/air/kiu.phtml, line: 149
 # File: module/setup/view/air/latam.phtml, line: 197
 # File: module/setup/view/air/latam.phtml, line: 201
+# File: module/setup/view/air/latamndcsabre.phtml, line: 55
 # File: module/setup/view/air/mystifly.phtml, line: 71
 # File: module/setup/view/air/mystifly.phtml, line: 72
 # File: module/setup/view/air/priceline.phtml, line: 93
@@ -48419,15 +48357,13 @@ msgstr ""
 # File: module/setup/view/air/sabre.phtml, line: 207
 # File: module/setup/view/air/sabre.phtml, line: 212
 # File: module/setup/view/air/sky.phtml, line: 47
+# File: module/setup/view/air/tapndcsabre.phtml, line: 55
 # File: module/setup/view/air/travelport.phtml, line: 61
 # File: module/setup/view/air/travelport.phtml, line: 62
 # File: module/setup/view/air/turkishairlines.phtml, line: 201
 # File: module/setup/view/air/turkishairlines.phtml, line: 206
 # File: module/setup/view/air/unitedairlines.phtml, line: 171
 # File: module/setup/view/air/volaris.phtml, line: 90
-# File: module/setup/view/air/tapndcsabre.phtml, line: 55
-# File: module/setup/view/air/latamndcsabre.phtml, line: 55
-# File: module/setup/view/air/arajetsabre.phtml, line: 55
 # File: module/setup/view/cars/amadeus.phtml, line: 151
 # File: module/setup/view/cars/amadeus.phtml, line: 152
 # File: module/setup/view/cars/avis.phtml, line: 73
@@ -48499,6 +48435,7 @@ msgstr ""
 # File: module/setup/view/hotels/bluediamond.phtml, line: 107
 # File: module/setup/view/hotels/bonotel.phtml, line: 79
 # File: module/setup/view/hotels/bonotel.phtml, line: 80
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 188
 # File: module/setup/view/hotels/catalonia.phtml, line: 127
 # File: module/setup/view/hotels/catalonia.phtml, line: 128
 # File: module/setup/view/hotels/citytours.phtml, line: 72
@@ -48521,6 +48458,8 @@ msgstr ""
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 72
 # File: module/setup/view/hotels/dotw.phtml, line: 140
 # File: module/setup/view/hotels/dotw.phtml, line: 141
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 105
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 106
 # File: module/setup/view/hotels/eetglobal.phtml, line: 75
 # File: module/setup/view/hotels/eetglobal.phtml, line: 76
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 78
@@ -48685,9 +48624,6 @@ msgstr ""
 # File: module/setup/view/hotels/youtravel.phtml, line: 71
 # File: module/setup/view/hotels/zoytrip.phtml, line: 46
 # File: module/setup/view/hotels/zoytrip.phtml, line: 47
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 105
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 106
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 188
 # File: module/setup/view/packages/abreu.phtml, line: 53
 # File: module/setup/view/packages/abreu.phtml, line: 54
 # File: module/setup/view/packages/assistcard.phtml, line: 85
@@ -48724,6 +48660,10 @@ msgstr ""
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 46
 # File: module/setup/view/transfers/actiontravel.phtml, line: 49
 # File: module/setup/view/transfers/actiontravel.phtml, line: 50
+# File: module/setup/view/transfers/daytrip.phtml, line: 46
+# File: module/setup/view/transfers/daytrip.phtml, line: 47
+# File: module/setup/view/transfers/didatravel.phtml, line: 48
+# File: module/setup/view/transfers/didatravel.phtml, line: 49
 # File: module/setup/view/transfers/gltours.phtml, line: 48
 # File: module/setup/view/transfers/gltours.phtml, line: 49
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 122
@@ -48738,10 +48678,6 @@ msgstr ""
 # File: module/setup/view/transfers/trapsatur.phtml, line: 63
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 59
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 60
-# File: module/setup/view/transfers/didatravel.phtml, line: 48
-# File: module/setup/view/transfers/didatravel.phtml, line: 49
-# File: module/setup/view/transfers/daytrip.phtml, line: 46
-# File: module/setup/view/transfers/daytrip.phtml, line: 47
 msgid "Search Order"
 msgstr ""
 #
@@ -48749,6 +48685,8 @@ msgstr ""
 # File: module/setup/view/activities/actiontravel.phtml, line: 79
 # File: module/setup/view/activities/coming2.phtml, line: 92
 # File: module/setup/view/activities/coming2.phtml, line: 94
+# File: module/setup/view/activities/daytrip.phtml, line: 53
+# File: module/setup/view/activities/daytrip.phtml, line: 55
 # File: module/setup/view/activities/destinationservices.phtml, line: 60
 # File: module/setup/view/activities/destinationservices.phtml, line: 62
 # File: module/setup/view/activities/gltours.phtml, line: 55
@@ -48773,8 +48711,6 @@ msgstr ""
 # File: module/setup/view/activities/tuimusement.phtml, line: 61
 # File: module/setup/view/activities/viator.phtml, line: 93
 # File: module/setup/view/activities/viator.phtml, line: 95
-# File: module/setup/view/activities/daytrip.phtml, line: 53
-# File: module/setup/view/activities/daytrip.phtml, line: 55
 # File: module/setup/view/hotels/abreu.phtml, line: 144
 # File: module/setup/view/hotels/abreu.phtml, line: 146
 # File: module/setup/view/hotels/actiontravel.phtml, line: 91
@@ -48797,6 +48733,8 @@ msgstr ""
 # File: module/setup/view/hotels/bluediamond.phtml, line: 116
 # File: module/setup/view/hotels/bonotel.phtml, line: 89
 # File: module/setup/view/hotels/bonotel.phtml, line: 91
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 194
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 196
 # File: module/setup/view/hotels/catalonia.phtml, line: 135
 # File: module/setup/view/hotels/catalonia.phtml, line: 137
 # File: module/setup/view/hotels/citytours.phtml, line: 80
@@ -48821,6 +48759,8 @@ msgstr ""
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 81
 # File: module/setup/view/hotels/dotw.phtml, line: 149
 # File: module/setup/view/hotels/dotw.phtml, line: 151
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 113
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 115
 # File: module/setup/view/hotels/eetglobal.phtml, line: 83
 # File: module/setup/view/hotels/eetglobal.phtml, line: 85
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 86
@@ -48989,14 +48929,14 @@ msgstr ""
 # File: module/setup/view/hotels/youtravel.phtml, line: 80
 # File: module/setup/view/hotels/zoytrip.phtml, line: 54
 # File: module/setup/view/hotels/zoytrip.phtml, line: 56
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 113
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 115
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 194
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 196
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 65
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 67
 # File: module/setup/view/transfers/actiontravel.phtml, line: 56
 # File: module/setup/view/transfers/actiontravel.phtml, line: 58
+# File: module/setup/view/transfers/daytrip.phtml, line: 53
+# File: module/setup/view/transfers/daytrip.phtml, line: 55
+# File: module/setup/view/transfers/didatravel.phtml, line: 56
+# File: module/setup/view/transfers/didatravel.phtml, line: 58
 # File: module/setup/view/transfers/gltours.phtml, line: 55
 # File: module/setup/view/transfers/gltours.phtml, line: 57
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 130
@@ -49011,10 +48951,6 @@ msgstr ""
 # File: module/setup/view/transfers/trapsatur.phtml, line: 71
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 67
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 69
-# File: module/setup/view/transfers/didatravel.phtml, line: 56
-# File: module/setup/view/transfers/didatravel.phtml, line: 58
-# File: module/setup/view/transfers/daytrip.phtml, line: 53
-# File: module/setup/view/transfers/daytrip.phtml, line: 55
 msgid "Emergency Contacts"
 msgstr ""
 #
@@ -49035,6 +48971,7 @@ msgstr ""
 #
 # File: module/setup/view/activities/actiontravel.phtml, line: 150
 # File: module/setup/view/activities/coming2.phtml, line: 168
+# File: module/setup/view/activities/daytrip.phtml, line: 114
 # File: module/setup/view/activities/destinationservices.phtml, line: 130
 # File: module/setup/view/activities/gltours.phtml, line: 122
 # File: module/setup/view/activities/hotelbeds.phtml, line: 182
@@ -49047,11 +48984,11 @@ msgstr ""
 # File: module/setup/view/activities/trapsatur.phtml, line: 138
 # File: module/setup/view/activities/tuimusement.phtml, line: 120
 # File: module/setup/view/activities/viator.phtml, line: 190
-# File: module/setup/view/activities/daytrip.phtml, line: 114
 # File: module/setup/view/air/aeromexico.phtml, line: 294
 # File: module/setup/view/air/airgateway.phtml, line: 117
 # File: module/setup/view/air/amadeus.phtml, line: 567
 # File: module/setup/view/air/americanairlines.phtml, line: 293
+# File: module/setup/view/air/arajetsabre.phtml, line: 112
 # File: module/setup/view/air/avianca.phtml, line: 280
 # File: module/setup/view/air/copa.phtml, line: 277
 # File: module/setup/view/air/ctm.phtml, line: 141
@@ -49059,17 +48996,16 @@ msgstr ""
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 294
 # File: module/setup/view/air/kiu.phtml, line: 231
 # File: module/setup/view/air/latam.phtml, line: 292
+# File: module/setup/view/air/latamndcsabre.phtml, line: 112
 # File: module/setup/view/air/mystifly.phtml, line: 142
 # File: module/setup/view/air/priceline.phtml, line: 158
 # File: module/setup/view/air/sabre.phtml, line: 615
 # File: module/setup/view/air/sky.phtml, line: 101
+# File: module/setup/view/air/tapndcsabre.phtml, line: 112
 # File: module/setup/view/air/travelport.phtml, line: 433
 # File: module/setup/view/air/turkishairlines.phtml, line: 342
 # File: module/setup/view/air/unitedairlines.phtml, line: 294
 # File: module/setup/view/air/volaris.phtml, line: 165
-# File: module/setup/view/air/tapndcsabre.phtml, line: 112
-# File: module/setup/view/air/latamndcsabre.phtml, line: 112
-# File: module/setup/view/air/arajetsabre.phtml, line: 112
 # File: module/setup/view/cars/amadeus.phtml, line: 336
 # File: module/setup/view/cars/avis.phtml, line: 141
 # File: module/setup/view/cars/avisbudget.phtml, line: 174
@@ -49105,6 +49041,7 @@ msgstr ""
 # File: module/setup/view/hotels/belive.phtml, line: 192
 # File: module/setup/view/hotels/bluediamond.phtml, line: 187
 # File: module/setup/view/hotels/bonotel.phtml, line: 177
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 339
 # File: module/setup/view/hotels/catalonia.phtml, line: 208
 # File: module/setup/view/hotels/citytours.phtml, line: 156
 # File: module/setup/view/hotels/coming2.phtml, line: 180
@@ -49117,6 +49054,7 @@ msgstr ""
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 168
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 152
 # File: module/setup/view/hotels/dotw.phtml, line: 216
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 225
 # File: module/setup/view/hotels/eetglobal.phtml, line: 159
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 171
 # File: module/setup/view/hotels/enjoycuba.phtml, line: 159
@@ -49201,8 +49139,6 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 190
 # File: module/setup/view/hotels/youtravel.phtml, line: 160
 # File: module/setup/view/hotels/zoytrip.phtml, line: 118
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 225
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 339
 # File: module/setup/view/packages/abreu.phtml, line: 117
 # File: module/setup/view/packages/assistcard.phtml, line: 187
 # File: module/setup/view/packages/citytours.phtml, line: 139
@@ -49221,6 +49157,8 @@ msgstr ""
 # File: module/setup/view/trains/travelport.phtml, line: 184
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 141
 # File: module/setup/view/transfers/actiontravel.phtml, line: 123
+# File: module/setup/view/transfers/daytrip.phtml, line: 114
+# File: module/setup/view/transfers/didatravel.phtml, line: 123
 # File: module/setup/view/transfers/gltours.phtml, line: 122
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 230
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 190
@@ -49228,8 +49166,6 @@ msgstr ""
 # File: module/setup/view/transfers/shuttlefare.phtml, line: 122
 # File: module/setup/view/transfers/trapsatur.phtml, line: 142
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 137
-# File: module/setup/view/transfers/didatravel.phtml, line: 123
-# File: module/setup/view/transfers/daytrip.phtml, line: 114
 msgid "Please enter B2B markup"
 msgstr ""
 #
@@ -49342,6 +49278,7 @@ msgstr ""
 #
 # File: module/setup/view/activities/actiontravel.phtml, line: 162
 # File: module/setup/view/activities/coming2.phtml, line: 177
+# File: module/setup/view/activities/daytrip.phtml, line: 117
 # File: module/setup/view/activities/destinationservices.phtml, line: 136
 # File: module/setup/view/activities/gltours.phtml, line: 125
 # File: module/setup/view/activities/hotelbeds.phtml, line: 191
@@ -49354,11 +49291,11 @@ msgstr ""
 # File: module/setup/view/activities/trapsatur.phtml, line: 141
 # File: module/setup/view/activities/tuimusement.phtml, line: 123
 # File: module/setup/view/activities/viator.phtml, line: 193
-# File: module/setup/view/activities/daytrip.phtml, line: 117
 # File: module/setup/view/air/aeromexico.phtml, line: 354
 # File: module/setup/view/air/airgateway.phtml, line: 123
 # File: module/setup/view/air/amadeus.phtml, line: 570
 # File: module/setup/view/air/americanairlines.phtml, line: 371
+# File: module/setup/view/air/arajetsabre.phtml, line: 121
 # File: module/setup/view/air/avianca.phtml, line: 316
 # File: module/setup/view/air/copa.phtml, line: 349
 # File: module/setup/view/air/ctm.phtml, line: 168
@@ -49366,17 +49303,16 @@ msgstr ""
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 354
 # File: module/setup/view/air/kiu.phtml, line: 234
 # File: module/setup/view/air/latam.phtml, line: 334
+# File: module/setup/view/air/latamndcsabre.phtml, line: 121
 # File: module/setup/view/air/mystifly.phtml, line: 151
 # File: module/setup/view/air/priceline.phtml, line: 164
 # File: module/setup/view/air/sabre.phtml, line: 618
 # File: module/setup/view/air/sky.phtml, line: 107
+# File: module/setup/view/air/tapndcsabre.phtml, line: 121
 # File: module/setup/view/air/travelport.phtml, line: 460
 # File: module/setup/view/air/turkishairlines.phtml, line: 345
 # File: module/setup/view/air/unitedairlines.phtml, line: 354
 # File: module/setup/view/air/volaris.phtml, line: 192
-# File: module/setup/view/air/tapndcsabre.phtml, line: 121
-# File: module/setup/view/air/latamndcsabre.phtml, line: 121
-# File: module/setup/view/air/arajetsabre.phtml, line: 121
 # File: module/setup/view/cars/amadeus.phtml, line: 339
 # File: module/setup/view/cars/avis.phtml, line: 153
 # File: module/setup/view/cars/avisbudget.phtml, line: 189
@@ -49412,6 +49348,7 @@ msgstr ""
 # File: module/setup/view/hotels/belive.phtml, line: 204
 # File: module/setup/view/hotels/bluediamond.phtml, line: 199
 # File: module/setup/view/hotels/bonotel.phtml, line: 180
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 342
 # File: module/setup/view/hotels/catalonia.phtml, line: 220
 # File: module/setup/view/hotels/citytours.phtml, line: 165
 # File: module/setup/view/hotels/coming2.phtml, line: 189
@@ -49424,6 +49361,7 @@ msgstr ""
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 201
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 158
 # File: module/setup/view/hotels/dotw.phtml, line: 222
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 228
 # File: module/setup/view/hotels/eetglobal.phtml, line: 168
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 177
 # File: module/setup/view/hotels/enjoycuba.phtml, line: 171
@@ -49508,8 +49446,6 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 193
 # File: module/setup/view/hotels/youtravel.phtml, line: 163
 # File: module/setup/view/hotels/zoytrip.phtml, line: 121
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 228
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 342
 # File: module/setup/view/packages/abreu.phtml, line: 120
 # File: module/setup/view/packages/assistcard.phtml, line: 190
 # File: module/setup/view/packages/citytours.phtml, line: 142
@@ -49528,6 +49464,8 @@ msgstr ""
 # File: module/setup/view/trains/travelport.phtml, line: 205
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 147
 # File: module/setup/view/transfers/actiontravel.phtml, line: 126
+# File: module/setup/view/transfers/daytrip.phtml, line: 117
+# File: module/setup/view/transfers/didatravel.phtml, line: 126
 # File: module/setup/view/transfers/gltours.phtml, line: 125
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 236
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 202
@@ -49535,13 +49473,12 @@ msgstr ""
 # File: module/setup/view/transfers/shuttlefare.phtml, line: 125
 # File: module/setup/view/transfers/trapsatur.phtml, line: 145
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 143
-# File: module/setup/view/transfers/didatravel.phtml, line: 126
-# File: module/setup/view/transfers/daytrip.phtml, line: 117
 msgid "Please enter B2C markup"
 msgstr ""
 #
 # File: module/setup/view/activities/actiontravel.phtml, line: 165
 # File: module/setup/view/activities/coming2.phtml, line: 180
+# File: module/setup/view/activities/daytrip.phtml, line: 120
 # File: module/setup/view/activities/destinationservices.phtml, line: 139
 # File: module/setup/view/activities/gltours.phtml, line: 128
 # File: module/setup/view/activities/hotelbeds.phtml, line: 194
@@ -49554,11 +49491,11 @@ msgstr ""
 # File: module/setup/view/activities/trapsatur.phtml, line: 147
 # File: module/setup/view/activities/tuimusement.phtml, line: 126
 # File: module/setup/view/activities/viator.phtml, line: 214
-# File: module/setup/view/activities/daytrip.phtml, line: 120
 # File: module/setup/view/air/aeromexico.phtml, line: 357
 # File: module/setup/view/air/airgateway.phtml, line: 126
 # File: module/setup/view/air/amadeus.phtml, line: 573
 # File: module/setup/view/air/americanairlines.phtml, line: 374
+# File: module/setup/view/air/arajetsabre.phtml, line: 124
 # File: module/setup/view/air/avianca.phtml, line: 319
 # File: module/setup/view/air/copa.phtml, line: 352
 # File: module/setup/view/air/ctm.phtml, line: 171
@@ -49566,17 +49503,16 @@ msgstr ""
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 357
 # File: module/setup/view/air/kiu.phtml, line: 237
 # File: module/setup/view/air/latam.phtml, line: 337
+# File: module/setup/view/air/latamndcsabre.phtml, line: 124
 # File: module/setup/view/air/mystifly.phtml, line: 154
 # File: module/setup/view/air/priceline.phtml, line: 167
 # File: module/setup/view/air/sabre.phtml, line: 621
 # File: module/setup/view/air/sky.phtml, line: 110
+# File: module/setup/view/air/tapndcsabre.phtml, line: 124
 # File: module/setup/view/air/travelport.phtml, line: 463
 # File: module/setup/view/air/turkishairlines.phtml, line: 348
 # File: module/setup/view/air/unitedairlines.phtml, line: 357
 # File: module/setup/view/air/volaris.phtml, line: 195
-# File: module/setup/view/air/tapndcsabre.phtml, line: 124
-# File: module/setup/view/air/latamndcsabre.phtml, line: 124
-# File: module/setup/view/air/arajetsabre.phtml, line: 124
 # File: module/setup/view/cars/amadeus.phtml, line: 342
 # File: module/setup/view/cars/avis.phtml, line: 156
 # File: module/setup/view/cars/avisbudget.phtml, line: 192
@@ -49613,6 +49549,7 @@ msgstr ""
 # File: module/setup/view/hotels/belive.phtml, line: 207
 # File: module/setup/view/hotels/bluediamond.phtml, line: 202
 # File: module/setup/view/hotels/bonotel.phtml, line: 183
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 345
 # File: module/setup/view/hotels/catalonia.phtml, line: 223
 # File: module/setup/view/hotels/citytours.phtml, line: 168
 # File: module/setup/view/hotels/coming2.phtml, line: 192
@@ -49625,6 +49562,7 @@ msgstr ""
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 204
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 161
 # File: module/setup/view/hotels/dotw.phtml, line: 225
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 231
 # File: module/setup/view/hotels/eetglobal.phtml, line: 171
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 180
 # File: module/setup/view/hotels/enjoycuba.phtml, line: 174
@@ -49709,8 +49647,6 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 196
 # File: module/setup/view/hotels/youtravel.phtml, line: 166
 # File: module/setup/view/hotels/zoytrip.phtml, line: 124
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 231
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 345
 # File: module/setup/view/packages/abreu.phtml, line: 123
 # File: module/setup/view/packages/assistcard.phtml, line: 193
 # File: module/setup/view/packages/citytours.phtml, line: 145
@@ -49729,6 +49665,8 @@ msgstr ""
 # File: module/setup/view/trains/travelport.phtml, line: 208
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 150
 # File: module/setup/view/transfers/actiontravel.phtml, line: 129
+# File: module/setup/view/transfers/daytrip.phtml, line: 120
+# File: module/setup/view/transfers/didatravel.phtml, line: 129
 # File: module/setup/view/transfers/gltours.phtml, line: 128
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 239
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 205
@@ -49736,13 +49674,12 @@ msgstr ""
 # File: module/setup/view/transfers/shuttlefare.phtml, line: 128
 # File: module/setup/view/transfers/trapsatur.phtml, line: 148
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 146
-# File: module/setup/view/transfers/didatravel.phtml, line: 129
-# File: module/setup/view/transfers/daytrip.phtml, line: 120
 msgid "Please enter search time out"
 msgstr ""
 #
 # File: module/setup/view/activities/actiontravel.phtml, line: 168
 # File: module/setup/view/activities/coming2.phtml, line: 183
+# File: module/setup/view/activities/daytrip.phtml, line: 123
 # File: module/setup/view/activities/destinationservices.phtml, line: 142
 # File: module/setup/view/activities/gltours.phtml, line: 131
 # File: module/setup/view/activities/hotelbeds.phtml, line: 197
@@ -49755,11 +49692,11 @@ msgstr ""
 # File: module/setup/view/activities/trapsatur.phtml, line: 150
 # File: module/setup/view/activities/tuimusement.phtml, line: 129
 # File: module/setup/view/activities/viator.phtml, line: 217
-# File: module/setup/view/activities/daytrip.phtml, line: 123
 # File: module/setup/view/air/aeromexico.phtml, line: 378
 # File: module/setup/view/air/airgateway.phtml, line: 135
 # File: module/setup/view/air/amadeus.phtml, line: 576
 # File: module/setup/view/air/americanairlines.phtml, line: 377
+# File: module/setup/view/air/arajetsabre.phtml, line: 127
 # File: module/setup/view/air/avianca.phtml, line: 322
 # File: module/setup/view/air/copa.phtml, line: 355
 # File: module/setup/view/air/ctm.phtml, line: 174
@@ -49767,17 +49704,16 @@ msgstr ""
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 378
 # File: module/setup/view/air/kiu.phtml, line: 240
 # File: module/setup/view/air/latam.phtml, line: 340
+# File: module/setup/view/air/latamndcsabre.phtml, line: 127
 # File: module/setup/view/air/mystifly.phtml, line: 157
 # File: module/setup/view/air/priceline.phtml, line: 170
 # File: module/setup/view/air/sabre.phtml, line: 624
 # File: module/setup/view/air/sky.phtml, line: 113
+# File: module/setup/view/air/tapndcsabre.phtml, line: 127
 # File: module/setup/view/air/travelport.phtml, line: 466
 # File: module/setup/view/air/turkishairlines.phtml, line: 351
 # File: module/setup/view/air/unitedairlines.phtml, line: 378
 # File: module/setup/view/air/volaris.phtml, line: 198
-# File: module/setup/view/air/tapndcsabre.phtml, line: 127
-# File: module/setup/view/air/latamndcsabre.phtml, line: 127
-# File: module/setup/view/air/arajetsabre.phtml, line: 127
 # File: module/setup/view/cars/amadeus.phtml, line: 345
 # File: module/setup/view/cars/avis.phtml, line: 159
 # File: module/setup/view/cars/avisbudget.phtml, line: 195
@@ -49814,6 +49750,7 @@ msgstr ""
 # File: module/setup/view/hotels/belive.phtml, line: 210
 # File: module/setup/view/hotels/bluediamond.phtml, line: 205
 # File: module/setup/view/hotels/bonotel.phtml, line: 186
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 348
 # File: module/setup/view/hotels/catalonia.phtml, line: 226
 # File: module/setup/view/hotels/citytours.phtml, line: 171
 # File: module/setup/view/hotels/coming2.phtml, line: 195
@@ -49826,6 +49763,7 @@ msgstr ""
 # File: module/setup/view/hotels/didatravelcug.phtml, line: 207
 # File: module/setup/view/hotels/dioviagensbrasil.phtml, line: 164
 # File: module/setup/view/hotels/dotw.phtml, line: 228
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 234
 # File: module/setup/view/hotels/eetglobal.phtml, line: 174
 # File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 183
 # File: module/setup/view/hotels/enjoycuba.phtml, line: 177
@@ -49910,8 +49848,6 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 226
 # File: module/setup/view/hotels/youtravel.phtml, line: 169
 # File: module/setup/view/hotels/zoytrip.phtml, line: 130
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 234
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 348
 # File: module/setup/view/packages/abreu.phtml, line: 126
 # File: module/setup/view/packages/assistcard.phtml, line: 196
 # File: module/setup/view/packages/citytours.phtml, line: 148
@@ -49930,6 +49866,8 @@ msgstr ""
 # File: module/setup/view/trains/travelport.phtml, line: 211
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 153
 # File: module/setup/view/transfers/actiontravel.phtml, line: 132
+# File: module/setup/view/transfers/daytrip.phtml, line: 123
+# File: module/setup/view/transfers/didatravel.phtml, line: 132
 # File: module/setup/view/transfers/gltours.phtml, line: 131
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 242
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 208
@@ -49937,8 +49875,6 @@ msgstr ""
 # File: module/setup/view/transfers/shuttlefare.phtml, line: 131
 # File: module/setup/view/transfers/trapsatur.phtml, line: 151
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 149
-# File: module/setup/view/transfers/didatravel.phtml, line: 132
-# File: module/setup/view/transfers/daytrip.phtml, line: 123
 msgid "Please enter search order"
 msgstr ""
 #
@@ -49957,9 +49893,9 @@ msgid "ES"
 msgstr ""
 #
 # File: module/setup/view/activities/coming2.phtml, line: 159
-# File: module/setup/view/air/tapndcsabre.phtml, line: 109
-# File: module/setup/view/air/latamndcsabre.phtml, line: 109
 # File: module/setup/view/air/arajetsabre.phtml, line: 109
+# File: module/setup/view/air/latamndcsabre.phtml, line: 109
+# File: module/setup/view/air/tapndcsabre.phtml, line: 109
 # File: module/setup/view/hotels/aictravel.phtml, line: 141
 # File: module/setup/view/hotels/avoris.phtml, line: 164
 # File: module/setup/view/hotels/bahiaprincipe.phtml, line: 191
@@ -50030,6 +49966,173 @@ msgstr ""
 # File: module/setup/view/hotels/rakutencug.phtml, line: 159
 # File: module/setup/view/packages/destinationservices.phtml, line: 126
 msgid "Please enter Currency Code"
+msgstr ""
+#
+# File: module/setup/view/activities/daytrip.phtml, line: 13
+msgid "Enable DayTrip - Activities"
+msgstr ""
+#
+# File: module/setup/view/activities/daytrip.phtml, line: 15
+# File: module/setup/view/activities/daytrip.phtml, line: 16
+# File: module/setup/view/activities/viator.phtml, line: 43
+# File: module/setup/view/activities/viator.phtml, line: 44
+# File: module/setup/view/air/airgateway.phtml, line: 15
+# File: module/setup/view/air/airgateway.phtml, line: 16
+# File: module/setup/view/air/latam.phtml, line: 52
+# File: module/setup/view/air/latam.phtml, line: 55
+# File: module/setup/view/air/priceline.phtml, line: 44
+# File: module/setup/view/air/priceline.phtml, line: 45
+# File: module/setup/view/air/sky.phtml, line: 15
+# File: module/setup/view/air/sky.phtml, line: 16
+# File: module/setup/view/air/volaris.phtml, line: 15
+# File: module/setup/view/air/volaris.phtml, line: 16
+# File: module/setup/view/cars/priceline.phtml, line: 44
+# File: module/setup/view/cars/priceline.phtml, line: 45
+# File: module/setup/view/hotels/aio.phtml, line: 43
+# File: module/setup/view/hotels/aio.phtml, line: 44
+# File: module/setup/view/hotels/enjoycuba.phtml, line: 40
+# File: module/setup/view/hotels/enjoycuba.phtml, line: 41
+# File: module/setup/view/hotels/expedia.phtml, line: 43
+# File: module/setup/view/hotels/expedia.phtml, line: 44
+# File: module/setup/view/hotels/getaroom.phtml, line: 48
+# File: module/setup/view/hotels/getaroom.phtml, line: 49
+# File: module/setup/view/hotels/hotelplanner.phtml, line: 41
+# File: module/setup/view/hotels/hotelplanner.phtml, line: 42
+# File: module/setup/view/hotels/impala.phtml, line: 16
+# File: module/setup/view/hotels/impala.phtml, line: 17
+# File: module/setup/view/hotels/priceline.phtml, line: 44
+# File: module/setup/view/hotels/priceline.phtml, line: 45
+# File: module/setup/view/hotels/pricelinemer.phtml, line: 47
+# File: module/setup/view/hotels/pricelinenet.phtml, line: 19
+# File: module/setup/view/hotels/pricelinenet.phtml, line: 20
+# File: module/setup/view/hotels/rakuten.phtml, line: 46
+# File: module/setup/view/hotels/rakuten.phtml, line: 47
+# File: module/setup/view/hotels/rakutencug.phtml, line: 46
+# File: module/setup/view/hotels/rakutencug.phtml, line: 47
+# File: module/setup/view/hotels/ratehawk.phtml, line: 20
+# File: module/setup/view/hotels/ratehawk.phtml, line: 21
+# File: module/setup/view/hotels/siteminderchannelplus.phtml, line: 20
+# File: module/setup/view/hotels/siteminderchannelplus.phtml, line: 21
+# File: module/setup/view/hotels/snaptravel.phtml, line: 37
+# File: module/setup/view/hotels/snaptravel.phtml, line: 38
+# File: module/setup/view/hotels/symrooms.phtml, line: 15
+# File: module/setup/view/hotels/symrooms.phtml, line: 16
+# File: module/setup/view/hotels/yalago.phtml, line: 27
+# File: module/setup/view/hotels/yalago.phtml, line: 28
+# File: module/setup/view/hotels/zoytrip.phtml, line: 27
+# File: module/setup/view/hotels/zoytrip.phtml, line: 28
+# File: module/setup/view/transfers/daytrip.phtml, line: 15
+# File: module/setup/view/transfers/daytrip.phtml, line: 16
+# File: module/setup/view/transfers/yourtransfer.phtml, line: 37
+# File: module/setup/view/transfers/yourtransfer.phtml, line: 38
+msgid "API Key"
+msgstr ""
+#
+# File: module/setup/view/activities/daytrip.phtml, line: 108
+# File: module/setup/view/activities/viator.phtml, line: 181
+# File: module/setup/view/air/airgateway.phtml, line: 114
+# File: module/setup/view/air/avianca.phtml, line: 277
+# File: module/setup/view/air/latam.phtml, line: 295
+# File: module/setup/view/air/priceline.phtml, line: 161
+# File: module/setup/view/air/sky.phtml, line: 98
+# File: module/setup/view/air/travelportpaypai.phtml, line: 184
+# File: module/setup/view/air/volaris.phtml, line: 162
+# File: module/setup/view/cars/priceline.phtml, line: 161
+# File: module/setup/view/hotels/aio.phtml, line: 261
+# File: module/setup/view/hotels/expedia.phtml, line: 358
+# File: module/setup/view/hotels/hotelmundial.phtml, line: 293
+# File: module/setup/view/hotels/hotelplanner.phtml, line: 259
+# File: module/setup/view/hotels/impala.phtml, line: 130
+# File: module/setup/view/hotels/priceline.phtml, line: 189
+# File: module/setup/view/hotels/pricelinemer.phtml, line: 152
+# File: module/setup/view/hotels/pricelinenet.phtml, line: 156
+# File: module/setup/view/hotels/rakuten.phtml, line: 156
+# File: module/setup/view/hotels/rakutencug.phtml, line: 156
+# File: module/setup/view/hotels/siteminderchannelplus.phtml, line: 147
+# File: module/setup/view/hotels/snaptravel.phtml, line: 208
+# File: module/setup/view/hotels/symrooms.phtml, line: 164
+# File: module/setup/view/hotels/yalago.phtml, line: 187
+# File: module/setup/view/hotels/zoytrip.phtml, line: 115
+# File: module/setup/view/transfers/daytrip.phtml, line: 108
+# File: module/setup/view/transfers/yourtransfer.phtml, line: 134
+msgid "Please enter API Key"
+msgstr ""
+#
+# File: module/setup/view/activities/daytrip.phtml, line: 111
+# File: module/setup/view/activities/gltours.phtml, line: 119
+# File: module/setup/view/activities/hotelbeds.phtml, line: 167
+# File: module/setup/view/activities/hotelspro.phtml, line: 123
+# File: module/setup/view/activities/kaluahtours.phtml, line: 166
+# File: module/setup/view/activities/mmc.phtml, line: 123
+# File: module/setup/view/activities/tourico.phtml, line: 161
+# File: module/setup/view/activities/trapsatur.phtml, line: 135
+# File: module/setup/view/activities/viator.phtml, line: 178
+# File: module/setup/view/air/amadeus.phtml, line: 501
+# File: module/setup/view/air/galileo.phtml, line: 175
+# File: module/setup/view/air/priceline.phtml, line: 155
+# File: module/setup/view/air/travelport.phtml, line: 430
+# File: module/setup/view/cars/amadeus.phtml, line: 282
+# File: module/setup/view/cars/bookinggo.phtml, line: 133
+# File: module/setup/view/cars/cartrawler.phtml, line: 363
+# File: module/setup/view/cars/priceline.phtml, line: 155
+# File: module/setup/view/cars/tourico.phtml, line: 152
+# File: module/setup/view/cars/travelport.phtml, line: 371
+# File: module/setup/view/cruises/amadeus.phtml, line: 310
+# File: module/setup/view/cruises/tourico.phtml, line: 231
+# File: module/setup/view/hotels/amadeus.phtml, line: 303
+# File: module/setup/view/hotels/ati.phtml, line: 192
+# File: module/setup/view/hotels/bonotel.phtml, line: 165
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 303
+# File: module/setup/view/hotels/citytours.phtml, line: 153
+# File: module/setup/view/hotels/convencional.phtml, line: 164
+# File: module/setup/view/hotels/dhisco.phtml, line: 146
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 201
+# File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 162
+# File: module/setup/view/hotels/gta.phtml, line: 166
+# File: module/setup/view/hotels/hotelbeds.phtml, line: 184
+# File: module/setup/view/hotels/hoteldo.phtml, line: 314
+# File: module/setup/view/hotels/hotelplanner.phtml, line: 256
+# File: module/setup/view/hotels/hoteltrader.phtml, line: 164
+# File: module/setup/view/hotels/kaluahtours.phtml, line: 166
+# File: module/setup/view/hotels/markinternational.phtml, line: 179
+# File: module/setup/view/hotels/mikitravel.phtml, line: 172
+# File: module/setup/view/hotels/oasis.phtml, line: 178
+# File: module/setup/view/hotels/panamericana.phtml, line: 180
+# File: module/setup/view/hotels/priceline.phtml, line: 183
+# File: module/setup/view/hotels/pricelinemer.phtml, line: 146
+# File: module/setup/view/hotels/pricelinenet.phtml, line: 150
+# File: module/setup/view/hotels/rts.phtml, line: 176
+# File: module/setup/view/hotels/symrooms.phtml, line: 176
+# File: module/setup/view/hotels/tourico.phtml, line: 216
+# File: module/setup/view/hotels/travelport.phtml, line: 175
+# File: module/setup/view/hotels/w2m.phtml, line: 167
+# File: module/setup/view/hotels/webbeds.phtml, line: 166
+# File: module/setup/view/hotels/webhotelier.phtml, line: 166
+# File: module/setup/view/hotels/yalago.phtml, line: 184
+# File: module/setup/view/hotels/youtravel.phtml, line: 151
+# File: module/setup/view/hotels/zoytrip.phtml, line: 112
+# File: module/setup/view/packages/abreu.phtml, line: 114
+# File: module/setup/view/packages/citytours.phtml, line: 133
+# File: module/setup/view/packages/europamundo.phtml, line: 173
+# File: module/setup/view/packages/generali.phtml, line: 257
+# File: module/setup/view/packages/globalia.phtml, line: 115
+# File: module/setup/view/packages/panavision.phtml, line: 114
+# File: module/setup/view/packages/specialtours.phtml, line: 124
+# File: module/setup/view/packages/trabax.phtml, line: 139
+# File: module/setup/view/packages/trapsatur.phtml, line: 133
+# File: module/setup/view/packages/universalassistance.phtml, line: 220
+# File: module/setup/view/packages/wamos.phtml, line: 134
+# File: module/setup/view/settings/b2bwallet.phtml, line: 203
+# File: module/setup/view/trains/travelport.phtml, line: 181
+# File: module/setup/view/transfers/a2btransfers.phtml, line: 135
+# File: module/setup/view/transfers/daytrip.phtml, line: 111
+# File: module/setup/view/transfers/didatravel.phtml, line: 120
+# File: module/setup/view/transfers/gltours.phtml, line: 119
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 218
+# File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 172
+# File: module/setup/view/transfers/shuttlefare.phtml, line: 119
+# File: module/setup/view/transfers/trapsatur.phtml, line: 136
+msgid "Please enter service url"
 msgstr ""
 #
 # File: module/setup/view/activities/destinationservices.phtml, line: 13
@@ -50137,9 +50240,9 @@ msgstr ""
 # File: module/setup/view/cruises/tourico.phtml, line: 225
 # File: module/setup/view/cruises/traveltek.phtml, line: 138
 # File: module/setup/view/hotels/amadeus.phtml, line: 291
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 291
 # File: module/setup/view/hotels/gta.phtml, line: 160
 # File: module/setup/view/hotels/tourico.phtml, line: 210
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 291
 # File: module/setup/view/packages/trapsatur.phtml, line: 124
 # File: module/setup/view/settings/b2bwallet.phtml, line: 194
 # File: module/setup/view/transfers/actiontravel.phtml, line: 114
@@ -50148,83 +50251,6 @@ msgstr ""
 # File: module/setup/view/transfers/trapsatur.phtml, line: 130
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 128
 msgid "Please enter login"
-msgstr ""
-#
-# File: module/setup/view/activities/gltours.phtml, line: 119
-# File: module/setup/view/activities/hotelbeds.phtml, line: 167
-# File: module/setup/view/activities/hotelspro.phtml, line: 123
-# File: module/setup/view/activities/kaluahtours.phtml, line: 166
-# File: module/setup/view/activities/mmc.phtml, line: 123
-# File: module/setup/view/activities/tourico.phtml, line: 161
-# File: module/setup/view/activities/trapsatur.phtml, line: 135
-# File: module/setup/view/activities/viator.phtml, line: 178
-# File: module/setup/view/activities/daytrip.phtml, line: 111
-# File: module/setup/view/air/amadeus.phtml, line: 501
-# File: module/setup/view/air/galileo.phtml, line: 175
-# File: module/setup/view/air/priceline.phtml, line: 155
-# File: module/setup/view/air/travelport.phtml, line: 430
-# File: module/setup/view/cars/amadeus.phtml, line: 282
-# File: module/setup/view/cars/bookinggo.phtml, line: 133
-# File: module/setup/view/cars/cartrawler.phtml, line: 363
-# File: module/setup/view/cars/priceline.phtml, line: 155
-# File: module/setup/view/cars/tourico.phtml, line: 152
-# File: module/setup/view/cars/travelport.phtml, line: 371
-# File: module/setup/view/cruises/amadeus.phtml, line: 310
-# File: module/setup/view/cruises/tourico.phtml, line: 231
-# File: module/setup/view/hotels/amadeus.phtml, line: 303
-# File: module/setup/view/hotels/ati.phtml, line: 192
-# File: module/setup/view/hotels/bonotel.phtml, line: 165
-# File: module/setup/view/hotels/citytours.phtml, line: 153
-# File: module/setup/view/hotels/convencional.phtml, line: 164
-# File: module/setup/view/hotels/dhisco.phtml, line: 146
-# File: module/setup/view/hotels/egyptexpresstravel.phtml, line: 162
-# File: module/setup/view/hotels/gta.phtml, line: 166
-# File: module/setup/view/hotels/hotelbeds.phtml, line: 184
-# File: module/setup/view/hotels/hoteldo.phtml, line: 314
-# File: module/setup/view/hotels/hotelplanner.phtml, line: 256
-# File: module/setup/view/hotels/hoteltrader.phtml, line: 164
-# File: module/setup/view/hotels/kaluahtours.phtml, line: 166
-# File: module/setup/view/hotels/markinternational.phtml, line: 179
-# File: module/setup/view/hotels/mikitravel.phtml, line: 172
-# File: module/setup/view/hotels/oasis.phtml, line: 178
-# File: module/setup/view/hotels/panamericana.phtml, line: 180
-# File: module/setup/view/hotels/priceline.phtml, line: 183
-# File: module/setup/view/hotels/pricelinemer.phtml, line: 146
-# File: module/setup/view/hotels/pricelinenet.phtml, line: 150
-# File: module/setup/view/hotels/rts.phtml, line: 176
-# File: module/setup/view/hotels/symrooms.phtml, line: 176
-# File: module/setup/view/hotels/tourico.phtml, line: 216
-# File: module/setup/view/hotels/travelport.phtml, line: 175
-# File: module/setup/view/hotels/w2m.phtml, line: 167
-# File: module/setup/view/hotels/webbeds.phtml, line: 166
-# File: module/setup/view/hotels/webhotelier.phtml, line: 166
-# File: module/setup/view/hotels/yalago.phtml, line: 184
-# File: module/setup/view/hotels/youtravel.phtml, line: 151
-# File: module/setup/view/hotels/zoytrip.phtml, line: 112
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 201
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 303
-# File: module/setup/view/packages/abreu.phtml, line: 114
-# File: module/setup/view/packages/citytours.phtml, line: 133
-# File: module/setup/view/packages/europamundo.phtml, line: 173
-# File: module/setup/view/packages/generali.phtml, line: 257
-# File: module/setup/view/packages/globalia.phtml, line: 115
-# File: module/setup/view/packages/panavision.phtml, line: 114
-# File: module/setup/view/packages/specialtours.phtml, line: 124
-# File: module/setup/view/packages/trabax.phtml, line: 139
-# File: module/setup/view/packages/trapsatur.phtml, line: 133
-# File: module/setup/view/packages/universalassistance.phtml, line: 220
-# File: module/setup/view/packages/wamos.phtml, line: 134
-# File: module/setup/view/settings/b2bwallet.phtml, line: 203
-# File: module/setup/view/trains/travelport.phtml, line: 181
-# File: module/setup/view/transfers/a2btransfers.phtml, line: 135
-# File: module/setup/view/transfers/gltours.phtml, line: 119
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 218
-# File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 172
-# File: module/setup/view/transfers/shuttlefare.phtml, line: 119
-# File: module/setup/view/transfers/trapsatur.phtml, line: 136
-# File: module/setup/view/transfers/didatravel.phtml, line: 120
-# File: module/setup/view/transfers/daytrip.phtml, line: 111
-msgid "Please enter service url"
 msgstr ""
 #
 # File: module/setup/view/activities/hotelbeds.phtml, line: 13
@@ -50278,6 +50304,8 @@ msgstr ""
 # File: module/setup/view/hotels/bluediamond.phtml, line: 56
 # File: module/setup/view/hotels/bonotel.phtml, line: 60
 # File: module/setup/view/hotels/bonotel.phtml, line: 61
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 174
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 175
 # File: module/setup/view/hotels/catalonia.phtml, line: 55
 # File: module/setup/view/hotels/catalonia.phtml, line: 56
 # File: module/setup/view/hotels/catalonia.phtml, line: 103
@@ -50355,8 +50383,6 @@ msgstr ""
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 87
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 88
 # File: module/setup/view/hotels/webhotelier.phtml, line: 54
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 174
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 175
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 100
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 101
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 68
@@ -50388,6 +50414,8 @@ msgstr ""
 # File: module/setup/view/hotels/bluediamond.phtml, line: 60
 # File: module/setup/view/hotels/bonotel.phtml, line: 64
 # File: module/setup/view/hotels/bonotel.phtml, line: 65
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 178
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 179
 # File: module/setup/view/hotels/catalonia.phtml, line: 59
 # File: module/setup/view/hotels/catalonia.phtml, line: 60
 # File: module/setup/view/hotels/catalonia.phtml, line: 107
@@ -50468,8 +50496,6 @@ msgstr ""
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 92
 # File: module/setup/view/hotels/webhotelier.phtml, line: 58
 # File: module/setup/view/hotels/webhotelier.phtml, line: 59
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 178
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 179
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 104
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 105
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 72
@@ -50778,10 +50804,10 @@ msgstr ""
 # File: module/setup/view/cruises/tourico.phtml, line: 240
 # File: module/setup/view/hotels/abreu.phtml, line: 238
 # File: module/setup/view/hotels/amadeus.phtml, line: 294
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 294
 # File: module/setup/view/hotels/gta.phtml, line: 172
 # File: module/setup/view/hotels/mikitravel.phtml, line: 175
 # File: module/setup/view/hotels/tourico.phtml, line: 225
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 294
 # File: module/setup/view/settings/b2bwallet.phtml, line: 197
 msgid "Please enter currency"
 msgstr ""
@@ -50886,62 +50912,6 @@ msgstr ""
 msgid "Last Modified Since - Availability ( YYYY-MM-DDTHH:MM:SS.SSSSSSZ )"
 msgstr ""
 #
-# File: module/setup/view/activities/viator.phtml, line: 43
-# File: module/setup/view/activities/viator.phtml, line: 44
-# File: module/setup/view/activities/daytrip.phtml, line: 15
-# File: module/setup/view/activities/daytrip.phtml, line: 16
-# File: module/setup/view/air/airgateway.phtml, line: 15
-# File: module/setup/view/air/airgateway.phtml, line: 16
-# File: module/setup/view/air/latam.phtml, line: 52
-# File: module/setup/view/air/latam.phtml, line: 55
-# File: module/setup/view/air/priceline.phtml, line: 44
-# File: module/setup/view/air/priceline.phtml, line: 45
-# File: module/setup/view/air/sky.phtml, line: 15
-# File: module/setup/view/air/sky.phtml, line: 16
-# File: module/setup/view/air/volaris.phtml, line: 15
-# File: module/setup/view/air/volaris.phtml, line: 16
-# File: module/setup/view/cars/priceline.phtml, line: 44
-# File: module/setup/view/cars/priceline.phtml, line: 45
-# File: module/setup/view/hotels/aio.phtml, line: 43
-# File: module/setup/view/hotels/aio.phtml, line: 44
-# File: module/setup/view/hotels/enjoycuba.phtml, line: 40
-# File: module/setup/view/hotels/enjoycuba.phtml, line: 41
-# File: module/setup/view/hotels/expedia.phtml, line: 43
-# File: module/setup/view/hotels/expedia.phtml, line: 44
-# File: module/setup/view/hotels/getaroom.phtml, line: 48
-# File: module/setup/view/hotels/getaroom.phtml, line: 49
-# File: module/setup/view/hotels/hotelplanner.phtml, line: 41
-# File: module/setup/view/hotels/hotelplanner.phtml, line: 42
-# File: module/setup/view/hotels/impala.phtml, line: 16
-# File: module/setup/view/hotels/impala.phtml, line: 17
-# File: module/setup/view/hotels/priceline.phtml, line: 44
-# File: module/setup/view/hotels/priceline.phtml, line: 45
-# File: module/setup/view/hotels/pricelinemer.phtml, line: 47
-# File: module/setup/view/hotels/pricelinenet.phtml, line: 19
-# File: module/setup/view/hotels/pricelinenet.phtml, line: 20
-# File: module/setup/view/hotels/rakuten.phtml, line: 46
-# File: module/setup/view/hotels/rakuten.phtml, line: 47
-# File: module/setup/view/hotels/rakutencug.phtml, line: 46
-# File: module/setup/view/hotels/rakutencug.phtml, line: 47
-# File: module/setup/view/hotels/ratehawk.phtml, line: 20
-# File: module/setup/view/hotels/ratehawk.phtml, line: 21
-# File: module/setup/view/hotels/siteminderchannelplus.phtml, line: 20
-# File: module/setup/view/hotels/siteminderchannelplus.phtml, line: 21
-# File: module/setup/view/hotels/snaptravel.phtml, line: 37
-# File: module/setup/view/hotels/snaptravel.phtml, line: 38
-# File: module/setup/view/hotels/symrooms.phtml, line: 15
-# File: module/setup/view/hotels/symrooms.phtml, line: 16
-# File: module/setup/view/hotels/yalago.phtml, line: 27
-# File: module/setup/view/hotels/yalago.phtml, line: 28
-# File: module/setup/view/hotels/zoytrip.phtml, line: 27
-# File: module/setup/view/hotels/zoytrip.phtml, line: 28
-# File: module/setup/view/transfers/yourtransfer.phtml, line: 37
-# File: module/setup/view/transfers/yourtransfer.phtml, line: 38
-# File: module/setup/view/transfers/daytrip.phtml, line: 15
-# File: module/setup/view/transfers/daytrip.phtml, line: 16
-msgid "API Key"
-msgstr ""
-#
 # File: module/setup/view/activities/viator.phtml, line: 49
 # File: module/setup/view/activities/viator.phtml, line: 50
 # File: module/setup/view/hotels/didatravel.phtml, line: 63
@@ -50960,46 +50930,12 @@ msgstr ""
 msgid "Please enter service URL backward compatibility"
 msgstr ""
 #
-# File: module/setup/view/activities/viator.phtml, line: 181
-# File: module/setup/view/activities/daytrip.phtml, line: 108
-# File: module/setup/view/air/airgateway.phtml, line: 114
-# File: module/setup/view/air/avianca.phtml, line: 277
-# File: module/setup/view/air/latam.phtml, line: 295
-# File: module/setup/view/air/priceline.phtml, line: 161
-# File: module/setup/view/air/sky.phtml, line: 98
-# File: module/setup/view/air/travelportpaypai.phtml, line: 184
-# File: module/setup/view/air/volaris.phtml, line: 162
-# File: module/setup/view/cars/priceline.phtml, line: 161
-# File: module/setup/view/hotels/aio.phtml, line: 261
-# File: module/setup/view/hotels/expedia.phtml, line: 358
-# File: module/setup/view/hotels/hotelmundial.phtml, line: 293
-# File: module/setup/view/hotels/hotelplanner.phtml, line: 259
-# File: module/setup/view/hotels/impala.phtml, line: 130
-# File: module/setup/view/hotels/priceline.phtml, line: 189
-# File: module/setup/view/hotels/pricelinemer.phtml, line: 152
-# File: module/setup/view/hotels/pricelinenet.phtml, line: 156
-# File: module/setup/view/hotels/rakuten.phtml, line: 156
-# File: module/setup/view/hotels/rakutencug.phtml, line: 156
-# File: module/setup/view/hotels/siteminderchannelplus.phtml, line: 147
-# File: module/setup/view/hotels/snaptravel.phtml, line: 208
-# File: module/setup/view/hotels/symrooms.phtml, line: 164
-# File: module/setup/view/hotels/yalago.phtml, line: 187
-# File: module/setup/view/hotels/zoytrip.phtml, line: 115
-# File: module/setup/view/transfers/yourtransfer.phtml, line: 134
-# File: module/setup/view/transfers/daytrip.phtml, line: 108
-msgid "Please enter API Key"
-msgstr ""
-#
 # File: module/setup/view/activities/viator.phtml, line: 184
 msgid "Please enter Viator Service Fee (%)"
 msgstr ""
 #
 # File: module/setup/view/activities/viator.phtml, line: 205
 msgid "Please enter contact phone"
-msgstr ""
-#
-# File: module/setup/view/activities/daytrip.phtml, line: 13
-msgid "Enable DayTrip - Activities"
 msgstr ""
 #
 # File: module/setup/view/air/addbranches.phtml, line: 5
@@ -51555,10 +51491,10 @@ msgstr ""
 # File: module/setup/view/cruises/traveltek.phtml, line: 17
 # File: module/setup/view/hotels/amadeus.phtml, line: 15
 # File: module/setup/view/hotels/amadeus.phtml, line: 16
-# File: module/setup/view/hotels/infinitas.phtml, line: 15
-# File: module/setup/view/hotels/infinitas.phtml, line: 16
 # File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 15
 # File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 16
+# File: module/setup/view/hotels/infinitas.phtml, line: 15
+# File: module/setup/view/hotels/infinitas.phtml, line: 16
 # File: module/setup/view/settings/b2bwallet.phtml, line: 15
 # File: module/setup/view/settings/b2bwallet.phtml, line: 16
 msgid "User Name"
@@ -51769,12 +51705,12 @@ msgid "Queue Number"
 msgstr ""
 #
 # File: module/setup/view/air/amadeus.phtml, line: 117
-# File: module/setup/view/air/tapndcsabre.phtml, line: 23
-# File: module/setup/view/air/tapndcsabre.phtml, line: 24
-# File: module/setup/view/air/latamndcsabre.phtml, line: 23
-# File: module/setup/view/air/latamndcsabre.phtml, line: 24
 # File: module/setup/view/air/arajetsabre.phtml, line: 23
 # File: module/setup/view/air/arajetsabre.phtml, line: 24
+# File: module/setup/view/air/latamndcsabre.phtml, line: 23
+# File: module/setup/view/air/latamndcsabre.phtml, line: 24
+# File: module/setup/view/air/tapndcsabre.phtml, line: 23
+# File: module/setup/view/air/tapndcsabre.phtml, line: 24
 # File: module/setup/view/cars/amadeus.phtml, line: 74
 # File: module/setup/view/cruises/amadeus.phtml, line: 87
 # File: module/setup/view/hotels/amadeus.phtml, line: 80
@@ -51791,9 +51727,9 @@ msgstr ""
 # File: module/setup/view/cars/cartrawler.phtml, line: 204
 # File: module/setup/view/cruises/amadeus.phtml, line: 88
 # File: module/setup/view/hotels/amadeus.phtml, line: 81
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 81
 # File: module/setup/view/hotels/ibs.phtml, line: 66
 # File: module/setup/view/hotels/infinitas.phtml, line: 60
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 81
 # File: module/setup/view/settings/b2bwallet.phtml, line: 78
 msgid "Production"
 msgstr ""
@@ -51805,9 +51741,9 @@ msgstr ""
 # File: module/setup/view/cruises/amadeus.phtml, line: 89
 # File: module/setup/view/cruises/mundocruceros.phtml, line: 84
 # File: module/setup/view/hotels/amadeus.phtml, line: 82
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 82
 # File: module/setup/view/hotels/ibs.phtml, line: 65
 # File: module/setup/view/hotels/infinitas.phtml, line: 61
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 82
 # File: module/setup/view/settings/b2bwallet.phtml, line: 79
 msgid "Test"
 msgstr ""
@@ -52075,13 +52011,13 @@ msgstr ""
 # File: module/setup/view/air/ctm.phtml, line: 159
 # File: module/setup/view/hotels/aio.phtml, line: 237
 # File: module/setup/view/hotels/ctrip.phtml, line: 197
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 216
 # File: module/setup/view/hotels/expedia.phtml, line: 331
 # File: module/setup/view/hotels/gnrconnect.phtml, line: 176
 # File: module/setup/view/hotels/hotelmundial.phtml, line: 350
 # File: module/setup/view/hotels/ratehawk.phtml, line: 273
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 264
 # File: module/setup/view/hotels/tbo.phtml, line: 264
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 216
 msgid "Please enter Phone Number"
 msgstr ""
 #
@@ -52202,6 +52138,16 @@ msgstr ""
 #
 # File: module/setup/view/air/americanairlines.phtml, line: 13
 msgid "Enable American Airlines - NDC"
+msgstr ""
+#
+# File: module/setup/view/air/arajetsabre.phtml, line: 13
+msgid "Enable Arajet (Via Sabre)"
+msgstr ""
+#
+# File: module/setup/view/air/arajetsabre.phtml, line: 115
+# File: module/setup/view/air/latamndcsabre.phtml, line: 115
+# File: module/setup/view/air/tapndcsabre.phtml, line: 115
+msgid "Please enter Environment"
 msgstr ""
 #
 # File: module/setup/view/air/avianca.phtml, line: 24
@@ -52524,6 +52470,7 @@ msgstr ""
 # File: module/setup/view/hotels/abreu.phtml, line: 217
 # File: module/setup/view/hotels/ati.phtml, line: 186
 # File: module/setup/view/hotels/bonotel.phtml, line: 159
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 195
 # File: module/setup/view/hotels/hotelspro.phtml, line: 175
 # File: module/setup/view/hotels/ibs.phtml, line: 192
 # File: module/setup/view/hotels/infinitehotel.phtml, line: 240
@@ -52531,7 +52478,6 @@ msgstr ""
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 237
 # File: module/setup/view/hotels/tbo.phtml, line: 237
 # File: module/setup/view/hotels/travellanda.phtml, line: 150
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 195
 msgid "Please enter Username"
 msgstr ""
 #
@@ -52645,6 +52591,10 @@ msgstr ""
 #
 # File: module/setup/view/air/latam.phtml, line: 331
 msgid "Please enter IATA Iso Code Country 2"
+msgstr ""
+#
+# File: module/setup/view/air/latamndcsabre.phtml, line: 13
+msgid "Enable LATAM NDC (Via Sabre)"
 msgstr ""
 #
 # File: module/setup/view/air/mystifly.phtml, line: 13
@@ -53133,6 +53083,10 @@ msgstr ""
 #
 # File: module/setup/view/air/sky.phtml, line: 13
 msgid "Enable Sky"
+msgstr ""
+#
+# File: module/setup/view/air/tapndcsabre.phtml, line: 13
+msgid "Enable TAP NDC (Via Sabre)"
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 13
@@ -53653,24 +53607,6 @@ msgstr ""
 msgid "Please enter User Name"
 msgstr ""
 #
-# File: module/setup/view/air/tapndcsabre.phtml, line: 13
-msgid "Enable TAP NDC (Via Sabre)"
-msgstr ""
-#
-# File: module/setup/view/air/tapndcsabre.phtml, line: 115
-# File: module/setup/view/air/latamndcsabre.phtml, line: 115
-# File: module/setup/view/air/arajetsabre.phtml, line: 115
-msgid "Please enter Environment"
-msgstr ""
-#
-# File: module/setup/view/air/latamndcsabre.phtml, line: 13
-msgid "Enable LATAM NDC (Via Sabre)"
-msgstr ""
-#
-# File: module/setup/view/air/arajetsabre.phtml, line: 13
-msgid "Enable Arajet (Via Sabre)"
-msgstr ""
-#
 # File: module/setup/view/cars/amadeus.phtml, line: 13
 msgid "Enable Amadeus Cars Booking Engine"
 msgstr ""
@@ -53782,9 +53718,9 @@ msgstr ""
 # File: module/setup/view/cars/amadeus.phtml, line: 285
 # File: module/setup/view/cruises/amadeus.phtml, line: 313
 # File: module/setup/view/hotels/amadeus.phtml, line: 306
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 306
 # File: module/setup/view/hotels/gta.phtml, line: 169
 # File: module/setup/view/hotels/tourico.phtml, line: 219
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 306
 # File: module/setup/view/settings/b2bwallet.phtml, line: 206
 msgid "Please enter reservations service url"
 msgstr ""
@@ -55759,6 +55695,8 @@ msgstr ""
 # File: module/setup/view/hotels/belive.phtml, line: 84
 # File: module/setup/view/hotels/bonotel.phtml, line: 56
 # File: module/setup/view/hotels/bonotel.phtml, line: 57
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 170
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 171
 # File: module/setup/view/hotels/catalonia.phtml, line: 99
 # File: module/setup/view/hotels/catalonia.phtml, line: 100
 # File: module/setup/view/hotels/coming2.phtml, line: 71
@@ -55817,8 +55755,6 @@ msgstr ""
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 56
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 83
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 84
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 170
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 171
 msgid "Supplier Payment Location Code"
 msgstr ""
 #
@@ -56063,9 +55999,9 @@ msgid "Content from both, Distribution (GDS) and Leisure (Aggregators)"
 msgstr ""
 #
 # File: module/setup/view/hotels/amadeus.phtml, line: 109
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 109
 # File: module/setup/view/hotels/imperatours.phtml, line: 59
 # File: module/setup/view/hotels/jactravel.phtml, line: 100
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 109
 msgid "USD"
 msgstr ""
 #
@@ -56453,6 +56389,10 @@ msgstr ""
 msgid "Disable On Request Rates"
 msgstr ""
 #
+# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 13
+msgid "Enable Booking.com (Amadeus) Hotels Booking Engine"
+msgstr ""
+#
 # File: module/setup/view/hotels/catalonia.phtml, line: 13
 msgid "Enable Catalonia"
 msgstr ""
@@ -56701,6 +56641,66 @@ msgstr ""
 # File: module/setup/view/hotels/hoteldo.phtml, line: 120
 # File: module/setup/view/hotels/hoteldo.phtml, line: 121
 msgid "Credit Card Type"
+msgstr ""
+#
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 13
+msgid "Enable Ebooking Center XML Feed"
+msgstr ""
+#
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 15
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 16
+# File: module/setup/view/hotels/pricetravel.phtml, line: 16
+# File: module/setup/view/hotels/pricetravel.phtml, line: 17
+# File: module/setup/view/packages/wamos.phtml, line: 37
+# File: module/setup/view/packages/wamos.phtml, line: 38
+# File: module/setup/view/settings/settings.phtml, line: 920
+# File: module/setup/view/settings/settings.phtml, line: 921
+# File: module/setup/view/trains/era.phtml, line: 20
+# File: module/setup/view/trains/era.phtml, line: 21
+# File: module/setup/view/trains/sat.phtml, line: 20
+# File: module/setup/view/trains/sat.phtml, line: 21
+# File: module/setup/view/transfers/didatravel.phtml, line: 15
+# File: module/setup/view/transfers/didatravel.phtml, line: 16
+msgid "Client Id"
+msgstr ""
+#
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 19
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 20
+msgid "Client Token"
+msgstr ""
+#
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 51
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 52
+msgid "Auth Endpoint"
+msgstr ""
+#
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 74
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 75
+msgid "Phone Prefix"
+msgstr ""
+#
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 82
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 83
+msgid "Fiscal Identification Number"
+msgstr ""
+#
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 86
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 87
+msgid "Identity Number"
+msgstr ""
+#
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 210
+# File: module/setup/view/hotels/tbo-cug.phtml, line: 270
+# File: module/setup/view/hotels/tbo.phtml, line: 270
+msgid "Please enter City"
+msgstr ""
+#
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 219
+msgid "Please enter Phone Prefix"
+msgstr ""
+#
+# File: module/setup/view/hotels/ebookingcenter.phtml, line: 222
+msgid "Please enter Auth Endpoint"
 msgstr ""
 #
 # File: module/setup/view/hotels/eetglobal.phtml, line: 13
@@ -58336,23 +58336,6 @@ msgstr ""
 msgid "Enable Price Travel"
 msgstr ""
 #
-# File: module/setup/view/hotels/pricetravel.phtml, line: 16
-# File: module/setup/view/hotels/pricetravel.phtml, line: 17
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 15
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 16
-# File: module/setup/view/packages/wamos.phtml, line: 37
-# File: module/setup/view/packages/wamos.phtml, line: 38
-# File: module/setup/view/settings/settings.phtml, line: 920
-# File: module/setup/view/settings/settings.phtml, line: 921
-# File: module/setup/view/trains/era.phtml, line: 20
-# File: module/setup/view/trains/era.phtml, line: 21
-# File: module/setup/view/trains/sat.phtml, line: 20
-# File: module/setup/view/trains/sat.phtml, line: 21
-# File: module/setup/view/transfers/didatravel.phtml, line: 15
-# File: module/setup/view/transfers/didatravel.phtml, line: 16
-msgid "Client Id"
-msgstr ""
-#
 # File: module/setup/view/hotels/pricetravel.phtml, line: 57
 # File: module/setup/view/hotels/pricetravel.phtml, line: 58
 msgid "Contact Phone Country Code"
@@ -58912,12 +58895,6 @@ msgstr ""
 msgid "Please enter Address Line 1"
 msgstr ""
 #
-# File: module/setup/view/hotels/tbo-cug.phtml, line: 270
-# File: module/setup/view/hotels/tbo.phtml, line: 270
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 210
-msgid "Please enter City"
-msgstr ""
-#
 # File: module/setup/view/hotels/tbo-cug.phtml, line: 273
 # File: module/setup/view/hotels/tbo.phtml, line: 273
 msgid "Please enter State"
@@ -59304,47 +59281,6 @@ msgstr ""
 #
 # File: module/setup/view/hotels/zoytrip.phtml, line: 13
 msgid "Enable ZoyTrip XML Feed"
-msgstr ""
-#
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 13
-msgid "Enable Ebooking Center XML Feed"
-msgstr ""
-#
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 19
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 20
-msgid "Client Token"
-msgstr ""
-#
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 51
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 52
-msgid "Auth Endpoint"
-msgstr ""
-#
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 74
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 75
-msgid "Phone Prefix"
-msgstr ""
-#
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 82
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 83
-msgid "Fiscal Identification Number"
-msgstr ""
-#
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 86
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 87
-msgid "Identity Number"
-msgstr ""
-#
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 219
-msgid "Please enter Phone Prefix"
-msgstr ""
-#
-# File: module/setup/view/hotels/ebookingcenter.phtml, line: 222
-msgid "Please enter Auth Endpoint"
-msgstr ""
-#
-# File: module/setup/view/hotels/bookingdotcomamadeus.phtml, line: 13
-msgid "Enable Booking.com (Amadeus) Hotels Booking Engine"
 msgstr ""
 #
 # File: module/setup/view/index/index.phtml, line: 4
@@ -63214,6 +63150,14 @@ msgstr ""
 msgid "Enable Action Travel - Transfers"
 msgstr ""
 #
+# File: module/setup/view/transfers/daytrip.phtml, line: 13
+msgid "Enable DayTrip - Transfers"
+msgstr ""
+#
+# File: module/setup/view/transfers/didatravel.phtml, line: 13
+msgid "Enable Dida Travel - Ground Transfer"
+msgstr ""
+#
 # File: module/setup/view/transfers/gltours.phtml, line: 13
 msgid "Enable GL Tours - Transfers"
 msgstr ""
@@ -63393,14 +63337,6 @@ msgstr ""
 msgid "Enable Your Transfer 24"
 msgstr ""
 #
-# File: module/setup/view/transfers/didatravel.phtml, line: 13
-msgid "Enable Dida Travel - Ground Transfer"
-msgstr ""
-#
-# File: module/setup/view/transfers/daytrip.phtml, line: 13
-msgid "Enable DayTrip - Transfers"
-msgstr ""
-#
-# File: vendor/sendgrid/php-http-client/test/unit/ClientTest.php, line: 41
+# File: vendor.old/sendgrid/php-http-client/test/unit/ClientTest.php, line: 41
 msgid "test"
 msgstr ""
