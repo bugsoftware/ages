@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-20 18:51-0500\n"
+"POT-Creation-Date: 2026-01-20 18:54-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -8401,6 +8401,7 @@ msgid "stars"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/travelers-choice.phtml, line: 1277
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 43
 msgid "If you don't want to receive emails, please"
 msgstr ""
 #
@@ -9006,6 +9007,80 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/voucher3.phtml, line: 195
 msgid "Total Commission Amount"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 20
+msgid "welcome to"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 22
+msgid "For every"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 22
+msgid "you spend, you earn"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 22
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 25
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 26
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 27
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 28
+msgid "points"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 22
+msgid "Your points unlock exclusive rewards, upgrades, and member-only perks - the more you travel, the faster you rise!"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 23
+msgid "Here's how it works:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 25
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 26
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 27
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 28
+msgid "Spend"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 25
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 26
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 27
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 28
+msgid "Earn"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 25
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 26
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 27
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 28
+msgid "Worth"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 30
+msgid "Your journeys don't just take you places - they build your rewards balance for future adventures."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 31
+msgid "Start earning today and make every journey more rewarding!"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 32
+msgid "This offer is valid across all products - hotels, flights, transfers, tours, and more."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 33
+# File: module/ages/view/ages/hotels/index.phtml, line: 65
+msgid "Activate"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 43
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 5
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 88
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 89
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 94
+msgid "Unsubscribe"
 msgstr ""
 #
 # File: module/ages/src/Controller/Activities.php, line: 244
@@ -40676,10 +40751,6 @@ msgstr ""
 msgid "Inactivate"
 msgstr ""
 #
-# File: module/ages/view/ages/hotels/index.phtml, line: 65
-msgid "Activate"
-msgstr ""
-#
 # File: module/ages/view/ages/hotels/listusers.phtml, line: 5
 # File: module/ages/view/ages/hotels/listusers.phtml, line: 94
 # File: module/ages/view/ages/hotels/listusers.phtml, line: 95
@@ -42022,13 +42093,6 @@ msgstr ""
 #
 # File: module/ages/view/ages/newsletter/stats.phtml, line: 87
 msgid "Most Internet Service Providers (ISPs) provide a feedback loop, sending specific spam complaints to the Email Service Providers (ESPs), like we. When we receive a notice, we fire a spam event, so that you can react appropriately-or at the very least, never send another email to that address!"
-msgstr ""
-#
-# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 5
-# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 88
-# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 89
-# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 94
-msgid "Unsubscribe"
 msgstr ""
 #
 # File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 77
@@ -63337,6 +63401,6 @@ msgstr ""
 msgid "Enable Your Transfer 24"
 msgstr ""
 #
-# File: vendor.old/sendgrid/php-http-client/test/unit/ClientTest.php, line: 41
+# File: vendor/sendgrid/php-http-client/test/unit/ClientTest.php, line: 41
 msgid "test"
 msgstr ""
