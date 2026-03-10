@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-10 09:01-0400\n"
+"POT-Creation-Date: 2026-03-10 10:43-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2018,8 +2018,8 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 20
 # File: module/ages/src/Controller/Agents.php, line: 5642
-# File: module/ages/src/Controller/LoginController.php, line: 855
-# File: module/ages/src/Controller/LoginController.php, line: 856
+# File: module/ages/src/Controller/LoginController.php, line: 891
+# File: module/ages/src/Controller/LoginController.php, line: 892
 msgid "Dear"
 msgstr ""
 #
@@ -11248,7 +11248,7 @@ msgid "If you have any questions, feel free to reach out. We are here to help."
 msgstr ""
 #
 # File: module/ages/src/Controller/Agents.php, line: 5642
-# File: module/ages/src/Controller/LoginController.php, line: 856
+# File: module/ages/src/Controller/LoginController.php, line: 892
 msgid "Thanks"
 msgstr ""
 #
@@ -14255,15 +14255,15 @@ msgstr ""
 msgid "All Reservation Status"
 msgstr ""
 #
-# File: module/ages/src/Controller/LoginController.php, line: 856
+# File: module/ages/src/Controller/LoginController.php, line: 892
 msgid "One Time Password"
 msgstr ""
 #
-# File: module/ages/src/Controller/LoginController.php, line: 856
+# File: module/ages/src/Controller/LoginController.php, line: 892
 msgid "Here is your One Time Password (OTP) for"
 msgstr ""
 #
-# File: module/ages/src/Controller/LoginController.php, line: 856
+# File: module/ages/src/Controller/LoginController.php, line: 892
 # File: module/setup/view/activities/gltours.phtml, line: 14
 # File: module/setup/view/activities/gltours.phtml, line: 15
 # File: module/setup/view/activities/tourico.phtml, line: 14
@@ -14301,29 +14301,29 @@ msgstr ""
 msgid "Login"
 msgstr ""
 #
-# File: module/ages/src/Controller/LoginController.php, line: 856
+# File: module/ages/src/Controller/LoginController.php, line: 892
 msgid "Please enter this OTP to complete the login process"
 msgstr ""
 #
-# File: module/ages/src/Controller/LoginController.php, line: 856
+# File: module/ages/src/Controller/LoginController.php, line: 892
 msgid "This is valid for 30 minutes only"
 msgstr ""
 #
-# File: module/ages/src/Controller/LoginController.php, line: 859
+# File: module/ages/src/Controller/LoginController.php, line: 895
 msgid "Login - One Time Password(OTP)"
 msgstr ""
 #
-# File: module/ages/src/Controller/LoginController.php, line: 1004
+# File: module/ages/src/Controller/LoginController.php, line: 1040
 # File: module/manager/src/Controller/ManagerController.php, line: 520
 msgid "For security reasons the user account was locked."
 msgstr ""
 #
-# File: module/ages/src/Controller/LoginController.php, line: 1007
+# File: module/ages/src/Controller/LoginController.php, line: 1043
 # File: module/manager/src/Controller/ManagerController.php, line: 523
 msgid "Account locked"
 msgstr ""
 #
-# File: module/ages/src/Controller/LoginController.php, line: 1008
+# File: module/ages/src/Controller/LoginController.php, line: 1044
 # File: module/manager/src/Controller/ManagerController.php, line: 524
 msgid "from"
 msgstr ""
@@ -22585,7 +22585,7 @@ msgstr ""
 # File: module/ages/view/ages/customers/editpassdocuments.phtml, line: 83
 # File: module/ages/view/ages/hotels/adduser.phtml, line: 221
 # File: module/ages/view/ages/hotels/editusers.phtml, line: 231
-# File: module/ages/view/ages/login/index.phtml, line: 133
+# File: module/ages/view/ages/login/index.phtml, line: 135
 # File: module/ages/view/ages/newsletter/add.phtml, line: 88
 # File: module/ages/view/ages/newsletter/edit.phtml, line: 123
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 969
@@ -27868,7 +27868,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/staticshipsbulkimagesadd.phtml, line: 114
 # File: module/ages/view/ages/dynamic-packaging/missinginvoices.phtml, line: 288
 # File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 288
-# File: module/ages/view/ages/login/googleauthenticator.phtml, line: 103
+# File: module/ages/view/ages/login/googleauthenticator.phtml, line: 105
 # File: module/ages/view/ages/login/otptwostep.phtml, line: 87
 # File: module/ages/view/ages/newsletter/send.phtml, line: 142
 # File: module/ages/view/ages/newsletter/send.phtml, line: 190
@@ -41182,26 +41182,26 @@ msgstr ""
 msgid "Download and Install Google Authenticator for iPhone, iPod Touch, or iPad and Scan the QR Code on the right please."
 msgstr ""
 #
-# File: module/ages/view/ages/login/googleauthenticator.phtml, line: 69
+# File: module/ages/view/ages/login/googleauthenticator.phtml, line: 70
 msgid "Turn on 2-Step Verification"
 msgstr ""
 #
-# File: module/ages/view/ages/login/googleauthenticator.phtml, line: 70
+# File: module/ages/view/ages/login/googleauthenticator.phtml, line: 71
 msgid "Please scan the QR Code using Google Authenticator and input the code bellow. Once you have installed and inputted the correct code click the Sign in button."
 msgstr ""
 #
-# File: module/ages/view/ages/login/googleauthenticator.phtml, line: 70
+# File: module/ages/view/ages/login/googleauthenticator.phtml, line: 71
 msgid "Please enter Google Authenticator secret code"
 msgstr ""
 #
-# File: module/ages/view/ages/login/googleauthenticator.phtml, line: 71
-# File: module/ages/view/ages/login/index.phtml, line: 97
+# File: module/ages/view/ages/login/googleauthenticator.phtml, line: 72
+# File: module/ages/view/ages/login/index.phtml, line: 98
 # File: module/ages/view/ages/login/otptwostep.phtml, line: 54
 # File: module/manager/view/login/index.phtml, line: 97
 msgid "Sign in"
 msgstr ""
 #
-# File: module/ages/view/ages/login/googleauthenticator.phtml, line: 89
+# File: module/ages/view/ages/login/googleauthenticator.phtml, line: 91
 # File: module/ages/view/ages/login/otptwostep.phtml, line: 73
 msgid "Please enter secret code"
 msgstr ""
@@ -41382,12 +41382,12 @@ msgstr ""
 msgid "Stay signed in"
 msgstr ""
 #
-# File: module/ages/view/ages/login/index.phtml, line: 132
+# File: module/ages/view/ages/login/index.phtml, line: 134
 # File: module/manager/view/login/index.phtml, line: 132
 msgid "Please enter your email address"
 msgstr ""
 #
-# File: module/ages/view/ages/login/index.phtml, line: 136
+# File: module/ages/view/ages/login/index.phtml, line: 138
 # File: module/manager/view/login/index.phtml, line: 136
 msgid "Please enter your password"
 msgstr ""
