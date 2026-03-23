@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-23 03:39-0400\n"
+"POT-Creation-Date: 2026-03-23 09:23-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7096,6 +7096,8 @@ msgstr ""
 # File: module/setup/view/hotels/tbo.phtml, line: 90
 # File: module/setup/view/hotels/tbo.phtml, line: 91
 # File: module/setup/view/hotels/travolutionary.phtml, line: 62
+# File: module/setup/view/hotels/webhotelier.phtml, line: 93
+# File: module/setup/view/hotels/webhotelier.phtml, line: 94
 # File: module/setup/view/hotels/yalago.phtml, line: 65
 # File: module/setup/view/hotels/yalago.phtml, line: 66
 # File: module/setup/view/hotels/youtravel.phtml, line: 47
@@ -11605,7 +11607,7 @@ msgstr ""
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 126
 # File: module/setup/view/hotels/w2m.phtml, line: 98
 # File: module/setup/view/hotels/webbeds.phtml, line: 97
-# File: module/setup/view/hotels/webhotelier.phtml, line: 88
+# File: module/setup/view/hotels/webhotelier.phtml, line: 169
 # File: module/setup/view/hotels/yalago.phtml, line: 106
 # File: module/setup/view/hotels/youtravel.phtml, line: 85
 # File: module/setup/view/hotels/zoytrip.phtml, line: 61
@@ -24323,6 +24325,7 @@ msgstr ""
 # File: module/setup/view/hotels/getaroom.phtml, line: 110
 # File: module/setup/view/hotels/priceline.phtml, line: 67
 # File: module/setup/view/hotels/pricelinenet.phtml, line: 66
+# File: module/setup/view/hotels/webhotelier.phtml, line: 71
 # File: module/setup/view/settings/payments-b2b.phtml, line: 19
 # File: module/setup/view/settings/payments-b2b.phtml, line: 45
 # File: module/setup/view/settings/payments.phtml, line: 19
@@ -24359,6 +24362,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3086
 # File: module/ages/view/ages/sub-agents/add_payments.phtml, line: 20
 # File: module/ages/view/ages/sub-agents/edit_payments.phtml, line: 20
+# File: module/setup/view/hotels/webhotelier.phtml, line: 65
 # File: module/setup/view/settings/payments-b2b.phtml, line: 27
 # File: module/setup/view/settings/payments-b2b.phtml, line: 47
 # File: module/setup/view/settings/payments.phtml, line: 27
@@ -24385,6 +24389,7 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit_payments.phtml, line: 28
 # File: module/ages/view/ages/sub-agents/add_payments.phtml, line: 28
 # File: module/ages/view/ages/sub-agents/edit_payments.phtml, line: 28
+# File: module/setup/view/hotels/webhotelier.phtml, line: 69
 # File: module/setup/view/settings/payments-b2b.phtml, line: 35
 # File: module/setup/view/settings/payments-b2b.phtml, line: 49
 # File: module/setup/view/settings/payments.phtml, line: 35
@@ -34934,7 +34939,7 @@ msgstr ""
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 189
 # File: module/setup/view/hotels/w2m.phtml, line: 164
 # File: module/setup/view/hotels/webbeds.phtml, line: 163
-# File: module/setup/view/hotels/webhotelier.phtml, line: 163
+# File: module/setup/view/hotels/webhotelier.phtml, line: 244
 # File: module/setup/view/hotels/youtravel.phtml, line: 148
 # File: module/setup/view/packages/abreu.phtml, line: 111
 # File: module/setup/view/packages/citytours.phtml, line: 130
@@ -37880,7 +37885,7 @@ msgstr ""
 # File: module/manager/view/hotel/cancellationpolicies.phtml, line: 99
 # File: module/manager/view/hotel/cancellationpolicies.phtml, line: 106
 # File: module/manager/view/hotel/cancellationpolicies.phtml, line: 107
-# File: module/setup/view/hotels/webhotelier.phtml, line: 55
+# File: module/setup/view/hotels/webhotelier.phtml, line: 137
 msgid "Cancellation Policies"
 msgstr ""
 #
@@ -47407,7 +47412,7 @@ msgstr ""
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 96
 # File: module/setup/view/hotels/w2m.phtml, line: 69
 # File: module/setup/view/hotels/webbeds.phtml, line: 68
-# File: module/setup/view/hotels/webhotelier.phtml, line: 75
+# File: module/setup/view/hotels/webhotelier.phtml, line: 157
 # File: module/setup/view/hotels/yalago.phtml, line: 30
 # File: module/setup/view/hotels/youtravel.phtml, line: 58
 # File: module/setup/view/hotels/zoytrip.phtml, line: 30
@@ -47727,8 +47732,8 @@ msgstr ""
 # File: module/setup/view/hotels/w2m.phtml, line: 74
 # File: module/setup/view/hotels/webbeds.phtml, line: 72
 # File: module/setup/view/hotels/webbeds.phtml, line: 73
-# File: module/setup/view/hotels/webhotelier.phtml, line: 62
-# File: module/setup/view/hotels/webhotelier.phtml, line: 63
+# File: module/setup/view/hotels/webhotelier.phtml, line: 144
+# File: module/setup/view/hotels/webhotelier.phtml, line: 145
 # File: module/setup/view/hotels/yalago.phtml, line: 81
 # File: module/setup/view/hotels/yalago.phtml, line: 82
 # File: module/setup/view/hotels/youtravel.phtml, line: 60
@@ -48104,8 +48109,8 @@ msgstr ""
 # File: module/setup/view/hotels/w2m.phtml, line: 77
 # File: module/setup/view/hotels/webbeds.phtml, line: 75
 # File: module/setup/view/hotels/webbeds.phtml, line: 76
-# File: module/setup/view/hotels/webhotelier.phtml, line: 65
-# File: module/setup/view/hotels/webhotelier.phtml, line: 66
+# File: module/setup/view/hotels/webhotelier.phtml, line: 147
+# File: module/setup/view/hotels/webhotelier.phtml, line: 148
 # File: module/setup/view/hotels/yalago.phtml, line: 84
 # File: module/setup/view/hotels/yalago.phtml, line: 85
 # File: module/setup/view/hotels/youtravel.phtml, line: 63
@@ -48483,8 +48488,8 @@ msgstr ""
 # File: module/setup/view/hotels/w2m.phtml, line: 80
 # File: module/setup/view/hotels/webbeds.phtml, line: 78
 # File: module/setup/view/hotels/webbeds.phtml, line: 79
-# File: module/setup/view/hotels/webhotelier.phtml, line: 68
-# File: module/setup/view/hotels/webhotelier.phtml, line: 69
+# File: module/setup/view/hotels/webhotelier.phtml, line: 150
+# File: module/setup/view/hotels/webhotelier.phtml, line: 151
 # File: module/setup/view/hotels/yalago.phtml, line: 87
 # File: module/setup/view/hotels/yalago.phtml, line: 88
 # File: module/setup/view/hotels/youtravel.phtml, line: 66
@@ -48862,8 +48867,8 @@ msgstr ""
 # File: module/setup/view/hotels/w2m.phtml, line: 84
 # File: module/setup/view/hotels/webbeds.phtml, line: 82
 # File: module/setup/view/hotels/webbeds.phtml, line: 83
-# File: module/setup/view/hotels/webhotelier.phtml, line: 72
-# File: module/setup/view/hotels/webhotelier.phtml, line: 73
+# File: module/setup/view/hotels/webhotelier.phtml, line: 154
+# File: module/setup/view/hotels/webhotelier.phtml, line: 155
 # File: module/setup/view/hotels/yalago.phtml, line: 91
 # File: module/setup/view/hotels/yalago.phtml, line: 92
 # File: module/setup/view/hotels/youtravel.phtml, line: 70
@@ -49167,8 +49172,8 @@ msgstr ""
 # File: module/setup/view/hotels/w2m.phtml, line: 93
 # File: module/setup/view/hotels/webbeds.phtml, line: 90
 # File: module/setup/view/hotels/webbeds.phtml, line: 92
-# File: module/setup/view/hotels/webhotelier.phtml, line: 81
-# File: module/setup/view/hotels/webhotelier.phtml, line: 83
+# File: module/setup/view/hotels/webhotelier.phtml, line: 162
+# File: module/setup/view/hotels/webhotelier.phtml, line: 164
 # File: module/setup/view/hotels/yalago.phtml, line: 99
 # File: module/setup/view/hotels/yalago.phtml, line: 101
 # File: module/setup/view/hotels/youtravel.phtml, line: 78
@@ -49381,7 +49386,7 @@ msgstr ""
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 192
 # File: module/setup/view/hotels/w2m.phtml, line: 173
 # File: module/setup/view/hotels/webbeds.phtml, line: 172
-# File: module/setup/view/hotels/webhotelier.phtml, line: 169
+# File: module/setup/view/hotels/webhotelier.phtml, line: 250
 # File: module/setup/view/hotels/yalago.phtml, line: 190
 # File: module/setup/view/hotels/youtravel.phtml, line: 160
 # File: module/setup/view/hotels/zoytrip.phtml, line: 118
@@ -49688,7 +49693,7 @@ msgstr ""
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 204
 # File: module/setup/view/hotels/w2m.phtml, line: 182
 # File: module/setup/view/hotels/webbeds.phtml, line: 181
-# File: module/setup/view/hotels/webhotelier.phtml, line: 172
+# File: module/setup/view/hotels/webhotelier.phtml, line: 253
 # File: module/setup/view/hotels/yalago.phtml, line: 193
 # File: module/setup/view/hotels/youtravel.phtml, line: 163
 # File: module/setup/view/hotels/zoytrip.phtml, line: 121
@@ -49889,7 +49894,7 @@ msgstr ""
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 207
 # File: module/setup/view/hotels/w2m.phtml, line: 185
 # File: module/setup/view/hotels/webbeds.phtml, line: 184
-# File: module/setup/view/hotels/webhotelier.phtml, line: 175
+# File: module/setup/view/hotels/webhotelier.phtml, line: 256
 # File: module/setup/view/hotels/yalago.phtml, line: 196
 # File: module/setup/view/hotels/youtravel.phtml, line: 166
 # File: module/setup/view/hotels/zoytrip.phtml, line: 124
@@ -50090,7 +50095,7 @@ msgstr ""
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 210
 # File: module/setup/view/hotels/w2m.phtml, line: 188
 # File: module/setup/view/hotels/webbeds.phtml, line: 187
-# File: module/setup/view/hotels/webhotelier.phtml, line: 178
+# File: module/setup/view/hotels/webhotelier.phtml, line: 259
 # File: module/setup/view/hotels/yalago.phtml, line: 226
 # File: module/setup/view/hotels/youtravel.phtml, line: 169
 # File: module/setup/view/hotels/zoytrip.phtml, line: 130
@@ -50353,7 +50358,7 @@ msgstr ""
 # File: module/setup/view/hotels/travelport.phtml, line: 175
 # File: module/setup/view/hotels/w2m.phtml, line: 167
 # File: module/setup/view/hotels/webbeds.phtml, line: 166
-# File: module/setup/view/hotels/webhotelier.phtml, line: 166
+# File: module/setup/view/hotels/webhotelier.phtml, line: 247
 # File: module/setup/view/hotels/yalago.phtml, line: 184
 # File: module/setup/view/hotels/youtravel.phtml, line: 151
 # File: module/setup/view/hotels/zoytrip.phtml, line: 112
@@ -50628,7 +50633,7 @@ msgstr ""
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 64
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 87
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 88
-# File: module/setup/view/hotels/webhotelier.phtml, line: 54
+# File: module/setup/view/hotels/webhotelier.phtml, line: 136
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 100
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 101
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 68
@@ -50740,8 +50745,8 @@ msgstr ""
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 68
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 91
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 92
-# File: module/setup/view/hotels/webhotelier.phtml, line: 58
-# File: module/setup/view/hotels/webhotelier.phtml, line: 59
+# File: module/setup/view/hotels/webhotelier.phtml, line: 140
+# File: module/setup/view/hotels/webhotelier.phtml, line: 141
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 104
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 105
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 72
@@ -50791,7 +50796,7 @@ msgstr ""
 # File: module/setup/view/hotels/sandos.phtml, line: 194
 # File: module/setup/view/hotels/travelplan.phtml, line: 214
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 198
-# File: module/setup/view/hotels/webhotelier.phtml, line: 157
+# File: module/setup/view/hotels/webhotelier.phtml, line: 238
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 221
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 193
 msgid "Please enter Cancellation Policy (Days)"
@@ -50831,7 +50836,7 @@ msgstr ""
 # File: module/setup/view/hotels/travelplan.phtml, line: 217
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 206
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 201
-# File: module/setup/view/hotels/webhotelier.phtml, line: 160
+# File: module/setup/view/hotels/webhotelier.phtml, line: 241
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 224
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 196
 msgid "Please enter Post Pay Payment Policy (Days)"
@@ -52937,6 +52942,7 @@ msgstr ""
 # File: module/setup/view/hotels/ati.phtml, line: 60
 # File: module/setup/view/hotels/priceline.phtml, line: 65
 # File: module/setup/view/hotels/pricelinenet.phtml, line: 64
+# File: module/setup/view/hotels/webhotelier.phtml, line: 67
 # File: module/setup/view/settings/payments-b2b.phtml, line: 39
 # File: module/setup/view/settings/payments-b2b.phtml, line: 50
 # File: module/setup/view/settings/payments.phtml, line: 39
@@ -54881,6 +54887,8 @@ msgstr ""
 # File: module/setup/view/hotels/hyperguest.phtml, line: 89
 # File: module/setup/view/hotels/pricetravel.phtml, line: 82
 # File: module/setup/view/hotels/pricetravel.phtml, line: 83
+# File: module/setup/view/hotels/webhotelier.phtml, line: 58
+# File: module/setup/view/hotels/webhotelier.phtml, line: 59
 msgid "Card Number"
 msgstr ""
 #
@@ -57006,6 +57014,7 @@ msgstr ""
 #
 # File: module/setup/view/hotels/expedia.phtml, line: 141
 # File: module/setup/view/hotels/expedia.phtml, line: 142
+# File: module/setup/view/hotels/webhotelier.phtml, line: 62
 msgid "Card Type"
 msgstr ""
 #
@@ -57420,7 +57429,7 @@ msgstr ""
 #
 # File: module/setup/view/hotels/hoteldo.phtml, line: 281
 # File: module/setup/view/hotels/totalstay.phtml, line: 173
-# File: module/setup/view/hotels/webhotelier.phtml, line: 151
+# File: module/setup/view/hotels/webhotelier.phtml, line: 232
 msgid "Please enter User"
 msgstr ""
 #
@@ -59478,7 +59487,92 @@ msgstr ""
 msgid "Default Nationality"
 msgstr ""
 #
-# File: module/setup/view/hotels/webhotelier.phtml, line: 154
+# File: module/setup/view/hotels/webhotelier.phtml, line: 55
+msgid "Payment Method (CC)"
+msgstr ""
+#
+# File: module/setup/view/hotels/webhotelier.phtml, line: 66
+msgid "Diners"
+msgstr ""
+#
+# File: module/setup/view/hotels/webhotelier.phtml, line: 68
+msgid "JCB"
+msgstr ""
+#
+# File: module/setup/view/hotels/webhotelier.phtml, line: 70
+msgid "MasterCard"
+msgstr ""
+#
+# File: module/setup/view/hotels/webhotelier.phtml, line: 72
+msgid "UnionPay"
+msgstr ""
+#
+# File: module/setup/view/hotels/webhotelier.phtml, line: 76
+# File: module/setup/view/hotels/webhotelier.phtml, line: 77
+msgid "Card CVV"
+msgstr ""
+#
+# File: module/setup/view/hotels/webhotelier.phtml, line: 80
+# File: module/setup/view/hotels/webhotelier.phtml, line: 81
+msgid "Card Name"
+msgstr ""
+#
+# File: module/setup/view/hotels/webhotelier.phtml, line: 84
+# File: module/setup/view/hotels/webhotelier.phtml, line: 85
+msgid "Card Month"
+msgstr ""
+#
+# File: module/setup/view/hotels/webhotelier.phtml, line: 89
+# File: module/setup/view/hotels/webhotelier.phtml, line: 90
+msgid "Card Year"
+msgstr ""
+#
+# File: module/setup/view/hotels/webhotelier.phtml, line: 97
+# File: module/setup/view/hotels/webhotelier.phtml, line: 98
+msgid "Invoice Company Name"
+msgstr ""
+#
+# File: module/setup/view/hotels/webhotelier.phtml, line: 101
+# File: module/setup/view/hotels/webhotelier.phtml, line: 102
+msgid "Invoice Tax Id"
+msgstr ""
+#
+# File: module/setup/view/hotels/webhotelier.phtml, line: 105
+# File: module/setup/view/hotels/webhotelier.phtml, line: 106
+msgid "Invoice Country Code (US)"
+msgstr ""
+#
+# File: module/setup/view/hotels/webhotelier.phtml, line: 109
+# File: module/setup/view/hotels/webhotelier.phtml, line: 110
+msgid "Invoice Phone"
+msgstr ""
+#
+# File: module/setup/view/hotels/webhotelier.phtml, line: 113
+# File: module/setup/view/hotels/webhotelier.phtml, line: 114
+msgid "Invoice Address"
+msgstr ""
+#
+# File: module/setup/view/hotels/webhotelier.phtml, line: 117
+# File: module/setup/view/hotels/webhotelier.phtml, line: 118
+msgid "Invoice City"
+msgstr ""
+#
+# File: module/setup/view/hotels/webhotelier.phtml, line: 121
+# File: module/setup/view/hotels/webhotelier.phtml, line: 122
+msgid "Invoice Region"
+msgstr ""
+#
+# File: module/setup/view/hotels/webhotelier.phtml, line: 125
+# File: module/setup/view/hotels/webhotelier.phtml, line: 126
+msgid "Invoice Zip Code"
+msgstr ""
+#
+# File: module/setup/view/hotels/webhotelier.phtml, line: 129
+# File: module/setup/view/hotels/webhotelier.phtml, line: 130
+msgid "Web Hotelier Service Fee Percentage"
+msgstr ""
+#
+# File: module/setup/view/hotels/webhotelier.phtml, line: 235
 msgid "Please enter Default Nationality"
 msgstr ""
 #
