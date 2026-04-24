@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-24 09:06-0400\n"
+"POT-Creation-Date: 2026-04-24 09:40-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -8504,6 +8504,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/travelers-choice.phtml, line: 1277
 # File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 43
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 38
 msgid "If you don't want to receive emails, please"
 msgstr ""
 #
@@ -9173,11 +9174,13 @@ msgid "This offer is valid across all products - hotels, flights, transfers, tou
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 33
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 29
 # File: module/ages/view/ages/hotels/index.phtml, line: 65
 msgid "Activate"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 43
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 38
 # File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 5
 # File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 88
 # File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 89
@@ -9269,6 +9272,39 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 30
 msgid "A message from"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 19
+msgid "Hi there"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 21
+msgid "We noticed you started creating your Click & Book account but didn’t get the chance to finish the activation process. No worries — your information is safely saved, and you’re only one quick step away from accessing your dashboard."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 22
+msgid "Once you complete your registration, you’ll be able to:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 26
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 27
+msgid "Your account is almost ready — you just need to finalize the activation."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 28
+msgid "Click the link below to complete your registration and start using Click & Book:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 30
+msgid "If you have any questions or need help completing the process, our team is here to assist you."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 31
+msgid "Looking forward to having you onboard."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 32
+msgid "The Click & Book Team"
 msgstr ""
 #
 # File: module/ages/src/Controller/Activities.php, line: 244
@@ -11550,7 +11586,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 98
 # File: module/setup/view/air/sabre.phtml, line: 503
 # File: module/setup/view/air/sky.phtml, line: 50
-# File: module/setup/view/air/tapndcsabre.phtml, line: 56
+# File: module/setup/view/air/tapndcsabre.phtml, line: 70
 # File: module/setup/view/air/travelport.phtml, line: 350
 # File: module/setup/view/air/travelportpaypai.phtml, line: 129
 # File: module/setup/view/air/turkishairlines.phtml, line: 212
@@ -30434,6 +30470,8 @@ msgstr ""
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 102
 # File: module/setup/view/air/sabre.phtml, line: 36
 # File: module/setup/view/air/sabre.phtml, line: 40
+# File: module/setup/view/air/tapndcsabre.phtml, line: 59
+# File: module/setup/view/air/tapndcsabre.phtml, line: 60
 # File: module/setup/view/air/travelport.phtml, line: 148
 # File: module/setup/view/air/travelport.phtml, line: 149
 # File: module/setup/view/air/travelport.phtml, line: 236
@@ -35003,7 +35041,7 @@ msgstr ""
 # File: module/setup/view/air/arajetsabre.phtml, line: 118
 # File: module/setup/view/air/avianca.phtml, line: 283
 # File: module/setup/view/air/latamndcsabre.phtml, line: 118
-# File: module/setup/view/air/tapndcsabre.phtml, line: 116
+# File: module/setup/view/air/tapndcsabre.phtml, line: 148
 # File: module/setup/view/air/volaris.phtml, line: 189
 # File: module/setup/view/air/amadeuslcc.phtml, line: 293
 # File: module/setup/view/cars/amadeus.phtml, line: 270
@@ -47745,7 +47783,7 @@ msgstr ""
 # File: module/setup/view/air/sabre.phtml, line: 183
 # File: module/setup/view/air/sabre.phtml, line: 187
 # File: module/setup/view/air/sky.phtml, line: 44
-# File: module/setup/view/air/tapndcsabre.phtml, line: 50
+# File: module/setup/view/air/tapndcsabre.phtml, line: 64
 # File: module/setup/view/air/travelport.phtml, line: 47
 # File: module/setup/view/air/travelport.phtml, line: 48
 # File: module/setup/view/air/turkishairlines.phtml, line: 177
@@ -48124,7 +48162,7 @@ msgstr ""
 # File: module/setup/view/air/sabre.phtml, line: 191
 # File: module/setup/view/air/sabre.phtml, line: 195
 # File: module/setup/view/air/sky.phtml, line: 45
-# File: module/setup/view/air/tapndcsabre.phtml, line: 51
+# File: module/setup/view/air/tapndcsabre.phtml, line: 65
 # File: module/setup/view/air/travelport.phtml, line: 50
 # File: module/setup/view/air/travelport.phtml, line: 51
 # File: module/setup/view/air/turkishairlines.phtml, line: 185
@@ -48505,7 +48543,7 @@ msgstr ""
 # File: module/setup/view/air/sabre.phtml, line: 199
 # File: module/setup/view/air/sabre.phtml, line: 203
 # File: module/setup/view/air/sky.phtml, line: 46
-# File: module/setup/view/air/tapndcsabre.phtml, line: 52
+# File: module/setup/view/air/tapndcsabre.phtml, line: 66
 # File: module/setup/view/air/travelport.phtml, line: 53
 # File: module/setup/view/air/turkishairlines.phtml, line: 193
 # File: module/setup/view/air/turkishairlines.phtml, line: 197
@@ -48884,7 +48922,7 @@ msgstr ""
 # File: module/setup/view/air/sabre.phtml, line: 207
 # File: module/setup/view/air/sabre.phtml, line: 212
 # File: module/setup/view/air/sky.phtml, line: 47
-# File: module/setup/view/air/tapndcsabre.phtml, line: 53
+# File: module/setup/view/air/tapndcsabre.phtml, line: 67
 # File: module/setup/view/air/travelport.phtml, line: 61
 # File: module/setup/view/air/travelport.phtml, line: 62
 # File: module/setup/view/air/turkishairlines.phtml, line: 201
@@ -49530,7 +49568,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 158
 # File: module/setup/view/air/sabre.phtml, line: 615
 # File: module/setup/view/air/sky.phtml, line: 101
-# File: module/setup/view/air/tapndcsabre.phtml, line: 110
+# File: module/setup/view/air/tapndcsabre.phtml, line: 133
 # File: module/setup/view/air/travelport.phtml, line: 433
 # File: module/setup/view/air/turkishairlines.phtml, line: 342
 # File: module/setup/view/air/unitedairlines.phtml, line: 294
@@ -49838,7 +49876,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 164
 # File: module/setup/view/air/sabre.phtml, line: 618
 # File: module/setup/view/air/sky.phtml, line: 107
-# File: module/setup/view/air/tapndcsabre.phtml, line: 119
+# File: module/setup/view/air/tapndcsabre.phtml, line: 151
 # File: module/setup/view/air/travelport.phtml, line: 460
 # File: module/setup/view/air/turkishairlines.phtml, line: 345
 # File: module/setup/view/air/unitedairlines.phtml, line: 354
@@ -50039,7 +50077,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 167
 # File: module/setup/view/air/sabre.phtml, line: 621
 # File: module/setup/view/air/sky.phtml, line: 110
-# File: module/setup/view/air/tapndcsabre.phtml, line: 122
+# File: module/setup/view/air/tapndcsabre.phtml, line: 154
 # File: module/setup/view/air/travelport.phtml, line: 463
 # File: module/setup/view/air/turkishairlines.phtml, line: 348
 # File: module/setup/view/air/unitedairlines.phtml, line: 357
@@ -50241,7 +50279,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 170
 # File: module/setup/view/air/sabre.phtml, line: 624
 # File: module/setup/view/air/sky.phtml, line: 113
-# File: module/setup/view/air/tapndcsabre.phtml, line: 125
+# File: module/setup/view/air/tapndcsabre.phtml, line: 157
 # File: module/setup/view/air/travelport.phtml, line: 466
 # File: module/setup/view/air/turkishairlines.phtml, line: 351
 # File: module/setup/view/air/unitedairlines.phtml, line: 378
@@ -50428,7 +50466,7 @@ msgstr ""
 # File: module/setup/view/activities/coming2.phtml, line: 159
 # File: module/setup/view/air/arajetsabre.phtml, line: 109
 # File: module/setup/view/air/latamndcsabre.phtml, line: 109
-# File: module/setup/view/air/tapndcsabre.phtml, line: 107
+# File: module/setup/view/air/tapndcsabre.phtml, line: 130
 # File: module/setup/view/hotels/aictravel.phtml, line: 141
 # File: module/setup/view/hotels/avoris.phtml, line: 164
 # File: module/setup/view/hotels/bahiaprincipe.phtml, line: 191
@@ -51872,6 +51910,7 @@ msgstr ""
 # File: module/setup/view/air/galileo.phtml, line: 193
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 336
 # File: module/setup/view/air/sabre.phtml, line: 585
+# File: module/setup/view/air/tapndcsabre.phtml, line: 145
 # File: module/setup/view/air/travelport.phtml, line: 445
 # File: module/setup/view/air/travelportpaypai.phtml, line: 199
 # File: module/setup/view/air/unitedairlines.phtml, line: 336
@@ -52734,7 +52773,7 @@ msgstr ""
 #
 # File: module/setup/view/air/arajetsabre.phtml, line: 115
 # File: module/setup/view/air/latamndcsabre.phtml, line: 115
-# File: module/setup/view/air/tapndcsabre.phtml, line: 113
+# File: module/setup/view/air/tapndcsabre.phtml, line: 136
 msgid "Please enter Environment"
 msgstr ""
 #
@@ -53676,6 +53715,24 @@ msgstr ""
 #
 # File: module/setup/view/air/tapndcsabre.phtml, line: 13
 msgid "Enable TAP NDC (Via Sabre)"
+msgstr ""
+#
+# File: module/setup/view/air/tapndcsabre.phtml, line: 51
+# File: module/setup/view/air/tapndcsabre.phtml, line: 52
+msgid "Version (V1)"
+msgstr ""
+#
+# File: module/setup/view/air/tapndcsabre.phtml, line: 55
+# File: module/setup/view/air/tapndcsabre.phtml, line: 56
+msgid "Network Domain (AA)"
+msgstr ""
+#
+# File: module/setup/view/air/tapndcsabre.phtml, line: 139
+msgid "Please enter Version (V1)"
+msgstr ""
+#
+# File: module/setup/view/air/tapndcsabre.phtml, line: 142
+msgid "Please enter Network Domain (AA)"
 msgstr ""
 #
 # File: module/setup/view/air/travelport.phtml, line: 13
