@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-16 10:08-0400\n"
+"POT-Creation-Date: 2026-04-24 09:06-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2020,7 +2020,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_newaffiliate.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_newagent.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 20
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 22
+# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 20
 # File: module/ages/src/Controller/Agents.php, line: 5644
 # File: module/ages/src/Controller/LoginController.php, line: 893
 # File: module/ages/src/Controller/LoginController.php, line: 894
@@ -2062,7 +2062,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 32
 # File: module/ages/src/Controller/Templates/review.phtml, line: 31
 # File: module/ages/src/Controller/Templates/settle.phtml, line: 31
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 33
+# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 35
 msgid "Warm regards,"
 msgstr ""
 #
@@ -4926,13 +4926,12 @@ msgid "Total :"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/message.phtml, line: 259
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 28
+# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 26
 msgid "View Terms & Conditions"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/message.phtml, line: 259
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 329
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 28
 # File: module/ages/view/ages/dynamic-packaging/supplierpayments.phtml, line: 139
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentspay.phtml, line: 143
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentsunknown.phtml, line: 141
@@ -4988,7 +4987,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 30
 # File: module/ages/src/Controller/Templates/review.phtml, line: 29
 # File: module/ages/src/Controller/Templates/settle.phtml, line: 29
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 31
+# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 33
 msgid "Should you have any questions or require further assistance, do not hesitate to contact us."
 msgstr ""
 #
@@ -5007,7 +5006,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 31
 # File: module/ages/src/Controller/Templates/review.phtml, line: 30
 # File: module/ages/src/Controller/Templates/settle.phtml, line: 30
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 32
+# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 34
 msgid "Thank you for choosing our services. We look forward to continuing our business relationship."
 msgstr ""
 #
@@ -5029,7 +5028,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_newaffiliate.phtml, line: 29
 # File: module/ages/src/Controller/Templates/notification_newagent.phtml, line: 29
 # File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 33
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 34
+# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 39
 msgid "Click & Book Team"
 msgstr ""
 #
@@ -8295,7 +8294,6 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/review.phtml, line: 20
 # File: module/ages/src/Controller/Templates/settle.phtml, line: 20
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 20
 msgid "Dear Risk Management Team,"
 msgstr ""
 #
@@ -8305,13 +8303,11 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/review.phtml, line: 26
 # File: module/ages/src/Controller/Templates/settle.phtml, line: 26
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 29
 msgid "Reservation Id:"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/review.phtml, line: 28
 # File: module/ages/src/Controller/Templates/settle.phtml, line: 28
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 30
 msgid "Thank you for your prompt attention to this matter."
 msgstr ""
 #
@@ -9259,12 +9255,20 @@ msgstr ""
 msgid "Thank you for choosing Click & Book."
 msgstr ""
 #
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 23
+# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 22
 msgid "To proceed with your booking, we require your review and signature of the attached Terms & Conditions. Please note that your booking will not be issued until the Terms & Conditions are signed."
 msgstr ""
 #
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 24
+# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 23
 msgid "You may sign the document using the link below:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 26
+msgid "Click here to sign"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 30
+msgid "A message from"
 msgstr ""
 #
 # File: module/ages/src/Controller/Activities.php, line: 244
@@ -11546,7 +11550,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 98
 # File: module/setup/view/air/sabre.phtml, line: 503
 # File: module/setup/view/air/sky.phtml, line: 50
-# File: module/setup/view/air/tapndcsabre.phtml, line: 58
+# File: module/setup/view/air/tapndcsabre.phtml, line: 56
 # File: module/setup/view/air/travelport.phtml, line: 350
 # File: module/setup/view/air/travelportpaypai.phtml, line: 129
 # File: module/setup/view/air/turkishairlines.phtml, line: 212
@@ -17355,7 +17359,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 20
 # File: module/setup/view/air/sabre.phtml, line: 62
 # File: module/setup/view/air/sky.phtml, line: 21
-# File: module/setup/view/air/tapndcsabre.phtml, line: 29
+# File: module/setup/view/air/tapndcsabre.phtml, line: 27
 # File: module/setup/view/air/toxicairlines.phtml, line: 14
 # File: module/setup/view/air/travelport.phtml, line: 23
 # File: module/setup/view/air/travelport.phtml, line: 188
@@ -27400,7 +27404,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 33
 # File: module/setup/view/air/sabre.phtml, line: 75
 # File: module/setup/view/air/sky.phtml, line: 32
-# File: module/setup/view/air/tapndcsabre.phtml, line: 40
+# File: module/setup/view/air/tapndcsabre.phtml, line: 38
 # File: module/setup/view/air/travelport.phtml, line: 34
 # File: module/setup/view/air/travelportpaypai.phtml, line: 40
 # File: module/setup/view/air/turkishairlines.phtml, line: 76
@@ -34999,7 +35003,7 @@ msgstr ""
 # File: module/setup/view/air/arajetsabre.phtml, line: 118
 # File: module/setup/view/air/avianca.phtml, line: 283
 # File: module/setup/view/air/latamndcsabre.phtml, line: 118
-# File: module/setup/view/air/tapndcsabre.phtml, line: 118
+# File: module/setup/view/air/tapndcsabre.phtml, line: 116
 # File: module/setup/view/air/volaris.phtml, line: 189
 # File: module/setup/view/air/amadeuslcc.phtml, line: 293
 # File: module/setup/view/cars/amadeus.phtml, line: 270
@@ -46904,7 +46908,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 23
 # File: module/setup/view/air/sabre.phtml, line: 66
 # File: module/setup/view/air/sky.phtml, line: 24
-# File: module/setup/view/air/tapndcsabre.phtml, line: 32
+# File: module/setup/view/air/tapndcsabre.phtml, line: 30
 # File: module/setup/view/air/travelport.phtml, line: 26
 # File: module/setup/view/air/travelportpaypai.phtml, line: 31
 # File: module/setup/view/air/turkishairlines.phtml, line: 67
@@ -47097,7 +47101,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 36
 # File: module/setup/view/air/sabre.phtml, line: 79
 # File: module/setup/view/air/sky.phtml, line: 35
-# File: module/setup/view/air/tapndcsabre.phtml, line: 43
+# File: module/setup/view/air/tapndcsabre.phtml, line: 41
 # File: module/setup/view/air/travelport.phtml, line: 37
 # File: module/setup/view/air/travelportpaypai.phtml, line: 44
 # File: module/setup/view/air/turkishairlines.phtml, line: 80
@@ -47741,7 +47745,7 @@ msgstr ""
 # File: module/setup/view/air/sabre.phtml, line: 183
 # File: module/setup/view/air/sabre.phtml, line: 187
 # File: module/setup/view/air/sky.phtml, line: 44
-# File: module/setup/view/air/tapndcsabre.phtml, line: 52
+# File: module/setup/view/air/tapndcsabre.phtml, line: 50
 # File: module/setup/view/air/travelport.phtml, line: 47
 # File: module/setup/view/air/travelport.phtml, line: 48
 # File: module/setup/view/air/turkishairlines.phtml, line: 177
@@ -48120,7 +48124,7 @@ msgstr ""
 # File: module/setup/view/air/sabre.phtml, line: 191
 # File: module/setup/view/air/sabre.phtml, line: 195
 # File: module/setup/view/air/sky.phtml, line: 45
-# File: module/setup/view/air/tapndcsabre.phtml, line: 53
+# File: module/setup/view/air/tapndcsabre.phtml, line: 51
 # File: module/setup/view/air/travelport.phtml, line: 50
 # File: module/setup/view/air/travelport.phtml, line: 51
 # File: module/setup/view/air/turkishairlines.phtml, line: 185
@@ -48501,7 +48505,7 @@ msgstr ""
 # File: module/setup/view/air/sabre.phtml, line: 199
 # File: module/setup/view/air/sabre.phtml, line: 203
 # File: module/setup/view/air/sky.phtml, line: 46
-# File: module/setup/view/air/tapndcsabre.phtml, line: 54
+# File: module/setup/view/air/tapndcsabre.phtml, line: 52
 # File: module/setup/view/air/travelport.phtml, line: 53
 # File: module/setup/view/air/turkishairlines.phtml, line: 193
 # File: module/setup/view/air/turkishairlines.phtml, line: 197
@@ -48880,7 +48884,7 @@ msgstr ""
 # File: module/setup/view/air/sabre.phtml, line: 207
 # File: module/setup/view/air/sabre.phtml, line: 212
 # File: module/setup/view/air/sky.phtml, line: 47
-# File: module/setup/view/air/tapndcsabre.phtml, line: 55
+# File: module/setup/view/air/tapndcsabre.phtml, line: 53
 # File: module/setup/view/air/travelport.phtml, line: 61
 # File: module/setup/view/air/travelport.phtml, line: 62
 # File: module/setup/view/air/turkishairlines.phtml, line: 201
@@ -49526,7 +49530,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 158
 # File: module/setup/view/air/sabre.phtml, line: 615
 # File: module/setup/view/air/sky.phtml, line: 101
-# File: module/setup/view/air/tapndcsabre.phtml, line: 112
+# File: module/setup/view/air/tapndcsabre.phtml, line: 110
 # File: module/setup/view/air/travelport.phtml, line: 433
 # File: module/setup/view/air/turkishairlines.phtml, line: 342
 # File: module/setup/view/air/unitedairlines.phtml, line: 294
@@ -49834,7 +49838,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 164
 # File: module/setup/view/air/sabre.phtml, line: 618
 # File: module/setup/view/air/sky.phtml, line: 107
-# File: module/setup/view/air/tapndcsabre.phtml, line: 121
+# File: module/setup/view/air/tapndcsabre.phtml, line: 119
 # File: module/setup/view/air/travelport.phtml, line: 460
 # File: module/setup/view/air/turkishairlines.phtml, line: 345
 # File: module/setup/view/air/unitedairlines.phtml, line: 354
@@ -50035,7 +50039,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 167
 # File: module/setup/view/air/sabre.phtml, line: 621
 # File: module/setup/view/air/sky.phtml, line: 110
-# File: module/setup/view/air/tapndcsabre.phtml, line: 124
+# File: module/setup/view/air/tapndcsabre.phtml, line: 122
 # File: module/setup/view/air/travelport.phtml, line: 463
 # File: module/setup/view/air/turkishairlines.phtml, line: 348
 # File: module/setup/view/air/unitedairlines.phtml, line: 357
@@ -50237,7 +50241,7 @@ msgstr ""
 # File: module/setup/view/air/priceline.phtml, line: 170
 # File: module/setup/view/air/sabre.phtml, line: 624
 # File: module/setup/view/air/sky.phtml, line: 113
-# File: module/setup/view/air/tapndcsabre.phtml, line: 127
+# File: module/setup/view/air/tapndcsabre.phtml, line: 125
 # File: module/setup/view/air/travelport.phtml, line: 466
 # File: module/setup/view/air/turkishairlines.phtml, line: 351
 # File: module/setup/view/air/unitedairlines.phtml, line: 378
@@ -50424,7 +50428,7 @@ msgstr ""
 # File: module/setup/view/activities/coming2.phtml, line: 159
 # File: module/setup/view/air/arajetsabre.phtml, line: 109
 # File: module/setup/view/air/latamndcsabre.phtml, line: 109
-# File: module/setup/view/air/tapndcsabre.phtml, line: 109
+# File: module/setup/view/air/tapndcsabre.phtml, line: 107
 # File: module/setup/view/hotels/aictravel.phtml, line: 141
 # File: module/setup/view/hotels/avoris.phtml, line: 164
 # File: module/setup/view/hotels/bahiaprincipe.phtml, line: 191
@@ -52730,7 +52734,7 @@ msgstr ""
 #
 # File: module/setup/view/air/arajetsabre.phtml, line: 115
 # File: module/setup/view/air/latamndcsabre.phtml, line: 115
-# File: module/setup/view/air/tapndcsabre.phtml, line: 115
+# File: module/setup/view/air/tapndcsabre.phtml, line: 113
 msgid "Please enter Environment"
 msgstr ""
 #
