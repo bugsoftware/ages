@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-19 02:15-0400\n"
+"POT-Creation-Date: 2026-05-22 11:47-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2578,12 +2578,12 @@ msgstr ""
 # File: module/ages/view/ages/service-fees/recurringplans.phtml, line: 17
 # File: module/ages/view/ages/service-fees/recurringplans_add.phtml, line: 16
 # File: module/ages/view/ages/service-fees/recurringplans_edit.phtml, line: 16
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 15
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 16
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 41
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 15
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 16
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 39
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 13
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 14
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 39
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 13
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 14
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 37
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 70
 # File: module/ages/view/ages/sub-agents/add_recurringplanevents.phtml, line: 11
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 16
@@ -3301,8 +3301,8 @@ msgstr ""
 # File: module/ages/view/ages/reports/profit.phtml, line: 128
 # File: module/ages/view/ages/reports/sales.phtml, line: 144
 # File: module/ages/view/ages/reports/supervisorsales.phtml, line: 70
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 68
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 58
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 66
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 56
 # File: module/ages/view/ages/sub-agents/add_reservations.phtml, line: 65
 # File: module/ages/view/ages/sub-agents/edit_reservations.phtml, line: 65
 # File: module/ages/view/ages/tours/listreservations.phtml, line: 62
@@ -3506,7 +3506,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/profit.phtml, line: 95
 # File: module/ages/view/ages/reports/sales.phtml, line: 109
 # File: module/ages/view/ages/reports/supervisorsales.phtml, line: 56
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 64
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 62
 # File: module/ages/view/ages/transfers/checkin.phtml, line: 107
 # File: module/ages/view/ages/transfers/checkin.phtml, line: 138
 # File: module/ages/view/ages/transfers/listreservations.phtml, line: 101
@@ -4313,7 +4313,7 @@ msgstr ""
 # File: module/ages/view/ages/air/listreservations.phtml, line: 33
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 14
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 28
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 36
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 34
 msgid "Invoice"
 msgstr ""
 #
@@ -5371,8 +5371,8 @@ msgstr ""
 # File: module/ages/view/ages/service-fees/geotargetmarkup.phtml, line: 17
 # File: module/ages/view/ages/service-fees/geotargetmarkup_add.phtml, line: 12
 # File: module/ages/view/ages/service-fees/geotargetmarkup_edit.phtml, line: 12
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 37
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 34
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 35
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 32
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 14
 # File: module/ages/view/ages/sub-agents/edit.phtml, line: 15
 # File: module/ages/view/ages/sub-agents/index.phtml, line: 11
@@ -7573,9 +7573,9 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1209
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1224
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1262
-# File: module/ages/src/Controller/ServiceFees.php, line: 1680
-# File: module/ages/src/Controller/ServiceFees.php, line: 1885
-# File: module/ages/src/Controller/ServiceFees.php, line: 2045
+# File: module/ages/src/Controller/ServiceFees.php, line: 1685
+# File: module/ages/src/Controller/ServiceFees.php, line: 1890
+# File: module/ages/src/Controller/ServiceFees.php, line: 2050
 # File: module/ages/src/Shared/Sendemailv2.php, line: 3843
 # File: module/ages/src/Templates/reservation_v2.phtml, line: 1209
 # File: module/ages/src/Templates/reservation_v2.phtml, line: 1224
@@ -7623,9 +7623,9 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 1862
 # File: module/ages/src/Controller/GiftCards.php, line: 1474
 # File: module/ages/src/Controller/GiftCards.php, line: 2093
-# File: module/ages/src/Controller/ServiceFees.php, line: 1660
-# File: module/ages/src/Controller/ServiceFees.php, line: 1865
-# File: module/ages/src/Controller/ServiceFees.php, line: 2040
+# File: module/ages/src/Controller/ServiceFees.php, line: 1665
+# File: module/ages/src/Controller/ServiceFees.php, line: 1870
+# File: module/ages/src/Controller/ServiceFees.php, line: 2045
 # File: module/ages/src/Templates/reservation_v2.phtml, line: 1307
 # File: module/ages/view/ages/affiliates/add.phtml, line: 97
 # File: module/ages/view/ages/affiliates/add_transfers.phtml, line: 1
@@ -7707,7 +7707,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/statistics.phtml, line: 243
 # File: module/ages/view/ages/reports/statistics.phtml, line: 300
 # File: module/ages/view/ages/reports/statistics.phtml, line: 357
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 38
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 36
 # File: module/ages/view/ages/tours/analysis.phtml, line: 213
 # File: module/ages/view/ages/tours/edititinerary.phtml, line: 15
 # File: module/ages/view/ages/tours/itinerary.phtml, line: 18
@@ -9355,9 +9355,9 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 2610
 # File: module/ages/src/Controller/Reports.php, line: 5448
 # File: module/ages/src/Controller/Reports.php, line: 9322
-# File: module/ages/src/Controller/ServiceFees.php, line: 1423
-# File: module/ages/src/Controller/ServiceFees.php, line: 1703
-# File: module/ages/src/Controller/ServiceFees.php, line: 1908
+# File: module/ages/src/Controller/ServiceFees.php, line: 1428
+# File: module/ages/src/Controller/ServiceFees.php, line: 1708
+# File: module/ages/src/Controller/ServiceFees.php, line: 1913
 # File: module/ages/src/Controller/Tours.php, line: 243
 # File: module/ages/src/Controller/Tours.php, line: 849
 # File: module/ages/src/Controller/Tours.php, line: 976
@@ -9604,16 +9604,16 @@ msgstr ""
 # File: module/ages/src/Controller/ServiceFees.php, line: 215
 # File: module/ages/src/Controller/ServiceFees.php, line: 361
 # File: module/ages/src/Controller/ServiceFees.php, line: 414
-# File: module/ages/src/Controller/ServiceFees.php, line: 440
-# File: module/ages/src/Controller/ServiceFees.php, line: 1202
-# File: module/ages/src/Controller/ServiceFees.php, line: 1220
-# File: module/ages/src/Controller/ServiceFees.php, line: 1238
-# File: module/ages/src/Controller/ServiceFees.php, line: 1286
-# File: module/ages/src/Controller/ServiceFees.php, line: 1301
-# File: module/ages/src/Controller/ServiceFees.php, line: 1328
-# File: module/ages/src/Controller/ServiceFees.php, line: 1338
-# File: module/ages/src/Controller/ServiceFees.php, line: 1348
-# File: module/ages/src/Controller/ServiceFees.php, line: 2007
+# File: module/ages/src/Controller/ServiceFees.php, line: 445
+# File: module/ages/src/Controller/ServiceFees.php, line: 1207
+# File: module/ages/src/Controller/ServiceFees.php, line: 1225
+# File: module/ages/src/Controller/ServiceFees.php, line: 1243
+# File: module/ages/src/Controller/ServiceFees.php, line: 1291
+# File: module/ages/src/Controller/ServiceFees.php, line: 1306
+# File: module/ages/src/Controller/ServiceFees.php, line: 1333
+# File: module/ages/src/Controller/ServiceFees.php, line: 1343
+# File: module/ages/src/Controller/ServiceFees.php, line: 1353
+# File: module/ages/src/Controller/ServiceFees.php, line: 2012
 # File: module/ages/src/Controller/Tours.php, line: 283
 # File: module/ages/src/Controller/Tours.php, line: 1373
 # File: module/ages/src/Controller/Tours.php, line: 1704
@@ -10221,10 +10221,10 @@ msgstr ""
 # File: module/ages/src/Controller/ServiceFees.php, line: 171
 # File: module/ages/src/Controller/ServiceFees.php, line: 375
 # File: module/ages/src/Controller/ServiceFees.php, line: 393
-# File: module/ages/src/Controller/ServiceFees.php, line: 1199
-# File: module/ages/src/Controller/ServiceFees.php, line: 1217
-# File: module/ages/src/Controller/ServiceFees.php, line: 1235
-# File: module/ages/src/Controller/ServiceFees.php, line: 2018
+# File: module/ages/src/Controller/ServiceFees.php, line: 1204
+# File: module/ages/src/Controller/ServiceFees.php, line: 1222
+# File: module/ages/src/Controller/ServiceFees.php, line: 1240
+# File: module/ages/src/Controller/ServiceFees.php, line: 2023
 # File: module/ages/src/Controller/Tours.php, line: 967
 # File: module/ages/src/Controller/Tours.php, line: 987
 # File: module/ages/src/Controller/Tours.php, line: 1384
@@ -10680,7 +10680,7 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 9489
 # File: module/ages/src/Controller/Reports.php, line: 12478
 # File: module/ages/src/Controller/Reports.php, line: 12492
-# File: module/ages/src/Controller/ServiceFees.php, line: 895
+# File: module/ages/src/Controller/ServiceFees.php, line: 900
 # File: module/ages/src/Controller/SubAgents.php, line: 3755
 # File: module/ages/src/Controller/SubAgents.php, line: 6294
 # File: module/ages/src/Controller/SubAgents.php, line: 6877
@@ -11136,7 +11136,7 @@ msgstr ""
 # File: module/ages/view/ages/packages/edit_modals.phtml, line: 107
 # File: module/ages/view/ages/packages/edititinerary.phtml, line: 42
 # File: module/ages/view/ages/packages/itineraryimages.phtml, line: 24
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 35
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 33
 # File: module/ages/view/ages/sub-agents/add_events.phtml, line: 10
 # File: module/ages/view/ages/sub-agents/add_giftcards.phtml, line: 11
 # File: module/ages/view/ages/sub-agents/edit_auditing.phtml, line: 11
@@ -11381,7 +11381,7 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 1189
 # File: module/ages/view/ages/agents/detailedreport.phtml, line: 55
 # File: module/ages/view/ages/agents/leads.phtml, line: 103
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 97
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 95
 # File: module/setup/view/settings/citiessections_add.phtml, line: 50
 # File: module/setup/view/settings/citiessections_edit.phtml, line: 55
 msgid "Other"
@@ -11493,7 +11493,7 @@ msgstr ""
 # File: module/ages/src/Controller/GiftCards.php, line: 2130
 # File: module/ages/src/Controller/Newsletter.php, line: 4680
 # File: module/ages/src/Controller/Newsletter.php, line: 5546
-# File: module/ages/src/Controller/ServiceFees.php, line: 1384
+# File: module/ages/src/Controller/ServiceFees.php, line: 1389
 # File: module/ages/src/Controller/SubAgents.php, line: 473
 # File: module/ages/src/Controller/SubAgents.php, line: 6849
 # File: module/ages/view/ages/newsletter/exceptions.phtml, line: 21
@@ -11744,6 +11744,7 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 106
 # File: module/setup/view/hotels/youtravel.phtml, line: 85
 # File: module/setup/view/hotels/zoytrip.phtml, line: 61
+# File: module/setup/view/hotels/derbysoft.phtml, line: 84
 # File: module/setup/view/packages/abreu.phtml, line: 57
 # File: module/setup/view/packages/assistcard.phtml, line: 97
 # File: module/setup/view/packages/citytours.phtml, line: 67
@@ -12208,8 +12209,8 @@ msgstr ""
 # File: module/ages/src/Controller/Packages.php, line: 8178
 # File: module/ages/src/Controller/ServiceFees.php, line: 194
 # File: module/ages/src/Controller/ServiceFees.php, line: 419
-# File: module/ages/src/Controller/ServiceFees.php, line: 878
-# File: module/ages/src/Controller/ServiceFees.php, line: 1360
+# File: module/ages/src/Controller/ServiceFees.php, line: 883
+# File: module/ages/src/Controller/ServiceFees.php, line: 1365
 # File: module/ages/src/Controller/Transfers.php, line: 932
 # File: module/ages/src/Controller/Transfers.php, line: 1862
 # File: module/ages/src/Controller/Transfers.php, line: 2852
@@ -12247,8 +12248,8 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 28
 # File: module/ages/view/ages/reports/b2bwallet.phtml, line: 62
 # File: module/ages/view/ages/reports/b2bwallet.phtml, line: 64
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 62
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 56
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 60
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 54
 # File: module/ages/view/ages/sub-agents/add_recurringplanevents.phtml, line: 20
 # File: module/ages/view/ages/sub-agents/edit_recurringplanevents.phtml, line: 20
 # File: module/ages/view/ages/tours/list.phtml, line: 29
@@ -12339,8 +12340,8 @@ msgstr ""
 # File: module/ages/src/Controller/Packages.php, line: 8174
 # File: module/ages/src/Controller/ServiceFees.php, line: 199
 # File: module/ages/src/Controller/ServiceFees.php, line: 424
-# File: module/ages/src/Controller/ServiceFees.php, line: 882
-# File: module/ages/src/Controller/ServiceFees.php, line: 1364
+# File: module/ages/src/Controller/ServiceFees.php, line: 887
+# File: module/ages/src/Controller/ServiceFees.php, line: 1369
 # File: module/ages/src/Controller/Transfers.php, line: 936
 # File: module/ages/src/Controller/Transfers.php, line: 1866
 # File: module/ages/src/Controller/Transfers.php, line: 2856
@@ -12376,8 +12377,8 @@ msgstr ""
 # File: module/ages/view/ages/hotels/sourcemarkets.phtml, line: 24
 # File: module/ages/view/ages/hotels/taxes.phtml, line: 34
 # File: module/ages/view/ages/reports/b2bwallet.phtml, line: 62
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 60
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 54
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 58
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 52
 # File: module/ages/view/ages/sub-agents/add_recurringplanevents.phtml, line: 20
 # File: module/ages/view/ages/sub-agents/edit_recurringplanevents.phtml, line: 20
 # File: module/ages/view/ages/tours/list.phtml, line: 29
@@ -12498,9 +12499,9 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 1468
 # File: module/ages/src/Controller/Customers.php, line: 1667
 # File: module/ages/src/Controller/Customers.php, line: 1846
-# File: module/ages/src/Controller/ServiceFees.php, line: 1648
-# File: module/ages/src/Controller/ServiceFees.php, line: 1853
-# File: module/ages/src/Controller/ServiceFees.php, line: 2037
+# File: module/ages/src/Controller/ServiceFees.php, line: 1653
+# File: module/ages/src/Controller/ServiceFees.php, line: 1858
+# File: module/ages/src/Controller/ServiceFees.php, line: 2042
 # File: module/ages/view/ages/affiliates/add.phtml, line: 93
 # File: module/ages/view/ages/affiliates/add_hotels.phtml, line: 1
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 93
@@ -12573,9 +12574,9 @@ msgstr ""
 # File: module/ages/src/Controller/Packages.php, line: 1772
 # File: module/ages/src/Controller/Packages.php, line: 3773
 # File: module/ages/src/Controller/Packages.php, line: 4075
-# File: module/ages/src/Controller/ServiceFees.php, line: 1664
-# File: module/ages/src/Controller/ServiceFees.php, line: 1869
-# File: module/ages/src/Controller/ServiceFees.php, line: 2041
+# File: module/ages/src/Controller/ServiceFees.php, line: 1669
+# File: module/ages/src/Controller/ServiceFees.php, line: 1874
+# File: module/ages/src/Controller/ServiceFees.php, line: 2046
 # File: module/ages/src/Shared/Sendemailv2.php, line: 3836
 # File: module/ages/view/ages/affiliates/add_flights.phtml, line: 1
 # File: module/ages/view/ages/affiliates/edit_flights.phtml, line: 1
@@ -12629,9 +12630,9 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 1858
 # File: module/ages/src/Controller/GiftCards.php, line: 1470
 # File: module/ages/src/Controller/GiftCards.php, line: 2089
-# File: module/ages/src/Controller/ServiceFees.php, line: 1672
-# File: module/ages/src/Controller/ServiceFees.php, line: 1877
-# File: module/ages/src/Controller/ServiceFees.php, line: 2043
+# File: module/ages/src/Controller/ServiceFees.php, line: 1677
+# File: module/ages/src/Controller/ServiceFees.php, line: 1882
+# File: module/ages/src/Controller/ServiceFees.php, line: 2048
 # File: module/ages/view/ages/activities/analysis.phtml, line: 82
 # File: module/ages/view/ages/activities/checkin.phtml, line: 20
 # File: module/ages/view/ages/activities/images.phtml, line: 5
@@ -12696,9 +12697,9 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 1854
 # File: module/ages/src/Controller/GiftCards.php, line: 1466
 # File: module/ages/src/Controller/GiftCards.php, line: 2085
-# File: module/ages/src/Controller/ServiceFees.php, line: 1652
-# File: module/ages/src/Controller/ServiceFees.php, line: 1857
-# File: module/ages/src/Controller/ServiceFees.php, line: 2038
+# File: module/ages/src/Controller/ServiceFees.php, line: 1657
+# File: module/ages/src/Controller/ServiceFees.php, line: 1862
+# File: module/ages/src/Controller/ServiceFees.php, line: 2043
 # File: module/ages/view/ages/affiliates/add.phtml, line: 95
 # File: module/ages/view/ages/affiliates/add_cars.phtml, line: 1
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 95
@@ -12740,9 +12741,9 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 1842
 # File: module/ages/src/Controller/GiftCards.php, line: 1482
 # File: module/ages/src/Controller/GiftCards.php, line: 2101
-# File: module/ages/src/Controller/ServiceFees.php, line: 1668
-# File: module/ages/src/Controller/ServiceFees.php, line: 1873
-# File: module/ages/src/Controller/ServiceFees.php, line: 2042
+# File: module/ages/src/Controller/ServiceFees.php, line: 1673
+# File: module/ages/src/Controller/ServiceFees.php, line: 1878
+# File: module/ages/src/Controller/ServiceFees.php, line: 2047
 # File: module/ages/view/ages/affiliates/add.phtml, line: 99
 # File: module/ages/view/ages/affiliates/add_cruises.phtml, line: 1
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 99
@@ -12830,9 +12831,9 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 1870
 # File: module/ages/src/Controller/GiftCards.php, line: 1478
 # File: module/ages/src/Controller/GiftCards.php, line: 2097
-# File: module/ages/src/Controller/ServiceFees.php, line: 1656
-# File: module/ages/src/Controller/ServiceFees.php, line: 1861
-# File: module/ages/src/Controller/ServiceFees.php, line: 2039
+# File: module/ages/src/Controller/ServiceFees.php, line: 1661
+# File: module/ages/src/Controller/ServiceFees.php, line: 1866
+# File: module/ages/src/Controller/ServiceFees.php, line: 2044
 # File: module/ages/view/ages/affiliates/add.phtml, line: 98
 # File: module/ages/view/ages/affiliates/add_packages.phtml, line: 1
 # File: module/ages/view/ages/agents/add.phtml, line: 172
@@ -12876,9 +12877,9 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 1496
 # File: module/ages/src/Controller/Customers.php, line: 1695
 # File: module/ages/src/Controller/Customers.php, line: 1874
-# File: module/ages/src/Controller/ServiceFees.php, line: 1684
-# File: module/ages/src/Controller/ServiceFees.php, line: 1889
-# File: module/ages/src/Controller/ServiceFees.php, line: 2046
+# File: module/ages/src/Controller/ServiceFees.php, line: 1689
+# File: module/ages/src/Controller/ServiceFees.php, line: 1894
+# File: module/ages/src/Controller/ServiceFees.php, line: 2051
 # File: module/ages/view/ages/insurances/analysis.phtml, line: 82
 # File: module/ages/view/ages/insurances/list.phtml, line: 5
 # File: module/ages/view/ages/reports/insurancessales.phtml, line: 191
@@ -13181,9 +13182,9 @@ msgid "Flights"
 msgstr ""
 #
 # File: module/ages/src/Controller/CMS.php, line: 17351
-# File: module/ages/src/Controller/ServiceFees.php, line: 1676
-# File: module/ages/src/Controller/ServiceFees.php, line: 1881
-# File: module/ages/src/Controller/ServiceFees.php, line: 2044
+# File: module/ages/src/Controller/ServiceFees.php, line: 1681
+# File: module/ages/src/Controller/ServiceFees.php, line: 1886
+# File: module/ages/src/Controller/ServiceFees.php, line: 2049
 # File: module/ages/view/ages/newsletter/create.phtml, line: 65
 # File: module/setup/view/hotels/markinternational.phtml, line: 57
 # File: module/setup/view/hotels/markinternational.phtml, line: 58
@@ -13359,6 +13360,7 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 1093
 # File: module/ages/src/Controller/Customers.php, line: 1122
 # File: module/ages/src/Controller/Customers.php, line: 1161
+# File: module/ages/src/Controller/ServiceFees.php, line: 429
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 132
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 182
 # File: module/ages/view/ages/dynamic-packaging/listreservations.phtml, line: 142
@@ -13378,7 +13380,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 70
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 156
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 201
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 66
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 64
 msgid "Cancelled"
 msgstr ""
 #
@@ -15071,7 +15073,7 @@ msgid "Travel Confirmation"
 msgstr ""
 #
 # File: module/ages/src/Controller/ServiceFees.php, line: 204
-# File: module/ages/src/Controller/ServiceFees.php, line: 429
+# File: module/ages/src/Controller/ServiceFees.php, line: 434
 msgid "Unkown Status"
 msgstr ""
 #
@@ -15083,15 +15085,15 @@ msgstr ""
 msgid "Monthly"
 msgstr ""
 #
-# File: module/ages/src/Controller/ServiceFees.php, line: 1372
+# File: module/ages/src/Controller/ServiceFees.php, line: 1377
 # File: module/ages/view/ages/service-fees/geotargetmarkup.phtml, line: 36
 msgid "Fixed Fee"
 msgstr ""
 #
-# File: module/ages/src/Controller/ServiceFees.php, line: 1376
-# File: module/ages/src/Controller/ServiceFees.php, line: 1725
-# File: module/ages/src/Controller/ServiceFees.php, line: 1930
-# File: module/ages/src/Controller/ServiceFees.php, line: 2053
+# File: module/ages/src/Controller/ServiceFees.php, line: 1381
+# File: module/ages/src/Controller/ServiceFees.php, line: 1730
+# File: module/ages/src/Controller/ServiceFees.php, line: 1935
+# File: module/ages/src/Controller/ServiceFees.php, line: 2058
 # File: module/ages/view/ages/customers/editgiftcards.phtml, line: 15
 # File: module/ages/view/ages/gift-cards/add.phtml, line: 34
 # File: module/ages/view/ages/gift-cards/edit.phtml, line: 50
@@ -15105,21 +15107,21 @@ msgstr ""
 msgid "Percentage"
 msgstr ""
 #
-# File: module/ages/src/Controller/ServiceFees.php, line: 1635
-# File: module/ages/src/Controller/ServiceFees.php, line: 1840
-# File: module/ages/src/Controller/ServiceFees.php, line: 2030
+# File: module/ages/src/Controller/ServiceFees.php, line: 1640
+# File: module/ages/src/Controller/ServiceFees.php, line: 1845
+# File: module/ages/src/Controller/ServiceFees.php, line: 2035
 msgid "Nightly"
 msgstr ""
 #
-# File: module/ages/src/Controller/ServiceFees.php, line: 1639
-# File: module/ages/src/Controller/ServiceFees.php, line: 1844
-# File: module/ages/src/Controller/ServiceFees.php, line: 2031
+# File: module/ages/src/Controller/ServiceFees.php, line: 1644
+# File: module/ages/src/Controller/ServiceFees.php, line: 1849
+# File: module/ages/src/Controller/ServiceFees.php, line: 2036
 msgid "Per Stay"
 msgstr ""
 #
-# File: module/ages/src/Controller/ServiceFees.php, line: 1721
-# File: module/ages/src/Controller/ServiceFees.php, line: 1926
-# File: module/ages/src/Controller/ServiceFees.php, line: 2052
+# File: module/ages/src/Controller/ServiceFees.php, line: 1726
+# File: module/ages/src/Controller/ServiceFees.php, line: 1931
+# File: module/ages/src/Controller/ServiceFees.php, line: 2057
 # File: module/ages/view/ages/packages/add.phtml, line: 245
 # File: module/ages/view/ages/packages/edit.phtml, line: 323
 msgid "Fixed Price"
@@ -17557,6 +17559,7 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 15
 # File: module/setup/view/hotels/youtravel.phtml, line: 25
 # File: module/setup/view/hotels/zoytrip.phtml, line: 15
+# File: module/setup/view/hotels/derbysoft.phtml, line: 30
 # File: module/setup/view/packages/abreu.phtml, line: 26
 # File: module/setup/view/packages/assistcard.phtml, line: 24
 # File: module/setup/view/packages/citytours.phtml, line: 30
@@ -18154,8 +18157,8 @@ msgstr ""
 # File: module/ages/view/ages/service-fees/geotargetmarkup.phtml, line: 22
 # File: module/ages/view/ages/service-fees/list.phtml, line: 20
 # File: module/ages/view/ages/service-fees/recurringplans.phtml, line: 18
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 44
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 40
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 42
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 38
 # File: module/ages/view/ages/sub-agents/edit_customers.phtml, line: 14
 # File: module/ages/view/ages/sub-agents/edit_points_origin.phtml, line: 11
 # File: module/ages/view/ages/sub-agents/index.phtml, line: 53
@@ -18435,8 +18438,8 @@ msgstr ""
 # File: module/ages/view/ages/service-fees/geotargetmarkup.phtml, line: 39
 # File: module/ages/view/ages/service-fees/list.phtml, line: 35
 # File: module/ages/view/ages/service-fees/recurringplans.phtml, line: 31
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 102
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 62
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 100
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 60
 # File: module/ages/view/ages/sub-agents/index.phtml, line: 73
 # File: module/ages/view/ages/sub-agents/search.phtml, line: 54
 # File: module/ages/view/ages/tours/availability.phtml, line: 36
@@ -20544,7 +20547,7 @@ msgstr ""
 # File: module/ages/view/ages/reports/sales.phtml, line: 12
 # File: module/ages/view/ages/reports/sales.phtml, line: 13
 # File: module/ages/view/ages/reports/supervisoragents.phtml, line: 25
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 36
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 34
 # File: module/ages/view/ages/sub-agents/index.phtml, line: 42
 # File: module/ages/view/ages/sub-agents/index.phtml, line: 49
 # File: module/ages/view/ages/sub-agents/search.phtml, line: 28
@@ -20593,6 +20596,8 @@ msgstr ""
 # File: module/setup/view/hotels/ratespro.phtml, line: 27
 # File: module/setup/view/hotels/siteminderchannelplus.phtml, line: 26
 # File: module/setup/view/hotels/siteminderchannelplus.phtml, line: 27
+# File: module/setup/view/hotels/derbysoft.phtml, line: 26
+# File: module/setup/view/hotels/derbysoft.phtml, line: 27
 msgid "Company"
 msgstr ""
 #
@@ -20763,8 +20768,8 @@ msgstr ""
 # File: module/ages/view/ages/service-fees/geotargetmarkup.phtml, line: 105
 # File: module/ages/view/ages/service-fees/list.phtml, line: 105
 # File: module/ages/view/ages/service-fees/recurringplans.phtml, line: 97
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 145
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 105
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 143
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 103
 # File: module/ages/view/ages/sub-agents/index.phtml, line: 174
 # File: module/ages/view/ages/tours/list.phtml, line: 101
 # File: module/ages/view/ages/tours/listreservations.phtml, line: 152
@@ -21755,8 +21760,8 @@ msgstr ""
 # File: module/ages/view/ages/reports/newcustomers.phtml, line: 57
 # File: module/ages/view/ages/service-fees/geotargetmarkup.phtml, line: 12
 # File: module/ages/view/ages/service-fees/recurringplans.phtml, line: 12
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 34
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 33
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 32
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 31
 # File: module/ages/view/ages/sub-agents/edit_otp.phtml, line: 10
 # File: module/setup/view/intelligence/lowestpublishdfares.phtml, line: 12
 msgid "Date/Time Created"
@@ -21877,7 +21882,7 @@ msgstr ""
 # File: module/ages/view/ages/service-fees/add.phtml, line: 18
 # File: module/ages/view/ages/service-fees/edit.phtml, line: 18
 # File: module/ages/view/ages/service-fees/list.phtml, line: 16
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 39
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 37
 # File: module/manager/view/contracts/stopsale.phtml, line: 12
 # File: module/manager/view/rooms/add.phtml, line: 23
 # File: module/manager/view/rooms/edit.phtml, line: 20
@@ -22341,6 +22346,8 @@ msgstr ""
 # File: module/setup/view/hotels/webhotelier.phtml, line: 21
 # File: module/setup/view/hotels/youtravel.phtml, line: 19
 # File: module/setup/view/hotels/youtravel.phtml, line: 20
+# File: module/setup/view/hotels/derbysoft.phtml, line: 20
+# File: module/setup/view/hotels/derbysoft.phtml, line: 21
 # File: module/setup/view/packages/abreu.phtml, line: 20
 # File: module/setup/view/packages/abreu.phtml, line: 21
 # File: module/setup/view/packages/citytours.phtml, line: 26
@@ -25938,11 +25945,11 @@ msgstr ""
 # File: module/ages/view/ages/agents/add.phtml, line: 128
 # File: module/ages/view/ages/agents/add.phtml, line: 130
 # File: module/ages/view/ages/agents/edit.phtml, line: 116
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 12
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 13
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 12
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 13
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 35
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 10
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 11
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 10
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 11
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 33
 msgid "Plan"
 msgstr ""
 #
@@ -26581,6 +26588,8 @@ msgstr ""
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 18
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 17
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 18
+# File: module/setup/view/hotels/derbysoft.phtml, line: 16
+# File: module/setup/view/hotels/derbysoft.phtml, line: 17
 msgid "User ID"
 msgstr ""
 #
@@ -26627,8 +26636,8 @@ msgstr ""
 # File: module/ages/view/ages/gift-cards/search.phtml, line: 34
 # File: module/ages/view/ages/reports/b2bwallet.phtml, line: 37
 # File: module/ages/view/ages/reports/moneygram.phtml, line: 66
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 40
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 38
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 38
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 36
 # File: module/ages/view/ages/sub-agents/add_giftcards.phtml, line: 12
 # File: module/ages/view/ages/sub-agents/add_recurringplanevents.phtml, line: 12
 # File: module/ages/view/ages/sub-agents/add_transactions.phtml, line: 13
@@ -27611,6 +27620,7 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 19
 # File: module/setup/view/hotels/youtravel.phtml, line: 36
 # File: module/setup/view/hotels/zoytrip.phtml, line: 19
+# File: module/setup/view/hotels/derbysoft.phtml, line: 41
 # File: module/setup/view/intelligence/citypairs.phtml, line: 22
 # File: module/setup/view/intelligence/citypairs_add.phtml, line: 16
 # File: module/setup/view/intelligence/citypairs_edit.phtml, line: 16
@@ -28922,8 +28932,8 @@ msgstr ""
 # File: module/ages/view/ages/customers/dropboxsign.phtml, line: 17
 # File: module/ages/view/ages/customers/support.phtml, line: 25
 # File: module/ages/view/ages/reports/moneygram.phtml, line: 39
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 20
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 20
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 18
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 18
 msgid "Filter"
 msgstr ""
 #
@@ -30569,7 +30579,7 @@ msgstr ""
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 12
 # File: module/ages/view/ages/newsletter/spam.phtml, line: 12
 # File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 12
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 33
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 31
 # File: module/ages/view/ages/sub-agents/index.phtml, line: 39
 # File: module/setup/view/activities/kaluahtours.phtml, line: 15
 # File: module/setup/view/activities/kaluahtours.phtml, line: 16
@@ -30622,8 +30632,8 @@ msgstr ""
 # File: module/ages/view/ages/service-fees/geotargetmarkup.phtml, line: 5
 # File: module/ages/view/ages/service-fees/list.phtml, line: 5
 # File: module/ages/view/ages/service-fees/recurringplans.phtml, line: 5
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 26
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 26
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 24
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 24
 msgid "Service Fees"
 msgstr ""
 #
@@ -35163,6 +35173,7 @@ msgstr ""
 # File: module/setup/view/hotels/webbeds.phtml, line: 163
 # File: module/setup/view/hotels/webhotelier.phtml, line: 244
 # File: module/setup/view/hotels/youtravel.phtml, line: 148
+# File: module/setup/view/hotels/derbysoft.phtml, line: 147
 # File: module/setup/view/packages/abreu.phtml, line: 111
 # File: module/setup/view/packages/citytours.phtml, line: 130
 # File: module/setup/view/packages/europamundo.phtml, line: 170
@@ -36028,7 +36039,7 @@ msgid "Market ID"
 msgstr ""
 #
 # File: module/ages/view/ages/customers/editholidaydates.phtml, line: 10
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 42
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 40
 # File: module/manager/view/index/index.phtml, line: 29
 # File: module/setup/view/settings/cities_edit.phtml, line: 366
 # File: module/setup/view/settings/cities_edit.phtml, line: 371
@@ -44520,85 +44531,85 @@ msgstr ""
 msgid "Update Recurring Plan"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 26
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 139
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 140
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 145
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 24
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 137
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 138
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 143
 msgid "Recurring Plans Transactions"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 43
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 41
 msgid "Year"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 73
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 71
 # File: module/manager/view/index/index.phtml, line: 30
 msgid "January"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 75
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 73
 # File: module/manager/view/index/index.phtml, line: 31
 msgid "February"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 77
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 75
 # File: module/manager/view/index/index.phtml, line: 32
 msgid "March"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 79
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 77
 # File: module/manager/view/index/index.phtml, line: 33
 msgid "April"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 81
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 79
 # File: module/manager/view/index/index.phtml, line: 34
 msgid "May"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 83
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 81
 # File: module/manager/view/index/index.phtml, line: 35
 msgid "June"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 85
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 83
 # File: module/manager/view/index/index.phtml, line: 36
 msgid "July"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 87
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 85
 # File: module/manager/view/index/index.phtml, line: 37
 msgid "August"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 89
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 87
 # File: module/manager/view/index/index.phtml, line: 38
 msgid "September"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 91
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 89
 # File: module/manager/view/index/index.phtml, line: 39
 msgid "October"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 93
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 91
 # File: module/manager/view/index/index.phtml, line: 40
 msgid "November"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 95
+# File: module/ages/view/ages/service-fees/recurringplanstransactions.phtml, line: 93
 # File: module/manager/view/index/index.phtml, line: 41
 msgid "December"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 26
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 99
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 100
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 105
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 24
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 97
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 98
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 103
 msgid "Transactions History"
 msgstr ""
 #
-# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 37
+# File: module/ages/view/ages/service-fees/transactionshistory.phtml, line: 35
 msgid "Approval"
 msgstr ""
 #
@@ -47124,6 +47135,7 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 16
 # File: module/setup/view/hotels/youtravel.phtml, line: 28
 # File: module/setup/view/hotels/zoytrip.phtml, line: 16
+# File: module/setup/view/hotels/derbysoft.phtml, line: 33
 # File: module/setup/view/packages/abreu.phtml, line: 29
 # File: module/setup/view/packages/assistcard.phtml, line: 27
 # File: module/setup/view/packages/citytours.phtml, line: 33
@@ -47314,6 +47326,7 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 20
 # File: module/setup/view/hotels/youtravel.phtml, line: 39
 # File: module/setup/view/hotels/zoytrip.phtml, line: 20
+# File: module/setup/view/hotels/derbysoft.phtml, line: 44
 # File: module/setup/view/settings/b2bwallet.phtml, line: 37
 # File: module/setup/view/trains/travelport.phtml, line: 37
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 36
@@ -47581,6 +47594,8 @@ msgstr ""
 # File: module/setup/view/hotels/youtravel.phtml, line: 52
 # File: module/setup/view/hotels/zoytrip.phtml, line: 23
 # File: module/setup/view/hotels/zoytrip.phtml, line: 24
+# File: module/setup/view/hotels/derbysoft.phtml, line: 54
+# File: module/setup/view/hotels/derbysoft.phtml, line: 55
 # File: module/setup/view/packages/abreu.phtml, line: 37
 # File: module/setup/view/packages/abreu.phtml, line: 38
 # File: module/setup/view/packages/citytours.phtml, line: 43
@@ -47761,6 +47776,7 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 30
 # File: module/setup/view/hotels/youtravel.phtml, line: 58
 # File: module/setup/view/hotels/zoytrip.phtml, line: 30
+# File: module/setup/view/hotels/derbysoft.phtml, line: 71
 # File: module/setup/view/transfers/nexustours.phtml, line: 57
 msgid "Parallel Search"
 msgstr ""
@@ -48087,6 +48103,8 @@ msgstr ""
 # File: module/setup/view/hotels/youtravel.phtml, line: 61
 # File: module/setup/view/hotels/zoytrip.phtml, line: 36
 # File: module/setup/view/hotels/zoytrip.phtml, line: 37
+# File: module/setup/view/hotels/derbysoft.phtml, line: 58
+# File: module/setup/view/hotels/derbysoft.phtml, line: 59
 # File: module/setup/view/packages/abreu.phtml, line: 43
 # File: module/setup/view/packages/abreu.phtml, line: 44
 # File: module/setup/view/packages/assistcard.phtml, line: 75
@@ -48466,6 +48484,8 @@ msgstr ""
 # File: module/setup/view/hotels/youtravel.phtml, line: 64
 # File: module/setup/view/hotels/zoytrip.phtml, line: 39
 # File: module/setup/view/hotels/zoytrip.phtml, line: 40
+# File: module/setup/view/hotels/derbysoft.phtml, line: 61
+# File: module/setup/view/hotels/derbysoft.phtml, line: 62
 # File: module/setup/view/packages/abreu.phtml, line: 46
 # File: module/setup/view/packages/abreu.phtml, line: 47
 # File: module/setup/view/packages/assistcard.phtml, line: 78
@@ -48847,6 +48867,8 @@ msgstr ""
 # File: module/setup/view/hotels/youtravel.phtml, line: 67
 # File: module/setup/view/hotels/zoytrip.phtml, line: 42
 # File: module/setup/view/hotels/zoytrip.phtml, line: 43
+# File: module/setup/view/hotels/derbysoft.phtml, line: 64
+# File: module/setup/view/hotels/derbysoft.phtml, line: 65
 # File: module/setup/view/packages/abreu.phtml, line: 49
 # File: module/setup/view/packages/abreu.phtml, line: 50
 # File: module/setup/view/packages/assistcard.phtml, line: 81
@@ -49228,6 +49250,8 @@ msgstr ""
 # File: module/setup/view/hotels/youtravel.phtml, line: 71
 # File: module/setup/view/hotels/zoytrip.phtml, line: 46
 # File: module/setup/view/hotels/zoytrip.phtml, line: 47
+# File: module/setup/view/hotels/derbysoft.phtml, line: 68
+# File: module/setup/view/hotels/derbysoft.phtml, line: 69
 # File: module/setup/view/packages/abreu.phtml, line: 53
 # File: module/setup/view/packages/abreu.phtml, line: 54
 # File: module/setup/view/packages/assistcard.phtml, line: 85
@@ -49533,6 +49557,8 @@ msgstr ""
 # File: module/setup/view/hotels/youtravel.phtml, line: 80
 # File: module/setup/view/hotels/zoytrip.phtml, line: 54
 # File: module/setup/view/hotels/zoytrip.phtml, line: 56
+# File: module/setup/view/hotels/derbysoft.phtml, line: 77
+# File: module/setup/view/hotels/derbysoft.phtml, line: 79
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 65
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 67
 # File: module/setup/view/transfers/actiontravel.phtml, line: 56
@@ -49744,6 +49770,7 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 190
 # File: module/setup/view/hotels/youtravel.phtml, line: 160
 # File: module/setup/view/hotels/zoytrip.phtml, line: 118
+# File: module/setup/view/hotels/derbysoft.phtml, line: 150
 # File: module/setup/view/packages/abreu.phtml, line: 117
 # File: module/setup/view/packages/assistcard.phtml, line: 187
 # File: module/setup/view/packages/citytours.phtml, line: 139
@@ -49847,6 +49874,7 @@ msgstr ""
 # File: module/setup/view/hotels/travolutionary.phtml, line: 169
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 200
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 195
+# File: module/setup/view/hotels/derbysoft.phtml, line: 153
 # File: module/setup/view/transfers/nexustours.phtml, line: 153
 msgid "Please enter Service URL"
 msgstr ""
@@ -50052,6 +50080,7 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 193
 # File: module/setup/view/hotels/youtravel.phtml, line: 163
 # File: module/setup/view/hotels/zoytrip.phtml, line: 121
+# File: module/setup/view/hotels/derbysoft.phtml, line: 156
 # File: module/setup/view/packages/abreu.phtml, line: 120
 # File: module/setup/view/packages/assistcard.phtml, line: 190
 # File: module/setup/view/packages/citytours.phtml, line: 142
@@ -50254,6 +50283,7 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 196
 # File: module/setup/view/hotels/youtravel.phtml, line: 166
 # File: module/setup/view/hotels/zoytrip.phtml, line: 124
+# File: module/setup/view/hotels/derbysoft.phtml, line: 159
 # File: module/setup/view/packages/abreu.phtml, line: 123
 # File: module/setup/view/packages/assistcard.phtml, line: 193
 # File: module/setup/view/packages/citytours.phtml, line: 145
@@ -50456,6 +50486,7 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 226
 # File: module/setup/view/hotels/youtravel.phtml, line: 169
 # File: module/setup/view/hotels/zoytrip.phtml, line: 130
+# File: module/setup/view/hotels/derbysoft.phtml, line: 162
 # File: module/setup/view/packages/abreu.phtml, line: 126
 # File: module/setup/view/packages/assistcard.phtml, line: 196
 # File: module/setup/view/packages/citytours.phtml, line: 148
@@ -50537,6 +50568,7 @@ msgstr ""
 # File: module/setup/view/hotels/teamamerica.phtml, line: 164
 # File: module/setup/view/hotels/valentinhotels.phtml, line: 191
 # File: module/setup/view/hotels/vivawyndham.phtml, line: 186
+# File: module/setup/view/hotels/derbysoft.phtml, line: 141
 msgid "Please enter User ID"
 msgstr ""
 #
@@ -50555,6 +50587,7 @@ msgstr ""
 # File: module/setup/view/hotels/premierinn.phtml, line: 150
 # File: module/setup/view/hotels/ratespro.phtml, line: 151
 # File: module/setup/view/hotels/siteminderchannelplus.phtml, line: 144
+# File: module/setup/view/hotels/derbysoft.phtml, line: 144
 msgid "Please enter Company"
 msgstr ""
 #
@@ -60056,6 +60089,10 @@ msgstr ""
 #
 # File: module/setup/view/hotels/zoytrip.phtml, line: 13
 msgid "Enable ZoyTrip XML Feed"
+msgstr ""
+#
+# File: module/setup/view/hotels/derbysoft.phtml, line: 13
+msgid "Enable DerbySoft"
 msgstr ""
 #
 # File: module/setup/view/index/index.phtml, line: 4
