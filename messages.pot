@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-25 09:47-0400\n"
+"POT-Creation-Date: 2026-05-25 15:47-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -9946,8 +9946,8 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/add_flights.phtml, line: 5
 # File: module/ages/view/ages/sub-agents/edit_flights.phtml, line: 5
 # File: module/setup/src/Controller/cabincategories.php, line: 77
-# File: module/setup/src/Controller/cruiseships.php, line: 131
-# File: module/setup/src/Controller/cruiseships.php, line: 235
+# File: module/setup/src/Controller/cruiseships.php, line: 140
+# File: module/setup/src/Controller/cruiseships.php, line: 244
 # File: module/setup/src/Controller/featuredairlines.php, line: 116
 # File: module/setup/src/Controller/featuredairlines.php, line: 141
 # File: module/setup/src/Controller/featuredairlines.php, line: 166
@@ -10311,7 +10311,7 @@ msgstr ""
 # File: module/setup/src/Controller/cities.php, line: 726
 # File: module/setup/src/Controller/citiesimages.php, line: 54
 # File: module/setup/src/Controller/citiesimages.php, line: 68
-# File: module/setup/src/Controller/cruiseships.php, line: 246
+# File: module/setup/src/Controller/cruiseships.php, line: 255
 # File: module/setup/src/Controller/decks.php, line: 165
 # File: module/setup/src/Controller/decks.php, line: 179
 # File: module/setup/src/Controller/decksimages.php, line: 163
@@ -12280,7 +12280,7 @@ msgstr ""
 # File: module/manager/view/contracts/specialoffers.phtml, line: 13
 # File: module/manager/view/contracts/specialoffers.phtml, line: 46
 # File: module/setup/src/Controller/cruiselines.php, line: 78
-# File: module/setup/src/Controller/cruiseships.php, line: 91
+# File: module/setup/src/Controller/cruiseships.php, line: 100
 # File: module/setup/src/Controller/featuredairlines.php, line: 39
 # File: module/setup/src/Controller/featuredairlines.php, line: 66
 # File: module/setup/src/Controller/featuredairlines.php, line: 242
@@ -12409,7 +12409,7 @@ msgstr ""
 # File: module/manager/view/contracts/specialoffers.phtml, line: 13
 # File: module/manager/view/contracts/specialoffers.phtml, line: 46
 # File: module/setup/src/Controller/cruiselines.php, line: 82
-# File: module/setup/src/Controller/cruiseships.php, line: 95
+# File: module/setup/src/Controller/cruiseships.php, line: 104
 # File: module/setup/src/Controller/globalware.php, line: 71
 # File: module/setup/src/Controller/globalware.php, line: 87
 # File: module/setup/view/settings/globalware.phtml, line: 33
@@ -13113,7 +13113,7 @@ msgid "Section 10"
 msgstr ""
 #
 # File: module/ages/src/Controller/CMS.php, line: 17254
-# File: module/setup/src/Controller/cruiseships.php, line: 103
+# File: module/setup/src/Controller/cruiseships.php, line: 112
 msgid "0"
 msgstr ""
 #
@@ -13122,7 +13122,7 @@ msgstr ""
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 19327
 # File: module/ages/src/Controller/Packages.php, line: 5782
 # File: module/ages/src/Controller/Packages.php, line: 7142
-# File: module/setup/src/Controller/cruiseships.php, line: 107
+# File: module/setup/src/Controller/cruiseships.php, line: 116
 msgid "1"
 msgstr ""
 #
@@ -13131,7 +13131,7 @@ msgstr ""
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 19335
 # File: module/ages/src/Controller/Packages.php, line: 5790
 # File: module/ages/src/Controller/Packages.php, line: 7150
-# File: module/setup/src/Controller/cruiseships.php, line: 115
+# File: module/setup/src/Controller/cruiseships.php, line: 124
 msgid "3"
 msgstr ""
 #
@@ -13140,7 +13140,7 @@ msgstr ""
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 19339
 # File: module/ages/src/Controller/Packages.php, line: 5794
 # File: module/ages/src/Controller/Packages.php, line: 7154
-# File: module/setup/src/Controller/cruiseships.php, line: 119
+# File: module/setup/src/Controller/cruiseships.php, line: 128
 msgid "4"
 msgstr ""
 #
@@ -13149,7 +13149,7 @@ msgstr ""
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 19343
 # File: module/ages/src/Controller/Packages.php, line: 5798
 # File: module/ages/src/Controller/Packages.php, line: 7158
-# File: module/setup/src/Controller/cruiseships.php, line: 123
+# File: module/setup/src/Controller/cruiseships.php, line: 132
 msgid "5"
 msgstr ""
 #
@@ -14304,7 +14304,7 @@ msgstr ""
 # File: module/ages/src/Controller/DynamicPackaging.php, line: 19331
 # File: module/ages/src/Controller/Packages.php, line: 5786
 # File: module/ages/src/Controller/Packages.php, line: 7146
-# File: module/setup/src/Controller/cruiseships.php, line: 111
+# File: module/setup/src/Controller/cruiseships.php, line: 120
 msgid "2"
 msgstr ""
 #
@@ -26050,7 +26050,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/editstaticshipsoverview.phtml, line: 12
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 156
 # File: module/ages/view/ages/sub-agents/edit.phtml, line: 146
-# File: module/setup/view/cruises/edit-cruiseships.phtml, line: 25
+# File: module/setup/view/cruises/edit-cruiseships.phtml, line: 28
 # File: module/setup/view/settings/cities_edit.phtml, line: 301
 # File: module/setup/view/settings/cities_edit.phtml, line: 305
 # File: module/setup/view/settings/cities_edit.phtml, line: 307
@@ -55683,7 +55683,7 @@ msgid "Update Cabin Category"
 msgstr ""
 #
 # File: module/setup/view/cruises/edit-cabincategories.phtml, line: 52
-# File: module/setup/view/cruises/edit-cruiseships.phtml, line: 64
+# File: module/setup/view/cruises/edit-cruiseships.phtml, line: 67
 msgid "Please enter cruise ship name"
 msgstr ""
 #
@@ -55725,15 +55725,27 @@ msgstr ""
 msgid "Select ship rating"
 msgstr ""
 #
-# File: module/setup/view/cruises/edit-cruiseships.phtml, line: 28
+# File: module/setup/view/cruises/edit-cruiseships.phtml, line: 23
+msgid "Royal Caribbean"
+msgstr ""
+#
+# File: module/setup/view/cruises/edit-cruiseships.phtml, line: 24
+msgid "MSC"
+msgstr ""
+#
+# File: module/setup/view/cruises/edit-cruiseships.phtml, line: 25
+msgid "Costa"
+msgstr ""
+#
+# File: module/setup/view/cruises/edit-cruiseships.phtml, line: 31
 msgid "Update Cruise Ship"
 msgstr ""
 #
-# File: module/setup/view/cruises/edit-cruiseships.phtml, line: 67
+# File: module/setup/view/cruises/edit-cruiseships.phtml, line: 70
 msgid "Please enter cruise ship code"
 msgstr ""
 #
-# File: module/setup/view/cruises/edit-cruiseships.phtml, line: 70
+# File: module/setup/view/cruises/edit-cruiseships.phtml, line: 73
 msgid "Please enter cruise ship seo"
 msgstr ""
 #
