@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-28 01:55-0400\n"
+"POT-Creation-Date: 2026-05-29 12:30-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24462,7 +24462,7 @@ msgstr ""
 # File: module/ages/view/ages/affiliates/edit_payments.phtml, line: 11
 # File: module/ages/view/ages/agents/add_payments.phtml, line: 8
 # File: module/ages/view/ages/agents/edit_payments.phtml, line: 8
-# File: module/ages/view/ages/companies/edit_payments.phtml, line: 49
+# File: module/ages/view/ages/companies/edit_payments.phtml, line: 59
 # File: module/ages/view/ages/sub-agents/add_payments.phtml, line: 8
 # File: module/ages/view/ages/sub-agents/edit_payments.phtml, line: 8
 # File: module/setup/view/settings/payments-b2b.phtml, line: 15
@@ -26753,7 +26753,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/agents/add_payments.phtml, line: 145
 # File: module/ages/view/ages/agents/edit_payments.phtml, line: 153
-# File: module/ages/view/ages/companies/edit_payments.phtml, line: 57
+# File: module/ages/view/ages/companies/edit_payments.phtml, line: 67
 # File: module/ages/view/ages/sub-agents/add_payments.phtml, line: 145
 # File: module/ages/view/ages/sub-agents/edit_payments.phtml, line: 153
 msgid "Enable Moneygram"
@@ -26761,7 +26761,7 @@ msgstr ""
 #
 # File: module/ages/view/ages/agents/add_payments.phtml, line: 150
 # File: module/ages/view/ages/agents/edit_payments.phtml, line: 159
-# File: module/ages/view/ages/companies/edit_payments.phtml, line: 65
+# File: module/ages/view/ages/companies/edit_payments.phtml, line: 75
 # File: module/ages/view/ages/sub-agents/add_payments.phtml, line: 150
 # File: module/ages/view/ages/sub-agents/edit_payments.phtml, line: 159
 msgid "Enable Stripe"
@@ -33556,15 +33556,19 @@ msgstr ""
 msgid "Disable Moneygram"
 msgstr ""
 #
-# File: module/ages/view/ages/companies/edit_payments.phtml, line: 53
+# File: module/ages/view/ages/companies/edit_payments.phtml, line: 49
+msgid "Disable Affirm"
+msgstr ""
+#
+# File: module/ages/view/ages/companies/edit_payments.phtml, line: 63
 msgid "Enable Book Now and Pay Later"
 msgstr ""
 #
-# File: module/ages/view/ages/companies/edit_payments.phtml, line: 67
+# File: module/ages/view/ages/companies/edit_payments.phtml, line: 77
 msgid "Stripe Public Key"
 msgstr ""
 #
-# File: module/ages/view/ages/companies/edit_payments.phtml, line: 68
+# File: module/ages/view/ages/companies/edit_payments.phtml, line: 78
 msgid "Stripe Private Key"
 msgstr ""
 #
