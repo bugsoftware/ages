@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-19 08:32-0400\n"
+"POT-Creation-Date: 2026-08-20 12:28-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11723,7 +11723,7 @@ msgstr ""
 # File: module/setup/view/air/latamndcsabre.phtml, line: 80
 # File: module/setup/view/air/mystifly.phtml, line: 77
 # File: module/setup/view/air/priceline.phtml, line: 98
-# File: module/setup/view/air/sabre.phtml, line: 503
+# File: module/setup/view/air/sabre.phtml, line: 512
 # File: module/setup/view/air/sky.phtml, line: 50
 # File: module/setup/view/air/tapndcsabre.phtml, line: 70
 # File: module/setup/view/air/travelport.phtml, line: 350
@@ -49893,7 +49893,7 @@ msgstr ""
 # File: module/setup/view/air/latamndcsabre.phtml, line: 143
 # File: module/setup/view/air/mystifly.phtml, line: 142
 # File: module/setup/view/air/priceline.phtml, line: 158
-# File: module/setup/view/air/sabre.phtml, line: 615
+# File: module/setup/view/air/sabre.phtml, line: 624
 # File: module/setup/view/air/sky.phtml, line: 101
 # File: module/setup/view/air/tapndcsabre.phtml, line: 133
 # File: module/setup/view/air/travelport.phtml, line: 433
@@ -50202,7 +50202,7 @@ msgstr ""
 # File: module/setup/view/air/latamndcsabre.phtml, line: 152
 # File: module/setup/view/air/mystifly.phtml, line: 151
 # File: module/setup/view/air/priceline.phtml, line: 164
-# File: module/setup/view/air/sabre.phtml, line: 618
+# File: module/setup/view/air/sabre.phtml, line: 627
 # File: module/setup/view/air/sky.phtml, line: 107
 # File: module/setup/view/air/tapndcsabre.phtml, line: 151
 # File: module/setup/view/air/travelport.phtml, line: 460
@@ -50404,7 +50404,7 @@ msgstr ""
 # File: module/setup/view/air/latamndcsabre.phtml, line: 155
 # File: module/setup/view/air/mystifly.phtml, line: 154
 # File: module/setup/view/air/priceline.phtml, line: 167
-# File: module/setup/view/air/sabre.phtml, line: 621
+# File: module/setup/view/air/sabre.phtml, line: 630
 # File: module/setup/view/air/sky.phtml, line: 110
 # File: module/setup/view/air/tapndcsabre.phtml, line: 154
 # File: module/setup/view/air/travelport.phtml, line: 463
@@ -50607,7 +50607,7 @@ msgstr ""
 # File: module/setup/view/air/latamndcsabre.phtml, line: 167
 # File: module/setup/view/air/mystifly.phtml, line: 157
 # File: module/setup/view/air/priceline.phtml, line: 170
-# File: module/setup/view/air/sabre.phtml, line: 624
+# File: module/setup/view/air/sabre.phtml, line: 633
 # File: module/setup/view/air/sky.phtml, line: 113
 # File: module/setup/view/air/tapndcsabre.phtml, line: 157
 # File: module/setup/view/air/travelport.phtml, line: 466
@@ -52241,7 +52241,7 @@ msgstr ""
 # File: module/setup/view/air/galileo.phtml, line: 194
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 336
 # File: module/setup/view/air/latamndcsabre.phtml, line: 164
-# File: module/setup/view/air/sabre.phtml, line: 585
+# File: module/setup/view/air/sabre.phtml, line: 594
 # File: module/setup/view/air/tapndcsabre.phtml, line: 145
 # File: module/setup/view/air/travelport.phtml, line: 445
 # File: module/setup/view/air/travelportpaypai.phtml, line: 199
@@ -52923,10 +52923,13 @@ msgstr ""
 #
 # File: module/setup/view/air/amadeus.phtml, line: 335
 # File: module/setup/view/air/amadeus.phtml, line: 336
+# File: module/setup/view/air/sabre.phtml, line: 504
+# File: module/setup/view/air/sabre.phtml, line: 505
 msgid "Airline Exclusion List (IATA Code - One per line)"
 msgstr ""
 #
 # File: module/setup/view/air/amadeus.phtml, line: 337
+# File: module/setup/view/air/sabre.phtml, line: 506
 msgid "IATA Code - One per line"
 msgstr ""
 #
@@ -54040,56 +54043,56 @@ msgstr ""
 msgid "Enable JCB Fares:"
 msgstr ""
 #
-# File: module/setup/view/air/sabre.phtml, line: 582
+# File: module/setup/view/air/sabre.phtml, line: 591
 # File: module/setup/view/cars/sabre.phtml, line: 150
 # File: module/setup/view/cruises/sabre.phtml, line: 150
 # File: module/setup/view/hotels/sabre.phtml, line: 181
 msgid "Please enter IPCC"
 msgstr ""
 #
-# File: module/setup/view/air/sabre.phtml, line: 588
+# File: module/setup/view/air/sabre.phtml, line: 597
 msgid "Please enter Number of Itinerary Results"
 msgstr ""
 #
-# File: module/setup/view/air/sabre.phtml, line: 591
+# File: module/setup/view/air/sabre.phtml, line: 600
 # File: module/setup/view/cars/sabre.phtml, line: 153
 # File: module/setup/view/cruises/sabre.phtml, line: 153
 # File: module/setup/view/hotels/sabre.phtml, line: 184
 msgid "Please enter User ID 1"
 msgstr ""
 #
-# File: module/setup/view/air/sabre.phtml, line: 594
+# File: module/setup/view/air/sabre.phtml, line: 603
 # File: module/setup/view/hotels/sabre.phtml, line: 187
 msgid "Please enter User ID 2"
 msgstr ""
 #
-# File: module/setup/view/air/sabre.phtml, line: 597
+# File: module/setup/view/air/sabre.phtml, line: 606
 # File: module/setup/view/hotels/sabre.phtml, line: 190
 msgid "Please enter Conversation ID"
 msgstr ""
 #
-# File: module/setup/view/air/sabre.phtml, line: 600
+# File: module/setup/view/air/sabre.phtml, line: 609
 # File: module/setup/view/hotels/sabre.phtml, line: 193
 msgid "Please enter Party ID To"
 msgstr ""
 #
-# File: module/setup/view/air/sabre.phtml, line: 603
+# File: module/setup/view/air/sabre.phtml, line: 612
 msgid "Please enter Point of Sale"
 msgstr ""
 #
-# File: module/setup/view/air/sabre.phtml, line: 606
+# File: module/setup/view/air/sabre.phtml, line: 615
 # File: module/setup/view/hotels/sabre.phtml, line: 196
 msgid "Please enter Party ID From"
 msgstr ""
 #
-# File: module/setup/view/air/sabre.phtml, line: 609
+# File: module/setup/view/air/sabre.phtml, line: 618
 # File: module/setup/view/cars/sabre.phtml, line: 159
 # File: module/setup/view/cruises/sabre.phtml, line: 159
 # File: module/setup/view/hotels/sabre.phtml, line: 199
 msgid "Please enter password 1"
 msgstr ""
 #
-# File: module/setup/view/air/sabre.phtml, line: 612
+# File: module/setup/view/air/sabre.phtml, line: 621
 # File: module/setup/view/hotels/sabre.phtml, line: 202
 msgid "Please enter password 2"
 msgstr ""
