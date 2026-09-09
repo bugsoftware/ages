@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-09 05:01-0400\n"
+"POT-Creation-Date: 2026-09-09 06:43-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25470,7 +25470,7 @@ msgstr ""
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 28
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 31
 # File: module/setup/view/settings/realtimepayments_edit.phtml, line: 29
-# File: module/setup/view/settings/settings.phtml, line: 1535
+# File: module/setup/view/settings/settings.phtml, line: 1543
 # File: module/setup/view/settings/states_edit.phtml, line: 138
 # File: module/setup/view/settings/newcity.phtml, line: 846
 msgid "Submit"
@@ -64689,16 +64689,21 @@ msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1521
 # File: module/setup/view/settings/settings.phtml, line: 1522
-msgid "Cruises API Secret"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1525
-# File: module/setup/view/settings/settings.phtml, line: 1526
-# File: module/setup/view/settings/settings.phtml, line: 1530
-msgid "Cruises API Enforce (0/1)"
+msgid "Agents API Enforce (0/1)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1529
+# File: module/setup/view/settings/settings.phtml, line: 1530
+msgid "Cruises API Secret"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1533
+# File: module/setup/view/settings/settings.phtml, line: 1534
+# File: module/setup/view/settings/settings.phtml, line: 1538
+msgid "Cruises API Enforce (0/1)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1537
 msgid "Cruises Select Version (1 = original wizard, 2 = the three-step version, 3 = single page )"
 msgstr ""
 #
