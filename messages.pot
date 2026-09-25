@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-25 08:22-0400\n"
+"POT-Creation-Date: 2026-09-25 10:10-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2081,6 +2081,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 30
 # File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 30
 # File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 30
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 38
 msgid "Warm regards,"
 msgstr ""
 #
@@ -5080,6 +5081,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 31
 # File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 31
 # File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 31
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 39
 msgid "Click & Book Team"
 msgstr ""
 #
@@ -5105,6 +5107,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 25
 # File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 25
 # File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 25
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 27
 msgid "Reservation Number:"
 msgstr ""
 #
@@ -8583,6 +8586,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/review.phtml, line: 28
 # File: module/ages/src/Controller/Templates/settle.phtml, line: 28
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 37
 msgid "Thank you for your prompt attention to this matter."
 msgstr ""
 #
@@ -9509,6 +9513,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 20
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 20
 msgid "Hello Cruises Team"
 msgstr ""
 #
@@ -9519,6 +9524,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 23
 # File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 23
 # File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 23
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 24
 msgid "Reservation Details"
 msgstr ""
 #
@@ -9528,6 +9534,34 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 22
 msgid "A new reservation settlement has been received and requires your review. Please check the details and proceed with the necessary validation steps."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 22
+msgid "A new invoice upload request has been received, but the cruise reservation requires review before the invoice can be uploaded. Please review the reservation details and complete the necessary validation steps."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 28
+msgid "Agent/Agency:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 29
+msgid "Cruise Line:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 30
+msgid "Cruise Confirmation:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 31
+msgid "Date of Request:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 33
+msgid "The invoice will not be uploaded until the cruises department has completed the reservation review and approved it."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 35
+msgid "If you have any questions or require further assistance, please feel free to contact us."
 msgstr ""
 #
 # File: module/ages/src/Controller/Activities.php, line: 244
@@ -25581,7 +25615,7 @@ msgstr ""
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 28
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 31
 # File: module/setup/view/settings/realtimepayments_edit.phtml, line: 29
-# File: module/setup/view/settings/settings.phtml, line: 1626
+# File: module/setup/view/settings/settings.phtml, line: 1629
 # File: module/setup/view/settings/states_edit.phtml, line: 138
 # File: module/setup/view/settings/newcity.phtml, line: 846
 msgid "Submit"
@@ -64954,92 +64988,103 @@ msgid "Cruises API Secret"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1537
-# File: module/setup/view/settings/settings.phtml, line: 1538
-# File: module/setup/view/settings/settings.phtml, line: 1542
 msgid "Cruises API Enforce (0/1)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1538
+msgid "Cruises API Enforce"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1541
 msgid "Cruises Select Version (1 = original wizard, 2 = the three-step version, 3 = single page )"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1550
-# File: module/setup/view/settings/settings.phtml, line: 1551
+# File: module/setup/view/settings/settings.phtml, line: 1542
+msgid "Cruises Select Version"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1545
+# File: module/setup/view/settings/settings.phtml, line: 1546
+msgid "Cruises Offers Version (2)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1553
+# File: module/setup/view/settings/settings.phtml, line: 1554
 msgid "Escorted Tours Select Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1554
-# File: module/setup/view/settings/settings.phtml, line: 1555
+# File: module/setup/view/settings/settings.phtml, line: 1557
+# File: module/setup/view/settings/settings.phtml, line: 1558
 msgid "Escorted Tours Passengers Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1558
-# File: module/setup/view/settings/settings.phtml, line: 1559
+# File: module/setup/view/settings/settings.phtml, line: 1561
+# File: module/setup/view/settings/settings.phtml, line: 1562
 msgid "Escorted Tours Payment Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1562
-# File: module/setup/view/settings/settings.phtml, line: 1563
+# File: module/setup/view/settings/settings.phtml, line: 1565
+# File: module/setup/view/settings/settings.phtml, line: 1566
 msgid "Escorted Tours Index Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1566
-# File: module/setup/view/settings/settings.phtml, line: 1567
+# File: module/setup/view/settings/settings.phtml, line: 1569
+# File: module/setup/view/settings/settings.phtml, line: 1570
 msgid "Escorted Tours Info Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1570
-# File: module/setup/view/settings/settings.phtml, line: 1571
+# File: module/setup/view/settings/settings.phtml, line: 1573
+# File: module/setup/view/settings/settings.phtml, line: 1574
 msgid "Escorted Tours Summary Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1574
-# File: module/setup/view/settings/settings.phtml, line: 1575
+# File: module/setup/view/settings/settings.phtml, line: 1577
+# File: module/setup/view/settings/settings.phtml, line: 1578
 msgid "Escorted Tours Confirmation Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1582
-# File: module/setup/view/settings/settings.phtml, line: 1583
+# File: module/setup/view/settings/settings.phtml, line: 1585
+# File: module/setup/view/settings/settings.phtml, line: 1586
 msgid "Activities Info Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1586
-# File: module/setup/view/settings/settings.phtml, line: 1587
+# File: module/setup/view/settings/settings.phtml, line: 1589
+# File: module/setup/view/settings/settings.phtml, line: 1590
 msgid "Activities Summary Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1590
-# File: module/setup/view/settings/settings.phtml, line: 1591
+# File: module/setup/view/settings/settings.phtml, line: 1593
+# File: module/setup/view/settings/settings.phtml, line: 1594
 msgid "Activities Passengers Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1595
-# File: module/setup/view/settings/settings.phtml, line: 1596
+# File: module/setup/view/settings/settings.phtml, line: 1598
+# File: module/setup/view/settings/settings.phtml, line: 1599
 msgid "Activities Index Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1599
-# File: module/setup/view/settings/settings.phtml, line: 1600
+# File: module/setup/view/settings/settings.phtml, line: 1602
+# File: module/setup/view/settings/settings.phtml, line: 1603
 msgid "Activities Search Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1603
-# File: module/setup/view/settings/settings.phtml, line: 1604
+# File: module/setup/view/settings/settings.phtml, line: 1606
+# File: module/setup/view/settings/settings.phtml, line: 1607
 msgid "Activities Payment Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1607
-# File: module/setup/view/settings/settings.phtml, line: 1608
+# File: module/setup/view/settings/settings.phtml, line: 1610
+# File: module/setup/view/settings/settings.phtml, line: 1611
 msgid "Activities Confirmation Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1616
-# File: module/setup/view/settings/settings.phtml, line: 1617
+# File: module/setup/view/settings/settings.phtml, line: 1619
+# File: module/setup/view/settings/settings.phtml, line: 1620
 msgid "Main Home Page Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1620
-# File: module/setup/view/settings/settings.phtml, line: 1621
+# File: module/setup/view/settings/settings.phtml, line: 1623
+# File: module/setup/view/settings/settings.phtml, line: 1624
 msgid "Destination Version (2) "
 msgstr ""
 #
