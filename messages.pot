@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-29 12:35-0400\n"
+"POT-Creation-Date: 2026-10-29 13:02-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25682,7 +25682,7 @@ msgstr ""
 # File: module/setup/view/settings/realtimepayments_edit.phtml, line: 29
 # File: module/setup/view/settings/states_edit.phtml, line: 138
 # File: module/setup/view/settings/newcity.phtml, line: 846
-# File: module/setup/view/settings/settings.phtml, line: 2104
+# File: module/setup/view/settings/settings.phtml, line: 2115
 msgid "Submit"
 msgstr ""
 #
@@ -66045,7 +66045,22 @@ msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 2098
 # File: module/setup/view/settings/settings.phtml, line: 2099
+# File: module/setup/view/settings/settings.phtml, line: 2103
+# File: module/setup/view/settings/settings.phtml, line: 2107
+# File: module/setup/view/settings/settings.phtml, line: 2111
 msgid "Do not run decision manager fraud score if amount is bellow"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2102
+msgid "Charge Service Fee Before Ticketing"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2106
+msgid "Charge Serve Fee After Ticketing"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2110
+msgid "Charge Notification Emails"
 msgstr ""
 #
 # File: module/setup/view/trains/era.phtml, line: 13
