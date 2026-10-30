@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-30 11:20-0400\n"
+"POT-Creation-Date: 2026-10-30 18:22-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2054,7 +2054,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_newagent.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 20
 # File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 20
-# File: module/ages/src/Controller/Agents.php, line: 5662
+# File: module/ages/src/Controller/Agents.php, line: 5666
 # File: module/ages/src/Controller/LoginController.php, line: 893
 # File: module/ages/src/Controller/LoginController.php, line: 894
 msgid "Dear"
@@ -5621,7 +5621,7 @@ msgid "New Agent has been Created"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/openagent_notification.phtml, line: 16
-# File: module/ages/src/Controller/Agents.php, line: 5207
+# File: module/ages/src/Controller/Agents.php, line: 5211
 msgid "Agent Id:"
 msgstr ""
 #
@@ -7719,7 +7719,7 @@ msgstr ""
 # File: module/ages/src/Controller/ServiceFees.php, line: 1685
 # File: module/ages/src/Controller/ServiceFees.php, line: 1890
 # File: module/ages/src/Controller/ServiceFees.php, line: 2050
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3950
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3951
 # File: module/ages/src/Templates/reservation_v2.phtml, line: 1209
 # File: module/ages/src/Templates/reservation_v2.phtml, line: 1224
 # File: module/ages/src/Templates/reservation_v2.phtml, line: 1262
@@ -7874,7 +7874,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1454
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1468
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1506
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3957
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3958
 # File: module/ages/src/Templates/reservation_v2.phtml, line: 1454
 # File: module/ages/src/Templates/reservation_v2.phtml, line: 1468
 # File: module/ages/src/Templates/reservation_v2.phtml, line: 1506
@@ -8291,7 +8291,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2253
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2291
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3964
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3965
 # File: module/ages/src/Templates/reservation_v2.phtml, line: 2253
 # File: module/ages/src/Templates/reservation_v2.phtml, line: 2291
 # File: module/ages/view/ages/agents/add.phtml, line: 175
@@ -8909,9 +8909,9 @@ msgid "Reservation Status"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 90
-# File: module/ages/src/Controller/Agents.php, line: 4266
-# File: module/ages/src/Controller/Agents.php, line: 10825
-# File: module/ages/src/Controller/Agents.php, line: 13382
+# File: module/ages/src/Controller/Agents.php, line: 4268
+# File: module/ages/src/Controller/Agents.php, line: 10835
+# File: module/ages/src/Controller/Agents.php, line: 13396
 # File: module/ages/src/Controller/Air.php, line: 3636
 # File: module/ages/src/Controller/Cruises.php, line: 3582
 # File: module/ages/src/Controller/Cruises.php, line: 3757
@@ -8935,8 +8935,8 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 3089
 # File: module/ages/src/Controller/Reports.php, line: 4220
 # File: module/ages/src/Controller/Reports.php, line: 9409
-# File: module/ages/src/Controller/SubAgents.php, line: 4079
-# File: module/ages/src/Controller/SubAgents.php, line: 6636
+# File: module/ages/src/Controller/SubAgents.php, line: 4085
+# File: module/ages/src/Controller/SubAgents.php, line: 6646
 # File: module/ages/view/ages/agents/add_reservations.phtml, line: 70
 # File: module/ages/view/ages/agents/edit_reservations.phtml, line: 69
 # File: module/ages/view/ages/air/listreservations.phtml, line: 72
@@ -9726,7 +9726,7 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 1166
 # File: module/ages/src/Controller/Agents.php, line: 1486
 # File: module/ages/src/Controller/Agents.php, line: 1611
-# File: module/ages/src/Controller/Agents.php, line: 9232
+# File: module/ages/src/Controller/Agents.php, line: 9240
 # File: module/ages/src/Controller/Air.php, line: 1203
 # File: module/ages/src/Controller/Air.php, line: 2060
 # File: module/ages/src/Controller/Air.php, line: 2082
@@ -9981,8 +9981,8 @@ msgid "All"
 msgstr ""
 #
 # File: module/ages/src/Controller/Activities.php, line: 288
-# File: module/ages/src/Controller/Agents.php, line: 10831
-# File: module/ages/src/Controller/Agents.php, line: 13388
+# File: module/ages/src/Controller/Agents.php, line: 10841
+# File: module/ages/src/Controller/Agents.php, line: 13402
 # File: module/ages/src/Controller/Air.php, line: 1207
 # File: module/ages/src/Controller/Air.php, line: 2141
 # File: module/ages/src/Controller/Air.php, line: 2327
@@ -9998,8 +9998,8 @@ msgstr ""
 # File: module/ages/src/Controller/Insurances.php, line: 287
 # File: module/ages/src/Controller/Packages.php, line: 291
 # File: module/ages/src/Controller/Reports.php, line: 2654
-# File: module/ages/src/Controller/SubAgents.php, line: 4099
-# File: module/ages/src/Controller/SubAgents.php, line: 6656
+# File: module/ages/src/Controller/SubAgents.php, line: 4105
+# File: module/ages/src/Controller/SubAgents.php, line: 6666
 # File: module/ages/src/Controller/Tours.php, line: 287
 # File: module/ages/src/Controller/Transfers.php, line: 288
 # File: module/ages/view/ages/agents/index.phtml, line: 60
@@ -10016,8 +10016,8 @@ msgid "B2B"
 msgstr ""
 #
 # File: module/ages/src/Controller/Activities.php, line: 292
-# File: module/ages/src/Controller/Agents.php, line: 10833
-# File: module/ages/src/Controller/Agents.php, line: 13390
+# File: module/ages/src/Controller/Agents.php, line: 10843
+# File: module/ages/src/Controller/Agents.php, line: 13404
 # File: module/ages/src/Controller/Air.php, line: 1211
 # File: module/ages/src/Controller/Air.php, line: 2145
 # File: module/ages/src/Controller/Air.php, line: 2331
@@ -10035,8 +10035,8 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 351
 # File: module/ages/src/Controller/Reports.php, line: 2658
 # File: module/ages/src/Controller/Reports.php, line: 6180
-# File: module/ages/src/Controller/SubAgents.php, line: 4101
-# File: module/ages/src/Controller/SubAgents.php, line: 6658
+# File: module/ages/src/Controller/SubAgents.php, line: 4107
+# File: module/ages/src/Controller/SubAgents.php, line: 6668
 # File: module/ages/src/Controller/Tours.php, line: 291
 # File: module/ages/src/Controller/Transfers.php, line: 292
 # File: module/ages/view/ages/air/private.phtml, line: 28
@@ -10071,18 +10071,18 @@ msgstr ""
 # File: module/ages/src/Controller/Affiliates.php, line: 5469
 # File: module/ages/src/Controller/Affiliates.php, line: 5482
 # File: module/ages/src/Controller/Affiliates.php, line: 5483
-# File: module/ages/src/Controller/Agents.php, line: 4063
-# File: module/ages/src/Controller/Agents.php, line: 4092
-# File: module/ages/src/Controller/Agents.php, line: 4176
-# File: module/ages/src/Controller/Agents.php, line: 9722
-# File: module/ages/src/Controller/Agents.php, line: 10574
-# File: module/ages/src/Controller/Agents.php, line: 10603
-# File: module/ages/src/Controller/Agents.php, line: 10687
-# File: module/ages/src/Controller/Agents.php, line: 10774
-# File: module/ages/src/Controller/Agents.php, line: 13134
-# File: module/ages/src/Controller/Agents.php, line: 13163
-# File: module/ages/src/Controller/Agents.php, line: 13247
-# File: module/ages/src/Controller/Agents.php, line: 13331
+# File: module/ages/src/Controller/Agents.php, line: 4065
+# File: module/ages/src/Controller/Agents.php, line: 4094
+# File: module/ages/src/Controller/Agents.php, line: 4178
+# File: module/ages/src/Controller/Agents.php, line: 9732
+# File: module/ages/src/Controller/Agents.php, line: 10584
+# File: module/ages/src/Controller/Agents.php, line: 10613
+# File: module/ages/src/Controller/Agents.php, line: 10697
+# File: module/ages/src/Controller/Agents.php, line: 10784
+# File: module/ages/src/Controller/Agents.php, line: 13148
+# File: module/ages/src/Controller/Agents.php, line: 13177
+# File: module/ages/src/Controller/Agents.php, line: 13261
+# File: module/ages/src/Controller/Agents.php, line: 13345
 # File: module/ages/src/Controller/Air.php, line: 1362
 # File: module/ages/src/Controller/Air.php, line: 1376
 # File: module/ages/src/Controller/Air.php, line: 1846
@@ -10206,13 +10206,13 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 9746
 # File: module/ages/src/Controller/Reports.php, line: 9747
 # File: module/ages/src/Controller/Reports.php, line: 11312
-# File: module/ages/src/Controller/SubAgents.php, line: 3868
-# File: module/ages/src/Controller/SubAgents.php, line: 3895
-# File: module/ages/src/Controller/SubAgents.php, line: 4022
-# File: module/ages/src/Controller/SubAgents.php, line: 6430
-# File: module/ages/src/Controller/SubAgents.php, line: 6455
-# File: module/ages/src/Controller/SubAgents.php, line: 6579
-# File: module/ages/src/Controller/SubAgents.php, line: 6720
+# File: module/ages/src/Controller/SubAgents.php, line: 3874
+# File: module/ages/src/Controller/SubAgents.php, line: 3901
+# File: module/ages/src/Controller/SubAgents.php, line: 4028
+# File: module/ages/src/Controller/SubAgents.php, line: 6440
+# File: module/ages/src/Controller/SubAgents.php, line: 6465
+# File: module/ages/src/Controller/SubAgents.php, line: 6589
+# File: module/ages/src/Controller/SubAgents.php, line: 6730
 # File: module/ages/src/Controller/Tours.php, line: 3952
 # File: module/ages/src/Controller/Tours.php, line: 4055
 # File: module/ages/src/Controller/Transfers.php, line: 457
@@ -10298,8 +10298,8 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 1538
 # File: module/ages/src/Controller/Agents.php, line: 1976
 # File: module/ages/src/Controller/Agents.php, line: 1977
-# File: module/ages/src/Controller/Agents.php, line: 4513
-# File: module/ages/src/Controller/Agents.php, line: 9732
+# File: module/ages/src/Controller/Agents.php, line: 4515
+# File: module/ages/src/Controller/Agents.php, line: 9742
 # File: module/ages/src/Controller/Air.php, line: 3060
 # File: module/ages/src/Controller/Air.php, line: 3245
 # File: module/ages/src/Controller/Air.php, line: 3546
@@ -10898,46 +10898,46 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Affiliates.php, line: 2707
 # File: module/ages/src/Controller/Affiliates.php, line: 3944
-# File: module/ages/src/Controller/Agents.php, line: 4262
-# File: module/ages/src/Controller/Agents.php, line: 10821
-# File: module/ages/src/Controller/Agents.php, line: 13378
+# File: module/ages/src/Controller/Agents.php, line: 4264
+# File: module/ages/src/Controller/Agents.php, line: 10831
+# File: module/ages/src/Controller/Agents.php, line: 13392
 # File: module/ages/src/Controller/CMS.php, line: 11633
 # File: module/ages/src/Controller/CMS.php, line: 17831
 # File: module/ages/src/Controller/Newsletter.php, line: 1940
 # File: module/ages/src/Controller/Newsletter.php, line: 5876
 # File: module/ages/src/Controller/Reports.php, line: 3081
 # File: module/ages/src/Controller/Reports.php, line: 4212
-# File: module/ages/src/Controller/SubAgents.php, line: 4075
-# File: module/ages/src/Controller/SubAgents.php, line: 6632
+# File: module/ages/src/Controller/SubAgents.php, line: 4081
+# File: module/ages/src/Controller/SubAgents.php, line: 6642
 msgid "Enable"
 msgstr ""
 #
 # File: module/ages/src/Controller/Affiliates.php, line: 2709
 # File: module/ages/src/Controller/Affiliates.php, line: 3946
-# File: module/ages/src/Controller/Agents.php, line: 4264
-# File: module/ages/src/Controller/Agents.php, line: 10823
-# File: module/ages/src/Controller/Agents.php, line: 13380
+# File: module/ages/src/Controller/Agents.php, line: 4266
+# File: module/ages/src/Controller/Agents.php, line: 10833
+# File: module/ages/src/Controller/Agents.php, line: 13394
 # File: module/ages/src/Controller/CMS.php, line: 11629
 # File: module/ages/src/Controller/CMS.php, line: 17827
 # File: module/ages/src/Controller/Newsletter.php, line: 1936
 # File: module/ages/src/Controller/Newsletter.php, line: 5872
 # File: module/ages/src/Controller/Reports.php, line: 3085
 # File: module/ages/src/Controller/Reports.php, line: 4216
-# File: module/ages/src/Controller/SubAgents.php, line: 4077
-# File: module/ages/src/Controller/SubAgents.php, line: 6634
+# File: module/ages/src/Controller/SubAgents.php, line: 4083
+# File: module/ages/src/Controller/SubAgents.php, line: 6644
 msgid "Disable"
 msgstr ""
 #
 # File: module/ages/src/Controller/Affiliates.php, line: 3071
 # File: module/ages/src/Controller/Affiliates.php, line: 4907
 # File: module/ages/src/Controller/Agents.php, line: 1992
-# File: module/ages/src/Controller/Agents.php, line: 3985
-# File: module/ages/src/Controller/Agents.php, line: 5233
-# File: module/ages/src/Controller/Agents.php, line: 10496
-# File: module/ages/src/Controller/Agents.php, line: 13055
-# File: module/ages/src/Controller/Agents.php, line: 13623
-# File: module/ages/src/Controller/Agents.php, line: 13790
-# File: module/ages/src/Controller/Agents.php, line: 13984
+# File: module/ages/src/Controller/Agents.php, line: 3987
+# File: module/ages/src/Controller/Agents.php, line: 5237
+# File: module/ages/src/Controller/Agents.php, line: 10506
+# File: module/ages/src/Controller/Agents.php, line: 13069
+# File: module/ages/src/Controller/Agents.php, line: 13637
+# File: module/ages/src/Controller/Agents.php, line: 13804
+# File: module/ages/src/Controller/Agents.php, line: 13998
 # File: module/ages/src/Controller/Air.php, line: 4314
 # File: module/ages/src/Controller/Air.php, line: 4536
 # File: module/ages/src/Controller/CMS.php, line: 4559
@@ -10990,9 +10990,9 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 12478
 # File: module/ages/src/Controller/Reports.php, line: 12492
 # File: module/ages/src/Controller/ServiceFees.php, line: 900
-# File: module/ages/src/Controller/SubAgents.php, line: 3795
-# File: module/ages/src/Controller/SubAgents.php, line: 6352
-# File: module/ages/src/Controller/SubAgents.php, line: 6935
+# File: module/ages/src/Controller/SubAgents.php, line: 3801
+# File: module/ages/src/Controller/SubAgents.php, line: 6362
+# File: module/ages/src/Controller/SubAgents.php, line: 6945
 # File: module/ages/src/Controller/Tours.php, line: 877
 # File: module/ages/src/Controller/Tours.php, line: 1283
 # File: module/ages/src/Controller/Transfers.php, line: 3374
@@ -11012,23 +11012,23 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Affiliates.php, line: 3096
 # File: module/ages/src/Controller/Affiliates.php, line: 4929
-# File: module/ages/src/Controller/Agents.php, line: 4015
-# File: module/ages/src/Controller/Agents.php, line: 10526
-# File: module/ages/src/Controller/Agents.php, line: 13086
+# File: module/ages/src/Controller/Agents.php, line: 4017
+# File: module/ages/src/Controller/Agents.php, line: 10536
+# File: module/ages/src/Controller/Agents.php, line: 13100
 # File: module/ages/src/Controller/Reports.php, line: 11157
 # File: module/ages/src/Controller/Reports.php, line: 11334
-# File: module/ages/src/Controller/SubAgents.php, line: 3821
-# File: module/ages/src/Controller/SubAgents.php, line: 6378
+# File: module/ages/src/Controller/SubAgents.php, line: 3827
+# File: module/ages/src/Controller/SubAgents.php, line: 6388
 msgid "All Supervisors"
 msgstr ""
 #
 # File: module/ages/src/Controller/Affiliates.php, line: 3177
 # File: module/ages/src/Controller/Affiliates.php, line: 5096
-# File: module/ages/src/Controller/Agents.php, line: 4284
-# File: module/ages/src/Controller/Agents.php, line: 10852
-# File: module/ages/src/Controller/Agents.php, line: 13408
-# File: module/ages/src/Controller/SubAgents.php, line: 4105
-# File: module/ages/src/Controller/SubAgents.php, line: 6662
+# File: module/ages/src/Controller/Agents.php, line: 4286
+# File: module/ages/src/Controller/Agents.php, line: 10862
+# File: module/ages/src/Controller/Agents.php, line: 13422
+# File: module/ages/src/Controller/SubAgents.php, line: 4111
+# File: module/ages/src/Controller/SubAgents.php, line: 6672
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 135
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5920
 msgid "Mr."
@@ -11036,11 +11036,11 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Affiliates.php, line: 3179
 # File: module/ages/src/Controller/Affiliates.php, line: 5098
-# File: module/ages/src/Controller/Agents.php, line: 4286
-# File: module/ages/src/Controller/Agents.php, line: 10854
-# File: module/ages/src/Controller/Agents.php, line: 13410
-# File: module/ages/src/Controller/SubAgents.php, line: 4107
-# File: module/ages/src/Controller/SubAgents.php, line: 6664
+# File: module/ages/src/Controller/Agents.php, line: 4288
+# File: module/ages/src/Controller/Agents.php, line: 10864
+# File: module/ages/src/Controller/Agents.php, line: 13424
+# File: module/ages/src/Controller/SubAgents.php, line: 4113
+# File: module/ages/src/Controller/SubAgents.php, line: 6674
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 136
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5921
 msgid "Ms."
@@ -11048,9 +11048,9 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Affiliates.php, line: 5546
 # File: module/ages/src/Controller/Agents.php, line: 2020
-# File: module/ages/src/Controller/Agents.php, line: 4198
-# File: module/ages/src/Controller/Agents.php, line: 10737
-# File: module/ages/src/Controller/Agents.php, line: 13294
+# File: module/ages/src/Controller/Agents.php, line: 4200
+# File: module/ages/src/Controller/Agents.php, line: 10747
+# File: module/ages/src/Controller/Agents.php, line: 13308
 # File: module/ages/src/Controller/CMS.php, line: 9398
 # File: module/ages/src/Controller/Cruises.php, line: 2243
 # File: module/ages/src/Controller/Hotels.php, line: 1201
@@ -11075,8 +11075,8 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 3861
 # File: module/ages/src/Controller/Reports.php, line: 7675
 # File: module/ages/src/Controller/Reports.php, line: 12318
-# File: module/ages/src/Controller/SubAgents.php, line: 3982
-# File: module/ages/src/Controller/SubAgents.php, line: 6539
+# File: module/ages/src/Controller/SubAgents.php, line: 3988
+# File: module/ages/src/Controller/SubAgents.php, line: 6549
 # File: module/ages/view/ages/cms/recommendedhotels_edit.phtml, line: 17
 # File: module/ages/view/ages/cms/recommendedhotels_edit.phtml, line: 18
 # File: module/ages/view/ages/cms/recommendedhotels_edit.phtml, line: 19
@@ -11625,7 +11625,7 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 8695
 # File: module/ages/src/Controller/Customers.php, line: 9927
 # File: module/ages/src/Controller/Voucher.php, line: 2711
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3067
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3068
 # File: module/ages/view/ages/agents/leads.phtml, line: 99
 # File: module/ages/view/ages/cruises/editstaticships.phtml, line: 143
 # File: module/ages/view/ages/login/index.phtml, line: 71
@@ -11660,7 +11660,7 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 8699
 # File: module/ages/src/Controller/Customers.php, line: 9931
 # File: module/ages/src/Controller/Voucher.php, line: 2714
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3070
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3071
 # File: module/ages/view/ages/agents/leads.phtml, line: 101
 # File: module/ages/view/ages/cruises/editstaticships.phtml, line: 145
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 357
@@ -11706,82 +11706,82 @@ msgstr ""
 msgid "No Business Unit assigned"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 4041
-# File: module/ages/src/Controller/Agents.php, line: 10552
-# File: module/ages/src/Controller/Agents.php, line: 13112
-# File: module/ages/src/Controller/SubAgents.php, line: 3847
-# File: module/ages/src/Controller/SubAgents.php, line: 6404
+# File: module/ages/src/Controller/Agents.php, line: 4043
+# File: module/ages/src/Controller/Agents.php, line: 10562
+# File: module/ages/src/Controller/Agents.php, line: 13126
+# File: module/ages/src/Controller/SubAgents.php, line: 3853
+# File: module/ages/src/Controller/SubAgents.php, line: 6414
 msgid "All Executives"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 4721
+# File: module/ages/src/Controller/Agents.php, line: 4723
 # File: module/ages/src/Controller/Customers.php, line: 7890
 msgid "Column count doesn't match"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 4828
+# File: module/ages/src/Controller/Agents.php, line: 4830
 # File: module/ages/src/Controller/Customers.php, line: 8006
 msgid "Unable to find country"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 4834
+# File: module/ages/src/Controller/Agents.php, line: 4836
 # File: module/ages/src/Controller/Customers.php, line: 8012
 msgid "Unable to find state/zone"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 4840
+# File: module/ages/src/Controller/Agents.php, line: 4842
 # File: module/ages/src/Controller/Customers.php, line: 8018
 msgid "Unable to find city"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 4846
+# File: module/ages/src/Controller/Agents.php, line: 4848
 msgid "This is a sub agent of "
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5654
+# File: module/ages/src/Controller/Agents.php, line: 5658
 msgid "Hi"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5655
+# File: module/ages/src/Controller/Agents.php, line: 5659
 msgid "Activate My Subscription"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5659
+# File: module/ages/src/Controller/Agents.php, line: 5663
 msgid "Ready to Start? Complete Your Subscription and Become a Costamar Travel Agent Today!"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5662
+# File: module/ages/src/Controller/Agents.php, line: 5666
 msgid "Your Click & Book Subscription Is Almost Ready"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5662
+# File: module/ages/src/Controller/Agents.php, line: 5666
 msgid "We've already set up part of your profile, and now it's time for you to finalize your Click & Book subscription. Simply click the link below to complete your plan selection, confirm your subscription, and proceed with payment."
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5662
+# File: module/ages/src/Controller/Agents.php, line: 5666
 msgid "Once confirmed, you will have immediate access to Click & Book, unlocking seamless booking and management tools tailored to your needs."
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5662
+# File: module/ages/src/Controller/Agents.php, line: 5666
 msgid "Click the button above to finalize your setup and unlock fill access."
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5662
+# File: module/ages/src/Controller/Agents.php, line: 5666
 msgid "If you have any questions, feel free to reach out. We are here to help."
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5662
+# File: module/ages/src/Controller/Agents.php, line: 5666
 # File: module/ages/src/Controller/LoginController.php, line: 894
 msgid "Thanks"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5663
+# File: module/ages/src/Controller/Agents.php, line: 5667
 msgid "Ready to Start? Click & Book Awaits! Complete your subscription and start using Click & Book today!"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5768
-# File: module/ages/src/Controller/Agents.php, line: 5920
-# File: module/ages/src/Controller/Agents.php, line: 13595
+# File: module/ages/src/Controller/Agents.php, line: 5772
+# File: module/ages/src/Controller/Agents.php, line: 5924
+# File: module/ages/src/Controller/Agents.php, line: 13609
 # File: module/ages/src/Controller/CMS.php, line: 9051
 # File: module/ages/src/Controller/CMS.php, line: 11683
 # File: module/ages/src/Controller/CMS.php, line: 12537
@@ -11805,20 +11805,20 @@ msgstr ""
 # File: module/ages/src/Controller/Newsletter.php, line: 5551
 # File: module/ages/src/Controller/ServiceFees.php, line: 1389
 # File: module/ages/src/Controller/SubAgents.php, line: 473
-# File: module/ages/src/Controller/SubAgents.php, line: 6907
+# File: module/ages/src/Controller/SubAgents.php, line: 6917
 # File: module/ages/view/ages/newsletter/exceptions.phtml, line: 21
 msgid "All Agents"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5814
-# File: module/ages/src/Controller/Agents.php, line: 5966
+# File: module/ages/src/Controller/Agents.php, line: 5818
+# File: module/ages/src/Controller/Agents.php, line: 5970
 # File: module/ages/src/Controller/SubAgents.php, line: 514
 msgid "All Sub Agents"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 9603
-# File: module/ages/src/Controller/Agents.php, line: 11025
-# File: module/ages/src/Controller/Agents.php, line: 13267
+# File: module/ages/src/Controller/Agents.php, line: 9613
+# File: module/ages/src/Controller/Agents.php, line: 11035
+# File: module/ages/src/Controller/Agents.php, line: 13281
 # File: module/ages/src/Controller/CMS.php, line: 3229
 # File: module/ages/src/Controller/CMS.php, line: 3358
 # File: module/ages/src/Controller/CMS.php, line: 4852
@@ -11829,7 +11829,7 @@ msgstr ""
 msgid "All Languages"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 9737
+# File: module/ages/src/Controller/Agents.php, line: 9747
 # File: module/ages/src/Controller/Customers.php, line: 9151
 # File: module/ages/view/ages/customers/cancellationrequests.phtml, line: 57
 # File: module/ages/view/ages/customers/dropboxsign.phtml, line: 52
@@ -11855,7 +11855,7 @@ msgstr ""
 msgid "View"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 9740
+# File: module/ages/src/Controller/Agents.php, line: 9750
 # File: module/ages/src/Controller/Customers.php, line: 9154
 # File: module/ages/view/ages/agents/edit_leads.phtml, line: 154
 # File: module/ages/view/ages/cms/regions_details_edit.phtml, line: 47
@@ -12089,46 +12089,46 @@ msgstr ""
 msgid "Update"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 10829
-# File: module/ages/src/Controller/Agents.php, line: 13386
+# File: module/ages/src/Controller/Agents.php, line: 10839
+# File: module/ages/src/Controller/Agents.php, line: 13400
 # File: module/ages/src/Controller/Packages.php, line: 406
-# File: module/ages/src/Controller/SubAgents.php, line: 4097
-# File: module/ages/src/Controller/SubAgents.php, line: 6654
+# File: module/ages/src/Controller/SubAgents.php, line: 4103
+# File: module/ages/src/Controller/SubAgents.php, line: 6664
 # File: module/setup/src/Controller/citypairs.php, line: 319
 msgid "Default"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 13599
-# File: module/ages/src/Controller/SubAgents.php, line: 6911
+# File: module/ages/src/Controller/Agents.php, line: 13613
+# File: module/ages/src/Controller/SubAgents.php, line: 6921
 msgid "Enabled Agents"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 13603
-# File: module/ages/src/Controller/SubAgents.php, line: 6915
+# File: module/ages/src/Controller/Agents.php, line: 13617
+# File: module/ages/src/Controller/SubAgents.php, line: 6925
 msgid "Disabled Agents"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 13607
-# File: module/ages/src/Controller/SubAgents.php, line: 6919
+# File: module/ages/src/Controller/Agents.php, line: 13621
+# File: module/ages/src/Controller/SubAgents.php, line: 6929
 # File: module/ages/view/ages/reports/agentsbycompany.phtml, line: 27
 msgid "Agents Pending Review"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 13627
-# File: module/ages/src/Controller/SubAgents.php, line: 6939
+# File: module/ages/src/Controller/Agents.php, line: 13641
+# File: module/ages/src/Controller/SubAgents.php, line: 6949
 msgid "No Company Assigned"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 13666
-# File: module/ages/src/Controller/Agents.php, line: 13819
-# File: module/ages/src/Controller/Agents.php, line: 14013
+# File: module/ages/src/Controller/Agents.php, line: 13680
+# File: module/ages/src/Controller/Agents.php, line: 13833
+# File: module/ages/src/Controller/Agents.php, line: 14027
 # File: module/ages/src/Controller/CMS.php, line: 9493
 # File: module/ages/src/Controller/CMS.php, line: 9543
-# File: module/ages/src/Controller/SubAgents.php, line: 6981
+# File: module/ages/src/Controller/SubAgents.php, line: 6991
 msgid "All Agent Types"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 14384
+# File: module/ages/src/Controller/Agents.php, line: 14398
 # File: module/ages/view/ages/affiliates/add.phtml, line: 44
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 44
 # File: module/ages/view/ages/agents/add_transactions.phtml, line: 29
@@ -12143,7 +12143,7 @@ msgstr ""
 msgid "Credit"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 14388
+# File: module/ages/src/Controller/Agents.php, line: 14402
 # File: module/ages/view/ages/affiliates/add.phtml, line: 45
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 45
 # File: module/ages/view/ages/agents/add_transactions.phtml, line: 27
@@ -12899,7 +12899,7 @@ msgstr ""
 # File: module/ages/src/Controller/ServiceFees.php, line: 1669
 # File: module/ages/src/Controller/ServiceFees.php, line: 1874
 # File: module/ages/src/Controller/ServiceFees.php, line: 2046
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3943
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3944
 # File: module/ages/view/ages/affiliates/add_flights.phtml, line: 1
 # File: module/ages/view/ages/affiliates/edit_flights.phtml, line: 1
 # File: module/ages/view/ages/agents/add_flights.phtml, line: 1
@@ -14093,7 +14093,7 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 8703
 # File: module/ages/src/Controller/Customers.php, line: 9935
 # File: module/ages/src/Controller/Voucher.php, line: 2720
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3076
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3077
 # File: module/ages/view/ages/cruises/editstaticships.phtml, line: 151
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 363
 # File: module/ages/view/ages/hotels/editstatichotelsportuguese.phtml, line: 2
@@ -14145,7 +14145,7 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 8711
 # File: module/ages/src/Controller/Customers.php, line: 9943
 # File: module/ages/src/Controller/Voucher.php, line: 2717
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3073
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3074
 # File: module/ages/view/ages/cruises/editstaticships.phtml, line: 149
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 361
 # File: module/ages/view/ages/hotels/editstatichotelsitalian.phtml, line: 2
@@ -14172,7 +14172,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Customers.php, line: 8715
 # File: module/ages/src/Controller/Voucher.php, line: 2723
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3079
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3080
 # File: module/ages/view/ages/cruises/editstaticships.phtml, line: 153
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 365
 # File: module/ages/view/ages/hotels/editstatichotelsgerman.phtml, line: 2
@@ -15459,7 +15459,7 @@ msgstr ""
 msgid "Fixed Price"
 msgstr ""
 #
-# File: module/ages/src/Controller/SubAgents.php, line: 4276
+# File: module/ages/src/Controller/SubAgents.php, line: 4282
 msgid "No Company"
 msgstr ""
 #
@@ -15704,7 +15704,7 @@ msgid "Agent not found"
 msgstr ""
 #
 # File: module/ages/src/Controller/Voucher.php, line: 2726
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3082
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3083
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 373
 # File: module/ages/view/ages/hotels/editstatichotelsjapanese.phtml, line: 2
 # File: module/ages/view/ages/login/index.phtml, line: 90
@@ -15723,7 +15723,7 @@ msgid "Japanese"
 msgstr ""
 #
 # File: module/ages/src/Controller/Voucher.php, line: 2729
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3085
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3086
 # File: module/setup/view/cars/cartrawler.phtml, line: 193
 # File: module/setup/view/hotels/gta.phtml, line: 70
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 85
@@ -15731,7 +15731,7 @@ msgid "Korean"
 msgstr ""
 #
 # File: module/ages/src/Controller/Voucher.php, line: 2732
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3088
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3089
 # File: module/ages/view/ages/cruises/editstaticships.phtml, line: 159
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 371
 # File: module/ages/view/ages/hotels/editstatichotelsrussian.phtml, line: 2
@@ -15749,7 +15749,7 @@ msgid "Russian"
 msgstr ""
 #
 # File: module/ages/src/Controller/Voucher.php, line: 2735
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3091
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3092
 # File: module/ages/view/ages/cruises/editstaticships.phtml, line: 157
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 369
 # File: module/ages/view/ages/hotels/editstatichotelschinese.phtml, line: 2
@@ -15766,54 +15766,54 @@ msgid "Chinese"
 msgstr ""
 #
 # File: module/ages/src/Controller/Voucher.php, line: 2740
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3096
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3097
 msgid "Audio"
 msgstr ""
 #
 # File: module/ages/src/Controller/Voucher.php, line: 2743
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3099
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3100
 msgid "Guide"
 msgstr ""
 #
-# File: module/ages/src/Shared/Sendemailv2.php, line: 505
-# File: module/ages/src/Shared/Sendemailv2.php, line: 511
+# File: module/ages/src/Shared/Sendemailv2.php, line: 506
+# File: module/ages/src/Shared/Sendemailv2.php, line: 512
 msgid "Reservation is being processed"
 msgstr ""
 #
-# File: module/ages/src/Shared/Sendemailv2.php, line: 957
+# File: module/ages/src/Shared/Sendemailv2.php, line: 958
 msgid "Your Reservation is Confirmed"
 msgstr ""
 #
-# File: module/ages/src/Shared/Sendemailv2.php, line: 959
-# File: module/ages/src/Shared/Sendemailv2.php, line: 965
-# File: module/ages/src/Shared/Sendemailv2.php, line: 4883
-# File: module/ages/src/Shared/Sendemailv2.php, line: 4885
-# File: module/ages/src/Shared/Sendemailv2.php, line: 4908
-# File: module/ages/src/Shared/Sendemailv2.php, line: 4910
+# File: module/ages/src/Shared/Sendemailv2.php, line: 960
+# File: module/ages/src/Shared/Sendemailv2.php, line: 966
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4884
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4886
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4909
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4911
 msgid "Your Reservation with"
 msgstr ""
 #
-# File: module/ages/src/Shared/Sendemailv2.php, line: 959
-# File: module/ages/src/Shared/Sendemailv2.php, line: 4883
-# File: module/ages/src/Shared/Sendemailv2.php, line: 4908
+# File: module/ages/src/Shared/Sendemailv2.php, line: 960
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4884
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4909
 msgid "is Confirmed"
 msgstr ""
 #
-# File: module/ages/src/Shared/Sendemailv2.php, line: 963
+# File: module/ages/src/Shared/Sendemailv2.php, line: 964
 msgid "Your Reservation is Being Processed"
 msgstr ""
 #
-# File: module/ages/src/Shared/Sendemailv2.php, line: 965
-# File: module/ages/src/Shared/Sendemailv2.php, line: 4885
-# File: module/ages/src/Shared/Sendemailv2.php, line: 4910
+# File: module/ages/src/Shared/Sendemailv2.php, line: 966
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4886
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4911
 msgid "is Being Processed"
 msgstr ""
 #
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3968
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3969
 msgid "Only"
 msgstr ""
 #
-# File: module/ages/src/Shared/Sendemailv2.php, line: 4582
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4583
 msgid "Your MoneyGram Order Confirmation and Reference Number"
 msgstr ""
 #
@@ -25158,19 +25158,19 @@ msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 18
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 18
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 25
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 25
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 25
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 25
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 26
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 26
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 26
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 26
 msgid "Deny Access to Contact Us"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 19
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 19
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 26
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 26
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 26
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 26
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 27
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 27
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 27
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 27
 msgid "Deny Profile Editing"
 msgstr ""
 #
@@ -25186,28 +25186,28 @@ msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 24
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 24
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 34
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 34
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 34
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 34
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 36
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 36
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 36
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 36
 msgid "Deny Access to Group Booking"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 25
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 25
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 35
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 35
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 35
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 35
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 37
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 37
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 37
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 37
 msgid "Deny Access to Administration"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 26
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 26
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 36
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 36
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 36
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 36
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 38
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 38
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 38
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 38
 msgid "Deny Access to Customer Statement"
 msgstr ""
 #
@@ -25240,143 +25240,143 @@ msgstr ""
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 39
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 45
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 48
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 43
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 46
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 43
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 46
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 45
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 48
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 45
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 48
 msgid "Deny Custom Option"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 39
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 48
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 46
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 46
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 48
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 48
 msgid "Write the icon name of the menu you want to deny. The icon name must match exactly as the front icon. (Separate with ; for multiple items)"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 42
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 51
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 43
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 43
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 49
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 49
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 45
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 45
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 51
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 51
 msgid "Disable Booking"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 45
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 54
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 46
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 46
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 52
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 52
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 48
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 48
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 54
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 54
 msgid "Disable Hotels Book"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 46
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 55
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 47
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 47
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 53
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 53
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 49
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 49
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 55
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 55
 msgid "Disable Air Book"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 47
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 56
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 48
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 48
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 54
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 54
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 50
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 50
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 56
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 56
 msgid "Disable Cars Book"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 48
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 57
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 49
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 49
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 55
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 55
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 51
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 51
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 57
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 57
 msgid "Disable Cruises Book"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 51
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 60
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 52
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 52
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 58
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 58
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 54
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 54
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 60
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 60
 msgid "Disable Transfers Book"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 52
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 61
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 53
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 53
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 59
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 59
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 55
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 55
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 61
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 61
 msgid "Disable Tours & Activities Book"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 53
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 62
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 54
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 54
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 60
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 60
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 56
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 56
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 62
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 62
 msgid "Disable Dynamic Packaging Book"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 54
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 63
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 55
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 55
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 61
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 61
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 57
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 57
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 63
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 63
 msgid "Disable Packages Book"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 57
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 66
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 63
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 63
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 69
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 71
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 65
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 65
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 71
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 73
 msgid "Miscellaneous"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 60
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 69
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 66
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 66
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 72
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 74
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 68
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 68
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 74
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 76
 msgid "Allow Add Agents"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 61
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 70
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 68
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 68
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 74
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 76
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 70
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 70
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 76
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 78
 msgid "Allow Add Property"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 62
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 71
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 74
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 74
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 80
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 82
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 76
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 76
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 82
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 84
 msgid "Display Supplier Logo"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 63
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 72
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 75
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 75
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 81
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 83
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 77
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 77
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 83
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 85
 msgid "Display Supplier in MyBookings"
 msgstr ""
 #
@@ -25387,19 +25387,19 @@ msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 67
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 76
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 93
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 93
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 98
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 100
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 95
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 95
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 100
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 102
 msgid "No Location"
 msgstr ""
 #
 # File: module/ages/view/ages/affiliates/add_permissions.phtml, line: 68
 # File: module/ages/view/ages/affiliates/edit_permissions.phtml, line: 77
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 94
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 94
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 99
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 101
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 96
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 96
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 101
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 103
 msgid "No Information"
 msgstr ""
 #
@@ -27193,442 +27193,456 @@ msgstr ""
 msgid "Deny Bus Tickets"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 27
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 27
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 27
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 27
-msgid "Deny Sub Agent Management (Agents)"
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 23
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 23
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 23
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 23
+msgid "Deny Catalog"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 28
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 28
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 28
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 28
-msgid "Deny Access to MyBookings (Reservations)"
+msgid "Deny Sub Agent Management (Agents)"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 29
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 29
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 29
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 29
-msgid "Deny Access to Newsletters Inventory (Marketing)"
+msgid "Deny Access to MyBookings (Reservations)"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 30
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 30
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 30
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 30
-msgid "Deny Access to Insurance"
+msgid "Deny Access to Newsletters Inventory (Marketing)"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 31
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 31
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 31
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 31
+msgid "Deny Access to Insurance"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 32
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 32
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 32
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 32
 msgid "Deny Admin Search"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 37
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 37
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 37
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 37
-msgid "Deny Access to Commission Report (Reports)"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 38
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 38
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 38
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 38
-msgid "Deny Access to MyQuotes Inventory"
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 33
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 33
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 33
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 33
+msgid "Deny Promotions"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 39
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 39
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 39
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 39
-msgid "Deny Access to Charters / Confirmed Departures"
+msgid "Deny Access to Commission Report (Reports)"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 40
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 40
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 40
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 40
+msgid "Deny Access to MyQuotes Inventory"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 41
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 41
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 41
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 41
+msgid "Deny Access to Charters / Confirmed Departures"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 42
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 42
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 42
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 42
 msgid "Deny Disney & Attraction Tickets"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 56
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 56
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 62
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 62
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 58
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 58
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 64
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 64
 msgid "Disable Tours Book"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 59
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 59
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 65
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 65
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 61
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 61
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 67
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 67
 msgid "Disable Featured Specialist"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 60
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 60
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 66
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 66
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 62
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 62
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 68
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 68
 msgid "Disable Ticketing Option"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 67
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 67
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 73
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 75
-msgid "Allow Delete Customer"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 69
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 69
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 75
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 77
-msgid "Allow Non Refundable Bookings (Even if there is no payment)"
+msgid "Allow Delete Customer"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 71
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 71
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 77
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 79
+msgid "Allow Non Refundable Bookings (Even if there is no payment)"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 73
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 73
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 79
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 81
 msgid "Allow Net Price"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 77
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 77
-# File: module/ages/view/ages/customers/add.phtml, line: 87
-# File: module/ages/view/ages/customers/edit.phtml, line: 121
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 83
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 85
-msgid "Waiting for supervisor approval"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 78
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 78
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 84
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 86
-msgid "Allow text message marketing"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 79
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 79
+# File: module/ages/view/ages/customers/add.phtml, line: 87
+# File: module/ages/view/ages/customers/edit.phtml, line: 121
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 85
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 87
-msgid "Do not send business card details in cross selling or marketing"
+msgid "Waiting for supervisor approval"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 80
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 80
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 86
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 88
-msgid "Do not send promotional emails"
+msgid "Allow text message marketing"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 81
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 81
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 87
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 89
-msgid "Allow Email Bounces (All Companies)"
+msgid "Do not send business card details in cross selling or marketing"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 82
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 82
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 88
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 90
-msgid "Issue Ticket (Costamar Agencias)"
+msgid "Do not send promotional emails"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 83
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 83
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 89
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 91
-msgid "Costamar Invoices"
+msgid "Allow Email Bounces (All Companies)"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 84
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 84
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 90
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 92
-msgid "Allow Search Bookings and View Bookings from other agents"
+msgid "Issue Ticket (Costamar Agencias)"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 85
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 85
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 91
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 93
-msgid "Allow Booking Funnel"
+msgid "Costamar Invoices"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 86
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 86
-msgid "Allow Airline Pages"
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 92
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 94
+msgid "Allow Search Bookings and View Bookings from other agents"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 90
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 90
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 95
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 97
-msgid "Display Net Price in My Bookings"
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 87
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 87
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 93
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 95
+msgid "Allow Booking Funnel"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 88
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 88
+msgid "Allow Airline Pages"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 92
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 92
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 97
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 99
+msgid "Display Net Price in My Bookings"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 94
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 94
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 99
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 101
 msgid "Agency Office"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 95
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 95
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 100
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 102
-msgid "Show Directory"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 96
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 96
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 101
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 103
-msgid "Allow eAgent Creation"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 97
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 97
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 102
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 104
-msgid "Allow Customer Update without Supervisor Approval"
+msgid "Show Directory"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 98
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 98
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 103
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 105
-msgid "Allow set payment to cancelled if booking is cancelled"
+msgid "Allow eAgent Creation"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 99
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 99
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 104
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 106
-msgid "Allow Payment Status Change"
+msgid "Allow Customer Update without Supervisor Approval"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 100
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 100
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 105
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 107
-msgid "Do not send cross selling offers"
+msgid "Allow set payment to cancelled if booking is cancelled"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 101
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 101
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 106
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 108
-msgid "Allow Permissions Management"
+msgid "Allow Payment Status Change"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 102
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 102
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 107
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 109
-msgid "Allow CMS Delete"
+msgid "Do not send cross selling offers"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 103
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 103
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 108
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 110
-msgid "Allow Reporting for Other Agents"
+msgid "Allow Permissions Management"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 104
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 104
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 109
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 111
-msgid "Allow Customer Management Support"
+msgid "Allow CMS Delete"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 105
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 105
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 110
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 112
-msgid "Costamar Invoices Login"
+msgid "Allow Reporting for Other Agents"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 106
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 106
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 111
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 113
+msgid "Allow Customer Management Support"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 107
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 107
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 112
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 114
+msgid "Costamar Invoices Login"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 108
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 108
 msgid "Allow Banners"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 109
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 109
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 113
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 115
-msgid "Allow Hotels Support"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 110
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 110
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 114
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 116
-msgid "Allow Flights Support"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 111
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 111
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 115
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 117
-msgid "Allow Transfers Support"
+msgid "Allow Hotels Support"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 112
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 112
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 116
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 118
-msgid "Allow Tours & Activities Support"
+msgid "Allow Flights Support"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 113
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 113
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 117
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 119
-msgid "Allow Packages Support"
+msgid "Allow Transfers Support"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 114
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 114
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 118
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 120
-msgid "Allow Escorted Tours Support"
+msgid "Allow Tours & Activities Support"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 115
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 115
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 119
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 121
-msgid "Allow Cruises Support"
+msgid "Allow Packages Support"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 116
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 116
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 120
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 122
-msgid "Allow Insurance Support"
+msgid "Allow Escorted Tours Support"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 117
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 117
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 121
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 123
-msgid "Enable Cash Ticketing"
+msgid "Allow Cruises Support"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 118
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 118
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 122
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 124
-msgid "No Billing"
+msgid "Allow Insurance Support"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 119
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 119
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 123
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 125
-msgid "Allow Portfolio Upload (All Companies)"
+msgid "Enable Cash Ticketing"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 120
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 120
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 124
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 126
-msgid "Allow CMS Edit"
+msgid "No Billing"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 121
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 121
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 125
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 127
-msgid "Allow Block Activities"
+msgid "Allow Portfolio Upload (All Companies)"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 122
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 122
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 126
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 128
-msgid "Allow Flyer Builder"
+msgid "Allow CMS Edit"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 123
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 124
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 123
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 127
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 130
-msgid "Allow Trip Builder"
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 129
+msgid "Allow Block Activities"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 124
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 126
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 124
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 128
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 130
+msgid "Allow Flyer Builder"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 125
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 126
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 129
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 132
+msgid "Allow Trip Builder"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 126
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 128
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 130
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 134
 msgid "Costamar Invoices Password"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 127
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 129
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 131
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 135
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 129
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 131
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 133
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 137
 msgid "Security"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 130
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 132
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 134
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 145
-msgid "Enable Google Authenticator"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 131
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 133
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 135
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 146
-msgid "Enable One Time Pass"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 132
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 134
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 136
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 147
-msgid "Disable Google Authenticator"
+msgid "Enable Google Authenticator"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 133
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 135
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 137
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 148
-msgid "Disable One Time Pass"
+msgid "Enable One Time Pass"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 134
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 136
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 138
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 151
-msgid "Do not disable even if there is no logins"
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 149
+msgid "Disable Google Authenticator"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 135
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 137
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 139
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 149
-msgid "One Time Pass via SMS"
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 150
+msgid "Disable One Time Pass"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 136
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 138
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 140
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 152
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 153
+msgid "Do not disable even if there is no logins"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 137
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 139
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 141
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 151
+msgid "One Time Pass via SMS"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 138
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 140
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 142
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 154
 msgid "Disable fraud check"
 msgstr ""
 #
@@ -45274,11 +45288,11 @@ msgstr ""
 msgid "Featured Specialists"
 msgstr ""
 #
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 67
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 69
 msgid "Disable Custom Menu Options"
 msgstr ""
 #
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 68
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 70
 msgid "Disable Old Engine"
 msgstr ""
 #
