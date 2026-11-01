@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-30 18:22-0400\n"
+"POT-Creation-Date: 2026-11-01 03:46-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25682,7 +25682,7 @@ msgstr ""
 # File: module/setup/view/settings/realtimepayments_edit.phtml, line: 29
 # File: module/setup/view/settings/states_edit.phtml, line: 138
 # File: module/setup/view/settings/newcity.phtml, line: 846
-# File: module/setup/view/settings/settings.phtml, line: 2115
+# File: module/setup/view/settings/settings.phtml, line: 2204
 msgid "Submit"
 msgstr ""
 #
@@ -66074,27 +66074,101 @@ msgstr ""
 msgid "Trip Planner Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2094
+# File: module/setup/view/settings/settings.phtml, line: 2092
+# File: module/setup/view/settings/settings.phtml, line: 2093
+msgid "Email Tracking Alerts Retention Days (365)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2096
+# File: module/setup/view/settings/settings.phtml, line: 2097
+msgid "Email Tracking Digest To"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2100
+# File: module/setup/view/settings/settings.phtml, line: 2101
+msgid "Email Tracking From Email"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2104
+# File: module/setup/view/settings/settings.phtml, line: 2105
+msgid "Email Tracking From Name"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2108
+# File: module/setup/view/settings/settings.phtml, line: 2109
+msgid "Email Trackiong Payload Retention Days (30)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2112
+# File: module/setup/view/settings/settings.phtml, line: 2113
+msgid "Email Tracking Portal URL"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2116
+# File: module/setup/view/settings/settings.phtml, line: 2117
+msgid "Email Tracking Raw Retewntion Days (90)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2120
+# File: module/setup/view/settings/settings.phtml, line: 2121
+msgid "Email Tracking Staff Email"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2124
+# File: module/setup/view/settings/settings.phtml, line: 2125
+msgid "Email Bounce Whatsapp Template"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2128
+# File: module/setup/view/settings/settings.phtml, line: 2129
+msgid "Send Grid Webhook Public Key"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2137
+msgid "Email Tracking Agent Digest"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2144
+msgid "Email Tracking Agent Email"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2151
+msgid "Email Tracking Agent Whatsapp"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2158
+msgid "Emai Tracking Enabled"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2165
+msgid "Email Tracking Store Payload"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2172
+msgid "Send Grid Webhook Require Signature"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2183
 msgid "Funnel Recovery"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2098
-# File: module/setup/view/settings/settings.phtml, line: 2099
-# File: module/setup/view/settings/settings.phtml, line: 2103
-# File: module/setup/view/settings/settings.phtml, line: 2107
-# File: module/setup/view/settings/settings.phtml, line: 2111
+# File: module/setup/view/settings/settings.phtml, line: 2187
+# File: module/setup/view/settings/settings.phtml, line: 2188
+# File: module/setup/view/settings/settings.phtml, line: 2192
+# File: module/setup/view/settings/settings.phtml, line: 2196
+# File: module/setup/view/settings/settings.phtml, line: 2200
 msgid "Do not run decision manager fraud score if amount is bellow"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2102
+# File: module/setup/view/settings/settings.phtml, line: 2191
 msgid "Charge Service Fee Before Ticketing"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2106
+# File: module/setup/view/settings/settings.phtml, line: 2195
 msgid "Charge Serve Fee After Ticketing"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2110
+# File: module/setup/view/settings/settings.phtml, line: 2199
 msgid "Charge Notification Emails"
 msgstr ""
 #
