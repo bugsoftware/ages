@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-10 15:03-0500\n"
+"POT-Creation-Date: 2026-11-13 05:44-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25682,7 +25682,7 @@ msgstr ""
 # File: module/setup/view/settings/realtimepayments_edit.phtml, line: 29
 # File: module/setup/view/settings/states_edit.phtml, line: 138
 # File: module/setup/view/settings/newcity.phtml, line: 846
-# File: module/setup/view/settings/settings.phtml, line: 2239
+# File: module/setup/view/settings/settings.phtml, line: 2258
 msgid "Submit"
 msgstr ""
 #
@@ -66231,27 +66231,46 @@ msgstr ""
 msgid "Send Grid Webhook Require Signature"
 msgstr ""
 #
+# File: module/setup/view/settings/settings.phtml, line: 2214
+msgid "Sender Guard Enabled"
+msgstr ""
+#
 # File: module/setup/view/settings/settings.phtml, line: 2218
-msgid "Funnel Recovery"
+# File: module/setup/view/settings/settings.phtml, line: 2219
+msgid "Send Relay From Email"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 2222
 # File: module/setup/view/settings/settings.phtml, line: 2223
-# File: module/setup/view/settings/settings.phtml, line: 2227
-# File: module/setup/view/settings/settings.phtml, line: 2231
-# File: module/setup/view/settings/settings.phtml, line: 2235
-msgid "Do not run decision manager fraud score if amount is bellow"
+msgid "Sender Authenticated Domains"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 2226
+# File: module/setup/view/settings/settings.phtml, line: 2227
+msgid "Voucher Time Format (value 12 or 24 - switched to 24-hour)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2237
+msgid "Funnel Recovery"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2241
+# File: module/setup/view/settings/settings.phtml, line: 2242
+# File: module/setup/view/settings/settings.phtml, line: 2246
+# File: module/setup/view/settings/settings.phtml, line: 2250
+# File: module/setup/view/settings/settings.phtml, line: 2254
+msgid "Do not run decision manager fraud score if amount is bellow"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2245
 msgid "Charge Service Fee Before Ticketing"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2230
+# File: module/setup/view/settings/settings.phtml, line: 2249
 msgid "Charge Serve Fee After Ticketing"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2234
+# File: module/setup/view/settings/settings.phtml, line: 2253
 msgid "Charge Notification Emails"
 msgstr ""
 #
