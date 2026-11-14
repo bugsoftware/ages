@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-13 05:44-0500\n"
+"POT-Creation-Date: 2026-11-14 14:42-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -377,8 +377,6 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 58
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 112
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 114
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 56
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 58
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3361
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3363
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3386
@@ -425,12 +423,14 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 6776
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 6818
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 6820
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 56
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 58
+# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 65
+# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 67
 # File: module/ages/view/ages/gift-cards/earningsettings.phtml, line: 53
 # File: module/ages/view/ages/gift-cards/earningsettings.phtml, line: 55
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 68
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 70
-# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 65
-# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 67
 # File: module/ages/view/ages/google/index.phtml, line: 52
 # File: module/ages/view/ages/google/index.phtml, line: 54
 # File: module/ages/view/ages/hotels/accounting.phtml, line: 63
@@ -687,7 +687,6 @@ msgstr ""
 # File: module/ages/view/ages/customers/zombie.phtml, line: 170
 # File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 56
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 112
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 56
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3361
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3386
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3422
@@ -717,9 +716,10 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 6743
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 6774
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 6818
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 56
+# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 65
 # File: module/ages/view/ages/gift-cards/earningsettings.phtml, line: 53
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 68
-# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 65
 # File: module/ages/view/ages/google/index.phtml, line: 52
 # File: module/ages/view/ages/hotels/accounting.phtml, line: 63
 # File: module/ages/view/ages/hotels/cancelpolicies.phtml, line: 49
@@ -2034,9 +2034,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/agent_disable.phtml, line: 17
 # File: module/ages/src/Controller/Templates/alert.phtml, line: 258
-# File: module/ages/src/Controller/Templates/cancellation.phtml, line: 241
 # File: module/ages/src/Controller/Templates/message.phtml, line: 252
-# File: module/ages/src/Controller/Templates/notification.phtml, line: 250
 # File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_disableagents.phtml, line: 20
@@ -2044,15 +2042,15 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_invoice.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_lowcustomers.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 20
+# File: module/ages/src/Controller/Templates/notification_newaffiliate.phtml, line: 20
+# File: module/ages/src/Controller/Templates/notification_newagent.phtml, line: 20
+# File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_newsletters_detail.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_newsubagent.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 20
-# File: module/ages/src/Controller/Templates/notification_newaffiliate.phtml, line: 20
-# File: module/ages/src/Controller/Templates/notification_newagent.phtml, line: 20
-# File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 20
 # File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 20
 # File: module/ages/src/Controller/Agents.php, line: 5744
 # File: module/ages/src/Controller/LoginController.php, line: 893
@@ -2082,7 +2080,10 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/agent_disable.phtml, line: 37
 # File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 27
+# File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 31
+# File: module/ages/src/Controller/Templates/notification_branch.phtml, line: 33
 # File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 31
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 38
 # File: module/ages/src/Controller/Templates/notification_disableagents.phtml, line: 28
 # File: module/ages/src/Controller/Templates/notification_disableusers.phtml, line: 28
 # File: module/ages/src/Controller/Templates/notification_invoice.phtml, line: 32
@@ -2090,17 +2091,14 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 32
 # File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 49
 # File: module/ages/src/Controller/Templates/notification_newsletters_detail.phtml, line: 36
+# File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 30
 # File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 31
+# File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 30
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 32
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 32
 # File: module/ages/src/Controller/Templates/review.phtml, line: 31
 # File: module/ages/src/Controller/Templates/settle.phtml, line: 31
 # File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 35
-# File: module/ages/src/Controller/Templates/notification_branch.phtml, line: 33
-# File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 31
-# File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 30
-# File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 30
-# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 38
 msgid "Warm regards,"
 msgstr ""
 #
@@ -2109,9 +2107,7 @@ msgid "Click & Book Customer Support Team"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/alert.phtml, line: 260
-# File: module/ages/src/Controller/Templates/cancellation.phtml, line: 248
 # File: module/ages/src/Controller/Templates/message.phtml, line: 262
-# File: module/ages/src/Controller/Templates/notification.phtml, line: 286
 msgid "Best Regards"
 msgstr ""
 #
@@ -2121,22 +2117,6 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/alert.phtml, line: 287
 msgid "b2c reservation"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/cancellation.phtml, line: 243
-msgid "We received your request to cancel your reservation number"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/cancellation.phtml, line: 244
-msgid "We are very sorry to hear about that. If we can assist you with booking alternate dates, please call our reservations department."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/cancellation.phtml, line: 245
-msgid "As long as you have cancelled within the permitted cancellation policy you will receive a full refund up to 15 business days."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/cancellation.phtml, line: 249
-msgid "Customer Support Team"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/checkin.phtml, line: 19
@@ -2793,8 +2773,8 @@ msgstr ""
 # File: module/ages/view/ages/air/search.phtml, line: 38
 # File: module/ages/view/ages/air/searchreservations.phtml, line: 38
 # File: module/ages/view/ages/air/searchticket.phtml, line: 26
-# File: module/ages/view/ages/cruises/listreservations.phtml, line: 39
 # File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 21
+# File: module/ages/view/ages/cruises/listreservations.phtml, line: 39
 # File: module/ages/view/ages/cruises/viewdetails.phtml, line: 21
 # File: module/ages/view/ages/customers/editreservations.phtml, line: 16
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 25
@@ -4208,6 +4188,60 @@ msgstr ""
 msgid "Transfers Check In report"
 msgstr ""
 #
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 19
+msgid "Hi there"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 21
+msgid "We noticed you started creating your Click & Book account but didn’t get the chance to finish the activation process. No worries — your information is safely saved, and you’re only one quick step away from accessing your dashboard."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 22
+msgid "Once you complete your registration, you’ll be able to:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 26
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 27
+msgid "Your account is almost ready — you just need to finalize the activation."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 28
+msgid "Click the link below to complete your registration and start using Click & Book:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 29
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 33
+# File: module/ages/view/ages/hotels/index.phtml, line: 65
+msgid "Activate"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 30
+msgid "If you have any questions or need help completing the process, our team is here to assist you."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 31
+msgid "Looking forward to having you onboard."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 32
+msgid "The Click & Book Team"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 38
+# File: module/ages/src/Controller/Templates/travelers-choice.phtml, line: 1277
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 43
+msgid "If you don't want to receive emails, please"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 38
+# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 43
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 5
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 88
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 89
+# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 94
+msgid "Unsubscribe"
+msgstr ""
+#
 # File: module/ages/src/Controller/Templates/distributions.phtml, line: 19
 # File: module/ages/src/Controller/Templates/searches.phtml, line: 19
 msgid "New Account"
@@ -4280,8 +4314,8 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredcruises_edit.phtml, line: 25
 # File: module/ages/view/ages/cms/recommendedhotels.phtml, line: 14
 # File: module/ages/view/ages/cms/trendingdestinations.phtml, line: 14
-# File: module/ages/view/ages/cruises/listreservations.phtml, line: 31
 # File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 13
+# File: module/ages/view/ages/cruises/listreservations.phtml, line: 31
 # File: module/ages/view/ages/customers/editcommunications.phtml, line: 13
 # File: module/ages/view/ages/customers/editstatistics.phtml, line: 10
 # File: module/ages/view/ages/customers/editstatisticsair.phtml, line: 10
@@ -4734,10 +4768,10 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredcars_add.phtml, line: 12
 # File: module/ages/view/ages/cms/featuredcars_edit.phtml, line: 15
 # File: module/ages/view/ages/cms/featuredcars_edit.phtml, line: 16
+# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 14
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 32
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 15
 # File: module/ages/view/ages/cruises/searchreservations.phtml, line: 33
-# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 14
 # File: module/ages/view/ages/cruises/viewdetails.phtml, line: 25
 # File: module/ages/view/ages/customers/editemails.phtml, line: 14
 # File: module/ages/view/ages/customers/editreservations.phtml, line: 12
@@ -4793,10 +4827,10 @@ msgstr ""
 # File: module/ages/view/ages/cms/featuredcars_add.phtml, line: 13
 # File: module/ages/view/ages/cms/featuredcars_edit.phtml, line: 18
 # File: module/ages/view/ages/cms/featuredcars_edit.phtml, line: 19
+# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 15
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 33
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 16
 # File: module/ages/view/ages/cruises/searchreservations.phtml, line: 34
-# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 15
 # File: module/ages/view/ages/cruises/viewdetails.phtml, line: 26
 # File: module/ages/view/ages/customers/editreservations.phtml, line: 13
 # File: module/ages/view/ages/customers/editstatistics.phtml, line: 15
@@ -5020,10 +5054,6 @@ msgstr ""
 msgid "Pay"
 msgstr ""
 #
-# File: module/ages/src/Controller/Templates/notification.phtml, line: 275
-msgid "Go"
-msgstr ""
-#
 # File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 22
 # File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 22
 # File: module/ages/src/Controller/Templates/notification_disableagents.phtml, line: 22
@@ -5055,6 +5085,7 @@ msgid "Please review your account for additional information."
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 25
+# File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 28
 # File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 29
 # File: module/ages/src/Controller/Templates/notification_disableagents.phtml, line: 26
 # File: module/ages/src/Controller/Templates/notification_disableusers.phtml, line: 26
@@ -5063,19 +5094,20 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 30
 # File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 47
 # File: module/ages/src/Controller/Templates/notification_newsletters_detail.phtml, line: 34
+# File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 27
 # File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 29
+# File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 27
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 30
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 30
 # File: module/ages/src/Controller/Templates/review.phtml, line: 29
 # File: module/ages/src/Controller/Templates/settle.phtml, line: 29
 # File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 33
-# File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 28
-# File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 27
-# File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 27
 msgid "Should you have any questions or require further assistance, do not hesitate to contact us."
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 26
+# File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 30
+# File: module/ages/src/Controller/Templates/notification_branch.phtml, line: 32
 # File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 30
 # File: module/ages/src/Controller/Templates/notification_disableagents.phtml, line: 27
 # File: module/ages/src/Controller/Templates/notification_disableusers.phtml, line: 27
@@ -5085,75 +5117,154 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 48
 # File: module/ages/src/Controller/Templates/notification_newsletters_detail.phtml, line: 35
 # File: module/ages/src/Controller/Templates/notification_newsubagent.phtml, line: 39
+# File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 29
 # File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 30
+# File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 29
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 31
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 31
 # File: module/ages/src/Controller/Templates/review.phtml, line: 30
 # File: module/ages/src/Controller/Templates/settle.phtml, line: 30
 # File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 34
-# File: module/ages/src/Controller/Templates/notification_branch.phtml, line: 32
-# File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 30
-# File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 29
-# File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 29
 msgid "Thank you for choosing our services. We look forward to continuing our business relationship."
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 28
+# File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 32
+# File: module/ages/src/Controller/Templates/notification_branch.phtml, line: 34
 # File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 32
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 39
 # File: module/ages/src/Controller/Templates/notification_disableagents.phtml, line: 29
 # File: module/ages/src/Controller/Templates/notification_disableusers.phtml, line: 29
 # File: module/ages/src/Controller/Templates/notification_invoice.phtml, line: 33
 # File: module/ages/src/Controller/Templates/notification_lowcustomers.phtml, line: 28
 # File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 33
+# File: module/ages/src/Controller/Templates/notification_newaffiliate.phtml, line: 29
+# File: module/ages/src/Controller/Templates/notification_newagent.phtml, line: 29
+# File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 33
 # File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 50
 # File: module/ages/src/Controller/Templates/notification_newsletters_detail.phtml, line: 37
 # File: module/ages/src/Controller/Templates/notification_newsubagent.phtml, line: 41
+# File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 31
 # File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 32
+# File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 31
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 33
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 33
 # File: module/ages/src/Controller/Templates/review.phtml, line: 32
 # File: module/ages/src/Controller/Templates/settle.phtml, line: 32
-# File: module/ages/src/Controller/Templates/notification_newaffiliate.phtml, line: 29
-# File: module/ages/src/Controller/Templates/notification_newagent.phtml, line: 29
-# File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 33
 # File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 39
-# File: module/ages/src/Controller/Templates/notification_branch.phtml, line: 34
-# File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 32
-# File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 31
-# File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 31
-# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 39
 msgid "Click & Book Team"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 20
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 20
+# File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 20
+# File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 20
+msgid "Hello Cruises Team"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 22
+msgid "A new reservation has been received and requires your review. Please check the details and proceed with the necessary validation steps."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 23
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 24
+# File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 23
+# File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 23
+msgid "Reservation Details"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 25
+# File: module/ages/src/Controller/Templates/notification_branch.phtml, line: 28
+# File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 26
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 27
+# File: module/ages/src/Controller/Templates/notification_invoice.phtml, line: 27
+# File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 27
+# File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 25
+# File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 26
+# File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 25
+# File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 27
+msgid "Reservation Number:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 26
+# File: module/ages/src/Controller/Templates/notification_branch.phtml, line: 27
+# File: module/ages/view/ages/customers/mergecustomer.phtml, line: 7
+msgid "Agent:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 29
+# File: module/ages/src/Controller/Templates/notification_branch.phtml, line: 31
+# File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 28
+# File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 28
+msgid "Thank you for your prompt attention."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_branch.phtml, line: 20
+msgid "Hi team,"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_branch.phtml, line: 22
+msgid "We are currently attempting to upload the agent’s invoice, but the agent profile does not have a branch assigned. Without a branch, the accounting system cannot receive the invoice."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_branch.phtml, line: 23
+msgid "The system will continue trying to upload the invoice periodically, but it will not succeed until the branch is properly updated."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_branch.phtml, line: 25
+# File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 24
+# File: module/ages/src/Controller/Templates/notification_invoice.phtml, line: 24
+# File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 24
+# File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 24
+# File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 24
+msgid "Transaction Details"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_branch.phtml, line: 30
+msgid "Please update the branch in the agent’s profile so the upload can be completed successfully."
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 23
 msgid "I am pleased to inform you that the customer has successfully signed the terms and conditions for their reservation. No further action is required at this time."
 msgstr ""
 #
-# File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 24
-# File: module/ages/src/Controller/Templates/notification_invoice.phtml, line: 24
-# File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 24
-# File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 24
-# File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 24
-# File: module/ages/src/Controller/Templates/notification_branch.phtml, line: 25
-msgid "Transaction Details"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 26
-# File: module/ages/src/Controller/Templates/notification_invoice.phtml, line: 27
-# File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 27
-# File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 26
-# File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 27
-# File: module/ages/src/Controller/Templates/notification_branch.phtml, line: 28
-# File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 25
-# File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 25
-# File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 25
-# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 27
-msgid "Reservation Number:"
-msgstr ""
-#
 # File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 28
 # File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 28
 msgid "Please review your reservation for additional information."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 22
+msgid "A new invoice upload request has been received, but the cruise reservation requires review before the invoice can be uploaded. Please review the reservation details and complete the necessary validation steps."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 28
+msgid "Agent/Agency:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 29
+msgid "Cruise Line:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 30
+msgid "Cruise Confirmation:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 31
+msgid "Date of Request:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 33
+msgid "The invoice will not be uploaded until the cruises department has completed the reservation review and approved it."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 35
+msgid "If you have any questions or require further assistance, please feel free to contact us."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 37
+# File: module/ages/src/Controller/Templates/review.phtml, line: 28
+# File: module/ages/src/Controller/Templates/settle.phtml, line: 28
+msgid "Thank you for your prompt attention to this matter."
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_disableagents.phtml, line: 23
@@ -5207,6 +5318,83 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_mco.phtml, line: 26
 msgid "MCO:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newaffiliate.phtml, line: 22
+msgid "Thank you for registering as an affiliate with us."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newaffiliate.phtml, line: 23
+msgid "We are pleased to confirm that your affiliate profile has been successfully submitted to our platform."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newaffiliate.phtml, line: 24
+msgid "Our team is currently reviewing the information you provided to ensure that all details are accurate and complete."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newaffiliate.phtml, line: 25
+msgid "Once the verification process is finalized, we will contact you with the next steps to activate your affiliate account."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newaffiliate.phtml, line: 26
+# File: module/ages/src/Controller/Templates/notification_newagent.phtml, line: 26
+msgid "If any additional information is required, we will reach out to you directly."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newaffiliate.phtml, line: 27
+# File: module/ages/src/Controller/Templates/notification_newagent.phtml, line: 27
+msgid "Thank you for choosing Click & Book as your partner."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newaffiliate.phtml, line: 28
+# File: module/ages/src/Controller/Templates/notification_newagent.phtml, line: 28
+# File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 32
+# File: module/ages/src/Controller/Templates/notification_newsubagent.phtml, line: 40
+msgid "Best regards,"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newagent.phtml, line: 22
+msgid "Thank you for registering with us."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newagent.phtml, line: 23
+msgid "We are pleased to confirm that your profile has been successfully created on our platform."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newagent.phtml, line: 24
+msgid "Our team is now reviewing the information you provided to ensure that all details are accurate and complete."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newagent.phtml, line: 25
+msgid "Once the verification process is finalized, we will contact you with the next steps to activate your account."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 22
+msgid "Thank you for registering your property with us."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 24
+msgid "We are pleased to confirm that your property"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 26
+msgid "has been successfully submitted to our platform."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 28
+msgid "Our team is currently reviewing the information you provided to ensure everything is complete and accurate."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 29
+msgid "Once the verification process is finished, we will contact you with the next steps."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 30
+msgid "If we require any additional details, we will reach out to you directly."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 31
+msgid "Thank you for choosing Click & Book."
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_newsletters.phtml, line: 23
@@ -5550,15 +5738,16 @@ msgstr ""
 msgid "Thank you for your attention to this matter."
 msgstr ""
 #
-# File: module/ages/src/Controller/Templates/notification_newsubagent.phtml, line: 40
-# File: module/ages/src/Controller/Templates/notification_newaffiliate.phtml, line: 28
-# File: module/ages/src/Controller/Templates/notification_newagent.phtml, line: 28
-# File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 32
-msgid "Best regards,"
+# File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 22
+msgid "A new payment reservation has been received and requires your review. Please check the details and proceed with the necessary validation steps."
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 23
 msgid "This is to inform you that the customer has not yet signed the terms and conditions for their reservation. Please reach out to the customer at your earliest convenience to ensure that the terms and conditions are reviewed and signed."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 22
+msgid "A new reservation settlement has been received and requires your review. Please check the details and proceed with the necessary validation steps."
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 23
@@ -6821,8 +7010,8 @@ msgstr ""
 # File: module/ages/view/ages/customers/editpassdocuments.phtml, line: 28
 # File: module/ages/view/ages/dynamic-packaging/searchguest.phtml, line: 13
 # File: module/ages/view/ages/dynamic-packaging/searchguest.phtml, line: 35
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 159
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5934
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 159
 # File: module/ages/view/ages/reports/charters.phtml, line: 40
 msgid "Passport"
 msgstr ""
@@ -6940,7 +7129,6 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 35
 # File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 16
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 47
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 171
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 178
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 355
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2737
@@ -6948,6 +7136,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2957
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3246
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5949
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 171
 # File: module/ages/view/ages/hotels/account_information.phtml, line: 5
 # File: module/ages/view/ages/hotels/account_information_edit.phtml, line: 5
 # File: module/ages/view/ages/hotels/add.phtml, line: 81
@@ -7137,7 +7326,6 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 36
 # File: module/ages/view/ages/dynamic-packaging/status.phtml, line: 17
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 48
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 168
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 245
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 246
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 377
@@ -7146,6 +7334,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2953
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3245
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5946
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 168
 # File: module/ages/view/ages/hotels/account_information.phtml, line: 6
 # File: module/ages/view/ages/hotels/account_information.phtml, line: 7
 # File: module/ages/view/ages/hotels/account_information_edit.phtml, line: 6
@@ -7215,6 +7404,8 @@ msgstr ""
 # File: module/setup/view/air/aeromexico.phtml, line: 52
 # File: module/setup/view/air/amadeus.phtml, line: 304
 # File: module/setup/view/air/amadeus.phtml, line: 305
+# File: module/setup/view/air/amadeuslcc.phtml, line: 142
+# File: module/setup/view/air/amadeuslcc.phtml, line: 143
 # File: module/setup/view/air/americanairlines.phtml, line: 49
 # File: module/setup/view/air/americanairlines.phtml, line: 51
 # File: module/setup/view/air/copa.phtml, line: 49
@@ -7223,8 +7414,6 @@ msgstr ""
 # File: module/setup/view/air/hawaiianairlines.phtml, line: 52
 # File: module/setup/view/air/unitedairlines.phtml, line: 50
 # File: module/setup/view/air/unitedairlines.phtml, line: 52
-# File: module/setup/view/air/amadeuslcc.phtml, line: 142
-# File: module/setup/view/air/amadeuslcc.phtml, line: 143
 # File: module/setup/view/cars/bookinggo.phtml, line: 37
 # File: module/setup/view/cars/bookinggo.phtml, line: 38
 # File: module/setup/view/cars/cartrawler.phtml, line: 222
@@ -7277,10 +7466,10 @@ msgstr ""
 # File: module/setup/view/settings/settings.phtml, line: 555
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 48
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 49
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 38
-# File: module/setup/view/transfers/hotelbeds.phtml, line: 39
 # File: module/setup/view/transfers/flix.phtml, line: 44
 # File: module/setup/view/transfers/flix.phtml, line: 45
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 38
+# File: module/setup/view/transfers/hotelbeds.phtml, line: 39
 msgid "Email"
 msgstr ""
 #
@@ -8012,8 +8201,8 @@ msgstr ""
 # File: module/setup/view/settings/globalware.phtml, line: 15
 # File: module/setup/view/settings/globalware_add.phtml, line: 17
 # File: module/setup/view/settings/globalware_edit.phtml, line: 15
-# File: module/setup/view/settings/states_edit.phtml, line: 97
 # File: module/setup/view/settings/newcity.phtml, line: 96
+# File: module/setup/view/settings/states_edit.phtml, line: 97
 msgid "Location"
 msgstr ""
 #
@@ -8336,8 +8525,8 @@ msgstr ""
 # File: module/ages/view/ages/cms/pagescruises.phtml, line: 26
 # File: module/ages/view/ages/cms/pagescruises_add.phtml, line: 12
 # File: module/ages/view/ages/cms/pagescruises_edit.phtml, line: 12
-# File: module/ages/view/ages/cruises/listreservations.phtml, line: 35
 # File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 17
+# File: module/ages/view/ages/cruises/listreservations.phtml, line: 35
 # File: module/ages/view/ages/customers/travelling.phtml, line: 47
 # File: module/ages/view/ages/customers/travellingtomorrow.phtml, line: 47
 # File: module/ages/view/ages/dynamic-packaging/cancelledpendingpayment.phtml, line: 41
@@ -8636,12 +8825,6 @@ msgstr ""
 msgid "Reservation Id:"
 msgstr ""
 #
-# File: module/ages/src/Controller/Templates/review.phtml, line: 28
-# File: module/ages/src/Controller/Templates/settle.phtml, line: 28
-# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 37
-msgid "Thank you for your prompt attention to this matter."
-msgstr ""
-#
 # File: module/ages/src/Controller/Templates/searches.phtml, line: 92
 msgid "SEARCHES REPORT"
 msgstr ""
@@ -8714,6 +8897,22 @@ msgstr ""
 # File: module/setup/view/packages/universalassistance.phtml, line: 103
 # File: module/setup/view/packages/universalassistance.phtml, line: 104
 msgid "Commission"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 22
+msgid "To proceed with your booking, we require your review and signature of the attached Terms & Conditions. Please note that your booking will not be issued until the Terms & Conditions are signed."
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 23
+msgid "You may sign the document using the link below:"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 26
+msgid "Click here to sign"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 30
+msgid "A message from"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/travelers-choice.phtml, line: 199
@@ -8832,12 +9031,6 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/travelers-choice.phtml, line: 587
 # File: module/ages/src/Controller/Templates/travelers-choice.phtml, line: 714
 msgid "stars"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/travelers-choice.phtml, line: 1277
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 43
-# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 38
-msgid "If you don't want to receive emails, please"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/travelers-choice.phtml, line: 1277
@@ -9098,10 +9291,10 @@ msgstr ""
 # File: module/ages/view/ages/cars/reservations.phtml, line: 13
 # File: module/ages/view/ages/cars/searchreservation.phtml, line: 14
 # File: module/ages/view/ages/cars/searchreservation.phtml, line: 28
+# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 18
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 36
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 18
 # File: module/ages/view/ages/cruises/searchreservations.phtml, line: 11
-# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 18
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 883
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1166
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 1306
@@ -9258,9 +9451,9 @@ msgid "Download Voucher"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 986
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5931
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 6
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 153
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5931
 # File: module/ages/view/ages/reports/charters.phtml, line: 39
 msgid "DOB"
 msgstr ""
@@ -9404,223 +9597,6 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 32
 msgid "This offer is valid across all products - hotels, flights, transfers, tours, and more."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 33
-# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 29
-# File: module/ages/view/ages/hotels/index.phtml, line: 65
-msgid "Activate"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/welcometoloyaltyprogram.phtml, line: 43
-# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 38
-# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 5
-# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 88
-# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 89
-# File: module/ages/view/ages/newsletter/unsubscribe.phtml, line: 94
-msgid "Unsubscribe"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_newaffiliate.phtml, line: 22
-msgid "Thank you for registering as an affiliate with us."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_newaffiliate.phtml, line: 23
-msgid "We are pleased to confirm that your affiliate profile has been successfully submitted to our platform."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_newaffiliate.phtml, line: 24
-msgid "Our team is currently reviewing the information you provided to ensure that all details are accurate and complete."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_newaffiliate.phtml, line: 25
-msgid "Once the verification process is finalized, we will contact you with the next steps to activate your affiliate account."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_newaffiliate.phtml, line: 26
-# File: module/ages/src/Controller/Templates/notification_newagent.phtml, line: 26
-msgid "If any additional information is required, we will reach out to you directly."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_newaffiliate.phtml, line: 27
-# File: module/ages/src/Controller/Templates/notification_newagent.phtml, line: 27
-msgid "Thank you for choosing Click & Book as your partner."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_newagent.phtml, line: 22
-msgid "Thank you for registering with us."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_newagent.phtml, line: 23
-msgid "We are pleased to confirm that your profile has been successfully created on our platform."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_newagent.phtml, line: 24
-msgid "Our team is now reviewing the information you provided to ensure that all details are accurate and complete."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_newagent.phtml, line: 25
-msgid "Once the verification process is finalized, we will contact you with the next steps to activate your account."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 22
-msgid "Thank you for registering your property with us."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 24
-msgid "We are pleased to confirm that your property"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 26
-msgid "has been successfully submitted to our platform."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 28
-msgid "Our team is currently reviewing the information you provided to ensure everything is complete and accurate."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 29
-msgid "Once the verification process is finished, we will contact you with the next steps."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 30
-msgid "If we require any additional details, we will reach out to you directly."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_newproperty.phtml, line: 31
-msgid "Thank you for choosing Click & Book."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 22
-msgid "To proceed with your booking, we require your review and signature of the attached Terms & Conditions. Please note that your booking will not be issued until the Terms & Conditions are signed."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 23
-msgid "You may sign the document using the link below:"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 26
-msgid "Click here to sign"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 30
-msgid "A message from"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 19
-msgid "Hi there"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 21
-msgid "We noticed you started creating your Click & Book account but didn’t get the chance to finish the activation process. No worries — your information is safely saved, and you’re only one quick step away from accessing your dashboard."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 22
-msgid "Once you complete your registration, you’ll be able to:"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 26
-# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 27
-msgid "Your account is almost ready — you just need to finalize the activation."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 28
-msgid "Click the link below to complete your registration and start using Click & Book:"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 30
-msgid "If you have any questions or need help completing the process, our team is here to assist you."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 31
-msgid "Looking forward to having you onboard."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/clickandbook_retargeting.phtml, line: 32
-msgid "The Click & Book Team"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_branch.phtml, line: 20
-msgid "Hi team,"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_branch.phtml, line: 22
-msgid "We are currently attempting to upload the agent’s invoice, but the agent profile does not have a branch assigned. Without a branch, the accounting system cannot receive the invoice."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_branch.phtml, line: 23
-msgid "The system will continue trying to upload the invoice periodically, but it will not succeed until the branch is properly updated."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_branch.phtml, line: 27
-# File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 26
-# File: module/ages/view/ages/customers/mergecustomer.phtml, line: 7
-msgid "Agent:"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_branch.phtml, line: 30
-msgid "Please update the branch in the agent’s profile so the upload can be completed successfully."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_branch.phtml, line: 31
-# File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 29
-# File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 28
-# File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 28
-msgid "Thank you for your prompt attention."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 20
-# File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 20
-# File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 20
-# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 20
-msgid "Hello Cruises Team"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 22
-msgid "A new reservation has been received and requires your review. Please check the details and proceed with the necessary validation steps."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_booking_cruises.phtml, line: 23
-# File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 23
-# File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 23
-# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 24
-msgid "Reservation Details"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_payment_cruises.phtml, line: 22
-msgid "A new payment reservation has been received and requires your review. Please check the details and proceed with the necessary validation steps."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_settlement_cruises.phtml, line: 22
-msgid "A new reservation settlement has been received and requires your review. Please check the details and proceed with the necessary validation steps."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 22
-msgid "A new invoice upload request has been received, but the cruise reservation requires review before the invoice can be uploaded. Please review the reservation details and complete the necessary validation steps."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 28
-msgid "Agent/Agency:"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 29
-msgid "Cruise Line:"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 30
-msgid "Cruise Confirmation:"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 31
-msgid "Date of Request:"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 33
-msgid "The invoice will not be uploaded until the cruises department has completed the reservation review and approved it."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/notification_cruises_approval.phtml, line: 35
-msgid "If you have any questions or require further assistance, please feel free to contact us."
 msgstr ""
 #
 # File: module/ages/src/Controller/Activities.php, line: 244
@@ -10670,8 +10646,8 @@ msgstr ""
 # File: module/ages/src/Controller/Transfers.php, line: 2891
 # File: module/ages/src/Controller/Users.php, line: 280
 # File: module/ages/src/Controller/Users.php, line: 474
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 134
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5919
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 134
 # File: module/ages/view/ages/gift-cards/agentincentives_add.phtml, line: 22
 # File: module/ages/view/ages/gift-cards/agentincentives_edit.phtml, line: 27
 # File: module/ages/view/ages/tours/edititinerary.phtml, line: 24
@@ -11029,8 +11005,8 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 13500
 # File: module/ages/src/Controller/SubAgents.php, line: 4111
 # File: module/ages/src/Controller/SubAgents.php, line: 6672
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 135
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5920
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 135
 msgid "Mr."
 msgstr ""
 #
@@ -11041,8 +11017,8 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 13502
 # File: module/ages/src/Controller/SubAgents.php, line: 4113
 # File: module/ages/src/Controller/SubAgents.php, line: 6674
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 136
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5921
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 136
 msgid "Ms."
 msgstr ""
 #
@@ -11149,9 +11125,9 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/searchguest.phtml, line: 12
 # File: module/ages/view/ages/dynamic-packaging/searchguest.phtml, line: 34
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 11
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 146
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2713
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5928
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 146
 # File: module/ages/view/ages/hotels/editusers.phtml, line: 12
 # File: module/ages/view/ages/hotels/listusers.phtml, line: 15
 # File: module/ages/view/ages/hotels/searchreservations.phtml, line: 11
@@ -11235,9 +11211,9 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/searchguest.phtml, line: 11
 # File: module/ages/view/ages/dynamic-packaging/searchguest.phtml, line: 33
 # File: module/ages/view/ages/dynamic-packaging/searchreservations.phtml, line: 10
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 142
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2709
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5925
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 142
 # File: module/ages/view/ages/hotels/editusers.phtml, line: 11
 # File: module/ages/view/ages/hotels/listusers.phtml, line: 14
 # File: module/ages/view/ages/hotels/searchreservations.phtml, line: 12
@@ -11402,14 +11378,14 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3053
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5576
 # File: module/ages/view/ages/gift-cards/add.phtml, line: 12
+# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 13
+# File: module/ages/view/ages/gift-cards/agentincentives_add.phtml, line: 12
+# File: module/ages/view/ages/gift-cards/agentincentives_edit.phtml, line: 12
 # File: module/ages/view/ages/gift-cards/edit.phtml, line: 15
 # File: module/ages/view/ages/gift-cards/edit.phtml, line: 16
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 24
 # File: module/ages/view/ages/gift-cards/search.phtml, line: 12
 # File: module/ages/view/ages/gift-cards/search.phtml, line: 32
-# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 13
-# File: module/ages/view/ages/gift-cards/agentincentives_add.phtml, line: 12
-# File: module/ages/view/ages/gift-cards/agentincentives_edit.phtml, line: 12
 # File: module/ages/view/ages/hotels/add_taxes.phtml, line: 11
 # File: module/ages/view/ages/hotels/add_toxicdestinations.phtml, line: 11
 # File: module/ages/view/ages/hotels/addibsmealplan.phtml, line: 12
@@ -11483,12 +11459,12 @@ msgstr ""
 # File: module/setup/view/settings/citiessections_edit.phtml, line: 75
 # File: module/setup/view/settings/countries_edit.phtml, line: 37
 # File: module/setup/view/settings/countries_edit.phtml, line: 40
-# File: module/setup/view/settings/states_edit.phtml, line: 30
-# File: module/setup/view/settings/states_edit.phtml, line: 33
 # File: module/setup/view/settings/newcity.phtml, line: 171
 # File: module/setup/view/settings/newcity.phtml, line: 173
 # File: module/setup/view/settings/settings.phtml, line: 1075
 # File: module/setup/view/settings/settings.phtml, line: 1076
+# File: module/setup/view/settings/states_edit.phtml, line: 30
+# File: module/setup/view/settings/states_edit.phtml, line: 33
 msgid "Description"
 msgstr ""
 #
@@ -11900,6 +11876,7 @@ msgstr ""
 # File: module/setup/view/air/aeromexico.phtml, line: 174
 # File: module/setup/view/air/airgateway.phtml, line: 57
 # File: module/setup/view/air/amadeus.phtml, line: 343
+# File: module/setup/view/air/amadeuslcc.phtml, line: 171
 # File: module/setup/view/air/americanairlines.phtml, line: 181
 # File: module/setup/view/air/arajetsabre.phtml, line: 76
 # File: module/setup/view/air/avianca.phtml, line: 198
@@ -11920,7 +11897,6 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 217
 # File: module/setup/view/air/unitedairlines.phtml, line: 190
 # File: module/setup/view/air/volaris.phtml, line: 154
-# File: module/setup/view/air/amadeuslcc.phtml, line: 171
 # File: module/setup/view/cars/amadeus.phtml, line: 156
 # File: module/setup/view/cars/avis.phtml, line: 79
 # File: module/setup/view/cars/avisbudget.phtml, line: 109
@@ -11964,6 +11940,7 @@ msgstr ""
 # File: module/setup/view/hotels/convencional.phtml, line: 92
 # File: module/setup/view/hotels/cosmobeds.phtml, line: 95
 # File: module/setup/view/hotels/ctrip.phtml, line: 104
+# File: module/setup/view/hotels/derbysoft.phtml, line: 95
 # File: module/setup/view/hotels/destinationservices.phtml, line: 78
 # File: module/setup/view/hotels/dhisco.phtml, line: 83
 # File: module/setup/view/hotels/didatravel.phtml, line: 93
@@ -12055,7 +12032,6 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 106
 # File: module/setup/view/hotels/youtravel.phtml, line: 85
 # File: module/setup/view/hotels/zoytrip.phtml, line: 61
-# File: module/setup/view/hotels/derbysoft.phtml, line: 95
 # File: module/setup/view/packages/abreu.phtml, line: 57
 # File: module/setup/view/packages/assistcard.phtml, line: 97
 # File: module/setup/view/packages/citytours.phtml, line: 67
@@ -12077,15 +12053,15 @@ msgstr ""
 # File: module/setup/view/transfers/actiontravel.phtml, line: 63
 # File: module/setup/view/transfers/daytrip.phtml, line: 60
 # File: module/setup/view/transfers/didatravel.phtml, line: 63
+# File: module/setup/view/transfers/flix.phtml, line: 116
 # File: module/setup/view/transfers/gltours.phtml, line: 62
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 137
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 103
+# File: module/setup/view/transfers/mozio.phtml, line: 121
 # File: module/setup/view/transfers/nexustours.phtml, line: 84
 # File: module/setup/view/transfers/shuttlefare.phtml, line: 62
 # File: module/setup/view/transfers/trapsatur.phtml, line: 76
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 74
-# File: module/setup/view/transfers/flix.phtml, line: 116
-# File: module/setup/view/transfers/mozio.phtml, line: 121
 msgid "Update"
 msgstr ""
 #
@@ -12548,12 +12524,12 @@ msgstr ""
 # File: module/ages/view/ages/companies/locations.phtml, line: 35
 # File: module/ages/view/ages/cruises/ships.phtml, line: 34
 # File: module/ages/view/ages/customers/editgiftcards.phtml, line: 28
-# File: module/ages/view/ages/gift-cards/earningsettings.phtml, line: 27
-# File: module/ages/view/ages/gift-cards/index.phtml, line: 44
-# File: module/ages/view/ages/gift-cards/search.phtml, line: 52
 # File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 22
 # File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 39
 # File: module/ages/view/ages/gift-cards/agentincentives_edit.phtml, line: 26
+# File: module/ages/view/ages/gift-cards/earningsettings.phtml, line: 27
+# File: module/ages/view/ages/gift-cards/index.phtml, line: 44
+# File: module/ages/view/ages/gift-cards/search.phtml, line: 52
 # File: module/ages/view/ages/hotels/accounting.phtml, line: 27
 # File: module/ages/view/ages/hotels/ibs.phtml, line: 31
 # File: module/ages/view/ages/hotels/ibs_tabaddagecategory.phtml, line: 24
@@ -12684,10 +12660,10 @@ msgstr ""
 # File: module/ages/view/ages/companies/locations.phtml, line: 35
 # File: module/ages/view/ages/cruises/ships.phtml, line: 36
 # File: module/ages/view/ages/customers/editgiftcards.phtml, line: 28
+# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 39
 # File: module/ages/view/ages/gift-cards/earningsettings.phtml, line: 27
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 44
 # File: module/ages/view/ages/gift-cards/search.phtml, line: 52
-# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 39
 # File: module/ages/view/ages/hotels/accounting.phtml, line: 29
 # File: module/ages/view/ages/hotels/ibs.phtml, line: 33
 # File: module/ages/view/ages/hotels/ibs_tabaddagecategory.phtml, line: 26
@@ -13079,6 +13055,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/edit_cruises.phtml, line: 1
 # File: module/ages/view/ages/cruises/analysis.phtml, line: 82
 # File: module/ages/view/ages/cruises/images.phtml, line: 5
+# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 5
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 23
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 5
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 17
@@ -13102,7 +13079,6 @@ msgstr ""
 # File: module/ages/view/ages/cruises/staticshipsvideosadd.phtml, line: 10
 # File: module/ages/view/ages/cruises/staticvideos.phtml, line: 9
 # File: module/ages/view/ages/cruises/staticvideos.phtml, line: 24
-# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 5
 # File: module/ages/view/ages/dynamic-packaging/add_modals.phtml, line: 19
 # File: module/ages/view/ages/dynamic-packaging/edit_modals.phtml, line: 19
 # File: module/ages/view/ages/newsletter/create.phtml, line: 63
@@ -13123,8 +13099,8 @@ msgstr ""
 # File: module/setup/view/cruises/cruiseships.phtml, line: 5
 # File: module/setup/view/cruises/decks.phtml, line: 5
 # File: module/setup/view/cruises/decksimages.phtml, line: 5
-# File: module/setup/view/cruises/publicareas.phtml, line: 5
 # File: module/setup/view/cruises/images.phtml, line: 5
+# File: module/setup/view/cruises/publicareas.phtml, line: 5
 # File: module/setup/view/index/index.phtml, line: 221
 # File: module/setup/view/settings/businessintelligence.phtml, line: 99
 # File: module/setup/view/settings/countries_edit.phtml, line: 68
@@ -14484,11 +14460,11 @@ msgstr ""
 # File: module/ages/view/ages/agents/returncustomers.phtml, line: 45
 # File: module/ages/view/ages/agents/telemarketing.phtml, line: 48
 # File: module/ages/view/ages/agents/transfercustomers.phtml, line: 25
+# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 16
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 34
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 13
 # File: module/ages/view/ages/cruises/searches.phtml, line: 44
 # File: module/ages/view/ages/cruises/searchreservations.phtml, line: 31
-# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 16
 # File: module/ages/view/ages/customers/edit.phtml, line: 722
 # File: module/ages/view/ages/customers/editcommunications.phtml, line: 10
 # File: module/ages/view/ages/customers/supervise.phtml, line: 14
@@ -16044,8 +16020,8 @@ msgstr ""
 # File: module/setup/view/cruises/edit-cruiseships.phtml, line: 12
 # File: module/setup/view/cruises/edit-decks.phtml, line: 11
 # File: module/setup/view/cruises/edit-publicareas.phtml, line: 11
-# File: module/setup/view/cruises/publicareas.phtml, line: 13
 # File: module/setup/view/cruises/images.phtml, line: 12
+# File: module/setup/view/cruises/publicareas.phtml, line: 13
 # File: module/setup/view/hotels/dhisco.phtml, line: 47
 # File: module/setup/view/hotels/dhisco.phtml, line: 48
 # File: module/setup/view/hotels/kaluahtours.phtml, line: 47
@@ -16072,12 +16048,12 @@ msgstr ""
 # File: module/setup/view/settings/globalware.phtml, line: 13
 # File: module/setup/view/settings/globalware_add.phtml, line: 11
 # File: module/setup/view/settings/globalware_edit.phtml, line: 11
-# File: module/setup/view/settings/realtimepayments.phtml, line: 13
-# File: module/setup/view/settings/states.phtml, line: 13
-# File: module/setup/view/settings/states_edit.phtml, line: 11
 # File: module/setup/view/settings/newcity.phtml, line: 90
+# File: module/setup/view/settings/realtimepayments.phtml, line: 13
 # File: module/setup/view/settings/settings.phtml, line: 1070
 # File: module/setup/view/settings/settings.phtml, line: 1071
+# File: module/setup/view/settings/states.phtml, line: 13
+# File: module/setup/view/settings/states_edit.phtml, line: 11
 msgid "Name"
 msgstr ""
 #
@@ -16124,8 +16100,8 @@ msgstr ""
 # File: module/setup/view/hotels/premierinn.phtml, line: 27
 # File: module/setup/view/settings/cities_edit.phtml, line: 100
 # File: module/setup/view/settings/currencies.phtml, line: 13
-# File: module/setup/view/settings/states_edit.phtml, line: 12
 # File: module/setup/view/settings/newcity.phtml, line: 100
+# File: module/setup/view/settings/states_edit.phtml, line: 12
 msgid "Code"
 msgstr ""
 #
@@ -16325,10 +16301,10 @@ msgstr ""
 # File: module/setup/view/settings/geotargetmarkup.phtml, line: 15
 # File: module/setup/view/settings/geotargetmarkup_add.phtml, line: 11
 # File: module/setup/view/settings/geotargetmarkup_edit.phtml, line: 11
+# File: module/setup/view/settings/newcity.phtml, line: 92
 # File: module/setup/view/settings/searchcities.phtml, line: 26
 # File: module/setup/view/settings/states.phtml, line: 14
 # File: module/setup/view/settings/states_edit.phtml, line: 13
-# File: module/setup/view/settings/newcity.phtml, line: 92
 msgid "Country"
 msgstr ""
 #
@@ -16765,8 +16741,8 @@ msgstr ""
 # File: module/setup/view/settings/countries_edit.phtml, line: 16
 # File: module/setup/view/settings/cruisesmapping.phtml, line: 18
 # File: module/setup/view/settings/cruisesmapping.phtml, line: 167
-# File: module/setup/view/settings/states_edit.phtml, line: 16
 # File: module/setup/view/settings/newcity.phtml, line: 95
+# File: module/setup/view/settings/states_edit.phtml, line: 16
 msgid "Latitude"
 msgstr ""
 #
@@ -16797,8 +16773,8 @@ msgstr ""
 # File: module/setup/view/settings/countries_edit.phtml, line: 15
 # File: module/setup/view/settings/cruisesmapping.phtml, line: 19
 # File: module/setup/view/settings/cruisesmapping.phtml, line: 170
-# File: module/setup/view/settings/states_edit.phtml, line: 15
 # File: module/setup/view/settings/newcity.phtml, line: 94
+# File: module/setup/view/settings/states_edit.phtml, line: 15
 msgid "Longitude"
 msgstr ""
 #
@@ -17733,6 +17709,7 @@ msgstr ""
 # File: module/setup/view/air/aeromexico.phtml, line: 17
 # File: module/setup/view/air/airgateway.phtml, line: 21
 # File: module/setup/view/air/amadeus.phtml, line: 23
+# File: module/setup/view/air/amadeuslcc.phtml, line: 23
 # File: module/setup/view/air/americanairlines.phtml, line: 16
 # File: module/setup/view/air/arajetsabre.phtml, line: 47
 # File: module/setup/view/air/avianca.phtml, line: 27
@@ -17760,7 +17737,6 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 71
 # File: module/setup/view/air/unitedairlines.phtml, line: 17
 # File: module/setup/view/air/volaris.phtml, line: 24
-# File: module/setup/view/air/amadeuslcc.phtml, line: 23
 # File: module/setup/view/cars/amadeus.phtml, line: 23
 # File: module/setup/view/cars/avis.phtml, line: 25
 # File: module/setup/view/cars/avisbudget.phtml, line: 25
@@ -17804,6 +17780,7 @@ msgstr ""
 # File: module/setup/view/hotels/convencional.phtml, line: 17
 # File: module/setup/view/hotels/cosmobeds.phtml, line: 27
 # File: module/setup/view/hotels/ctrip.phtml, line: 30
+# File: module/setup/view/hotels/derbysoft.phtml, line: 26
 # File: module/setup/view/hotels/destinationservices.phtml, line: 24
 # File: module/setup/view/hotels/dhisco.phtml, line: 25
 # File: module/setup/view/hotels/didatravel.phtml, line: 15
@@ -17896,7 +17873,6 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 15
 # File: module/setup/view/hotels/youtravel.phtml, line: 25
 # File: module/setup/view/hotels/zoytrip.phtml, line: 15
-# File: module/setup/view/hotels/derbysoft.phtml, line: 26
 # File: module/setup/view/packages/abreu.phtml, line: 26
 # File: module/setup/view/packages/assistcard.phtml, line: 24
 # File: module/setup/view/packages/citytours.phtml, line: 30
@@ -17926,15 +17902,15 @@ msgstr ""
 # File: module/setup/view/transfers/actiontravel.phtml, line: 23
 # File: module/setup/view/transfers/daytrip.phtml, line: 21
 # File: module/setup/view/transfers/didatravel.phtml, line: 21
+# File: module/setup/view/transfers/flix.phtml, line: 25
 # File: module/setup/view/transfers/gltours.phtml, line: 23
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 23
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 20
+# File: module/setup/view/transfers/mozio.phtml, line: 26
 # File: module/setup/view/transfers/nexustours.phtml, line: 24
 # File: module/setup/view/transfers/shuttlefare.phtml, line: 23
 # File: module/setup/view/transfers/trapsatur.phtml, line: 27
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 26
-# File: module/setup/view/transfers/flix.phtml, line: 25
-# File: module/setup/view/transfers/mozio.phtml, line: 26
 msgid "Affiliate"
 msgstr ""
 #
@@ -18336,6 +18312,7 @@ msgstr ""
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 16
 # File: module/ages/view/ages/cruises/cruiseslinesaccounting.phtml, line: 16
 # File: module/ages/view/ages/cruises/images.phtml, line: 20
+# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 22
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 40
 # File: module/ages/view/ages/cruises/pricing.phtml, line: 18
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 21
@@ -18350,7 +18327,6 @@ msgstr ""
 # File: module/ages/view/ages/cruises/staticshipsdecksimages.phtml, line: 44
 # File: module/ages/view/ages/cruises/staticshipsimages.phtml, line: 41
 # File: module/ages/view/ages/cruises/staticvideos.phtml, line: 42
-# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 22
 # File: module/ages/view/ages/customers/blacklist.phtml, line: 14
 # File: module/ages/view/ages/customers/cancellationrequests.phtml, line: 41
 # File: module/ages/view/ages/customers/dropboxsign.phtml, line: 39
@@ -18399,13 +18375,13 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentspay.phtml, line: 38
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentsunknown.phtml, line: 37
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 50
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 17
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2890
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 17
+# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 23
 # File: module/ages/view/ages/gift-cards/earningsettings.phtml, line: 17
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 31
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 31
 # File: module/ages/view/ages/gift-cards/search.phtml, line: 39
-# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 23
 # File: module/ages/view/ages/google/index.phtml, line: 16
 # File: module/ages/view/ages/hotels/accounting.phtml, line: 17
 # File: module/ages/view/ages/hotels/cancelpolicies.phtml, line: 15
@@ -18546,8 +18522,8 @@ msgstr ""
 # File: module/setup/view/cruises/cruiseships.phtml, line: 19
 # File: module/setup/view/cruises/decks.phtml, line: 18
 # File: module/setup/view/cruises/decksimages.phtml, line: 18
-# File: module/setup/view/cruises/publicareas.phtml, line: 17
 # File: module/setup/view/cruises/images.phtml, line: 14
+# File: module/setup/view/cruises/publicareas.phtml, line: 17
 # File: module/setup/view/intelligence/citypairs.phtml, line: 24
 # File: module/setup/view/intelligence/preferredcruises.phtml, line: 29
 # File: module/setup/view/intelligence/preferredhotels.phtml, line: 29
@@ -18658,6 +18634,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/suppliershotelscode.phtml, line: 29
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 27
 # File: module/ages/view/ages/cruises/cruiseslinesaccounting.phtml, line: 27
+# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 61
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 79
 # File: module/ages/view/ages/cruises/pricing.phtml, line: 31
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 44
@@ -18672,7 +18649,6 @@ msgstr ""
 # File: module/ages/view/ages/cruises/staticshipsdecksimages.phtml, line: 64
 # File: module/ages/view/ages/cruises/staticshipsimages.phtml, line: 56
 # File: module/ages/view/ages/cruises/staticvideos.phtml, line: 55
-# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 61
 # File: module/ages/view/ages/customers/blacklist.phtml, line: 23
 # File: module/ages/view/ages/customers/duplicated.phtml, line: 38
 # File: module/ages/view/ages/customers/duplicatedemails.phtml, line: 37
@@ -18717,13 +18693,13 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentspay.phtml, line: 144
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentsunknown.phtml, line: 142
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 222
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 38
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 870
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 38
+# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 41
 # File: module/ages/view/ages/gift-cards/earningsettings.phtml, line: 29
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 45
 # File: module/ages/view/ages/gift-cards/report.phtml, line: 46
 # File: module/ages/view/ages/gift-cards/search.phtml, line: 53
-# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 41
 # File: module/ages/view/ages/google/index.phtml, line: 29
 # File: module/ages/view/ages/hotels/accounting.phtml, line: 39
 # File: module/ages/view/ages/hotels/cancelpolicies.phtml, line: 25
@@ -19530,8 +19506,8 @@ msgstr ""
 # File: module/setup/view/cruises/edit-decksimages.phtml, line: 23
 # File: module/setup/view/cruises/edit-publicareas.phtml, line: 24
 # File: module/setup/view/cruises/edit-publicareas.phtml, line: 25
-# File: module/setup/view/cruises/publicareas.phtml, line: 14
 # File: module/setup/view/cruises/images.phtml, line: 13
+# File: module/setup/view/cruises/publicareas.phtml, line: 14
 # File: module/setup/view/settings/citiesimages_edit.phtml, line: 27
 # File: module/setup/view/settings/citiesimages_edit.phtml, line: 30
 # File: module/setup/view/settings/citiesimages_edit.phtml, line: 47
@@ -19756,20 +19732,20 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/index.phtml, line: 54
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 88
 # File: module/ages/view/ages/dynamic-packaging/quotes.phtml, line: 110
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 40
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 54
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 872
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2910
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3359
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3420
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4022
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 4139
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 40
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 54
+# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 43
+# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 63
 # File: module/ages/view/ages/gift-cards/earningsettings.phtml, line: 31
 # File: module/ages/view/ages/gift-cards/earningsettings.phtml, line: 51
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 47
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 66
-# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 43
-# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 63
 # File: module/ages/view/ages/google/index.phtml, line: 31
 # File: module/ages/view/ages/google/index.phtml, line: 50
 # File: module/ages/view/ages/hotels/accounting.phtml, line: 41
@@ -21037,6 +21013,7 @@ msgstr ""
 # File: module/ages/view/ages/companies/suppliershotelscode.phtml, line: 99
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 97
 # File: module/ages/view/ages/cruises/cruiseslinesaccounting.phtml, line: 97
+# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 113
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 131
 # File: module/ages/view/ages/cruises/pricing.phtml, line: 98
 # File: module/ages/view/ages/cruises/ships.phtml, line: 115
@@ -21049,7 +21026,6 @@ msgstr ""
 # File: module/ages/view/ages/cruises/staticshipsdecksimages.phtml, line: 141
 # File: module/ages/view/ages/cruises/staticshipsimages.phtml, line: 136
 # File: module/ages/view/ages/cruises/staticvideos.phtml, line: 134
-# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 113
 # File: module/ages/view/ages/customers/blacklist.phtml, line: 92
 # File: module/ages/view/ages/customers/duplicatedemails.phtml, line: 116
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 153
@@ -21070,10 +21046,10 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/missingpayments.phtml, line: 268
 # File: module/ages/view/ages/dynamic-packaging/pendingconfirmation.phtml, line: 263
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 280
+# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 112
 # File: module/ages/view/ages/gift-cards/earningsettings.phtml, line: 99
 # File: module/ages/view/ages/gift-cards/index.phtml, line: 115
 # File: module/ages/view/ages/gift-cards/pointstransactions.phtml, line: 70
-# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 112
 # File: module/ages/view/ages/google/index.phtml, line: 107
 # File: module/ages/view/ages/hotels/accounting.phtml, line: 109
 # File: module/ages/view/ages/hotels/cancelpolicies.phtml, line: 95
@@ -21143,8 +21119,8 @@ msgstr ""
 # File: module/setup/view/cruises/cruiseships.phtml, line: 82
 # File: module/setup/view/cruises/decks.phtml, line: 80
 # File: module/setup/view/cruises/decksimages.phtml, line: 80
-# File: module/setup/view/cruises/publicareas.phtml, line: 77
 # File: module/setup/view/cruises/images.phtml, line: 65
+# File: module/setup/view/cruises/publicareas.phtml, line: 77
 # File: module/setup/view/intelligence/airlineoffers.phtml, line: 88
 # File: module/setup/view/intelligence/citypairs.phtml, line: 88
 # File: module/setup/view/intelligence/hotels.phtml, line: 90
@@ -22335,10 +22311,10 @@ msgstr ""
 # File: module/ages/view/ages/customers/edittelemarketing.phtml, line: 49
 # File: module/ages/view/ages/customers/support.phtml, line: 41
 # File: module/ages/view/ages/customers/supportedit.phtml, line: 26
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 132
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5363
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5917
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 6302
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 132
 # File: module/ages/view/ages/hotels/editstatichotelsplaces.phtml, line: 130
 # File: module/ages/view/ages/reports/airlines.phtml, line: 573
 # File: module/ages/view/ages/sub-agents/add.phtml, line: 18
@@ -22497,6 +22473,8 @@ msgstr ""
 # File: module/setup/view/activities/trapsatur.phtml, line: 22
 # File: module/setup/view/air/amadeus.phtml, line: 18
 # File: module/setup/view/air/amadeus.phtml, line: 19
+# File: module/setup/view/air/amadeuslcc.phtml, line: 18
+# File: module/setup/view/air/amadeuslcc.phtml, line: 19
 # File: module/setup/view/air/arajetsabre.phtml, line: 19
 # File: module/setup/view/air/arajetsabre.phtml, line: 20
 # File: module/setup/view/air/avianca.phtml, line: 72
@@ -22517,8 +22495,6 @@ msgstr ""
 # File: module/setup/view/air/travelport.phtml, line: 312
 # File: module/setup/view/air/volaris.phtml, line: 66
 # File: module/setup/view/air/volaris.phtml, line: 70
-# File: module/setup/view/air/amadeuslcc.phtml, line: 18
-# File: module/setup/view/air/amadeuslcc.phtml, line: 19
 # File: module/setup/view/cars/amadeus.phtml, line: 18
 # File: module/setup/view/cars/amadeus.phtml, line: 19
 # File: module/setup/view/cars/avis.phtml, line: 20
@@ -22719,6 +22695,8 @@ msgstr ""
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 19
 # File: module/setup/view/transfers/actiontravel.phtml, line: 18
 # File: module/setup/view/transfers/actiontravel.phtml, line: 19
+# File: module/setup/view/transfers/flix.phtml, line: 15
+# File: module/setup/view/transfers/flix.phtml, line: 16
 # File: module/setup/view/transfers/gltours.phtml, line: 18
 # File: module/setup/view/transfers/gltours.phtml, line: 19
 # File: module/setup/view/transfers/nexustours.phtml, line: 20
@@ -22729,8 +22707,6 @@ msgstr ""
 # File: module/setup/view/transfers/trapsatur.phtml, line: 23
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 20
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 21
-# File: module/setup/view/transfers/flix.phtml, line: 15
-# File: module/setup/view/transfers/flix.phtml, line: 16
 msgid "Password"
 msgstr ""
 #
@@ -23083,8 +23059,8 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/edit.phtml, line: 168
 # File: module/setup/view/settings/cities_edit.phtml, line: 122
 # File: module/setup/view/settings/countries_edit.phtml, line: 102
-# File: module/setup/view/settings/states_edit.phtml, line: 100
 # File: module/setup/view/settings/newcity.phtml, line: 122
+# File: module/setup/view/settings/states_edit.phtml, line: 100
 msgid "CMS"
 msgstr ""
 #
@@ -25487,9 +25463,9 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 276
 # File: module/setup/view/settings/cities_edit.phtml, line: 278
 # File: module/setup/view/settings/countries_edit.phtml, line: 30
-# File: module/setup/view/settings/states_edit.phtml, line: 24
 # File: module/setup/view/settings/newcity.phtml, line: 276
 # File: module/setup/view/settings/newcity.phtml, line: 278
+# File: module/setup/view/settings/states_edit.phtml, line: 24
 msgid "Google"
 msgstr ""
 #
@@ -25675,14 +25651,14 @@ msgstr ""
 # File: module/setup/view/settings/globalware_edit.phtml, line: 21
 # File: module/setup/view/settings/insurance.phtml, line: 19
 # File: module/setup/view/settings/livehelp.phtml, line: 37
+# File: module/setup/view/settings/newcity.phtml, line: 846
 # File: module/setup/view/settings/payments-b2b.phtml, line: 429
 # File: module/setup/view/settings/payments.phtml, line: 418
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 28
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 31
 # File: module/setup/view/settings/realtimepayments_edit.phtml, line: 29
+# File: module/setup/view/settings/settings.phtml, line: 2262
 # File: module/setup/view/settings/states_edit.phtml, line: 138
-# File: module/setup/view/settings/newcity.phtml, line: 846
-# File: module/setup/view/settings/settings.phtml, line: 2258
 msgid "Submit"
 msgstr ""
 #
@@ -25733,10 +25709,10 @@ msgstr ""
 # File: module/setup/view/activities/viator.phtml, line: 69
 # File: module/setup/view/air/amadeus.phtml, line: 208
 # File: module/setup/view/air/amadeus.phtml, line: 209
-# File: module/setup/view/air/travelport.phtml, line: 210
-# File: module/setup/view/air/travelport.phtml, line: 211
 # File: module/setup/view/air/amadeuslcc.phtml, line: 70
 # File: module/setup/view/air/amadeuslcc.phtml, line: 71
+# File: module/setup/view/air/travelport.phtml, line: 210
+# File: module/setup/view/air/travelport.phtml, line: 211
 # File: module/setup/view/cars/cartrawler.phtml, line: 50
 # File: module/setup/view/cars/tourico.phtml, line: 45
 # File: module/setup/view/cars/tourico.phtml, line: 46
@@ -25802,12 +25778,12 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 437
 # File: module/setup/view/settings/newcity.phtml, line: 436
 # File: module/setup/view/settings/newcity.phtml, line: 437
-# File: module/setup/view/transfers/nexustours.phtml, line: 54
-# File: module/setup/view/transfers/nexustours.phtml, line: 55
 # File: module/setup/view/transfers/flix.phtml, line: 40
 # File: module/setup/view/transfers/flix.phtml, line: 41
 # File: module/setup/view/transfers/mozio.phtml, line: 41
 # File: module/setup/view/transfers/mozio.phtml, line: 42
+# File: module/setup/view/transfers/nexustours.phtml, line: 54
+# File: module/setup/view/transfers/nexustours.phtml, line: 55
 msgid "Currency"
 msgstr ""
 #
@@ -27914,6 +27890,7 @@ msgstr ""
 # File: module/setup/view/air/aeromexico.phtml, line: 28
 # File: module/setup/view/air/airgateway.phtml, line: 32
 # File: module/setup/view/air/amadeus.phtml, line: 34
+# File: module/setup/view/air/amadeuslcc.phtml, line: 34
 # File: module/setup/view/air/americanairlines.phtml, line: 27
 # File: module/setup/view/air/arajetsabre.phtml, line: 58
 # File: module/setup/view/air/avianca.phtml, line: 40
@@ -27934,7 +27911,6 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 84
 # File: module/setup/view/air/unitedairlines.phtml, line: 28
 # File: module/setup/view/air/volaris.phtml, line: 35
-# File: module/setup/view/air/amadeuslcc.phtml, line: 34
 # File: module/setup/view/cars/amadeus.phtml, line: 34
 # File: module/setup/view/cars/avis.phtml, line: 36
 # File: module/setup/view/cars/avisbudget.phtml, line: 36
@@ -27975,6 +27951,7 @@ msgstr ""
 # File: module/setup/view/hotels/convencional.phtml, line: 28
 # File: module/setup/view/hotels/cosmobeds.phtml, line: 38
 # File: module/setup/view/hotels/ctrip.phtml, line: 41
+# File: module/setup/view/hotels/derbysoft.phtml, line: 37
 # File: module/setup/view/hotels/destinationservices.phtml, line: 35
 # File: module/setup/view/hotels/dhisco.phtml, line: 36
 # File: module/setup/view/hotels/didatravel.phtml, line: 26
@@ -28066,7 +28043,6 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 19
 # File: module/setup/view/hotels/youtravel.phtml, line: 36
 # File: module/setup/view/hotels/zoytrip.phtml, line: 19
-# File: module/setup/view/hotels/derbysoft.phtml, line: 37
 # File: module/setup/view/intelligence/citypairs.phtml, line: 22
 # File: module/setup/view/intelligence/citypairs_add.phtml, line: 16
 # File: module/setup/view/intelligence/citypairs_edit.phtml, line: 16
@@ -28345,8 +28321,8 @@ msgid "Miles"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/detailedreport.phtml, line: 26
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 177
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5955
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 177
 msgid "Frequent Flyer Number"
 msgstr ""
 #
@@ -28673,7 +28649,6 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentspay.phtml, line: 353
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentsunknown.phtml, line: 352
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 409
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 187
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 97
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3724
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 3743
@@ -28725,6 +28700,7 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 6372
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 6475
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 6525
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 187
 # File: module/ages/view/ages/packages/add_modals.phtml, line: 40
 # File: module/ages/view/ages/packages/add_modals.phtml, line: 102
 # File: module/ages/view/ages/packages/add_modals.phtml, line: 132
@@ -30295,8 +30271,8 @@ msgstr ""
 # File: module/ages/view/ages/hotels/contracts_edit.phtml, line: 23
 # File: module/setup/view/settings/cities_edit.phtml, line: 119
 # File: module/setup/view/settings/countries_edit.phtml, line: 93
-# File: module/setup/view/settings/states_edit.phtml, line: 91
 # File: module/setup/view/settings/newcity.phtml, line: 119
+# File: module/setup/view/settings/states_edit.phtml, line: 91
 msgid "Featured"
 msgstr ""
 #
@@ -30665,8 +30641,8 @@ msgstr ""
 # File: module/ages/view/ages/customers/edit.phtml, line: 135
 # File: module/ages/view/ages/customers/editpassdocuments.phtml, line: 18
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 15
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 162
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5940
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 162
 msgid "Issuing Country"
 msgstr ""
 #
@@ -30689,10 +30665,10 @@ msgstr ""
 # File: module/ages/view/ages/customers/edit.phtml, line: 140
 # File: module/ages/view/ages/customers/editpassdocuments.phtml, line: 17
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 17
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 165
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2563
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 2564
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5943
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 165
 # File: module/ages/view/ages/hotels/add_markups.phtml, line: 21
 # File: module/ages/view/ages/hotels/edit_markups.phtml, line: 21
 # File: module/ages/view/ages/hotels/markups.phtml, line: 20
@@ -31021,10 +30997,10 @@ msgstr ""
 # File: module/ages/view/ages/air/toxicairlines.phtml, line: 12
 # File: module/ages/view/ages/air/toxicfares.phtml, line: 12
 # File: module/ages/view/ages/cruises/cabins.phtml, line: 12
+# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 12
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 30
 # File: module/ages/view/ages/cruises/pricing.phtml, line: 12
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 12
-# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 12
 # File: module/ages/view/ages/newsletter/list.phtml, line: 12
 # File: module/ages/view/ages/newsletter/listnewsletter.phtml, line: 12
 # File: module/ages/view/ages/newsletter/spam.phtml, line: 12
@@ -31356,8 +31332,8 @@ msgstr ""
 # File: module/setup/view/settings/citiessections_add.phtml, line: 20
 # File: module/setup/view/settings/citiessections_edit.phtml, line: 25
 # File: module/setup/view/settings/countries_edit.phtml, line: 96
-# File: module/setup/view/settings/states_edit.phtml, line: 94
 # File: module/setup/view/settings/newcity.phtml, line: 98
+# File: module/setup/view/settings/states_edit.phtml, line: 94
 msgid "Section"
 msgstr ""
 #
@@ -31963,8 +31939,8 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 101
 # File: module/setup/view/settings/citiessections_edit.phtml, line: 65
 # File: module/setup/view/settings/countries_edit.phtml, line: 25
-# File: module/setup/view/settings/states_edit.phtml, line: 21
 # File: module/setup/view/settings/newcity.phtml, line: 101
+# File: module/setup/view/settings/states_edit.phtml, line: 21
 msgid "Sort Order"
 msgstr ""
 #
@@ -34681,10 +34657,10 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 181
 # File: module/setup/view/settings/cities_edit.phtml, line: 285
 # File: module/setup/view/settings/countries_edit.phtml, line: 45
-# File: module/setup/view/settings/states_edit.phtml, line: 38
 # File: module/setup/view/settings/newcity.phtml, line: 179
 # File: module/setup/view/settings/newcity.phtml, line: 181
 # File: module/setup/view/settings/newcity.phtml, line: 285
+# File: module/setup/view/settings/states_edit.phtml, line: 38
 msgid "Description ES"
 msgstr ""
 #
@@ -34696,10 +34672,10 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 189
 # File: module/setup/view/settings/cities_edit.phtml, line: 286
 # File: module/setup/view/settings/countries_edit.phtml, line: 46
-# File: module/setup/view/settings/states_edit.phtml, line: 39
 # File: module/setup/view/settings/newcity.phtml, line: 187
 # File: module/setup/view/settings/newcity.phtml, line: 189
 # File: module/setup/view/settings/newcity.phtml, line: 286
+# File: module/setup/view/settings/states_edit.phtml, line: 39
 msgid "Description PT"
 msgstr ""
 #
@@ -34711,10 +34687,10 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 205
 # File: module/setup/view/settings/cities_edit.phtml, line: 289
 # File: module/setup/view/settings/countries_edit.phtml, line: 49
-# File: module/setup/view/settings/states_edit.phtml, line: 42
 # File: module/setup/view/settings/newcity.phtml, line: 203
 # File: module/setup/view/settings/newcity.phtml, line: 205
 # File: module/setup/view/settings/newcity.phtml, line: 289
+# File: module/setup/view/settings/states_edit.phtml, line: 42
 msgid "Description DE"
 msgstr ""
 #
@@ -34726,10 +34702,10 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 197
 # File: module/setup/view/settings/cities_edit.phtml, line: 292
 # File: module/setup/view/settings/countries_edit.phtml, line: 52
-# File: module/setup/view/settings/states_edit.phtml, line: 45
 # File: module/setup/view/settings/newcity.phtml, line: 195
 # File: module/setup/view/settings/newcity.phtml, line: 197
 # File: module/setup/view/settings/newcity.phtml, line: 292
+# File: module/setup/view/settings/states_edit.phtml, line: 45
 msgid "Description FR"
 msgstr ""
 #
@@ -34741,10 +34717,10 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 213
 # File: module/setup/view/settings/cities_edit.phtml, line: 295
 # File: module/setup/view/settings/countries_edit.phtml, line: 55
-# File: module/setup/view/settings/states_edit.phtml, line: 48
 # File: module/setup/view/settings/newcity.phtml, line: 211
 # File: module/setup/view/settings/newcity.phtml, line: 213
 # File: module/setup/view/settings/newcity.phtml, line: 295
+# File: module/setup/view/settings/states_edit.phtml, line: 48
 msgid "Description IT"
 msgstr ""
 #
@@ -34756,10 +34732,10 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 245
 # File: module/setup/view/settings/cities_edit.phtml, line: 287
 # File: module/setup/view/settings/countries_edit.phtml, line: 47
-# File: module/setup/view/settings/states_edit.phtml, line: 40
 # File: module/setup/view/settings/newcity.phtml, line: 243
 # File: module/setup/view/settings/newcity.phtml, line: 245
 # File: module/setup/view/settings/newcity.phtml, line: 287
+# File: module/setup/view/settings/states_edit.phtml, line: 40
 msgid "Description ZH"
 msgstr ""
 #
@@ -34771,10 +34747,10 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 269
 # File: module/setup/view/settings/cities_edit.phtml, line: 291
 # File: module/setup/view/settings/countries_edit.phtml, line: 51
-# File: module/setup/view/settings/states_edit.phtml, line: 44
 # File: module/setup/view/settings/newcity.phtml, line: 267
 # File: module/setup/view/settings/newcity.phtml, line: 269
 # File: module/setup/view/settings/newcity.phtml, line: 291
+# File: module/setup/view/settings/states_edit.phtml, line: 44
 msgid "Description RU"
 msgstr ""
 #
@@ -34786,10 +34762,10 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 253
 # File: module/setup/view/settings/cities_edit.phtml, line: 288
 # File: module/setup/view/settings/countries_edit.phtml, line: 48
-# File: module/setup/view/settings/states_edit.phtml, line: 41
 # File: module/setup/view/settings/newcity.phtml, line: 251
 # File: module/setup/view/settings/newcity.phtml, line: 253
 # File: module/setup/view/settings/newcity.phtml, line: 288
+# File: module/setup/view/settings/states_edit.phtml, line: 41
 msgid "Description AR"
 msgstr ""
 #
@@ -34895,8 +34871,8 @@ msgstr ""
 # File: module/ages/view/ages/packages/edit_location.phtml, line: 63
 # File: module/setup/view/settings/cities_edit.phtml, line: 97
 # File: module/setup/view/settings/countries_edit.phtml, line: 17
-# File: module/setup/view/settings/states_edit.phtml, line: 17
 # File: module/setup/view/settings/newcity.phtml, line: 97
+# File: module/setup/view/settings/states_edit.phtml, line: 17
 msgid "Depth"
 msgstr ""
 #
@@ -35046,17 +35022,24 @@ msgstr ""
 msgid "Please select cruise"
 msgstr ""
 #
+# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 5
+# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 107
+# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 108
+# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 113
+msgid "Invoices in Queue"
+msgstr ""
+#
+# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 19
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 37
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 19
 # File: module/ages/view/ages/cruises/searchreservations.phtml, line: 36
-# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 19
 msgid "# Adults"
 msgstr ""
 #
+# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 20
 # File: module/ages/view/ages/cruises/listreservations.phtml, line: 38
 # File: module/ages/view/ages/cruises/reservations.phtml, line: 20
 # File: module/ages/view/ages/cruises/searchreservations.phtml, line: 37
-# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 20
 msgid "# Children"
 msgstr ""
 #
@@ -35267,13 +35250,6 @@ msgstr ""
 # File: module/ages/view/ages/cruises/staticvideos.phtml, line: 129
 # File: module/ages/view/ages/cruises/staticvideos.phtml, line: 134
 msgid "Static Videos"
-msgstr ""
-#
-# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 5
-# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 107
-# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 108
-# File: module/ages/view/ages/cruises/invoicesinqueue.phtml, line: 113
-msgid "Invoices in Queue"
 msgstr ""
 #
 # File: module/ages/view/ages/cruises/viewdetails.phtml, line: 5
@@ -35619,12 +35595,12 @@ msgstr ""
 # File: module/setup/view/activities/tourico.phtml, line: 158
 # File: module/setup/view/activities/trapsatur.phtml, line: 132
 # File: module/setup/view/air/amadeus.phtml, line: 508
+# File: module/setup/view/air/amadeuslcc.phtml, line: 291
 # File: module/setup/view/air/arajetsabre.phtml, line: 148
 # File: module/setup/view/air/avianca.phtml, line: 283
 # File: module/setup/view/air/latamndcsabre.phtml, line: 149
 # File: module/setup/view/air/tapndcsabre.phtml, line: 148
 # File: module/setup/view/air/volaris.phtml, line: 250
-# File: module/setup/view/air/amadeuslcc.phtml, line: 291
 # File: module/setup/view/cars/amadeus.phtml, line: 270
 # File: module/setup/view/cars/bookinggo.phtml, line: 130
 # File: module/setup/view/cars/tourico.phtml, line: 149
@@ -35743,8 +35719,8 @@ msgstr ""
 # File: module/ages/view/ages/customers/addpassdocuments.phtml, line: 24
 # File: module/ages/view/ages/customers/editpassdocuments.phtml, line: 24
 # File: module/ages/view/ages/customers/editpassengerdocuments.phtml, line: 12
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 174
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5952
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 174
 msgid "Age"
 msgstr ""
 #
@@ -36110,9 +36086,9 @@ msgstr ""
 # File: module/ages/view/ages/reports/communications.phtml, line: 45
 # File: module/setup/view/air/amadeus.phtml, line: 328
 # File: module/setup/view/air/amadeus.phtml, line: 329
-# File: module/setup/view/air/ctm.phtml, line: 51
 # File: module/setup/view/air/amadeuslcc.phtml, line: 166
 # File: module/setup/view/air/amadeuslcc.phtml, line: 167
+# File: module/setup/view/air/ctm.phtml, line: 51
 # File: module/setup/view/hotels/aio.phtml, line: 63
 # File: module/setup/view/hotels/aio.phtml, line: 64
 # File: module/setup/view/hotels/ati.phtml, line: 94
@@ -38027,67 +38003,6 @@ msgstr ""
 msgid "Set Time Limit"
 msgstr ""
 #
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 4
-msgid "FIRST NAME"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 5
-msgid "LAST NAME"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 7
-msgid "DOCUMENT NUMBER"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 8
-msgid "EXP. DATE"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 9
-msgid "ISSUING COUNTRY"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 10
-msgid "NATIONALITY"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 11
-msgid "EMAIL"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 12
-msgid "PHONE"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 13
-msgid "AGE"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 14
-msgid "FREQUENT FLYER NUMBER"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 15
-msgid "ETICKET"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 16
-# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 735
-msgid "HOTEL"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 55
-msgid "Are you sure you want to delete this guest?"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 127
-msgid "Modify Guest"
-msgstr ""
-#
-# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 156
-msgid "Exp. Date"
-msgstr ""
-#
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 40
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 61
 msgid "Send Voucher"
@@ -38626,6 +38541,11 @@ msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 728
 msgid "Price change detected at checkout. Please review booking."
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 735
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 16
+msgid "HOTEL"
 msgstr ""
 #
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 736
@@ -39932,6 +39852,62 @@ msgstr ""
 msgid "Are you sure you want to deny this reservation?"
 msgstr ""
 #
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 4
+msgid "FIRST NAME"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 5
+msgid "LAST NAME"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 7
+msgid "DOCUMENT NUMBER"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 8
+msgid "EXP. DATE"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 9
+msgid "ISSUING COUNTRY"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 10
+msgid "NATIONALITY"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 11
+msgid "EMAIL"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 12
+msgid "PHONE"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 13
+msgid "AGE"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 14
+msgid "FREQUENT FLYER NUMBER"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 15
+msgid "ETICKET"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 55
+msgid "Are you sure you want to delete this guest?"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 127
+msgid "Modify Guest"
+msgstr ""
+#
+# File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 156
+msgid "Exp. Date"
+msgstr ""
+#
 # File: module/ages/view/ages/gift-cards/add.phtml, line: 5
 # File: module/ages/view/ages/gift-cards/add.phtml, line: 67
 msgid "Add New Gift Card"
@@ -40025,9 +40001,68 @@ msgstr ""
 msgid "Please enter giftcard"
 msgstr ""
 #
-# File: module/ages/view/ages/gift-cards/earningsettings.phtml, line: 5
 # File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 5
+# File: module/ages/view/ages/gift-cards/earningsettings.phtml, line: 5
 msgid "Giftcards"
+msgstr ""
+#
+# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 5
+# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 106
+# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 107
+# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 112
+msgid "Agent Incentives"
+msgstr ""
+#
+# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 14
+# File: module/ages/view/ages/gift-cards/agentincentives_add.phtml, line: 14
+# File: module/ages/view/ages/gift-cards/agentincentives_edit.phtml, line: 14
+msgid "Min Sales"
+msgstr ""
+#
+# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 15
+# File: module/ages/view/ages/gift-cards/agentincentives_add.phtml, line: 15
+# File: module/ages/view/ages/gift-cards/agentincentives_edit.phtml, line: 15
+msgid "Max Sales"
+msgstr ""
+#
+# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 16
+# File: module/ages/view/ages/gift-cards/agentincentives_add.phtml, line: 16
+# File: module/ages/view/ages/gift-cards/agentincentives_edit.phtml, line: 16
+msgid "Reward Label"
+msgstr ""
+#
+# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 17
+# File: module/ages/view/ages/gift-cards/agentincentives_add.phtml, line: 17
+# File: module/ages/view/ages/gift-cards/agentincentives_edit.phtml, line: 17
+msgid "Reward Amount"
+msgstr ""
+#
+# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 18
+# File: module/ages/view/ages/gift-cards/agentincentives_add.phtml, line: 18
+# File: module/ages/view/ages/gift-cards/agentincentives_edit.phtml, line: 18
+msgid "Reward Percent"
+msgstr ""
+#
+# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 64
+msgid "Are you sure you want to delete this agent incentive?"
+msgstr ""
+#
+# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 96
+msgid "Add New Agent Incentives"
+msgstr ""
+#
+# File: module/ages/view/ages/gift-cards/agentincentives_add.phtml, line: 5
+# File: module/ages/view/ages/gift-cards/agentincentives_add.phtml, line: 27
+msgid "Add New Agent Incentive"
+msgstr ""
+#
+# File: module/ages/view/ages/gift-cards/agentincentives_edit.phtml, line: 5
+msgid "Edit Agent Incentives"
+msgstr ""
+#
+# File: module/ages/view/ages/gift-cards/agentincentives_edit.phtml, line: 33
+# File: module/ages/view/ages/gift-cards/earningsettings_edit.phtml, line: 25
+msgid "Update Earning Settings"
 msgstr ""
 #
 # File: module/ages/view/ages/gift-cards/earningsettings.phtml, line: 5
@@ -40069,11 +40104,6 @@ msgstr ""
 #
 # File: module/ages/view/ages/gift-cards/earningsettings_edit.phtml, line: 5
 msgid "Edit Earning Settings"
-msgstr ""
-#
-# File: module/ages/view/ages/gift-cards/earningsettings_edit.phtml, line: 25
-# File: module/ages/view/ages/gift-cards/agentincentives_edit.phtml, line: 33
-msgid "Update Earning Settings"
 msgstr ""
 #
 # File: module/ages/view/ages/gift-cards/edit.phtml, line: 5
@@ -40208,60 +40238,6 @@ msgstr ""
 msgid "Search Gift Card"
 msgstr ""
 #
-# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 5
-# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 106
-# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 107
-# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 112
-msgid "Agent Incentives"
-msgstr ""
-#
-# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 14
-# File: module/ages/view/ages/gift-cards/agentincentives_add.phtml, line: 14
-# File: module/ages/view/ages/gift-cards/agentincentives_edit.phtml, line: 14
-msgid "Min Sales"
-msgstr ""
-#
-# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 15
-# File: module/ages/view/ages/gift-cards/agentincentives_add.phtml, line: 15
-# File: module/ages/view/ages/gift-cards/agentincentives_edit.phtml, line: 15
-msgid "Max Sales"
-msgstr ""
-#
-# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 16
-# File: module/ages/view/ages/gift-cards/agentincentives_add.phtml, line: 16
-# File: module/ages/view/ages/gift-cards/agentincentives_edit.phtml, line: 16
-msgid "Reward Label"
-msgstr ""
-#
-# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 17
-# File: module/ages/view/ages/gift-cards/agentincentives_add.phtml, line: 17
-# File: module/ages/view/ages/gift-cards/agentincentives_edit.phtml, line: 17
-msgid "Reward Amount"
-msgstr ""
-#
-# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 18
-# File: module/ages/view/ages/gift-cards/agentincentives_add.phtml, line: 18
-# File: module/ages/view/ages/gift-cards/agentincentives_edit.phtml, line: 18
-msgid "Reward Percent"
-msgstr ""
-#
-# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 64
-msgid "Are you sure you want to delete this agent incentive?"
-msgstr ""
-#
-# File: module/ages/view/ages/gift-cards/agentincentives.phtml, line: 96
-msgid "Add New Agent Incentives"
-msgstr ""
-#
-# File: module/ages/view/ages/gift-cards/agentincentives_add.phtml, line: 5
-# File: module/ages/view/ages/gift-cards/agentincentives_add.phtml, line: 27
-msgid "Add New Agent Incentive"
-msgstr ""
-#
-# File: module/ages/view/ages/gift-cards/agentincentives_edit.phtml, line: 5
-msgid "Edit Agent Incentives"
-msgstr ""
-#
 # File: module/ages/view/ages/google/add.phtml, line: 9
 # File: module/ages/view/ages/google/add.phtml, line: 34
 # File: module/ages/view/ages/google/index.phtml, line: 82
@@ -40328,8 +40304,8 @@ msgstr ""
 # File: module/setup/view/settings/globalware.phtml, line: 5
 # File: module/setup/view/settings/paymentsexclude.phtml, line: 5
 # File: module/setup/view/settings/realtimepayments.phtml, line: 5
-# File: module/setup/view/settings/states.phtml, line: 5
 # File: module/setup/view/settings/settings.phtml, line: 5
+# File: module/setup/view/settings/states.phtml, line: 5
 msgid "Settings"
 msgstr ""
 #
@@ -47636,6 +47612,7 @@ msgstr ""
 # File: module/setup/view/air/aeromexico.phtml, line: 20
 # File: module/setup/view/air/airgateway.phtml, line: 24
 # File: module/setup/view/air/amadeus.phtml, line: 26
+# File: module/setup/view/air/amadeuslcc.phtml, line: 26
 # File: module/setup/view/air/americanairlines.phtml, line: 19
 # File: module/setup/view/air/arajetsabre.phtml, line: 50
 # File: module/setup/view/air/avianca.phtml, line: 31
@@ -47656,7 +47633,6 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 75
 # File: module/setup/view/air/unitedairlines.phtml, line: 20
 # File: module/setup/view/air/volaris.phtml, line: 27
-# File: module/setup/view/air/amadeuslcc.phtml, line: 26
 # File: module/setup/view/cars/amadeus.phtml, line: 26
 # File: module/setup/view/cars/avis.phtml, line: 28
 # File: module/setup/view/cars/avisbudget.phtml, line: 28
@@ -47700,6 +47676,7 @@ msgstr ""
 # File: module/setup/view/hotels/convencional.phtml, line: 20
 # File: module/setup/view/hotels/cosmobeds.phtml, line: 30
 # File: module/setup/view/hotels/ctrip.phtml, line: 33
+# File: module/setup/view/hotels/derbysoft.phtml, line: 29
 # File: module/setup/view/hotels/destinationservices.phtml, line: 27
 # File: module/setup/view/hotels/dhisco.phtml, line: 28
 # File: module/setup/view/hotels/didatravel.phtml, line: 18
@@ -47791,7 +47768,6 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 16
 # File: module/setup/view/hotels/youtravel.phtml, line: 28
 # File: module/setup/view/hotels/zoytrip.phtml, line: 16
-# File: module/setup/view/hotels/derbysoft.phtml, line: 29
 # File: module/setup/view/packages/abreu.phtml, line: 29
 # File: module/setup/view/packages/assistcard.phtml, line: 27
 # File: module/setup/view/packages/citytours.phtml, line: 33
@@ -47813,15 +47789,15 @@ msgstr ""
 # File: module/setup/view/transfers/actiontravel.phtml, line: 26
 # File: module/setup/view/transfers/daytrip.phtml, line: 24
 # File: module/setup/view/transfers/didatravel.phtml, line: 24
+# File: module/setup/view/transfers/flix.phtml, line: 28
 # File: module/setup/view/transfers/gltours.phtml, line: 26
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 26
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 23
+# File: module/setup/view/transfers/mozio.phtml, line: 29
 # File: module/setup/view/transfers/nexustours.phtml, line: 27
 # File: module/setup/view/transfers/shuttlefare.phtml, line: 26
 # File: module/setup/view/transfers/trapsatur.phtml, line: 30
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 29
-# File: module/setup/view/transfers/flix.phtml, line: 28
-# File: module/setup/view/transfers/mozio.phtml, line: 29
 msgid "Default - All Affiliates"
 msgstr ""
 #
@@ -47832,6 +47808,7 @@ msgstr ""
 # File: module/setup/view/air/aeromexico.phtml, line: 31
 # File: module/setup/view/air/airgateway.phtml, line: 35
 # File: module/setup/view/air/amadeus.phtml, line: 37
+# File: module/setup/view/air/amadeuslcc.phtml, line: 37
 # File: module/setup/view/air/americanairlines.phtml, line: 30
 # File: module/setup/view/air/arajetsabre.phtml, line: 61
 # File: module/setup/view/air/avianca.phtml, line: 43
@@ -47852,7 +47829,6 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 88
 # File: module/setup/view/air/unitedairlines.phtml, line: 31
 # File: module/setup/view/air/volaris.phtml, line: 38
-# File: module/setup/view/air/amadeuslcc.phtml, line: 37
 # File: module/setup/view/cars/amadeus.phtml, line: 37
 # File: module/setup/view/cars/avis.phtml, line: 39
 # File: module/setup/view/cars/avisbudget.phtml, line: 39
@@ -47893,6 +47869,7 @@ msgstr ""
 # File: module/setup/view/hotels/convencional.phtml, line: 31
 # File: module/setup/view/hotels/cosmobeds.phtml, line: 41
 # File: module/setup/view/hotels/ctrip.phtml, line: 44
+# File: module/setup/view/hotels/derbysoft.phtml, line: 40
 # File: module/setup/view/hotels/destinationservices.phtml, line: 38
 # File: module/setup/view/hotels/dhisco.phtml, line: 39
 # File: module/setup/view/hotels/didatravel.phtml, line: 29
@@ -47984,7 +47961,6 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 20
 # File: module/setup/view/hotels/youtravel.phtml, line: 39
 # File: module/setup/view/hotels/zoytrip.phtml, line: 20
-# File: module/setup/view/hotels/derbysoft.phtml, line: 40
 # File: module/setup/view/settings/b2bwallet.phtml, line: 37
 # File: module/setup/view/trains/travelport.phtml, line: 37
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 36
@@ -48346,6 +48322,7 @@ msgstr ""
 # File: module/setup/view/hotels/convencional.phtml, line: 78
 # File: module/setup/view/hotels/cosmobeds.phtml, line: 82
 # File: module/setup/view/hotels/ctrip.phtml, line: 75
+# File: module/setup/view/hotels/derbysoft.phtml, line: 82
 # File: module/setup/view/hotels/destinationservices.phtml, line: 49
 # File: module/setup/view/hotels/dhisco.phtml, line: 54
 # File: module/setup/view/hotels/didatravel.phtml, line: 80
@@ -48437,7 +48414,6 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 30
 # File: module/setup/view/hotels/youtravel.phtml, line: 58
 # File: module/setup/view/hotels/zoytrip.phtml, line: 30
-# File: module/setup/view/hotels/derbysoft.phtml, line: 82
 # File: module/setup/view/transfers/nexustours.phtml, line: 57
 msgid "Parallel Search"
 msgstr ""
@@ -48476,6 +48452,8 @@ msgstr ""
 # File: module/setup/view/air/airgateway.phtml, line: 51
 # File: module/setup/view/air/amadeus.phtml, line: 223
 # File: module/setup/view/air/amadeus.phtml, line: 224
+# File: module/setup/view/air/amadeuslcc.phtml, line: 83
+# File: module/setup/view/air/amadeuslcc.phtml, line: 84
 # File: module/setup/view/air/americanairlines.phtml, line: 175
 # File: module/setup/view/air/arajetsabre.phtml, line: 70
 # File: module/setup/view/air/avianca.phtml, line: 164
@@ -48504,8 +48482,6 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 186
 # File: module/setup/view/air/unitedairlines.phtml, line: 184
 # File: module/setup/view/air/volaris.phtml, line: 148
-# File: module/setup/view/air/amadeuslcc.phtml, line: 83
-# File: module/setup/view/air/amadeuslcc.phtml, line: 84
 # File: module/setup/view/cars/amadeus.phtml, line: 142
 # File: module/setup/view/cars/amadeus.phtml, line: 143
 # File: module/setup/view/cars/avis.phtml, line: 61
@@ -48587,6 +48563,8 @@ msgstr ""
 # File: module/setup/view/hotels/cosmobeds.phtml, line: 70
 # File: module/setup/view/hotels/ctrip.phtml, line: 79
 # File: module/setup/view/hotels/ctrip.phtml, line: 80
+# File: module/setup/view/hotels/derbysoft.phtml, line: 69
+# File: module/setup/view/hotels/derbysoft.phtml, line: 70
 # File: module/setup/view/hotels/destinationservices.phtml, line: 53
 # File: module/setup/view/hotels/destinationservices.phtml, line: 54
 # File: module/setup/view/hotels/dhisco.phtml, line: 58
@@ -48763,8 +48741,6 @@ msgstr ""
 # File: module/setup/view/hotels/youtravel.phtml, line: 61
 # File: module/setup/view/hotels/zoytrip.phtml, line: 36
 # File: module/setup/view/hotels/zoytrip.phtml, line: 37
-# File: module/setup/view/hotels/derbysoft.phtml, line: 69
-# File: module/setup/view/hotels/derbysoft.phtml, line: 70
 # File: module/setup/view/packages/abreu.phtml, line: 43
 # File: module/setup/view/packages/abreu.phtml, line: 44
 # File: module/setup/view/packages/assistcard.phtml, line: 75
@@ -48805,12 +48781,16 @@ msgstr ""
 # File: module/setup/view/transfers/daytrip.phtml, line: 38
 # File: module/setup/view/transfers/didatravel.phtml, line: 36
 # File: module/setup/view/transfers/didatravel.phtml, line: 37
+# File: module/setup/view/transfers/flix.phtml, line: 93
+# File: module/setup/view/transfers/flix.phtml, line: 94
 # File: module/setup/view/transfers/gltours.phtml, line: 39
 # File: module/setup/view/transfers/gltours.phtml, line: 40
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 110
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 111
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 76
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 77
+# File: module/setup/view/transfers/mozio.phtml, line: 98
+# File: module/setup/view/transfers/mozio.phtml, line: 99
 # File: module/setup/view/transfers/nexustours.phtml, line: 59
 # File: module/setup/view/transfers/nexustours.phtml, line: 60
 # File: module/setup/view/transfers/shuttlefare.phtml, line: 39
@@ -48819,10 +48799,6 @@ msgstr ""
 # File: module/setup/view/transfers/trapsatur.phtml, line: 54
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 47
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 48
-# File: module/setup/view/transfers/flix.phtml, line: 93
-# File: module/setup/view/transfers/flix.phtml, line: 94
-# File: module/setup/view/transfers/mozio.phtml, line: 98
-# File: module/setup/view/transfers/mozio.phtml, line: 99
 msgid "B2B Markup"
 msgstr ""
 #
@@ -48860,6 +48836,8 @@ msgstr ""
 # File: module/setup/view/air/airgateway.phtml, line: 52
 # File: module/setup/view/air/amadeus.phtml, line: 227
 # File: module/setup/view/air/amadeus.phtml, line: 228
+# File: module/setup/view/air/amadeuslcc.phtml, line: 87
+# File: module/setup/view/air/amadeuslcc.phtml, line: 88
 # File: module/setup/view/air/americanairlines.phtml, line: 176
 # File: module/setup/view/air/arajetsabre.phtml, line: 71
 # File: module/setup/view/air/avianca.phtml, line: 172
@@ -48888,8 +48866,6 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 194
 # File: module/setup/view/air/unitedairlines.phtml, line: 185
 # File: module/setup/view/air/volaris.phtml, line: 149
-# File: module/setup/view/air/amadeuslcc.phtml, line: 87
-# File: module/setup/view/air/amadeuslcc.phtml, line: 88
 # File: module/setup/view/cars/amadeus.phtml, line: 145
 # File: module/setup/view/cars/amadeus.phtml, line: 146
 # File: module/setup/view/cars/avis.phtml, line: 65
@@ -48971,6 +48947,8 @@ msgstr ""
 # File: module/setup/view/hotels/cosmobeds.phtml, line: 73
 # File: module/setup/view/hotels/ctrip.phtml, line: 82
 # File: module/setup/view/hotels/ctrip.phtml, line: 83
+# File: module/setup/view/hotels/derbysoft.phtml, line: 72
+# File: module/setup/view/hotels/derbysoft.phtml, line: 73
 # File: module/setup/view/hotels/destinationservices.phtml, line: 56
 # File: module/setup/view/hotels/destinationservices.phtml, line: 57
 # File: module/setup/view/hotels/dhisco.phtml, line: 61
@@ -49147,8 +49125,6 @@ msgstr ""
 # File: module/setup/view/hotels/youtravel.phtml, line: 64
 # File: module/setup/view/hotels/zoytrip.phtml, line: 39
 # File: module/setup/view/hotels/zoytrip.phtml, line: 40
-# File: module/setup/view/hotels/derbysoft.phtml, line: 72
-# File: module/setup/view/hotels/derbysoft.phtml, line: 73
 # File: module/setup/view/packages/abreu.phtml, line: 46
 # File: module/setup/view/packages/abreu.phtml, line: 47
 # File: module/setup/view/packages/assistcard.phtml, line: 78
@@ -49191,12 +49167,16 @@ msgstr ""
 # File: module/setup/view/transfers/daytrip.phtml, line: 41
 # File: module/setup/view/transfers/didatravel.phtml, line: 40
 # File: module/setup/view/transfers/didatravel.phtml, line: 41
+# File: module/setup/view/transfers/flix.phtml, line: 96
+# File: module/setup/view/transfers/flix.phtml, line: 97
 # File: module/setup/view/transfers/gltours.phtml, line: 42
 # File: module/setup/view/transfers/gltours.phtml, line: 43
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 114
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 115
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 80
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 81
+# File: module/setup/view/transfers/mozio.phtml, line: 101
+# File: module/setup/view/transfers/mozio.phtml, line: 102
 # File: module/setup/view/transfers/nexustours.phtml, line: 62
 # File: module/setup/view/transfers/nexustours.phtml, line: 63
 # File: module/setup/view/transfers/shuttlefare.phtml, line: 42
@@ -49205,10 +49185,6 @@ msgstr ""
 # File: module/setup/view/transfers/trapsatur.phtml, line: 57
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 51
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 52
-# File: module/setup/view/transfers/flix.phtml, line: 96
-# File: module/setup/view/transfers/flix.phtml, line: 97
-# File: module/setup/view/transfers/mozio.phtml, line: 101
-# File: module/setup/view/transfers/mozio.phtml, line: 102
 msgid "B2C Markup"
 msgstr ""
 #
@@ -49246,6 +49222,8 @@ msgstr ""
 # File: module/setup/view/air/airgateway.phtml, line: 53
 # File: module/setup/view/air/amadeus.phtml, line: 231
 # File: module/setup/view/air/amadeus.phtml, line: 232
+# File: module/setup/view/air/amadeuslcc.phtml, line: 91
+# File: module/setup/view/air/amadeuslcc.phtml, line: 92
 # File: module/setup/view/air/americanairlines.phtml, line: 177
 # File: module/setup/view/air/arajetsabre.phtml, line: 72
 # File: module/setup/view/air/avianca.phtml, line: 180
@@ -49273,8 +49251,6 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 202
 # File: module/setup/view/air/unitedairlines.phtml, line: 186
 # File: module/setup/view/air/volaris.phtml, line: 150
-# File: module/setup/view/air/amadeuslcc.phtml, line: 91
-# File: module/setup/view/air/amadeuslcc.phtml, line: 92
 # File: module/setup/view/cars/amadeus.phtml, line: 148
 # File: module/setup/view/cars/amadeus.phtml, line: 149
 # File: module/setup/view/cars/avis.phtml, line: 69
@@ -49359,6 +49335,8 @@ msgstr ""
 # File: module/setup/view/hotels/cosmobeds.phtml, line: 76
 # File: module/setup/view/hotels/ctrip.phtml, line: 85
 # File: module/setup/view/hotels/ctrip.phtml, line: 86
+# File: module/setup/view/hotels/derbysoft.phtml, line: 75
+# File: module/setup/view/hotels/derbysoft.phtml, line: 76
 # File: module/setup/view/hotels/destinationservices.phtml, line: 59
 # File: module/setup/view/hotels/destinationservices.phtml, line: 60
 # File: module/setup/view/hotels/dhisco.phtml, line: 64
@@ -49534,8 +49512,6 @@ msgstr ""
 # File: module/setup/view/hotels/youtravel.phtml, line: 67
 # File: module/setup/view/hotels/zoytrip.phtml, line: 42
 # File: module/setup/view/hotels/zoytrip.phtml, line: 43
-# File: module/setup/view/hotels/derbysoft.phtml, line: 75
-# File: module/setup/view/hotels/derbysoft.phtml, line: 76
 # File: module/setup/view/packages/abreu.phtml, line: 49
 # File: module/setup/view/packages/abreu.phtml, line: 50
 # File: module/setup/view/packages/assistcard.phtml, line: 81
@@ -49576,12 +49552,16 @@ msgstr ""
 # File: module/setup/view/transfers/daytrip.phtml, line: 44
 # File: module/setup/view/transfers/didatravel.phtml, line: 44
 # File: module/setup/view/transfers/didatravel.phtml, line: 45
+# File: module/setup/view/transfers/flix.phtml, line: 99
+# File: module/setup/view/transfers/flix.phtml, line: 100
 # File: module/setup/view/transfers/gltours.phtml, line: 45
 # File: module/setup/view/transfers/gltours.phtml, line: 46
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 118
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 119
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 84
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 85
+# File: module/setup/view/transfers/mozio.phtml, line: 104
+# File: module/setup/view/transfers/mozio.phtml, line: 105
 # File: module/setup/view/transfers/nexustours.phtml, line: 65
 # File: module/setup/view/transfers/nexustours.phtml, line: 66
 # File: module/setup/view/transfers/shuttlefare.phtml, line: 45
@@ -49590,10 +49570,6 @@ msgstr ""
 # File: module/setup/view/transfers/trapsatur.phtml, line: 60
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 55
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 56
-# File: module/setup/view/transfers/flix.phtml, line: 99
-# File: module/setup/view/transfers/flix.phtml, line: 100
-# File: module/setup/view/transfers/mozio.phtml, line: 104
-# File: module/setup/view/transfers/mozio.phtml, line: 105
 msgid "Search Timeout"
 msgstr ""
 #
@@ -49631,6 +49607,8 @@ msgstr ""
 # File: module/setup/view/air/airgateway.phtml, line: 54
 # File: module/setup/view/air/amadeus.phtml, line: 236
 # File: module/setup/view/air/amadeus.phtml, line: 237
+# File: module/setup/view/air/amadeuslcc.phtml, line: 96
+# File: module/setup/view/air/amadeuslcc.phtml, line: 97
 # File: module/setup/view/air/americanairlines.phtml, line: 178
 # File: module/setup/view/air/arajetsabre.phtml, line: 73
 # File: module/setup/view/air/avianca.phtml, line: 188
@@ -49659,8 +49637,6 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 211
 # File: module/setup/view/air/unitedairlines.phtml, line: 187
 # File: module/setup/view/air/volaris.phtml, line: 151
-# File: module/setup/view/air/amadeuslcc.phtml, line: 96
-# File: module/setup/view/air/amadeuslcc.phtml, line: 97
 # File: module/setup/view/cars/amadeus.phtml, line: 151
 # File: module/setup/view/cars/amadeus.phtml, line: 152
 # File: module/setup/view/cars/avis.phtml, line: 73
@@ -49745,6 +49721,8 @@ msgstr ""
 # File: module/setup/view/hotels/cosmobeds.phtml, line: 80
 # File: module/setup/view/hotels/ctrip.phtml, line: 89
 # File: module/setup/view/hotels/ctrip.phtml, line: 90
+# File: module/setup/view/hotels/derbysoft.phtml, line: 79
+# File: module/setup/view/hotels/derbysoft.phtml, line: 80
 # File: module/setup/view/hotels/destinationservices.phtml, line: 63
 # File: module/setup/view/hotels/destinationservices.phtml, line: 64
 # File: module/setup/view/hotels/dhisco.phtml, line: 68
@@ -49921,8 +49899,6 @@ msgstr ""
 # File: module/setup/view/hotels/youtravel.phtml, line: 71
 # File: module/setup/view/hotels/zoytrip.phtml, line: 46
 # File: module/setup/view/hotels/zoytrip.phtml, line: 47
-# File: module/setup/view/hotels/derbysoft.phtml, line: 79
-# File: module/setup/view/hotels/derbysoft.phtml, line: 80
 # File: module/setup/view/packages/abreu.phtml, line: 53
 # File: module/setup/view/packages/abreu.phtml, line: 54
 # File: module/setup/view/packages/assistcard.phtml, line: 85
@@ -49963,12 +49939,16 @@ msgstr ""
 # File: module/setup/view/transfers/daytrip.phtml, line: 47
 # File: module/setup/view/transfers/didatravel.phtml, line: 48
 # File: module/setup/view/transfers/didatravel.phtml, line: 49
+# File: module/setup/view/transfers/flix.phtml, line: 102
+# File: module/setup/view/transfers/flix.phtml, line: 103
 # File: module/setup/view/transfers/gltours.phtml, line: 48
 # File: module/setup/view/transfers/gltours.phtml, line: 49
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 122
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 123
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 88
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 89
+# File: module/setup/view/transfers/mozio.phtml, line: 107
+# File: module/setup/view/transfers/mozio.phtml, line: 108
 # File: module/setup/view/transfers/nexustours.phtml, line: 69
 # File: module/setup/view/transfers/nexustours.phtml, line: 70
 # File: module/setup/view/transfers/shuttlefare.phtml, line: 48
@@ -49977,10 +49957,6 @@ msgstr ""
 # File: module/setup/view/transfers/trapsatur.phtml, line: 63
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 59
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 60
-# File: module/setup/view/transfers/flix.phtml, line: 102
-# File: module/setup/view/transfers/flix.phtml, line: 103
-# File: module/setup/view/transfers/mozio.phtml, line: 107
-# File: module/setup/view/transfers/mozio.phtml, line: 108
 msgid "Search Order"
 msgstr ""
 #
@@ -50050,6 +50026,8 @@ msgstr ""
 # File: module/setup/view/hotels/cosmobeds.phtml, line: 90
 # File: module/setup/view/hotels/ctrip.phtml, line: 97
 # File: module/setup/view/hotels/ctrip.phtml, line: 99
+# File: module/setup/view/hotels/derbysoft.phtml, line: 88
+# File: module/setup/view/hotels/derbysoft.phtml, line: 90
 # File: module/setup/view/hotels/destinationservices.phtml, line: 71
 # File: module/setup/view/hotels/destinationservices.phtml, line: 73
 # File: module/setup/view/hotels/dhisco.phtml, line: 76
@@ -50232,8 +50210,6 @@ msgstr ""
 # File: module/setup/view/hotels/youtravel.phtml, line: 80
 # File: module/setup/view/hotels/zoytrip.phtml, line: 54
 # File: module/setup/view/hotels/zoytrip.phtml, line: 56
-# File: module/setup/view/hotels/derbysoft.phtml, line: 88
-# File: module/setup/view/hotels/derbysoft.phtml, line: 90
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 65
 # File: module/setup/view/transfers/a2btransfers.phtml, line: 67
 # File: module/setup/view/transfers/actiontravel.phtml, line: 56
@@ -50242,12 +50218,16 @@ msgstr ""
 # File: module/setup/view/transfers/daytrip.phtml, line: 55
 # File: module/setup/view/transfers/didatravel.phtml, line: 56
 # File: module/setup/view/transfers/didatravel.phtml, line: 58
+# File: module/setup/view/transfers/flix.phtml, line: 109
+# File: module/setup/view/transfers/flix.phtml, line: 111
 # File: module/setup/view/transfers/gltours.phtml, line: 55
 # File: module/setup/view/transfers/gltours.phtml, line: 57
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 130
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 132
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 96
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 98
+# File: module/setup/view/transfers/mozio.phtml, line: 114
+# File: module/setup/view/transfers/mozio.phtml, line: 116
 # File: module/setup/view/transfers/nexustours.phtml, line: 77
 # File: module/setup/view/transfers/nexustours.phtml, line: 79
 # File: module/setup/view/transfers/shuttlefare.phtml, line: 55
@@ -50256,10 +50236,6 @@ msgstr ""
 # File: module/setup/view/transfers/trapsatur.phtml, line: 71
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 67
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 69
-# File: module/setup/view/transfers/flix.phtml, line: 109
-# File: module/setup/view/transfers/flix.phtml, line: 111
-# File: module/setup/view/transfers/mozio.phtml, line: 114
-# File: module/setup/view/transfers/mozio.phtml, line: 116
 msgid "Emergency Contacts"
 msgstr ""
 #
@@ -50296,6 +50272,7 @@ msgstr ""
 # File: module/setup/view/air/aeromexico.phtml, line: 294
 # File: module/setup/view/air/airgateway.phtml, line: 117
 # File: module/setup/view/air/amadeus.phtml, line: 577
+# File: module/setup/view/air/amadeuslcc.phtml, line: 312
 # File: module/setup/view/air/americanairlines.phtml, line: 301
 # File: module/setup/view/air/arajetsabre.phtml, line: 136
 # File: module/setup/view/air/avianca.phtml, line: 280
@@ -50315,7 +50292,6 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 347
 # File: module/setup/view/air/unitedairlines.phtml, line: 310
 # File: module/setup/view/air/volaris.phtml, line: 226
-# File: module/setup/view/air/amadeuslcc.phtml, line: 312
 # File: module/setup/view/cars/amadeus.phtml, line: 336
 # File: module/setup/view/cars/avis.phtml, line: 141
 # File: module/setup/view/cars/avisbudget.phtml, line: 174
@@ -50357,6 +50333,7 @@ msgstr ""
 # File: module/setup/view/hotels/convencional.phtml, line: 167
 # File: module/setup/view/hotels/cosmobeds.phtml, line: 167
 # File: module/setup/view/hotels/ctrip.phtml, line: 182
+# File: module/setup/view/hotels/derbysoft.phtml, line: 176
 # File: module/setup/view/hotels/destinationservices.phtml, line: 138
 # File: module/setup/view/hotels/dhisco.phtml, line: 149
 # File: module/setup/view/hotels/didatravel.phtml, line: 168
@@ -50448,7 +50425,6 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 190
 # File: module/setup/view/hotels/youtravel.phtml, line: 160
 # File: module/setup/view/hotels/zoytrip.phtml, line: 118
-# File: module/setup/view/hotels/derbysoft.phtml, line: 176
 # File: module/setup/view/packages/abreu.phtml, line: 117
 # File: module/setup/view/packages/assistcard.phtml, line: 187
 # File: module/setup/view/packages/citytours.phtml, line: 139
@@ -50469,15 +50445,15 @@ msgstr ""
 # File: module/setup/view/transfers/actiontravel.phtml, line: 123
 # File: module/setup/view/transfers/daytrip.phtml, line: 114
 # File: module/setup/view/transfers/didatravel.phtml, line: 123
+# File: module/setup/view/transfers/flix.phtml, line: 242
 # File: module/setup/view/transfers/gltours.phtml, line: 122
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 230
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 190
+# File: module/setup/view/transfers/mozio.phtml, line: 241
 # File: module/setup/view/transfers/nexustours.phtml, line: 150
 # File: module/setup/view/transfers/shuttlefare.phtml, line: 122
 # File: module/setup/view/transfers/trapsatur.phtml, line: 142
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 137
-# File: module/setup/view/transfers/flix.phtml, line: 242
-# File: module/setup/view/transfers/mozio.phtml, line: 241
 msgid "Please enter B2B markup"
 msgstr ""
 #
@@ -50588,9 +50564,9 @@ msgstr ""
 # File: module/setup/view/hotels/roomer.phtml, line: 177
 # File: module/setup/view/hotels/roomsxml.phtml, line: 204
 # File: module/setup/view/hotels/travolutionary.phtml, line: 178
-# File: module/setup/view/transfers/nexustours.phtml, line: 159
 # File: module/setup/view/transfers/flix.phtml, line: 209
 # File: module/setup/view/transfers/mozio.phtml, line: 202
+# File: module/setup/view/transfers/nexustours.phtml, line: 159
 msgid "Please enter Currency"
 msgstr ""
 #
@@ -50612,6 +50588,7 @@ msgstr ""
 # File: module/setup/view/air/aeromexico.phtml, line: 354
 # File: module/setup/view/air/airgateway.phtml, line: 123
 # File: module/setup/view/air/amadeus.phtml, line: 580
+# File: module/setup/view/air/amadeuslcc.phtml, line: 315
 # File: module/setup/view/air/americanairlines.phtml, line: 379
 # File: module/setup/view/air/arajetsabre.phtml, line: 151
 # File: module/setup/view/air/avianca.phtml, line: 316
@@ -50631,7 +50608,6 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 350
 # File: module/setup/view/air/unitedairlines.phtml, line: 370
 # File: module/setup/view/air/volaris.phtml, line: 253
-# File: module/setup/view/air/amadeuslcc.phtml, line: 315
 # File: module/setup/view/cars/amadeus.phtml, line: 339
 # File: module/setup/view/cars/avis.phtml, line: 153
 # File: module/setup/view/cars/avisbudget.phtml, line: 189
@@ -50673,6 +50649,7 @@ msgstr ""
 # File: module/setup/view/hotels/convencional.phtml, line: 182
 # File: module/setup/view/hotels/cosmobeds.phtml, line: 185
 # File: module/setup/view/hotels/ctrip.phtml, line: 200
+# File: module/setup/view/hotels/derbysoft.phtml, line: 179
 # File: module/setup/view/hotels/destinationservices.phtml, line: 144
 # File: module/setup/view/hotels/dhisco.phtml, line: 155
 # File: module/setup/view/hotels/didatravel.phtml, line: 201
@@ -50764,7 +50741,6 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 193
 # File: module/setup/view/hotels/youtravel.phtml, line: 163
 # File: module/setup/view/hotels/zoytrip.phtml, line: 121
-# File: module/setup/view/hotels/derbysoft.phtml, line: 179
 # File: module/setup/view/packages/abreu.phtml, line: 120
 # File: module/setup/view/packages/assistcard.phtml, line: 190
 # File: module/setup/view/packages/citytours.phtml, line: 142
@@ -50785,15 +50761,15 @@ msgstr ""
 # File: module/setup/view/transfers/actiontravel.phtml, line: 126
 # File: module/setup/view/transfers/daytrip.phtml, line: 117
 # File: module/setup/view/transfers/didatravel.phtml, line: 126
+# File: module/setup/view/transfers/flix.phtml, line: 245
 # File: module/setup/view/transfers/gltours.phtml, line: 125
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 236
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 202
+# File: module/setup/view/transfers/mozio.phtml, line: 244
 # File: module/setup/view/transfers/nexustours.phtml, line: 162
 # File: module/setup/view/transfers/shuttlefare.phtml, line: 125
 # File: module/setup/view/transfers/trapsatur.phtml, line: 145
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 143
-# File: module/setup/view/transfers/flix.phtml, line: 245
-# File: module/setup/view/transfers/mozio.phtml, line: 244
 msgid "Please enter B2C markup"
 msgstr ""
 #
@@ -50815,6 +50791,7 @@ msgstr ""
 # File: module/setup/view/air/aeromexico.phtml, line: 357
 # File: module/setup/view/air/airgateway.phtml, line: 126
 # File: module/setup/view/air/amadeus.phtml, line: 583
+# File: module/setup/view/air/amadeuslcc.phtml, line: 318
 # File: module/setup/view/air/americanairlines.phtml, line: 382
 # File: module/setup/view/air/arajetsabre.phtml, line: 154
 # File: module/setup/view/air/avianca.phtml, line: 319
@@ -50834,7 +50811,6 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 353
 # File: module/setup/view/air/unitedairlines.phtml, line: 373
 # File: module/setup/view/air/volaris.phtml, line: 256
-# File: module/setup/view/air/amadeuslcc.phtml, line: 318
 # File: module/setup/view/cars/amadeus.phtml, line: 342
 # File: module/setup/view/cars/avis.phtml, line: 156
 # File: module/setup/view/cars/avisbudget.phtml, line: 192
@@ -50878,6 +50854,7 @@ msgstr ""
 # File: module/setup/view/hotels/convencional.phtml, line: 185
 # File: module/setup/view/hotels/cosmobeds.phtml, line: 188
 # File: module/setup/view/hotels/ctrip.phtml, line: 203
+# File: module/setup/view/hotels/derbysoft.phtml, line: 182
 # File: module/setup/view/hotels/destinationservices.phtml, line: 147
 # File: module/setup/view/hotels/dhisco.phtml, line: 158
 # File: module/setup/view/hotels/didatravel.phtml, line: 204
@@ -50969,7 +50946,6 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 196
 # File: module/setup/view/hotels/youtravel.phtml, line: 166
 # File: module/setup/view/hotels/zoytrip.phtml, line: 124
-# File: module/setup/view/hotels/derbysoft.phtml, line: 182
 # File: module/setup/view/packages/abreu.phtml, line: 123
 # File: module/setup/view/packages/assistcard.phtml, line: 193
 # File: module/setup/view/packages/citytours.phtml, line: 145
@@ -50990,15 +50966,15 @@ msgstr ""
 # File: module/setup/view/transfers/actiontravel.phtml, line: 129
 # File: module/setup/view/transfers/daytrip.phtml, line: 120
 # File: module/setup/view/transfers/didatravel.phtml, line: 129
+# File: module/setup/view/transfers/flix.phtml, line: 248
 # File: module/setup/view/transfers/gltours.phtml, line: 128
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 239
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 205
+# File: module/setup/view/transfers/mozio.phtml, line: 247
 # File: module/setup/view/transfers/nexustours.phtml, line: 165
 # File: module/setup/view/transfers/shuttlefare.phtml, line: 128
 # File: module/setup/view/transfers/trapsatur.phtml, line: 148
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 146
-# File: module/setup/view/transfers/flix.phtml, line: 248
-# File: module/setup/view/transfers/mozio.phtml, line: 247
 msgid "Please enter search time out"
 msgstr ""
 #
@@ -51020,6 +50996,7 @@ msgstr ""
 # File: module/setup/view/air/aeromexico.phtml, line: 378
 # File: module/setup/view/air/airgateway.phtml, line: 135
 # File: module/setup/view/air/amadeus.phtml, line: 586
+# File: module/setup/view/air/amadeuslcc.phtml, line: 321
 # File: module/setup/view/air/americanairlines.phtml, line: 385
 # File: module/setup/view/air/arajetsabre.phtml, line: 157
 # File: module/setup/view/air/avianca.phtml, line: 322
@@ -51039,7 +51016,6 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 356
 # File: module/setup/view/air/unitedairlines.phtml, line: 394
 # File: module/setup/view/air/volaris.phtml, line: 259
-# File: module/setup/view/air/amadeuslcc.phtml, line: 321
 # File: module/setup/view/cars/amadeus.phtml, line: 345
 # File: module/setup/view/cars/avis.phtml, line: 159
 # File: module/setup/view/cars/avisbudget.phtml, line: 195
@@ -51083,6 +51059,7 @@ msgstr ""
 # File: module/setup/view/hotels/convencional.phtml, line: 188
 # File: module/setup/view/hotels/cosmobeds.phtml, line: 191
 # File: module/setup/view/hotels/ctrip.phtml, line: 206
+# File: module/setup/view/hotels/derbysoft.phtml, line: 185
 # File: module/setup/view/hotels/destinationservices.phtml, line: 150
 # File: module/setup/view/hotels/dhisco.phtml, line: 161
 # File: module/setup/view/hotels/didatravel.phtml, line: 207
@@ -51174,7 +51151,6 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 226
 # File: module/setup/view/hotels/youtravel.phtml, line: 169
 # File: module/setup/view/hotels/zoytrip.phtml, line: 130
-# File: module/setup/view/hotels/derbysoft.phtml, line: 185
 # File: module/setup/view/packages/abreu.phtml, line: 126
 # File: module/setup/view/packages/assistcard.phtml, line: 196
 # File: module/setup/view/packages/citytours.phtml, line: 148
@@ -51195,15 +51171,15 @@ msgstr ""
 # File: module/setup/view/transfers/actiontravel.phtml, line: 132
 # File: module/setup/view/transfers/daytrip.phtml, line: 123
 # File: module/setup/view/transfers/didatravel.phtml, line: 132
+# File: module/setup/view/transfers/flix.phtml, line: 251
 # File: module/setup/view/transfers/gltours.phtml, line: 131
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 242
 # File: module/setup/view/transfers/jumbotoursgroup.phtml, line: 208
+# File: module/setup/view/transfers/mozio.phtml, line: 250
 # File: module/setup/view/transfers/nexustours.phtml, line: 168
 # File: module/setup/view/transfers/shuttlefare.phtml, line: 131
 # File: module/setup/view/transfers/trapsatur.phtml, line: 151
 # File: module/setup/view/transfers/yourtransfer.phtml, line: 149
-# File: module/setup/view/transfers/flix.phtml, line: 251
-# File: module/setup/view/transfers/mozio.phtml, line: 250
 msgid "Please enter search order"
 msgstr ""
 #
@@ -51352,12 +51328,12 @@ msgstr ""
 # File: module/setup/view/hotels/zoytrip.phtml, line: 28
 # File: module/setup/view/transfers/daytrip.phtml, line: 15
 # File: module/setup/view/transfers/daytrip.phtml, line: 16
-# File: module/setup/view/transfers/yourtransfer.phtml, line: 37
-# File: module/setup/view/transfers/yourtransfer.phtml, line: 38
 # File: module/setup/view/transfers/flix.phtml, line: 19
 # File: module/setup/view/transfers/flix.phtml, line: 20
 # File: module/setup/view/transfers/mozio.phtml, line: 16
 # File: module/setup/view/transfers/mozio.phtml, line: 17
+# File: module/setup/view/transfers/yourtransfer.phtml, line: 37
+# File: module/setup/view/transfers/yourtransfer.phtml, line: 38
 msgid "API Key"
 msgstr ""
 #
@@ -51387,8 +51363,8 @@ msgstr ""
 # File: module/setup/view/hotels/yalago.phtml, line: 187
 # File: module/setup/view/hotels/zoytrip.phtml, line: 115
 # File: module/setup/view/transfers/daytrip.phtml, line: 108
-# File: module/setup/view/transfers/yourtransfer.phtml, line: 134
 # File: module/setup/view/transfers/flix.phtml, line: 200
+# File: module/setup/view/transfers/yourtransfer.phtml, line: 134
 msgid "Please enter API Key"
 msgstr ""
 #
@@ -51402,10 +51378,10 @@ msgstr ""
 # File: module/setup/view/activities/trapsatur.phtml, line: 135
 # File: module/setup/view/activities/viator.phtml, line: 188
 # File: module/setup/view/air/amadeus.phtml, line: 511
+# File: module/setup/view/air/amadeuslcc.phtml, line: 294
 # File: module/setup/view/air/galileo.phtml, line: 176
 # File: module/setup/view/air/priceline.phtml, line: 155
 # File: module/setup/view/air/travelport.phtml, line: 430
-# File: module/setup/view/air/amadeuslcc.phtml, line: 294
 # File: module/setup/view/cars/amadeus.phtml, line: 282
 # File: module/setup/view/cars/bookinggo.phtml, line: 133
 # File: module/setup/view/cars/cartrawler.phtml, line: 363
@@ -52822,10 +52798,10 @@ msgstr ""
 #
 # File: module/setup/view/air/amadeus.phtml, line: 15
 # File: module/setup/view/air/amadeus.phtml, line: 16
-# File: module/setup/view/air/volaris.phtml, line: 62
-# File: module/setup/view/air/volaris.phtml, line: 63
 # File: module/setup/view/air/amadeuslcc.phtml, line: 15
 # File: module/setup/view/air/amadeuslcc.phtml, line: 16
+# File: module/setup/view/air/volaris.phtml, line: 62
+# File: module/setup/view/air/volaris.phtml, line: 63
 # File: module/setup/view/cars/amadeus.phtml, line: 15
 # File: module/setup/view/cars/amadeus.phtml, line: 16
 # File: module/setup/view/cruises/amadeus.phtml, line: 16
@@ -53383,8 +53359,8 @@ msgid "NDC Airline Exclusion List (IATA Code - One per line)"
 msgstr ""
 #
 # File: module/setup/view/air/amadeus.phtml, line: 487
-# File: module/setup/view/air/copa.phtml, line: 326
 # File: module/setup/view/air/amadeuslcc.phtml, line: 270
+# File: module/setup/view/air/copa.phtml, line: 326
 # File: module/setup/view/cars/cartrawler.phtml, line: 378
 # File: module/setup/view/hotels/aio.phtml, line: 246
 # File: module/setup/view/hotels/expedia.phtml, line: 337
@@ -53426,8 +53402,8 @@ msgid "Please enter Phone Country Code (1) "
 msgstr ""
 #
 # File: module/setup/view/air/amadeus.phtml, line: 505
-# File: module/setup/view/air/ctm.phtml, line: 159
 # File: module/setup/view/air/amadeuslcc.phtml, line: 288
+# File: module/setup/view/air/ctm.phtml, line: 159
 # File: module/setup/view/hotels/aio.phtml, line: 237
 # File: module/setup/view/hotels/ctrip.phtml, line: 197
 # File: module/setup/view/hotels/ebookingcenter.phtml, line: 216
@@ -53557,6 +53533,10 @@ msgstr ""
 # File: module/setup/view/air/amadeus.phtml, line: 589
 # File: module/setup/view/air/amadeuslcc.phtml, line: 324
 msgid "Please enter number of solutions to return"
+msgstr ""
+#
+# File: module/setup/view/air/amadeuslcc.phtml, line: 13
+msgid "Enable Amadeus LCC Flight Booking Engine"
 msgstr ""
 #
 # File: module/setup/view/air/americanairlines.phtml, line: 13
@@ -55186,10 +55166,6 @@ msgstr ""
 msgid "Please enter User Name"
 msgstr ""
 #
-# File: module/setup/view/air/amadeuslcc.phtml, line: 13
-msgid "Enable Amadeus LCC Flight Booking Engine"
-msgstr ""
-#
 # File: module/setup/view/cars/amadeus.phtml, line: 13
 msgid "Enable Amadeus Cars Booking Engine"
 msgstr ""
@@ -56246,6 +56222,15 @@ msgstr ""
 msgid "Credit Card Expiration Year"
 msgstr ""
 #
+# File: module/setup/view/cruises/addimages.phtml, line: 5
+# File: module/setup/view/cruises/edit-cruiseships.phtml, line: 33
+msgid "Add Images"
+msgstr ""
+#
+# File: module/setup/view/cruises/addimages.phtml, line: 11
+msgid "Folder"
+msgstr ""
+#
 # File: module/setup/view/cruises/amadeus.phtml, line: 13
 msgid "Enable Amadeus Cruises Booking Engine"
 msgstr ""
@@ -56655,11 +56640,6 @@ msgstr ""
 msgid "View Images"
 msgstr ""
 #
-# File: module/setup/view/cruises/edit-cruiseships.phtml, line: 33
-# File: module/setup/view/cruises/addimages.phtml, line: 5
-msgid "Add Images"
-msgstr ""
-#
 # File: module/setup/view/cruises/edit-cruiseships.phtml, line: 34
 msgid "Update Cruise Ship"
 msgstr ""
@@ -56702,6 +56682,13 @@ msgstr ""
 #
 # File: module/setup/view/cruises/edit-publicareas.phtml, line: 59
 msgid "Please enter public area name"
+msgstr ""
+#
+# File: module/setup/view/cruises/images.phtml, line: 5
+# File: module/setup/view/cruises/images.phtml, line: 59
+# File: module/setup/view/cruises/images.phtml, line: 60
+# File: module/setup/view/cruises/images.phtml, line: 65
+msgid "Cruise Images"
 msgstr ""
 #
 # File: module/setup/view/cruises/msc.phtml, line: 13
@@ -57423,17 +57410,6 @@ msgstr ""
 #
 # File: module/setup/view/cruises/traveltek.phtml, line: 13
 msgid "Enable Traveltek Cruises"
-msgstr ""
-#
-# File: module/setup/view/cruises/addimages.phtml, line: 11
-msgid "Folder"
-msgstr ""
-#
-# File: module/setup/view/cruises/images.phtml, line: 5
-# File: module/setup/view/cruises/images.phtml, line: 59
-# File: module/setup/view/cruises/images.phtml, line: 60
-# File: module/setup/view/cruises/images.phtml, line: 65
-msgid "Cruise Images"
 msgstr ""
 #
 # File: module/setup/view/hotels/abreu.phtml, line: 13
@@ -58303,6 +58279,58 @@ msgstr ""
 #
 # File: module/setup/view/hotels/ctrip.phtml, line: 13
 msgid "Enable Ctrip/Trip.com"
+msgstr ""
+#
+# File: module/setup/view/hotels/derbysoft.phtml, line: 13
+msgid "Enable DerbySoft"
+msgstr ""
+#
+# File: module/setup/view/hotels/derbysoft.phtml, line: 16
+# File: module/setup/view/hotels/derbysoft.phtml, line: 17
+msgid "Distributor ID"
+msgstr ""
+#
+# File: module/setup/view/hotels/derbysoft.phtml, line: 50
+# File: module/setup/view/hotels/derbysoft.phtml, line: 51
+msgid "BookingUSB Access Token"
+msgstr ""
+#
+# File: module/setup/view/hotels/derbysoft.phtml, line: 54
+msgid "BookingUSB Endpoint "
+msgstr ""
+#
+# File: module/setup/view/hotels/derbysoft.phtml, line: 55
+msgid "BookingUSB Endpoint"
+msgstr ""
+#
+# File: module/setup/view/hotels/derbysoft.phtml, line: 58
+# File: module/setup/view/hotels/derbysoft.phtml, line: 59
+msgid "ShoppingEngine Access Token"
+msgstr ""
+#
+# File: module/setup/view/hotels/derbysoft.phtml, line: 62
+# File: module/setup/view/hotels/derbysoft.phtml, line: 63
+msgid "ShoppingEngine Endpoint"
+msgstr ""
+#
+# File: module/setup/view/hotels/derbysoft.phtml, line: 158
+msgid "Please enter Distributor ID"
+msgstr ""
+#
+# File: module/setup/view/hotels/derbysoft.phtml, line: 164
+msgid "Please enter BookingUSB Access Token"
+msgstr ""
+#
+# File: module/setup/view/hotels/derbysoft.phtml, line: 167
+msgid "Please enter BookingUSB Endpoint"
+msgstr ""
+#
+# File: module/setup/view/hotels/derbysoft.phtml, line: 170
+msgid "Please enter ShoppingEngine Access Token"
+msgstr ""
+#
+# File: module/setup/view/hotels/derbysoft.phtml, line: 173
+msgid "Please enter ShoppingEngine Endpoint"
 msgstr ""
 #
 # File: module/setup/view/hotels/dhisco.phtml, line: 13
@@ -61181,58 +61209,6 @@ msgstr ""
 msgid "Enable ZoyTrip XML Feed"
 msgstr ""
 #
-# File: module/setup/view/hotels/derbysoft.phtml, line: 13
-msgid "Enable DerbySoft"
-msgstr ""
-#
-# File: module/setup/view/hotels/derbysoft.phtml, line: 16
-# File: module/setup/view/hotels/derbysoft.phtml, line: 17
-msgid "Distributor ID"
-msgstr ""
-#
-# File: module/setup/view/hotels/derbysoft.phtml, line: 50
-# File: module/setup/view/hotels/derbysoft.phtml, line: 51
-msgid "BookingUSB Access Token"
-msgstr ""
-#
-# File: module/setup/view/hotels/derbysoft.phtml, line: 54
-msgid "BookingUSB Endpoint "
-msgstr ""
-#
-# File: module/setup/view/hotels/derbysoft.phtml, line: 55
-msgid "BookingUSB Endpoint"
-msgstr ""
-#
-# File: module/setup/view/hotels/derbysoft.phtml, line: 58
-# File: module/setup/view/hotels/derbysoft.phtml, line: 59
-msgid "ShoppingEngine Access Token"
-msgstr ""
-#
-# File: module/setup/view/hotels/derbysoft.phtml, line: 62
-# File: module/setup/view/hotels/derbysoft.phtml, line: 63
-msgid "ShoppingEngine Endpoint"
-msgstr ""
-#
-# File: module/setup/view/hotels/derbysoft.phtml, line: 158
-msgid "Please enter Distributor ID"
-msgstr ""
-#
-# File: module/setup/view/hotels/derbysoft.phtml, line: 164
-msgid "Please enter BookingUSB Access Token"
-msgstr ""
-#
-# File: module/setup/view/hotels/derbysoft.phtml, line: 167
-msgid "Please enter BookingUSB Endpoint"
-msgstr ""
-#
-# File: module/setup/view/hotels/derbysoft.phtml, line: 170
-msgid "Please enter ShoppingEngine Access Token"
-msgstr ""
-#
-# File: module/setup/view/hotels/derbysoft.phtml, line: 173
-msgid "Please enter ShoppingEngine Endpoint"
-msgstr ""
-#
 # File: module/setup/view/index/index.phtml, line: 4
 # File: module/setup/view/index/index.phtml, line: 81
 # File: module/setup/view/index/index.phtml, line: 117
@@ -62004,8 +61980,8 @@ msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 91
 # File: module/setup/view/settings/countries_edit.phtml, line: 12
-# File: module/setup/view/settings/states_edit.phtml, line: 14
 # File: module/setup/view/settings/newcity.phtml, line: 91
+# File: module/setup/view/settings/states_edit.phtml, line: 14
 msgid "Static"
 msgstr ""
 #
@@ -62017,8 +61993,8 @@ msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 101
 # File: module/setup/view/settings/countries_edit.phtml, line: 25
-# File: module/setup/view/settings/states_edit.phtml, line: 21
 # File: module/setup/view/settings/newcity.phtml, line: 101
+# File: module/setup/view/settings/states_edit.phtml, line: 21
 msgid "Sort Oder"
 msgstr ""
 #
@@ -62044,8 +62020,8 @@ msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 108
 # File: module/setup/view/settings/countries_edit.phtml, line: 22
-# File: module/setup/view/settings/states_edit.phtml, line: 20
 # File: module/setup/view/settings/newcity.phtml, line: 108
+# File: module/setup/view/settings/states_edit.phtml, line: 20
 msgid "Giata"
 msgstr ""
 #
@@ -62091,8 +62067,8 @@ msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 117
 # File: module/setup/view/settings/countries_edit.phtml, line: 29
-# File: module/setup/view/settings/states_edit.phtml, line: 23
 # File: module/setup/view/settings/newcity.phtml, line: 117
+# File: module/setup/view/settings/states_edit.phtml, line: 23
 msgid "Google Place Id"
 msgstr ""
 #
@@ -62141,10 +62117,10 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 221
 # File: module/setup/view/settings/cities_edit.phtml, line: 290
 # File: module/setup/view/settings/countries_edit.phtml, line: 50
-# File: module/setup/view/settings/states_edit.phtml, line: 43
 # File: module/setup/view/settings/newcity.phtml, line: 219
 # File: module/setup/view/settings/newcity.phtml, line: 221
 # File: module/setup/view/settings/newcity.phtml, line: 290
+# File: module/setup/view/settings/states_edit.phtml, line: 43
 msgid "Description DA"
 msgstr ""
 #
@@ -62152,10 +62128,10 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 229
 # File: module/setup/view/settings/cities_edit.phtml, line: 293
 # File: module/setup/view/settings/countries_edit.phtml, line: 53
-# File: module/setup/view/settings/states_edit.phtml, line: 46
 # File: module/setup/view/settings/newcity.phtml, line: 227
 # File: module/setup/view/settings/newcity.phtml, line: 229
 # File: module/setup/view/settings/newcity.phtml, line: 293
+# File: module/setup/view/settings/states_edit.phtml, line: 46
 msgid "Description EL"
 msgstr ""
 #
@@ -62163,10 +62139,10 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 237
 # File: module/setup/view/settings/cities_edit.phtml, line: 296
 # File: module/setup/view/settings/countries_edit.phtml, line: 56
-# File: module/setup/view/settings/states_edit.phtml, line: 49
 # File: module/setup/view/settings/newcity.phtml, line: 235
 # File: module/setup/view/settings/newcity.phtml, line: 237
 # File: module/setup/view/settings/newcity.phtml, line: 296
+# File: module/setup/view/settings/states_edit.phtml, line: 49
 msgid "Description SV"
 msgstr ""
 #
@@ -62174,10 +62150,10 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 261
 # File: module/setup/view/settings/cities_edit.phtml, line: 294
 # File: module/setup/view/settings/countries_edit.phtml, line: 54
-# File: module/setup/view/settings/states_edit.phtml, line: 47
 # File: module/setup/view/settings/newcity.phtml, line: 259
 # File: module/setup/view/settings/newcity.phtml, line: 261
 # File: module/setup/view/settings/newcity.phtml, line: 294
+# File: module/setup/view/settings/states_edit.phtml, line: 47
 msgid "Description JA"
 msgstr ""
 #
@@ -62234,8 +62210,8 @@ msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 339
 # File: module/setup/view/settings/countries_edit.phtml, line: 157
-# File: module/setup/view/settings/states_edit.phtml, line: 78
 # File: module/setup/view/settings/newcity.phtml, line: 339
+# File: module/setup/view/settings/states_edit.phtml, line: 78
 msgid "Wikitravel"
 msgstr ""
 #
@@ -62243,10 +62219,10 @@ msgstr ""
 # File: module/setup/view/settings/cities_edit.phtml, line: 342
 # File: module/setup/view/settings/countries_edit.phtml, line: 159
 # File: module/setup/view/settings/countries_edit.phtml, line: 162
-# File: module/setup/view/settings/states_edit.phtml, line: 80
-# File: module/setup/view/settings/states_edit.phtml, line: 83
 # File: module/setup/view/settings/newcity.phtml, line: 341
 # File: module/setup/view/settings/newcity.phtml, line: 342
+# File: module/setup/view/settings/states_edit.phtml, line: 80
+# File: module/setup/view/settings/states_edit.phtml, line: 83
 msgid "Wiki"
 msgstr ""
 #
@@ -62487,8 +62463,8 @@ msgstr ""
 #
 # File: module/setup/view/settings/cities_edit.phtml, line: 549
 # File: module/setup/view/settings/countries_edit.phtml, line: 59
-# File: module/setup/view/settings/states_edit.phtml, line: 52
 # File: module/setup/view/settings/newcity.phtml, line: 549
+# File: module/setup/view/settings/states_edit.phtml, line: 52
 msgid "Localization"
 msgstr ""
 #
@@ -64153,126 +64129,6 @@ msgstr ""
 #
 # File: module/setup/view/settings/searchcities.phtml, line: 15
 msgid "Search Cities"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 106
-msgid "Zone XML 1"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 107
-msgid "Zone XML 2"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 108
-msgid "Zone XML 3"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 109
-msgid "Zone XML 4"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 110
-msgid "Zone XML 5"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 111
-msgid "Zone XML 6"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 112
-msgid "Zone XML 7"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 113
-msgid "Zone XML 8"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 114
-msgid "Zone XML 9"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 115
-msgid "Zone XML 10"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 116
-msgid "Zone XML 11"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 117
-msgid "Zone XML 12"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 118
-msgid "Zone XML 13"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 119
-msgid "Zone XML 14"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 120
-msgid "Zone XML 15"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 121
-msgid "Zone XML 16"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 122
-msgid "Zone XML 17"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 123
-msgid "Zone XML 18"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 124
-msgid "Zone XML 19"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 125
-msgid "Zone XML 20"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 126
-msgid "Zone XML 21"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 127
-msgid "Zone XML 22"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 128
-msgid "Zone XML 23"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 129
-msgid "Zone XML 24"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 130
-msgid "Zone XML 25"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 131
-msgid "Zone XML 26"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 132
-msgid "Zone XML 27"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 133
-msgid "Zone XML 28"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 134
-msgid "Zone XML 29"
-msgstr ""
-#
-# File: module/setup/view/settings/states_edit.phtml, line: 135
-msgid "Zone XML 30"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 12
@@ -66250,28 +66106,153 @@ msgstr ""
 msgid "Voucher Time Format (value 12 or 24 - switched to 24-hour)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2237
-msgid "Funnel Recovery"
+# File: module/setup/view/settings/settings.phtml, line: 2230
+# File: module/setup/view/settings/settings.phtml, line: 2231
+msgid "Commission Breakdown Key"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 2241
-# File: module/setup/view/settings/settings.phtml, line: 2242
-# File: module/setup/view/settings/settings.phtml, line: 2246
-# File: module/setup/view/settings/settings.phtml, line: 2250
-# File: module/setup/view/settings/settings.phtml, line: 2254
-msgid "Do not run decision manager fraud score if amount is bellow"
+msgid "Funnel Recovery"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 2245
-msgid "Charge Service Fee Before Ticketing"
+# File: module/setup/view/settings/settings.phtml, line: 2246
+# File: module/setup/view/settings/settings.phtml, line: 2250
+# File: module/setup/view/settings/settings.phtml, line: 2254
+# File: module/setup/view/settings/settings.phtml, line: 2258
+msgid "Do not run decision manager fraud score if amount is bellow"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 2249
-msgid "Charge Serve Fee After Ticketing"
+msgid "Charge Service Fee Before Ticketing"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 2253
+msgid "Charge Serve Fee After Ticketing"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2257
 msgid "Charge Notification Emails"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 106
+msgid "Zone XML 1"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 107
+msgid "Zone XML 2"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 108
+msgid "Zone XML 3"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 109
+msgid "Zone XML 4"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 110
+msgid "Zone XML 5"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 111
+msgid "Zone XML 6"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 112
+msgid "Zone XML 7"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 113
+msgid "Zone XML 8"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 114
+msgid "Zone XML 9"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 115
+msgid "Zone XML 10"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 116
+msgid "Zone XML 11"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 117
+msgid "Zone XML 12"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 118
+msgid "Zone XML 13"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 119
+msgid "Zone XML 14"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 120
+msgid "Zone XML 15"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 121
+msgid "Zone XML 16"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 122
+msgid "Zone XML 17"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 123
+msgid "Zone XML 18"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 124
+msgid "Zone XML 19"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 125
+msgid "Zone XML 20"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 126
+msgid "Zone XML 21"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 127
+msgid "Zone XML 22"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 128
+msgid "Zone XML 23"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 129
+msgid "Zone XML 24"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 130
+msgid "Zone XML 25"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 131
+msgid "Zone XML 26"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 132
+msgid "Zone XML 27"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 133
+msgid "Zone XML 28"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 134
+msgid "Zone XML 29"
+msgstr ""
+#
+# File: module/setup/view/settings/states_edit.phtml, line: 135
+msgid "Zone XML 30"
 msgstr ""
 #
 # File: module/setup/view/trains/era.phtml, line: 13
@@ -66321,6 +66302,90 @@ msgstr ""
 #
 # File: module/setup/view/transfers/didatravel.phtml, line: 13
 msgid "Enable Dida Travel - Ground Transfer"
+msgstr ""
+#
+# File: module/setup/view/transfers/flix.phtml, line: 13
+msgid "Enable Flix - Transfers"
+msgstr ""
+#
+# File: module/setup/view/transfers/flix.phtml, line: 36
+msgid "Book in API - Set to 1 to process booking in front end, otherwise leave 0 to process booking in back end / middleware"
+msgstr ""
+#
+# File: module/setup/view/transfers/flix.phtml, line: 37
+msgid "Book in API - Set to 1 to process booking in front end, otherwise leave 0 to process booking in back end / middlewareBook in API"
+msgstr ""
+#
+# File: module/setup/view/transfers/flix.phtml, line: 56
+# File: module/setup/view/transfers/flix.phtml, line: 57
+msgid "Refund Type"
+msgstr ""
+#
+# File: module/setup/view/transfers/flix.phtml, line: 60
+# File: module/setup/view/transfers/flix.phtml, line: 61
+# File: module/setup/view/transfers/mozio.phtml, line: 65
+# File: module/setup/view/transfers/mozio.phtml, line: 66
+msgid "Reprice Tolerance"
+msgstr ""
+#
+# File: module/setup/view/transfers/flix.phtml, line: 64
+# File: module/setup/view/transfers/flix.phtml, line: 65
+msgid "Service Fee Section"
+msgstr ""
+#
+# File: module/setup/view/transfers/flix.phtml, line: 77
+# File: module/setup/view/transfers/flix.phtml, line: 78
+msgid "Sandbox Email"
+msgstr ""
+#
+# File: module/setup/view/transfers/flix.phtml, line: 81
+# File: module/setup/view/transfers/flix.phtml, line: 82
+msgid "Sandbox Password"
+msgstr ""
+#
+# File: module/setup/view/transfers/flix.phtml, line: 85
+# File: module/setup/view/transfers/flix.phtml, line: 86
+# File: module/setup/view/transfers/mozio.phtml, line: 20
+# File: module/setup/view/transfers/mozio.phtml, line: 21
+msgid "Sandbox API Key"
+msgstr ""
+#
+# File: module/setup/view/transfers/flix.phtml, line: 203
+msgid "Please enter Sandbox API Key"
+msgstr ""
+#
+# File: module/setup/view/transfers/flix.phtml, line: 206
+msgid "Please enter Book in API"
+msgstr ""
+#
+# File: module/setup/view/transfers/flix.phtml, line: 215
+msgid "Please enter Sandbox Password"
+msgstr ""
+#
+# File: module/setup/view/transfers/flix.phtml, line: 221
+msgid "Please enter Sandbox Email"
+msgstr ""
+#
+# File: module/setup/view/transfers/flix.phtml, line: 227
+# File: module/setup/view/transfers/mozio.phtml, line: 226
+msgid "Please enter Markup"
+msgstr ""
+#
+# File: module/setup/view/transfers/flix.phtml, line: 230
+msgid "Please enter Refund Type"
+msgstr ""
+#
+# File: module/setup/view/transfers/flix.phtml, line: 233
+# File: module/setup/view/transfers/mozio.phtml, line: 235
+msgid "Please enter Reprice Tolerance"
+msgstr ""
+#
+# File: module/setup/view/transfers/flix.phtml, line: 236
+msgid "Please enter Service Fee Section"
+msgstr ""
+#
+# File: module/setup/view/transfers/flix.phtml, line: 239
+msgid "Please enter User Agent"
 msgstr ""
 #
 # File: module/setup/view/transfers/gltours.phtml, line: 13
@@ -66486,106 +66551,6 @@ msgstr ""
 msgid "Please enter voucher email"
 msgstr ""
 #
-# File: module/setup/view/transfers/nexustours.phtml, line: 13
-msgid "Enable Nexus Tours Transfers"
-msgstr ""
-#
-# File: module/setup/view/transfers/shuttlefare.phtml, line: 13
-msgid "Enable ShuttleFare - Transfers"
-msgstr ""
-#
-# File: module/setup/view/transfers/trapsatur.phtml, line: 13
-msgid "Enable Trapsatur - Transfers"
-msgstr ""
-#
-# File: module/setup/view/transfers/yourtransfer.phtml, line: 13
-msgid "Enable Your Transfer 24"
-msgstr ""
-#
-# File: module/setup/view/transfers/flix.phtml, line: 13
-msgid "Enable Flix - Transfers"
-msgstr ""
-#
-# File: module/setup/view/transfers/flix.phtml, line: 36
-msgid "Book in API - Set to 1 to process booking in front end, otherwise leave 0 to process booking in back end / middleware"
-msgstr ""
-#
-# File: module/setup/view/transfers/flix.phtml, line: 37
-msgid "Book in API - Set to 1 to process booking in front end, otherwise leave 0 to process booking in back end / middlewareBook in API"
-msgstr ""
-#
-# File: module/setup/view/transfers/flix.phtml, line: 56
-# File: module/setup/view/transfers/flix.phtml, line: 57
-msgid "Refund Type"
-msgstr ""
-#
-# File: module/setup/view/transfers/flix.phtml, line: 60
-# File: module/setup/view/transfers/flix.phtml, line: 61
-# File: module/setup/view/transfers/mozio.phtml, line: 65
-# File: module/setup/view/transfers/mozio.phtml, line: 66
-msgid "Reprice Tolerance"
-msgstr ""
-#
-# File: module/setup/view/transfers/flix.phtml, line: 64
-# File: module/setup/view/transfers/flix.phtml, line: 65
-msgid "Service Fee Section"
-msgstr ""
-#
-# File: module/setup/view/transfers/flix.phtml, line: 77
-# File: module/setup/view/transfers/flix.phtml, line: 78
-msgid "Sandbox Email"
-msgstr ""
-#
-# File: module/setup/view/transfers/flix.phtml, line: 81
-# File: module/setup/view/transfers/flix.phtml, line: 82
-msgid "Sandbox Password"
-msgstr ""
-#
-# File: module/setup/view/transfers/flix.phtml, line: 85
-# File: module/setup/view/transfers/flix.phtml, line: 86
-# File: module/setup/view/transfers/mozio.phtml, line: 20
-# File: module/setup/view/transfers/mozio.phtml, line: 21
-msgid "Sandbox API Key"
-msgstr ""
-#
-# File: module/setup/view/transfers/flix.phtml, line: 203
-msgid "Please enter Sandbox API Key"
-msgstr ""
-#
-# File: module/setup/view/transfers/flix.phtml, line: 206
-msgid "Please enter Book in API"
-msgstr ""
-#
-# File: module/setup/view/transfers/flix.phtml, line: 215
-msgid "Please enter Sandbox Password"
-msgstr ""
-#
-# File: module/setup/view/transfers/flix.phtml, line: 221
-msgid "Please enter Sandbox Email"
-msgstr ""
-#
-# File: module/setup/view/transfers/flix.phtml, line: 227
-# File: module/setup/view/transfers/mozio.phtml, line: 226
-msgid "Please enter Markup"
-msgstr ""
-#
-# File: module/setup/view/transfers/flix.phtml, line: 230
-msgid "Please enter Refund Type"
-msgstr ""
-#
-# File: module/setup/view/transfers/flix.phtml, line: 233
-# File: module/setup/view/transfers/mozio.phtml, line: 235
-msgid "Please enter Reprice Tolerance"
-msgstr ""
-#
-# File: module/setup/view/transfers/flix.phtml, line: 236
-msgid "Please enter Service Fee Section"
-msgstr ""
-#
-# File: module/setup/view/transfers/flix.phtml, line: 239
-msgid "Please enter User Agent"
-msgstr ""
-#
 # File: module/setup/view/transfers/mozio.phtml, line: 13
 msgid "Enable Mozio - Transfers"
 msgstr ""
@@ -66688,6 +66653,22 @@ msgstr ""
 #
 # File: module/setup/view/transfers/mozio.phtml, line: 238
 msgid "Please enter Search Seconds"
+msgstr ""
+#
+# File: module/setup/view/transfers/nexustours.phtml, line: 13
+msgid "Enable Nexus Tours Transfers"
+msgstr ""
+#
+# File: module/setup/view/transfers/shuttlefare.phtml, line: 13
+msgid "Enable ShuttleFare - Transfers"
+msgstr ""
+#
+# File: module/setup/view/transfers/trapsatur.phtml, line: 13
+msgid "Enable Trapsatur - Transfers"
+msgstr ""
+#
+# File: module/setup/view/transfers/yourtransfer.phtml, line: 13
+msgid "Enable Your Transfer 24"
 msgstr ""
 #
 # File: vendor/sendgrid/php-http-client/test/unit/ClientTest.php, line: 41
