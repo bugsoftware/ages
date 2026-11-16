@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-14 14:42-0500\n"
+"POT-Creation-Date: 2026-11-16 03:55-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2033,7 +2033,6 @@ msgid "Important Notice: Account Deactivation - Action Required"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/agent_disable.phtml, line: 17
-# File: module/ages/src/Controller/Templates/alert.phtml, line: 258
 # File: module/ages/src/Controller/Templates/message.phtml, line: 252
 # File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_confirmed_signature.phtml, line: 20
@@ -2051,8 +2050,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_pending_signature.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_sfee.phtml, line: 20
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 20
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 20
-# File: module/ages/src/Controller/Agents.php, line: 5744
+# File: module/ages/src/Controller/Agents.php, line: 5748
 # File: module/ages/src/Controller/LoginController.php, line: 893
 # File: module/ages/src/Controller/LoginController.php, line: 894
 msgid "Dear"
@@ -2098,25 +2096,11 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 32
 # File: module/ages/src/Controller/Templates/review.phtml, line: 31
 # File: module/ages/src/Controller/Templates/settle.phtml, line: 31
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 35
 msgid "Warm regards,"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/agent_disable.phtml, line: 38
 msgid "Click & Book Customer Support Team"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/alert.phtml, line: 260
-# File: module/ages/src/Controller/Templates/message.phtml, line: 262
-msgid "Best Regards"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/alert.phtml, line: 287
-msgid "b2b reservation"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/alert.phtml, line: 287
-msgid "b2c reservation"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/checkin.phtml, line: 19
@@ -5041,7 +5025,6 @@ msgid "Total :"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/message.phtml, line: 259
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 26
 msgid "View Terms & Conditions"
 msgstr ""
 #
@@ -5052,6 +5035,10 @@ msgstr ""
 # File: module/ages/view/ages/dynamic-packaging/supplierpaymentsunknown.phtml, line: 141
 # File: module/ages/view/ages/dynamic-packaging/timelimit.phtml, line: 221
 msgid "Pay"
+msgstr ""
+#
+# File: module/ages/src/Controller/Templates/message.phtml, line: 262
+msgid "Best Regards"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/notification_airreport.phtml, line: 22
@@ -5101,7 +5088,6 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 30
 # File: module/ages/src/Controller/Templates/review.phtml, line: 29
 # File: module/ages/src/Controller/Templates/settle.phtml, line: 29
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 33
 msgid "Should you have any questions or require further assistance, do not hesitate to contact us."
 msgstr ""
 #
@@ -5124,7 +5110,6 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 31
 # File: module/ages/src/Controller/Templates/review.phtml, line: 30
 # File: module/ages/src/Controller/Templates/settle.phtml, line: 30
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 34
 msgid "Thank you for choosing our services. We look forward to continuing our business relationship."
 msgstr ""
 #
@@ -5151,7 +5136,6 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/notification_twilio.phtml, line: 33
 # File: module/ages/src/Controller/Templates/review.phtml, line: 32
 # File: module/ages/src/Controller/Templates/settle.phtml, line: 32
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 39
 msgid "Click & Book Team"
 msgstr ""
 #
@@ -5810,7 +5794,7 @@ msgid "New Agent has been Created"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/openagent_notification.phtml, line: 16
-# File: module/ages/src/Controller/Agents.php, line: 5289
+# File: module/ages/src/Controller/Agents.php, line: 5293
 msgid "Agent Id:"
 msgstr ""
 #
@@ -7908,7 +7892,7 @@ msgstr ""
 # File: module/ages/src/Controller/ServiceFees.php, line: 1685
 # File: module/ages/src/Controller/ServiceFees.php, line: 1890
 # File: module/ages/src/Controller/ServiceFees.php, line: 2050
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3953
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3955
 # File: module/ages/src/Templates/reservation_v2.phtml, line: 1209
 # File: module/ages/src/Templates/reservation_v2.phtml, line: 1224
 # File: module/ages/src/Templates/reservation_v2.phtml, line: 1262
@@ -8063,7 +8047,7 @@ msgstr ""
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1454
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1468
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 1506
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3960
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3962
 # File: module/ages/src/Templates/reservation_v2.phtml, line: 1454
 # File: module/ages/src/Templates/reservation_v2.phtml, line: 1468
 # File: module/ages/src/Templates/reservation_v2.phtml, line: 1506
@@ -8480,7 +8464,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2253
 # File: module/ages/src/Controller/Templates/reservation_v2.phtml, line: 2291
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3967
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3969
 # File: module/ages/src/Templates/reservation_v2.phtml, line: 2253
 # File: module/ages/src/Templates/reservation_v2.phtml, line: 2291
 # File: module/ages/view/ages/agents/add.phtml, line: 175
@@ -8899,22 +8883,6 @@ msgstr ""
 msgid "Commission"
 msgstr ""
 #
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 22
-msgid "To proceed with your booking, we require your review and signature of the attached Terms & Conditions. Please note that your booking will not be issued until the Terms & Conditions are signed."
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 23
-msgid "You may sign the document using the link below:"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 26
-msgid "Click here to sign"
-msgstr ""
-#
-# File: module/ages/src/Controller/Templates/termsandconditions.phtml, line: 30
-msgid "A message from"
-msgstr ""
-#
 # File: module/ages/src/Controller/Templates/travelers-choice.phtml, line: 199
 msgid "Problems viewing?"
 msgstr ""
@@ -9102,9 +9070,9 @@ msgid "Reservation Status"
 msgstr ""
 #
 # File: module/ages/src/Controller/Templates/voucher.phtml, line: 90
-# File: module/ages/src/Controller/Agents.php, line: 4346
-# File: module/ages/src/Controller/Agents.php, line: 10913
-# File: module/ages/src/Controller/Agents.php, line: 13474
+# File: module/ages/src/Controller/Agents.php, line: 4348
+# File: module/ages/src/Controller/Agents.php, line: 10923
+# File: module/ages/src/Controller/Agents.php, line: 13488
 # File: module/ages/src/Controller/Air.php, line: 3636
 # File: module/ages/src/Controller/Cruises.php, line: 3582
 # File: module/ages/src/Controller/Cruises.php, line: 3757
@@ -9128,8 +9096,8 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 3089
 # File: module/ages/src/Controller/Reports.php, line: 4220
 # File: module/ages/src/Controller/Reports.php, line: 9409
-# File: module/ages/src/Controller/SubAgents.php, line: 4085
-# File: module/ages/src/Controller/SubAgents.php, line: 6646
+# File: module/ages/src/Controller/SubAgents.php, line: 4091
+# File: module/ages/src/Controller/SubAgents.php, line: 6656
 # File: module/ages/view/ages/agents/add_reservations.phtml, line: 70
 # File: module/ages/view/ages/agents/edit_reservations.phtml, line: 69
 # File: module/ages/view/ages/air/listreservations.phtml, line: 72
@@ -9702,7 +9670,7 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 1244
 # File: module/ages/src/Controller/Agents.php, line: 1564
 # File: module/ages/src/Controller/Agents.php, line: 1689
-# File: module/ages/src/Controller/Agents.php, line: 9318
+# File: module/ages/src/Controller/Agents.php, line: 9326
 # File: module/ages/src/Controller/Air.php, line: 1203
 # File: module/ages/src/Controller/Air.php, line: 2060
 # File: module/ages/src/Controller/Air.php, line: 2082
@@ -9957,8 +9925,8 @@ msgid "All"
 msgstr ""
 #
 # File: module/ages/src/Controller/Activities.php, line: 288
-# File: module/ages/src/Controller/Agents.php, line: 10919
-# File: module/ages/src/Controller/Agents.php, line: 13480
+# File: module/ages/src/Controller/Agents.php, line: 10929
+# File: module/ages/src/Controller/Agents.php, line: 13494
 # File: module/ages/src/Controller/Air.php, line: 1207
 # File: module/ages/src/Controller/Air.php, line: 2141
 # File: module/ages/src/Controller/Air.php, line: 2327
@@ -9974,8 +9942,8 @@ msgstr ""
 # File: module/ages/src/Controller/Insurances.php, line: 287
 # File: module/ages/src/Controller/Packages.php, line: 291
 # File: module/ages/src/Controller/Reports.php, line: 2654
-# File: module/ages/src/Controller/SubAgents.php, line: 4105
-# File: module/ages/src/Controller/SubAgents.php, line: 6666
+# File: module/ages/src/Controller/SubAgents.php, line: 4111
+# File: module/ages/src/Controller/SubAgents.php, line: 6676
 # File: module/ages/src/Controller/Tours.php, line: 287
 # File: module/ages/src/Controller/Transfers.php, line: 288
 # File: module/ages/view/ages/agents/index.phtml, line: 60
@@ -9992,8 +9960,8 @@ msgid "B2B"
 msgstr ""
 #
 # File: module/ages/src/Controller/Activities.php, line: 292
-# File: module/ages/src/Controller/Agents.php, line: 10921
-# File: module/ages/src/Controller/Agents.php, line: 13482
+# File: module/ages/src/Controller/Agents.php, line: 10931
+# File: module/ages/src/Controller/Agents.php, line: 13496
 # File: module/ages/src/Controller/Air.php, line: 1211
 # File: module/ages/src/Controller/Air.php, line: 2145
 # File: module/ages/src/Controller/Air.php, line: 2331
@@ -10011,8 +9979,8 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 351
 # File: module/ages/src/Controller/Reports.php, line: 2658
 # File: module/ages/src/Controller/Reports.php, line: 6180
-# File: module/ages/src/Controller/SubAgents.php, line: 4107
-# File: module/ages/src/Controller/SubAgents.php, line: 6668
+# File: module/ages/src/Controller/SubAgents.php, line: 4113
+# File: module/ages/src/Controller/SubAgents.php, line: 6678
 # File: module/ages/src/Controller/Tours.php, line: 291
 # File: module/ages/src/Controller/Transfers.php, line: 292
 # File: module/ages/view/ages/air/private.phtml, line: 28
@@ -10047,18 +10015,18 @@ msgstr ""
 # File: module/ages/src/Controller/Affiliates.php, line: 5469
 # File: module/ages/src/Controller/Affiliates.php, line: 5482
 # File: module/ages/src/Controller/Affiliates.php, line: 5483
-# File: module/ages/src/Controller/Agents.php, line: 4143
-# File: module/ages/src/Controller/Agents.php, line: 4172
-# File: module/ages/src/Controller/Agents.php, line: 4256
-# File: module/ages/src/Controller/Agents.php, line: 9810
-# File: module/ages/src/Controller/Agents.php, line: 10662
-# File: module/ages/src/Controller/Agents.php, line: 10691
-# File: module/ages/src/Controller/Agents.php, line: 10775
-# File: module/ages/src/Controller/Agents.php, line: 10862
-# File: module/ages/src/Controller/Agents.php, line: 13226
-# File: module/ages/src/Controller/Agents.php, line: 13255
-# File: module/ages/src/Controller/Agents.php, line: 13339
-# File: module/ages/src/Controller/Agents.php, line: 13423
+# File: module/ages/src/Controller/Agents.php, line: 4145
+# File: module/ages/src/Controller/Agents.php, line: 4174
+# File: module/ages/src/Controller/Agents.php, line: 4258
+# File: module/ages/src/Controller/Agents.php, line: 9820
+# File: module/ages/src/Controller/Agents.php, line: 10672
+# File: module/ages/src/Controller/Agents.php, line: 10701
+# File: module/ages/src/Controller/Agents.php, line: 10785
+# File: module/ages/src/Controller/Agents.php, line: 10872
+# File: module/ages/src/Controller/Agents.php, line: 13240
+# File: module/ages/src/Controller/Agents.php, line: 13269
+# File: module/ages/src/Controller/Agents.php, line: 13353
+# File: module/ages/src/Controller/Agents.php, line: 13437
 # File: module/ages/src/Controller/Air.php, line: 1362
 # File: module/ages/src/Controller/Air.php, line: 1376
 # File: module/ages/src/Controller/Air.php, line: 1846
@@ -10182,13 +10150,13 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 9746
 # File: module/ages/src/Controller/Reports.php, line: 9747
 # File: module/ages/src/Controller/Reports.php, line: 11312
-# File: module/ages/src/Controller/SubAgents.php, line: 3874
-# File: module/ages/src/Controller/SubAgents.php, line: 3901
-# File: module/ages/src/Controller/SubAgents.php, line: 4028
-# File: module/ages/src/Controller/SubAgents.php, line: 6440
-# File: module/ages/src/Controller/SubAgents.php, line: 6465
-# File: module/ages/src/Controller/SubAgents.php, line: 6589
-# File: module/ages/src/Controller/SubAgents.php, line: 6730
+# File: module/ages/src/Controller/SubAgents.php, line: 3880
+# File: module/ages/src/Controller/SubAgents.php, line: 3907
+# File: module/ages/src/Controller/SubAgents.php, line: 4034
+# File: module/ages/src/Controller/SubAgents.php, line: 6450
+# File: module/ages/src/Controller/SubAgents.php, line: 6475
+# File: module/ages/src/Controller/SubAgents.php, line: 6599
+# File: module/ages/src/Controller/SubAgents.php, line: 6740
 # File: module/ages/src/Controller/Tours.php, line: 3952
 # File: module/ages/src/Controller/Tours.php, line: 4055
 # File: module/ages/src/Controller/Transfers.php, line: 457
@@ -10234,7 +10202,7 @@ msgstr ""
 # File: module/setup/src/Controller/featuredairlines.php, line: 397
 # File: module/setup/src/Controller/paymentsexclude.php, line: 71
 # File: module/setup/src/Controller/paymentsexclude.php, line: 179
-# File: module/setup/view/settings/settings.phtml, line: 1217
+# File: module/setup/view/settings/settings.phtml, line: 1222
 msgid "None"
 msgstr ""
 #
@@ -10274,8 +10242,8 @@ msgstr ""
 # File: module/ages/src/Controller/Agents.php, line: 1616
 # File: module/ages/src/Controller/Agents.php, line: 2054
 # File: module/ages/src/Controller/Agents.php, line: 2055
-# File: module/ages/src/Controller/Agents.php, line: 4593
-# File: module/ages/src/Controller/Agents.php, line: 9820
+# File: module/ages/src/Controller/Agents.php, line: 4595
+# File: module/ages/src/Controller/Agents.php, line: 9830
 # File: module/ages/src/Controller/Air.php, line: 3060
 # File: module/ages/src/Controller/Air.php, line: 3245
 # File: module/ages/src/Controller/Air.php, line: 3546
@@ -10874,46 +10842,46 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Affiliates.php, line: 2707
 # File: module/ages/src/Controller/Affiliates.php, line: 3944
-# File: module/ages/src/Controller/Agents.php, line: 4342
-# File: module/ages/src/Controller/Agents.php, line: 10909
-# File: module/ages/src/Controller/Agents.php, line: 13470
+# File: module/ages/src/Controller/Agents.php, line: 4344
+# File: module/ages/src/Controller/Agents.php, line: 10919
+# File: module/ages/src/Controller/Agents.php, line: 13484
 # File: module/ages/src/Controller/CMS.php, line: 11633
 # File: module/ages/src/Controller/CMS.php, line: 17831
 # File: module/ages/src/Controller/Newsletter.php, line: 1940
 # File: module/ages/src/Controller/Newsletter.php, line: 5876
 # File: module/ages/src/Controller/Reports.php, line: 3081
 # File: module/ages/src/Controller/Reports.php, line: 4212
-# File: module/ages/src/Controller/SubAgents.php, line: 4081
-# File: module/ages/src/Controller/SubAgents.php, line: 6642
+# File: module/ages/src/Controller/SubAgents.php, line: 4087
+# File: module/ages/src/Controller/SubAgents.php, line: 6652
 msgid "Enable"
 msgstr ""
 #
 # File: module/ages/src/Controller/Affiliates.php, line: 2709
 # File: module/ages/src/Controller/Affiliates.php, line: 3946
-# File: module/ages/src/Controller/Agents.php, line: 4344
-# File: module/ages/src/Controller/Agents.php, line: 10911
-# File: module/ages/src/Controller/Agents.php, line: 13472
+# File: module/ages/src/Controller/Agents.php, line: 4346
+# File: module/ages/src/Controller/Agents.php, line: 10921
+# File: module/ages/src/Controller/Agents.php, line: 13486
 # File: module/ages/src/Controller/CMS.php, line: 11629
 # File: module/ages/src/Controller/CMS.php, line: 17827
 # File: module/ages/src/Controller/Newsletter.php, line: 1936
 # File: module/ages/src/Controller/Newsletter.php, line: 5872
 # File: module/ages/src/Controller/Reports.php, line: 3085
 # File: module/ages/src/Controller/Reports.php, line: 4216
-# File: module/ages/src/Controller/SubAgents.php, line: 4083
-# File: module/ages/src/Controller/SubAgents.php, line: 6644
+# File: module/ages/src/Controller/SubAgents.php, line: 4089
+# File: module/ages/src/Controller/SubAgents.php, line: 6654
 msgid "Disable"
 msgstr ""
 #
 # File: module/ages/src/Controller/Affiliates.php, line: 3071
 # File: module/ages/src/Controller/Affiliates.php, line: 4907
 # File: module/ages/src/Controller/Agents.php, line: 2070
-# File: module/ages/src/Controller/Agents.php, line: 4065
-# File: module/ages/src/Controller/Agents.php, line: 5315
-# File: module/ages/src/Controller/Agents.php, line: 10584
-# File: module/ages/src/Controller/Agents.php, line: 13147
-# File: module/ages/src/Controller/Agents.php, line: 13715
-# File: module/ages/src/Controller/Agents.php, line: 13882
-# File: module/ages/src/Controller/Agents.php, line: 14076
+# File: module/ages/src/Controller/Agents.php, line: 4067
+# File: module/ages/src/Controller/Agents.php, line: 5319
+# File: module/ages/src/Controller/Agents.php, line: 10594
+# File: module/ages/src/Controller/Agents.php, line: 13161
+# File: module/ages/src/Controller/Agents.php, line: 13729
+# File: module/ages/src/Controller/Agents.php, line: 13896
+# File: module/ages/src/Controller/Agents.php, line: 14090
 # File: module/ages/src/Controller/Air.php, line: 4314
 # File: module/ages/src/Controller/Air.php, line: 4536
 # File: module/ages/src/Controller/CMS.php, line: 4559
@@ -10966,9 +10934,9 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 12478
 # File: module/ages/src/Controller/Reports.php, line: 12492
 # File: module/ages/src/Controller/ServiceFees.php, line: 900
-# File: module/ages/src/Controller/SubAgents.php, line: 3801
-# File: module/ages/src/Controller/SubAgents.php, line: 6362
-# File: module/ages/src/Controller/SubAgents.php, line: 6945
+# File: module/ages/src/Controller/SubAgents.php, line: 3807
+# File: module/ages/src/Controller/SubAgents.php, line: 6372
+# File: module/ages/src/Controller/SubAgents.php, line: 6955
 # File: module/ages/src/Controller/Tours.php, line: 877
 # File: module/ages/src/Controller/Tours.php, line: 1283
 # File: module/ages/src/Controller/Transfers.php, line: 3374
@@ -10988,23 +10956,23 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Affiliates.php, line: 3096
 # File: module/ages/src/Controller/Affiliates.php, line: 4929
-# File: module/ages/src/Controller/Agents.php, line: 4095
-# File: module/ages/src/Controller/Agents.php, line: 10614
-# File: module/ages/src/Controller/Agents.php, line: 13178
+# File: module/ages/src/Controller/Agents.php, line: 4097
+# File: module/ages/src/Controller/Agents.php, line: 10624
+# File: module/ages/src/Controller/Agents.php, line: 13192
 # File: module/ages/src/Controller/Reports.php, line: 11157
 # File: module/ages/src/Controller/Reports.php, line: 11334
-# File: module/ages/src/Controller/SubAgents.php, line: 3827
-# File: module/ages/src/Controller/SubAgents.php, line: 6388
+# File: module/ages/src/Controller/SubAgents.php, line: 3833
+# File: module/ages/src/Controller/SubAgents.php, line: 6398
 msgid "All Supervisors"
 msgstr ""
 #
 # File: module/ages/src/Controller/Affiliates.php, line: 3177
 # File: module/ages/src/Controller/Affiliates.php, line: 5096
-# File: module/ages/src/Controller/Agents.php, line: 4364
-# File: module/ages/src/Controller/Agents.php, line: 10940
-# File: module/ages/src/Controller/Agents.php, line: 13500
-# File: module/ages/src/Controller/SubAgents.php, line: 4111
-# File: module/ages/src/Controller/SubAgents.php, line: 6672
+# File: module/ages/src/Controller/Agents.php, line: 4366
+# File: module/ages/src/Controller/Agents.php, line: 10950
+# File: module/ages/src/Controller/Agents.php, line: 13514
+# File: module/ages/src/Controller/SubAgents.php, line: 4117
+# File: module/ages/src/Controller/SubAgents.php, line: 6682
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5920
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 135
 msgid "Mr."
@@ -11012,11 +10980,11 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Affiliates.php, line: 3179
 # File: module/ages/src/Controller/Affiliates.php, line: 5098
-# File: module/ages/src/Controller/Agents.php, line: 4366
-# File: module/ages/src/Controller/Agents.php, line: 10942
-# File: module/ages/src/Controller/Agents.php, line: 13502
-# File: module/ages/src/Controller/SubAgents.php, line: 4113
-# File: module/ages/src/Controller/SubAgents.php, line: 6674
+# File: module/ages/src/Controller/Agents.php, line: 4368
+# File: module/ages/src/Controller/Agents.php, line: 10952
+# File: module/ages/src/Controller/Agents.php, line: 13516
+# File: module/ages/src/Controller/SubAgents.php, line: 4119
+# File: module/ages/src/Controller/SubAgents.php, line: 6684
 # File: module/ages/view/ages/dynamic-packaging/view.phtml, line: 5921
 # File: module/ages/view/ages/dynamic-packaging/view_guests.phtml, line: 136
 msgid "Ms."
@@ -11024,9 +10992,9 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Affiliates.php, line: 5546
 # File: module/ages/src/Controller/Agents.php, line: 2098
-# File: module/ages/src/Controller/Agents.php, line: 4278
-# File: module/ages/src/Controller/Agents.php, line: 10825
-# File: module/ages/src/Controller/Agents.php, line: 13386
+# File: module/ages/src/Controller/Agents.php, line: 4280
+# File: module/ages/src/Controller/Agents.php, line: 10835
+# File: module/ages/src/Controller/Agents.php, line: 13400
 # File: module/ages/src/Controller/CMS.php, line: 9398
 # File: module/ages/src/Controller/Cruises.php, line: 2243
 # File: module/ages/src/Controller/Hotels.php, line: 1201
@@ -11051,8 +11019,8 @@ msgstr ""
 # File: module/ages/src/Controller/Reports.php, line: 3861
 # File: module/ages/src/Controller/Reports.php, line: 7675
 # File: module/ages/src/Controller/Reports.php, line: 12318
-# File: module/ages/src/Controller/SubAgents.php, line: 3988
-# File: module/ages/src/Controller/SubAgents.php, line: 6549
+# File: module/ages/src/Controller/SubAgents.php, line: 3994
+# File: module/ages/src/Controller/SubAgents.php, line: 6559
 # File: module/ages/view/ages/cms/recommendedhotels_edit.phtml, line: 17
 # File: module/ages/view/ages/cms/recommendedhotels_edit.phtml, line: 18
 # File: module/ages/view/ages/cms/recommendedhotels_edit.phtml, line: 19
@@ -11461,8 +11429,8 @@ msgstr ""
 # File: module/setup/view/settings/countries_edit.phtml, line: 40
 # File: module/setup/view/settings/newcity.phtml, line: 171
 # File: module/setup/view/settings/newcity.phtml, line: 173
-# File: module/setup/view/settings/settings.phtml, line: 1075
-# File: module/setup/view/settings/settings.phtml, line: 1076
+# File: module/setup/view/settings/settings.phtml, line: 1080
+# File: module/setup/view/settings/settings.phtml, line: 1081
 # File: module/setup/view/settings/states_edit.phtml, line: 30
 # File: module/setup/view/settings/states_edit.phtml, line: 33
 msgid "Description"
@@ -11601,7 +11569,7 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 8695
 # File: module/ages/src/Controller/Customers.php, line: 9927
 # File: module/ages/src/Controller/Voucher.php, line: 2711
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3069
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3071
 # File: module/ages/view/ages/agents/leads.phtml, line: 99
 # File: module/ages/view/ages/cruises/editstaticships.phtml, line: 143
 # File: module/ages/view/ages/login/index.phtml, line: 71
@@ -11636,7 +11604,7 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 8699
 # File: module/ages/src/Controller/Customers.php, line: 9931
 # File: module/ages/src/Controller/Voucher.php, line: 2714
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3072
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3074
 # File: module/ages/view/ages/agents/leads.phtml, line: 101
 # File: module/ages/view/ages/cruises/editstaticships.phtml, line: 145
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 357
@@ -11682,82 +11650,82 @@ msgstr ""
 msgid "No Business Unit assigned"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 4121
-# File: module/ages/src/Controller/Agents.php, line: 10640
-# File: module/ages/src/Controller/Agents.php, line: 13204
-# File: module/ages/src/Controller/SubAgents.php, line: 3853
-# File: module/ages/src/Controller/SubAgents.php, line: 6414
+# File: module/ages/src/Controller/Agents.php, line: 4123
+# File: module/ages/src/Controller/Agents.php, line: 10650
+# File: module/ages/src/Controller/Agents.php, line: 13218
+# File: module/ages/src/Controller/SubAgents.php, line: 3859
+# File: module/ages/src/Controller/SubAgents.php, line: 6424
 msgid "All Executives"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 4801
+# File: module/ages/src/Controller/Agents.php, line: 4803
 # File: module/ages/src/Controller/Customers.php, line: 7890
 msgid "Column count doesn't match"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 4908
+# File: module/ages/src/Controller/Agents.php, line: 4910
 # File: module/ages/src/Controller/Customers.php, line: 8006
 msgid "Unable to find country"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 4914
+# File: module/ages/src/Controller/Agents.php, line: 4916
 # File: module/ages/src/Controller/Customers.php, line: 8012
 msgid "Unable to find state/zone"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 4920
+# File: module/ages/src/Controller/Agents.php, line: 4922
 # File: module/ages/src/Controller/Customers.php, line: 8018
 msgid "Unable to find city"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 4926
+# File: module/ages/src/Controller/Agents.php, line: 4928
 msgid "This is a sub agent of "
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5736
+# File: module/ages/src/Controller/Agents.php, line: 5740
 msgid "Hi"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5737
+# File: module/ages/src/Controller/Agents.php, line: 5741
 msgid "Activate My Subscription"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5741
+# File: module/ages/src/Controller/Agents.php, line: 5745
 msgid "Ready to Start? Complete Your Subscription and Become a Costamar Travel Agent Today!"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5744
+# File: module/ages/src/Controller/Agents.php, line: 5748
 msgid "Your Click & Book Subscription Is Almost Ready"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5744
+# File: module/ages/src/Controller/Agents.php, line: 5748
 msgid "We've already set up part of your profile, and now it's time for you to finalize your Click & Book subscription. Simply click the link below to complete your plan selection, confirm your subscription, and proceed with payment."
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5744
+# File: module/ages/src/Controller/Agents.php, line: 5748
 msgid "Once confirmed, you will have immediate access to Click & Book, unlocking seamless booking and management tools tailored to your needs."
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5744
+# File: module/ages/src/Controller/Agents.php, line: 5748
 msgid "Click the button above to finalize your setup and unlock fill access."
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5744
+# File: module/ages/src/Controller/Agents.php, line: 5748
 msgid "If you have any questions, feel free to reach out. We are here to help."
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5744
+# File: module/ages/src/Controller/Agents.php, line: 5748
 # File: module/ages/src/Controller/LoginController.php, line: 894
 msgid "Thanks"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5745
+# File: module/ages/src/Controller/Agents.php, line: 5749
 msgid "Ready to Start? Click & Book Awaits! Complete your subscription and start using Click & Book today!"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5850
-# File: module/ages/src/Controller/Agents.php, line: 6002
-# File: module/ages/src/Controller/Agents.php, line: 13687
+# File: module/ages/src/Controller/Agents.php, line: 5854
+# File: module/ages/src/Controller/Agents.php, line: 6006
+# File: module/ages/src/Controller/Agents.php, line: 13701
 # File: module/ages/src/Controller/CMS.php, line: 9051
 # File: module/ages/src/Controller/CMS.php, line: 11683
 # File: module/ages/src/Controller/CMS.php, line: 12537
@@ -11781,20 +11749,20 @@ msgstr ""
 # File: module/ages/src/Controller/Newsletter.php, line: 5551
 # File: module/ages/src/Controller/ServiceFees.php, line: 1389
 # File: module/ages/src/Controller/SubAgents.php, line: 473
-# File: module/ages/src/Controller/SubAgents.php, line: 6917
+# File: module/ages/src/Controller/SubAgents.php, line: 6927
 # File: module/ages/view/ages/newsletter/exceptions.phtml, line: 21
 msgid "All Agents"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 5896
-# File: module/ages/src/Controller/Agents.php, line: 6048
+# File: module/ages/src/Controller/Agents.php, line: 5900
+# File: module/ages/src/Controller/Agents.php, line: 6052
 # File: module/ages/src/Controller/SubAgents.php, line: 514
 msgid "All Sub Agents"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 9691
-# File: module/ages/src/Controller/Agents.php, line: 11113
-# File: module/ages/src/Controller/Agents.php, line: 13359
+# File: module/ages/src/Controller/Agents.php, line: 9701
+# File: module/ages/src/Controller/Agents.php, line: 11123
+# File: module/ages/src/Controller/Agents.php, line: 13373
 # File: module/ages/src/Controller/CMS.php, line: 3229
 # File: module/ages/src/Controller/CMS.php, line: 3358
 # File: module/ages/src/Controller/CMS.php, line: 4852
@@ -11805,7 +11773,7 @@ msgstr ""
 msgid "All Languages"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 9825
+# File: module/ages/src/Controller/Agents.php, line: 9835
 # File: module/ages/src/Controller/Customers.php, line: 9151
 # File: module/ages/view/ages/customers/cancellationrequests.phtml, line: 57
 # File: module/ages/view/ages/customers/dropboxsign.phtml, line: 52
@@ -11831,7 +11799,7 @@ msgstr ""
 msgid "View"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 9828
+# File: module/ages/src/Controller/Agents.php, line: 9838
 # File: module/ages/src/Controller/Customers.php, line: 9154
 # File: module/ages/view/ages/agents/edit_leads.phtml, line: 154
 # File: module/ages/view/ages/cms/regions_details_edit.phtml, line: 47
@@ -12065,46 +12033,46 @@ msgstr ""
 msgid "Update"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 10917
-# File: module/ages/src/Controller/Agents.php, line: 13478
+# File: module/ages/src/Controller/Agents.php, line: 10927
+# File: module/ages/src/Controller/Agents.php, line: 13492
 # File: module/ages/src/Controller/Packages.php, line: 406
-# File: module/ages/src/Controller/SubAgents.php, line: 4103
-# File: module/ages/src/Controller/SubAgents.php, line: 6664
+# File: module/ages/src/Controller/SubAgents.php, line: 4109
+# File: module/ages/src/Controller/SubAgents.php, line: 6674
 # File: module/setup/src/Controller/citypairs.php, line: 319
 msgid "Default"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 13691
-# File: module/ages/src/Controller/SubAgents.php, line: 6921
+# File: module/ages/src/Controller/Agents.php, line: 13705
+# File: module/ages/src/Controller/SubAgents.php, line: 6931
 msgid "Enabled Agents"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 13695
-# File: module/ages/src/Controller/SubAgents.php, line: 6925
+# File: module/ages/src/Controller/Agents.php, line: 13709
+# File: module/ages/src/Controller/SubAgents.php, line: 6935
 msgid "Disabled Agents"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 13699
-# File: module/ages/src/Controller/SubAgents.php, line: 6929
+# File: module/ages/src/Controller/Agents.php, line: 13713
+# File: module/ages/src/Controller/SubAgents.php, line: 6939
 # File: module/ages/view/ages/reports/agentsbycompany.phtml, line: 27
 msgid "Agents Pending Review"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 13719
-# File: module/ages/src/Controller/SubAgents.php, line: 6949
+# File: module/ages/src/Controller/Agents.php, line: 13733
+# File: module/ages/src/Controller/SubAgents.php, line: 6959
 msgid "No Company Assigned"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 13758
-# File: module/ages/src/Controller/Agents.php, line: 13911
-# File: module/ages/src/Controller/Agents.php, line: 14105
+# File: module/ages/src/Controller/Agents.php, line: 13772
+# File: module/ages/src/Controller/Agents.php, line: 13925
+# File: module/ages/src/Controller/Agents.php, line: 14119
 # File: module/ages/src/Controller/CMS.php, line: 9493
 # File: module/ages/src/Controller/CMS.php, line: 9543
-# File: module/ages/src/Controller/SubAgents.php, line: 6991
+# File: module/ages/src/Controller/SubAgents.php, line: 7001
 msgid "All Agent Types"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 14476
+# File: module/ages/src/Controller/Agents.php, line: 14490
 # File: module/ages/view/ages/affiliates/add.phtml, line: 44
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 44
 # File: module/ages/view/ages/agents/add_transactions.phtml, line: 29
@@ -12119,7 +12087,7 @@ msgstr ""
 msgid "Credit"
 msgstr ""
 #
-# File: module/ages/src/Controller/Agents.php, line: 14480
+# File: module/ages/src/Controller/Agents.php, line: 14494
 # File: module/ages/view/ages/affiliates/add.phtml, line: 45
 # File: module/ages/view/ages/affiliates/edit.phtml, line: 45
 # File: module/ages/view/ages/agents/add_transactions.phtml, line: 27
@@ -12269,7 +12237,7 @@ msgstr ""
 # File: module/setup/src/Controller/toxicairlines.php, line: 386
 # File: module/setup/view/air/toxicairlines.phtml, line: 41
 # File: module/setup/view/settings/businessintelligence.phtml, line: 115
-# File: module/setup/view/settings/settings.phtml, line: 1219
+# File: module/setup/view/settings/settings.phtml, line: 1224
 msgid "Sabre"
 msgstr ""
 #
@@ -12299,7 +12267,7 @@ msgstr ""
 # File: module/setup/src/Controller/toxicairlines.php, line: 394
 # File: module/setup/view/air/toxicairlines.phtml, line: 45
 # File: module/setup/view/settings/businessintelligence.phtml, line: 121
-# File: module/setup/view/settings/settings.phtml, line: 1218
+# File: module/setup/view/settings/settings.phtml, line: 1223
 msgid "Amadeus"
 msgstr ""
 #
@@ -12875,7 +12843,7 @@ msgstr ""
 # File: module/ages/src/Controller/ServiceFees.php, line: 1669
 # File: module/ages/src/Controller/ServiceFees.php, line: 1874
 # File: module/ages/src/Controller/ServiceFees.php, line: 2046
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3946
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3948
 # File: module/ages/view/ages/affiliates/add_flights.phtml, line: 1
 # File: module/ages/view/ages/affiliates/edit_flights.phtml, line: 1
 # File: module/ages/view/ages/agents/add_flights.phtml, line: 1
@@ -14069,7 +14037,7 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 8703
 # File: module/ages/src/Controller/Customers.php, line: 9935
 # File: module/ages/src/Controller/Voucher.php, line: 2720
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3078
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3080
 # File: module/ages/view/ages/cruises/editstaticships.phtml, line: 151
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 363
 # File: module/ages/view/ages/hotels/editstatichotelsportuguese.phtml, line: 2
@@ -14121,7 +14089,7 @@ msgstr ""
 # File: module/ages/src/Controller/Customers.php, line: 8711
 # File: module/ages/src/Controller/Customers.php, line: 9943
 # File: module/ages/src/Controller/Voucher.php, line: 2717
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3075
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3077
 # File: module/ages/view/ages/cruises/editstaticships.phtml, line: 149
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 361
 # File: module/ages/view/ages/hotels/editstatichotelsitalian.phtml, line: 2
@@ -14148,7 +14116,7 @@ msgstr ""
 #
 # File: module/ages/src/Controller/Customers.php, line: 8715
 # File: module/ages/src/Controller/Voucher.php, line: 2723
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3081
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3083
 # File: module/ages/view/ages/cruises/editstaticships.phtml, line: 153
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 365
 # File: module/ages/view/ages/hotels/editstatichotelsgerman.phtml, line: 2
@@ -15435,7 +15403,7 @@ msgstr ""
 msgid "Fixed Price"
 msgstr ""
 #
-# File: module/ages/src/Controller/SubAgents.php, line: 4282
+# File: module/ages/src/Controller/SubAgents.php, line: 4288
 msgid "No Company"
 msgstr ""
 #
@@ -15680,7 +15648,7 @@ msgid "Agent not found"
 msgstr ""
 #
 # File: module/ages/src/Controller/Voucher.php, line: 2726
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3084
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3086
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 373
 # File: module/ages/view/ages/hotels/editstatichotelsjapanese.phtml, line: 2
 # File: module/ages/view/ages/login/index.phtml, line: 90
@@ -15699,7 +15667,7 @@ msgid "Japanese"
 msgstr ""
 #
 # File: module/ages/src/Controller/Voucher.php, line: 2729
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3087
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3089
 # File: module/setup/view/cars/cartrawler.phtml, line: 193
 # File: module/setup/view/hotels/gta.phtml, line: 70
 # File: module/setup/view/transfers/hotelbeds.phtml, line: 85
@@ -15707,7 +15675,7 @@ msgid "Korean"
 msgstr ""
 #
 # File: module/ages/src/Controller/Voucher.php, line: 2732
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3090
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3092
 # File: module/ages/view/ages/cruises/editstaticships.phtml, line: 159
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 371
 # File: module/ages/view/ages/hotels/editstatichotelsrussian.phtml, line: 2
@@ -15725,7 +15693,7 @@ msgid "Russian"
 msgstr ""
 #
 # File: module/ages/src/Controller/Voucher.php, line: 2735
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3093
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3095
 # File: module/ages/view/ages/cruises/editstaticships.phtml, line: 157
 # File: module/ages/view/ages/hotels/editstatichotels.phtml, line: 369
 # File: module/ages/view/ages/hotels/editstatichotelschinese.phtml, line: 2
@@ -15742,12 +15710,12 @@ msgid "Chinese"
 msgstr ""
 #
 # File: module/ages/src/Controller/Voucher.php, line: 2740
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3098
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3100
 msgid "Audio"
 msgstr ""
 #
 # File: module/ages/src/Controller/Voucher.php, line: 2743
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3101
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3103
 msgid "Guide"
 msgstr ""
 #
@@ -15756,40 +15724,44 @@ msgstr ""
 msgid "Reservation is being processed"
 msgstr ""
 #
-# File: module/ages/src/Shared/Sendemailv2.php, line: 958
+# File: module/ages/src/Shared/Sendemailv2.php, line: 960
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4900
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4925
 msgid "Your Reservation is Confirmed"
 msgstr ""
 #
-# File: module/ages/src/Shared/Sendemailv2.php, line: 960
-# File: module/ages/src/Shared/Sendemailv2.php, line: 966
-# File: module/ages/src/Shared/Sendemailv2.php, line: 4898
+# File: module/ages/src/Shared/Sendemailv2.php, line: 962
+# File: module/ages/src/Shared/Sendemailv2.php, line: 968
 # File: module/ages/src/Shared/Sendemailv2.php, line: 4900
-# File: module/ages/src/Shared/Sendemailv2.php, line: 4923
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4902
 # File: module/ages/src/Shared/Sendemailv2.php, line: 4925
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4927
 msgid "Your Reservation with"
 msgstr ""
 #
-# File: module/ages/src/Shared/Sendemailv2.php, line: 960
-# File: module/ages/src/Shared/Sendemailv2.php, line: 4898
-# File: module/ages/src/Shared/Sendemailv2.php, line: 4923
+# File: module/ages/src/Shared/Sendemailv2.php, line: 962
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4900
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4925
 msgid "is Confirmed"
 msgstr ""
 #
-# File: module/ages/src/Shared/Sendemailv2.php, line: 964
+# File: module/ages/src/Shared/Sendemailv2.php, line: 966
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4902
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4927
 msgid "Your Reservation is Being Processed"
 msgstr ""
 #
-# File: module/ages/src/Shared/Sendemailv2.php, line: 966
-# File: module/ages/src/Shared/Sendemailv2.php, line: 4900
-# File: module/ages/src/Shared/Sendemailv2.php, line: 4925
+# File: module/ages/src/Shared/Sendemailv2.php, line: 968
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4902
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4927
 msgid "is Being Processed"
 msgstr ""
 #
-# File: module/ages/src/Shared/Sendemailv2.php, line: 3971
+# File: module/ages/src/Shared/Sendemailv2.php, line: 3973
 msgid "Only"
 msgstr ""
 #
-# File: module/ages/src/Shared/Sendemailv2.php, line: 4585
+# File: module/ages/src/Shared/Sendemailv2.php, line: 4587
 msgid "Your MoneyGram Order Confirmation and Reference Number"
 msgstr ""
 #
@@ -16050,8 +16022,8 @@ msgstr ""
 # File: module/setup/view/settings/globalware_edit.phtml, line: 11
 # File: module/setup/view/settings/newcity.phtml, line: 90
 # File: module/setup/view/settings/realtimepayments.phtml, line: 13
-# File: module/setup/view/settings/settings.phtml, line: 1070
-# File: module/setup/view/settings/settings.phtml, line: 1071
+# File: module/setup/view/settings/settings.phtml, line: 1075
+# File: module/setup/view/settings/settings.phtml, line: 1076
 # File: module/setup/view/settings/states.phtml, line: 13
 # File: module/setup/view/settings/states_edit.phtml, line: 11
 msgid "Name"
@@ -24604,7 +24576,7 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/edit_flights.phtml, line: 8
 # File: module/ages/view/ages/sub-agents/edit_flights.phtml, line: 36
 # File: module/setup/view/settings/businessintelligence.phtml, line: 127
-# File: module/setup/view/settings/settings.phtml, line: 1220
+# File: module/setup/view/settings/settings.phtml, line: 1225
 msgid "Travelport"
 msgstr ""
 #
@@ -24727,7 +24699,7 @@ msgstr ""
 # File: module/ages/view/ages/agents/edit_hotels.phtml, line: 17
 # File: module/ages/view/ages/sub-agents/add_hotels.phtml, line: 10
 # File: module/ages/view/ages/sub-agents/edit_hotels.phtml, line: 17
-# File: module/setup/view/settings/settings.phtml, line: 972
+# File: module/setup/view/settings/settings.phtml, line: 977
 msgid "Hotel Booking Lead Time"
 msgstr ""
 #
@@ -24742,7 +24714,7 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/edit_hotels.phtml, line: 17
 # File: module/setup/view/hotels/riu.phtml, line: 62
 # File: module/setup/view/hotels/riu.phtml, line: 63
-# File: module/setup/view/settings/settings.phtml, line: 973
+# File: module/setup/view/settings/settings.phtml, line: 978
 msgid "Booking Lead Time"
 msgstr ""
 #
@@ -25657,7 +25629,7 @@ msgstr ""
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 28
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 31
 # File: module/setup/view/settings/realtimepayments_edit.phtml, line: 29
-# File: module/setup/view/settings/settings.phtml, line: 2262
+# File: module/setup/view/settings/settings.phtml, line: 2271
 # File: module/setup/view/settings/states_edit.phtml, line: 138
 msgid "Submit"
 msgstr ""
@@ -27444,8 +27416,8 @@ msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 107
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 107
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 112
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 114
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 115
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 117
 msgid "Costamar Invoices Login"
 msgstr ""
 #
@@ -27454,171 +27426,185 @@ msgstr ""
 msgid "Allow Banners"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 111
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 111
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 115
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 117
-msgid "Allow Hotels Support"
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 109
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 109
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 112
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 114
+msgid "Allow Flight Deals & Login Offers & Agents Devices"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 112
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 112
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 116
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 118
-msgid "Allow Flights Support"
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 110
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 110
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 113
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 115
+msgid "Allow Messaging"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 113
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 113
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 117
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 119
-msgid "Allow Transfers Support"
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 118
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 120
+msgid "Allow Hotels Support"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 114
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 114
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 118
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 120
-msgid "Allow Tours & Activities Support"
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 119
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 121
+msgid "Allow Flights Support"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 115
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 115
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 119
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 121
-msgid "Allow Packages Support"
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 120
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 122
+msgid "Allow Transfers Support"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 116
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 116
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 120
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 122
-msgid "Allow Escorted Tours Support"
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 121
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 123
+msgid "Allow Tours & Activities Support"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 117
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 117
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 121
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 123
-msgid "Allow Cruises Support"
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 122
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 124
+msgid "Allow Packages Support"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 118
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 118
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 122
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 124
-msgid "Allow Insurance Support"
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 123
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 125
+msgid "Allow Escorted Tours Support"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 119
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 119
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 123
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 125
-msgid "Enable Cash Ticketing"
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 124
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 126
+msgid "Allow Cruises Support"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 120
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 120
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 124
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 126
-msgid "No Billing"
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 125
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 127
+msgid "Allow Insurance Support"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 121
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 121
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 125
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 127
-msgid "Allow Portfolio Upload (All Companies)"
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 126
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 128
+msgid "Enable Cash Ticketing"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 122
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 122
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 126
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 128
-msgid "Allow CMS Edit"
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 127
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 129
+msgid "No Billing"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 123
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 123
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 127
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 129
-msgid "Allow Block Activities"
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 128
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 130
+msgid "Allow Portfolio Upload (All Companies)"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 124
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 124
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 128
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 130
-msgid "Allow Flyer Builder"
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 129
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 131
+msgid "Allow CMS Edit"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 125
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 126
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 129
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 125
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 130
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 132
-msgid "Allow Trip Builder"
+msgid "Allow Block Activities"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 126
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 126
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 131
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 133
+msgid "Allow Flyer Builder"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 127
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 128
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 130
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 134
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 132
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 135
+msgid "Allow Trip Builder"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 128
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 130
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 133
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 137
 msgid "Costamar Invoices Password"
 msgstr ""
 #
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 129
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 131
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 133
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 137
-msgid "Security"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 132
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 134
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 131
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 133
 # File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 136
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 147
-msgid "Enable Google Authenticator"
-msgstr ""
-#
-# File: module/ages/view/ages/agents/add_permissions.phtml, line: 133
-# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 135
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 137
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 148
-msgid "Enable One Time Pass"
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 140
+msgid "Security"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 134
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 136
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 138
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 149
-msgid "Disable Google Authenticator"
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 139
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 150
+msgid "Enable Google Authenticator"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 135
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 137
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 139
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 150
-msgid "Disable One Time Pass"
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 140
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 151
+msgid "Enable One Time Pass"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 136
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 138
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 140
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 153
-msgid "Do not disable even if there is no logins"
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 141
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 152
+msgid "Disable Google Authenticator"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 137
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 139
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 141
-# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 151
-msgid "One Time Pass via SMS"
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 142
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 153
+msgid "Disable One Time Pass"
 msgstr ""
 #
 # File: module/ages/view/ages/agents/add_permissions.phtml, line: 138
 # File: module/ages/view/ages/agents/edit_permissions.phtml, line: 140
-# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 142
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 143
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 156
+msgid "Do not disable even if there is no logins"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 139
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 141
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 144
 # File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 154
+msgid "One Time Pass via SMS"
+msgstr ""
+#
+# File: module/ages/view/ages/agents/add_permissions.phtml, line: 140
+# File: module/ages/view/ages/agents/edit_permissions.phtml, line: 142
+# File: module/ages/view/ages/sub-agents/add_permissions.phtml, line: 145
+# File: module/ages/view/ages/sub-agents/edit_permissions.phtml, line: 157
 msgid "Disable fraud check"
 msgstr ""
 #
@@ -33185,9 +33171,9 @@ msgstr ""
 # File: module/setup/view/settings/settings.phtml, line: 282
 # File: module/setup/view/settings/settings.phtml, line: 287
 # File: module/setup/view/settings/settings.phtml, line: 292
-# File: module/setup/view/settings/settings.phtml, line: 1382
-# File: module/setup/view/settings/settings.phtml, line: 1503
-# File: module/setup/view/settings/settings.phtml, line: 1583
+# File: module/setup/view/settings/settings.phtml, line: 1387
+# File: module/setup/view/settings/settings.phtml, line: 1508
+# File: module/setup/view/settings/settings.phtml, line: 1588
 msgid "(For multiple email alerts use semicolon (;) (For example email1@bug-software.com;email2@bug-software.com))"
 msgstr ""
 #
@@ -33678,8 +33664,8 @@ msgstr ""
 # File: module/ages/view/ages/companies/supplierpayments.phtml, line: 5
 # File: module/ages/view/ages/reports/companies.phtml, line: 38
 # File: module/ages/view/ages/reports/flights.phtml, line: 26
-# File: module/setup/view/settings/settings.phtml, line: 1535
-# File: module/setup/view/settings/settings.phtml, line: 1536
+# File: module/setup/view/settings/settings.phtml, line: 1540
+# File: module/setup/view/settings/settings.phtml, line: 1541
 msgid "Companies"
 msgstr ""
 #
@@ -41684,8 +41670,8 @@ msgstr ""
 # File: module/ages/view/ages/hotels/finantial_information_edit.phtml, line: 189
 # File: module/setup/view/air/mystifly.phtml, line: 15
 # File: module/setup/view/air/mystifly.phtml, line: 16
-# File: module/setup/view/settings/settings.phtml, line: 1184
-# File: module/setup/view/settings/settings.phtml, line: 1185
+# File: module/setup/view/settings/settings.phtml, line: 1189
+# File: module/setup/view/settings/settings.phtml, line: 1190
 msgid "Account Number"
 msgstr ""
 #
@@ -49151,8 +49137,8 @@ msgstr ""
 # File: module/setup/view/packages/universalassistance.phtml, line: 111
 # File: module/setup/view/packages/wamos.phtml, line: 54
 # File: module/setup/view/packages/wamos.phtml, line: 55
-# File: module/setup/view/settings/settings.phtml, line: 1261
-# File: module/setup/view/settings/settings.phtml, line: 1262
+# File: module/setup/view/settings/settings.phtml, line: 1266
+# File: module/setup/view/settings/settings.phtml, line: 1267
 # File: module/setup/view/trains/era.phtml, line: 50
 # File: module/setup/view/trains/era.phtml, line: 51
 # File: module/setup/view/trains/sat.phtml, line: 50
@@ -51492,8 +51478,8 @@ msgstr ""
 # File: module/setup/view/hotels/nuitee.phtml, line: 51
 # File: module/setup/view/packages/destinationservices.phtml, line: 39
 # File: module/setup/view/packages/destinationservices.phtml, line: 40
-# File: module/setup/view/settings/settings.phtml, line: 1060
-# File: module/setup/view/settings/settings.phtml, line: 1061
+# File: module/setup/view/settings/settings.phtml, line: 1065
+# File: module/setup/view/settings/settings.phtml, line: 1066
 # File: module/setup/view/trains/era.phtml, line: 41
 # File: module/setup/view/trains/era.phtml, line: 42
 # File: module/setup/view/trains/sat.phtml, line: 41
@@ -54963,8 +54949,8 @@ msgstr ""
 # File: module/setup/view/air/turkishairlines.phtml, line: 40
 # File: module/setup/view/hotels/pricetravel.phtml, line: 20
 # File: module/setup/view/hotels/pricetravel.phtml, line: 21
-# File: module/setup/view/settings/settings.phtml, line: 1085
-# File: module/setup/view/settings/settings.phtml, line: 1086
+# File: module/setup/view/settings/settings.phtml, line: 1090
+# File: module/setup/view/settings/settings.phtml, line: 1091
 # File: module/setup/view/trains/era.phtml, line: 24
 # File: module/setup/view/trains/era.phtml, line: 25
 # File: module/setup/view/trains/sat.phtml, line: 24
@@ -58509,8 +58495,8 @@ msgstr ""
 # File: module/setup/view/hotels/pricetravel.phtml, line: 17
 # File: module/setup/view/packages/wamos.phtml, line: 37
 # File: module/setup/view/packages/wamos.phtml, line: 38
-# File: module/setup/view/settings/settings.phtml, line: 1080
-# File: module/setup/view/settings/settings.phtml, line: 1081
+# File: module/setup/view/settings/settings.phtml, line: 1085
+# File: module/setup/view/settings/settings.phtml, line: 1086
 # File: module/setup/view/trains/era.phtml, line: 20
 # File: module/setup/view/trains/era.phtml, line: 21
 # File: module/setup/view/trains/sat.phtml, line: 20
@@ -64147,7 +64133,7 @@ msgstr ""
 # File: module/setup/view/settings/settings.phtml, line: 84
 # File: module/setup/view/settings/settings.phtml, line: 100
 # File: module/setup/view/settings/settings.phtml, line: 110
-# File: module/setup/view/settings/settings.phtml, line: 988
+# File: module/setup/view/settings/settings.phtml, line: 993
 msgid "Config"
 msgstr ""
 #
@@ -64881,1258 +64867,1268 @@ msgstr ""
 msgid "Air Seats Ancillary Version"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 900
+# File: module/setup/view/settings/settings.phtml, line: 898
+# File: module/setup/view/settings/settings.phtml, line: 899
+msgid "Flight Deals Admin Id's"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 904
 msgid "Enable Activities Cross Selling"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 906
+# File: module/setup/view/settings/settings.phtml, line: 910
 msgid "Enable Hotels Cross Selling"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 912
+# File: module/setup/view/settings/settings.phtml, line: 916
 msgid "Enable Flights Cross Selling"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 918
+# File: module/setup/view/settings/settings.phtml, line: 922
 msgid "Enable Transfers Cross Selling"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 924
+# File: module/setup/view/settings/settings.phtml, line: 928
 msgid "Enable Cars Cross Selling"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 930
+# File: module/setup/view/settings/settings.phtml, line: 934
 msgid "Enable Tours Cross Selling"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 936
+# File: module/setup/view/settings/settings.phtml, line: 940
 msgid "Enable Packages Cross Selling"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 942
+# File: module/setup/view/settings/settings.phtml, line: 946
 msgid "Enable Insurances Cross Selling"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 948
+# File: module/setup/view/settings/settings.phtml, line: 952
 msgid "Reissue Travel Enabled in Front End"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 956
-# File: module/setup/view/settings/settings.phtml, line: 957
+# File: module/setup/view/settings/settings.phtml, line: 961
+# File: module/setup/view/settings/settings.phtml, line: 962
 msgid "Reset Password Extra Text"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 964
+# File: module/setup/view/settings/settings.phtml, line: 969
 msgid "Air Booking Lead Time (days)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 965
+# File: module/setup/view/settings/settings.phtml, line: 970
 msgid "Booking Lead Time (days)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 968
+# File: module/setup/view/settings/settings.phtml, line: 973
 msgid "Air B2B Booking Lead Time (days)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 969
+# File: module/setup/view/settings/settings.phtml, line: 974
 msgid "B2B Booking Lead Time (days)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 976
+# File: module/setup/view/settings/settings.phtml, line: 981
 msgid "Lead days prior to cancellation policy for payment purposes"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 977
-# File: module/setup/view/settings/settings.phtml, line: 981
+# File: module/setup/view/settings/settings.phtml, line: 982
+# File: module/setup/view/settings/settings.phtml, line: 986
 msgid "Lead days"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 980
+# File: module/setup/view/settings/settings.phtml, line: 985
 msgid "Lead days cancellation policy"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 984
-# File: module/setup/view/settings/settings.phtml, line: 985
+# File: module/setup/view/settings/settings.phtml, line: 989
+# File: module/setup/view/settings/settings.phtml, line: 990
 msgid "Google Maps Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 999
+# File: module/setup/view/settings/settings.phtml, line: 1004
 msgid "Enable Contract Manager Integration"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1003
-# File: module/setup/view/settings/settings.phtml, line: 1004
+# File: module/setup/view/settings/settings.phtml, line: 1008
+# File: module/setup/view/settings/settings.phtml, line: 1009
 msgid "Contract Manager Service URL"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1015
-msgid "Credit Account Synchronisation with Costamar Globalware"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1019
 # File: module/setup/view/settings/settings.phtml, line: 1020
-msgid "Costamar Globalware Username"
+msgid "Credit Account Synchronisation with Costamar Globalware"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1024
 # File: module/setup/view/settings/settings.phtml, line: 1025
-msgid "Costamar Globalware Password"
+msgid "Costamar Globalware Username"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1028
 # File: module/setup/view/settings/settings.phtml, line: 1029
-msgid "Costamar Globalware URL"
+# File: module/setup/view/settings/settings.phtml, line: 1030
+msgid "Costamar Globalware Password"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1033
 # File: module/setup/view/settings/settings.phtml, line: 1034
-msgid "Costamar Globalware TFA"
+msgid "Costamar Globalware URL"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1038
 # File: module/setup/view/settings/settings.phtml, line: 1039
+msgid "Costamar Globalware TFA"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1043
+# File: module/setup/view/settings/settings.phtml, line: 1044
 msgid "Costamar Utility %"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1049
+# File: module/setup/view/settings/settings.phtml, line: 1054
 msgid "Enable Costamar Travel Online Invoice API"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1056
+# File: module/setup/view/settings/settings.phtml, line: 1061
 msgid "Create invoice only when reservation is set to Payment Received"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1065
-# File: module/setup/view/settings/settings.phtml, line: 1066
+# File: module/setup/view/settings/settings.phtml, line: 1070
+# File: module/setup/view/settings/settings.phtml, line: 1071
 msgid "Senju Web Services End Point"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1090
-# File: module/setup/view/settings/settings.phtml, line: 1091
-msgid "Globalware TKT"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1095
 # File: module/setup/view/settings/settings.phtml, line: 1096
-msgid "Click & Book Middleware"
+msgid "Globalware TKT"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1100
 # File: module/setup/view/settings/settings.phtml, line: 1101
-msgid "Main Branch"
+msgid "Click & Book Middleware"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1105
 # File: module/setup/view/settings/settings.phtml, line: 1106
+msgid "Main Branch"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1110
+# File: module/setup/view/settings/settings.phtml, line: 1111
 msgid "Send Invoice Creation Notification to the following Email"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1115
-msgid "Enable SaleSys Integration"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1119
 # File: module/setup/view/settings/settings.phtml, line: 1120
-msgid "SaleSys Hostname"
+msgid "Enable SaleSys Integration"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1124
 # File: module/setup/view/settings/settings.phtml, line: 1125
-msgid "SaleSys Username"
+msgid "SaleSys Hostname"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1129
 # File: module/setup/view/settings/settings.phtml, line: 1130
-msgid "SaleSys Password"
+msgid "SaleSys Username"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1133
 # File: module/setup/view/settings/settings.phtml, line: 1134
-msgid "SaleSys Database"
+# File: module/setup/view/settings/settings.phtml, line: 1135
+msgid "SaleSys Password"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1138
 # File: module/setup/view/settings/settings.phtml, line: 1139
-msgid "SaleSys Table"
+msgid "SaleSys Database"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1145
-# File: module/setup/view/settings/settings.phtml, line: 1146
-msgid "Affirm Financial Key"
+# File: module/setup/view/settings/settings.phtml, line: 1143
+# File: module/setup/view/settings/settings.phtml, line: 1144
+msgid "SaleSys Table"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1150
 # File: module/setup/view/settings/settings.phtml, line: 1151
-msgid "Affirm Public Key"
+msgid "Affirm Financial Key"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1155
 # File: module/setup/view/settings/settings.phtml, line: 1156
-msgid "Affirm Private Key"
+msgid "Affirm Public Key"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1160
 # File: module/setup/view/settings/settings.phtml, line: 1161
-msgid "Affirm VCN Financial Key"
+msgid "Affirm Private Key"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1165
 # File: module/setup/view/settings/settings.phtml, line: 1166
-msgid "Affirm VCN Public Key"
+msgid "Affirm VCN Financial Key"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1170
 # File: module/setup/view/settings/settings.phtml, line: 1171
+msgid "Affirm VCN Public Key"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1175
+# File: module/setup/view/settings/settings.phtml, line: 1176
 msgid "Affirm VCN Private Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1177
+# File: module/setup/view/settings/settings.phtml, line: 1182
 msgid "Bank Transfer Information"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1179
-# File: module/setup/view/settings/settings.phtml, line: 1180
+# File: module/setup/view/settings/settings.phtml, line: 1184
+# File: module/setup/view/settings/settings.phtml, line: 1185
 msgid "Account Holder's Name"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1189
-# File: module/setup/view/settings/settings.phtml, line: 1190
-msgid "Routing Number"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1194
 # File: module/setup/view/settings/settings.phtml, line: 1195
-msgid "IBAN"
+msgid "Routing Number"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1199
 # File: module/setup/view/settings/settings.phtml, line: 1200
+msgid "IBAN"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1204
+# File: module/setup/view/settings/settings.phtml, line: 1205
 msgid "Additional Information"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1207
-# File: module/setup/view/settings/settings.phtml, line: 1208
+# File: module/setup/view/settings/settings.phtml, line: 1212
+# File: module/setup/view/settings/settings.phtml, line: 1213
 msgid "Custom Credit Card Failed Message"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1215
+# File: module/setup/view/settings/settings.phtml, line: 1220
 msgid "Pre Defined Air Supplier:"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1226
-# File: module/setup/view/settings/settings.phtml, line: 1227
-msgid "Hotels Markup Fallback"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1231
 # File: module/setup/view/settings/settings.phtml, line: 1232
-msgid "Packages Markup Fallback"
+msgid "Hotels Markup Fallback"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1236
 # File: module/setup/view/settings/settings.phtml, line: 1237
-msgid "Cars Markup Fallback"
+msgid "Packages Markup Fallback"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1241
 # File: module/setup/view/settings/settings.phtml, line: 1242
-msgid "Cruises Markup Fallback"
+msgid "Cars Markup Fallback"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1246
 # File: module/setup/view/settings/settings.phtml, line: 1247
-msgid "Activities Markup Fallback"
+msgid "Cruises Markup Fallback"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1251
 # File: module/setup/view/settings/settings.phtml, line: 1252
-msgid "Transfers Markup Fallback"
+msgid "Activities Markup Fallback"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1256
 # File: module/setup/view/settings/settings.phtml, line: 1257
-msgid "Tours Markup Fallback"
+msgid "Transfers Markup Fallback"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1266
-# File: module/setup/view/settings/settings.phtml, line: 1267
-msgid "Remove % recovery fee in booking workflow"
+# File: module/setup/view/settings/settings.phtml, line: 1261
+# File: module/setup/view/settings/settings.phtml, line: 1262
+msgid "Tours Markup Fallback"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1271
 # File: module/setup/view/settings/settings.phtml, line: 1272
-msgid "Global B2B Discount Promotion"
+msgid "Remove % recovery fee in booking workflow"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1276
 # File: module/setup/view/settings/settings.phtml, line: 1277
-msgid "Global B2B Discount Promotion Text"
+msgid "Global B2B Discount Promotion"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1281
 # File: module/setup/view/settings/settings.phtml, line: 1282
-msgid "Global B2B Discount Tag"
+msgid "Global B2B Discount Promotion Text"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1286
 # File: module/setup/view/settings/settings.phtml, line: 1287
-msgid "Global B2C Discount Promotion"
+msgid "Global B2B Discount Tag"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1291
 # File: module/setup/view/settings/settings.phtml, line: 1292
-msgid "Global B2C Discount Promotion Text"
+msgid "Global B2C Discount Promotion"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1296
 # File: module/setup/view/settings/settings.phtml, line: 1297
+msgid "Global B2C Discount Promotion Text"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1301
+# File: module/setup/view/settings/settings.phtml, line: 1302
 msgid "Global B2C Discount Tag"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1308
+# File: module/setup/view/settings/settings.phtml, line: 1313
 msgid "Enable Ekata Reverse Phone"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1312
-# File: module/setup/view/settings/settings.phtml, line: 1313
+# File: module/setup/view/settings/settings.phtml, line: 1317
+# File: module/setup/view/settings/settings.phtml, line: 1318
 msgid "Ekata API Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1320
+# File: module/setup/view/settings/settings.phtml, line: 1325
 msgid "Enable EveryoneAPI Reverse Phone"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1324
-# File: module/setup/view/settings/settings.phtml, line: 1325
+# File: module/setup/view/settings/settings.phtml, line: 1329
+# File: module/setup/view/settings/settings.phtml, line: 1330
 msgid "EveryoneAPI Key"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1331
-# File: module/setup/view/settings/settings.phtml, line: 1332
-msgid "Cancellation Timeout for Confirmed Air Departure Bookings (In minutes) "
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1336
 # File: module/setup/view/settings/settings.phtml, line: 1337
-msgid "Cancellation Timeout for Airline Bookings Cancellations (In minutes)"
+msgid "Cancellation Timeout for Confirmed Air Departure Bookings (In minutes) "
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1341
 # File: module/setup/view/settings/settings.phtml, line: 1342
-msgid "Cancellation Timeout for Hotel Bookings Cancellations (In minutes)"
+msgid "Cancellation Timeout for Airline Bookings Cancellations (In minutes)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1346
 # File: module/setup/view/settings/settings.phtml, line: 1347
-msgid "Cancellation Timeout for Activities Bookings Cancellations (In minutes) "
+msgid "Cancellation Timeout for Hotel Bookings Cancellations (In minutes)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1351
 # File: module/setup/view/settings/settings.phtml, line: 1352
-msgid "Cancellation Timeout for Transfer Bookings Cancellations (In minutes)"
+msgid "Cancellation Timeout for Activities Bookings Cancellations (In minutes) "
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1356
 # File: module/setup/view/settings/settings.phtml, line: 1357
-msgid "Cancellation Timeout for Car Rental Bookings Cancellations (In minutes)"
+msgid "Cancellation Timeout for Transfer Bookings Cancellations (In minutes)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1361
 # File: module/setup/view/settings/settings.phtml, line: 1362
+msgid "Cancellation Timeout for Car Rental Bookings Cancellations (In minutes)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1366
+# File: module/setup/view/settings/settings.phtml, line: 1367
 msgid "Cancellation Timeout for Packages Bookings Cancellations (In minutes)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1371
-msgid "Automatic Cancell Reservation if not paid"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1375
 # File: module/setup/view/settings/settings.phtml, line: 1376
-msgid "Number of warning days"
+msgid "Automatic Cancell Reservation if not paid"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1380
 # File: module/setup/view/settings/settings.phtml, line: 1381
-# File: module/setup/view/settings/settings.phtml, line: 1582
+msgid "Number of warning days"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1385
+# File: module/setup/view/settings/settings.phtml, line: 1386
+# File: module/setup/view/settings/settings.phtml, line: 1587
 msgid "Send Auto Cancellation Emails To"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1390
+# File: module/setup/view/settings/settings.phtml, line: 1395
 msgid "Enable rePUSHTI reservation check"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1394
-# File: module/setup/view/settings/settings.phtml, line: 1395
+# File: module/setup/view/settings/settings.phtml, line: 1399
+# File: module/setup/view/settings/settings.phtml, line: 1400
 msgid "rePUSH API Key"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1401
-# File: module/setup/view/settings/settings.phtml, line: 1402
-# File: module/setup/view/settings/settings.phtml, line: 1416
-# File: module/setup/view/settings/settings.phtml, line: 1417
-msgid "Cybersource API Key"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1406
 # File: module/setup/view/settings/settings.phtml, line: 1407
 # File: module/setup/view/settings/settings.phtml, line: 1421
 # File: module/setup/view/settings/settings.phtml, line: 1422
-msgid "Cybersource Secret Key"
+msgid "Cybersource API Key"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1411
 # File: module/setup/view/settings/settings.phtml, line: 1412
+# File: module/setup/view/settings/settings.phtml, line: 1426
 # File: module/setup/view/settings/settings.phtml, line: 1427
+msgid "Cybersource Secret Key"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1416
+# File: module/setup/view/settings/settings.phtml, line: 1417
+# File: module/setup/view/settings/settings.phtml, line: 1432
 msgid "Cybersource Merchant Id "
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1426
+# File: module/setup/view/settings/settings.phtml, line: 1431
 msgid "Cybersource Merchant Id"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1434
+# File: module/setup/view/settings/settings.phtml, line: 1439
 msgid "Cybersource Rest Mode Test"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1443
+# File: module/setup/view/settings/settings.phtml, line: 1448
 msgid "Enable Google Authenticator 2 Factor Authentication"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1450
-msgid "Enable OTP Two-step verification"
-msgstr ""
-#
 # File: module/setup/view/settings/settings.phtml, line: 1455
-# File: module/setup/view/settings/settings.phtml, line: 1456
-msgid "Twilio Account SID"
+msgid "Enable OTP Two-step verification"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1460
 # File: module/setup/view/settings/settings.phtml, line: 1461
-msgid "Twilio Auth Token"
+msgid "Twilio Account SID"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1465
 # File: module/setup/view/settings/settings.phtml, line: 1466
-msgid "Service SID"
+msgid "Twilio Auth Token"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1472
-# File: module/setup/view/settings/settings.phtml, line: 1473
-msgid "Twilio Phone Number"
+# File: module/setup/view/settings/settings.phtml, line: 1470
+# File: module/setup/view/settings/settings.phtml, line: 1471
+msgid "Service SID"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1477
 # File: module/setup/view/settings/settings.phtml, line: 1478
-msgid "Twilio Phone Number (Name)"
+msgid "Twilio Phone Number"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1482
 # File: module/setup/view/settings/settings.phtml, line: 1483
-msgid "Twilio Message ( Your Click & Book verification code is: )"
+msgid "Twilio Phone Number (Name)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1489
-# File: module/setup/view/settings/settings.phtml, line: 1490
-msgid "Google Authenticator Descriptor"
+# File: module/setup/view/settings/settings.phtml, line: 1487
+# File: module/setup/view/settings/settings.phtml, line: 1488
+msgid "Twilio Message ( Your Click & Book verification code is: )"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1494
 # File: module/setup/view/settings/settings.phtml, line: 1495
-msgid "B2B Google Authenticator Descriptor"
+msgid "Google Authenticator Descriptor"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1501
-# File: module/setup/view/settings/settings.phtml, line: 1502
-msgid "Send Air Block Time Limit Warnings To"
+# File: module/setup/view/settings/settings.phtml, line: 1499
+# File: module/setup/view/settings/settings.phtml, line: 1500
+msgid "B2B Google Authenticator Descriptor"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1506
 # File: module/setup/view/settings/settings.phtml, line: 1507
+msgid "Send Air Block Time Limit Warnings To"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1511
+# File: module/setup/view/settings/settings.phtml, line: 1512
 msgid "Air Middleware"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1516
-msgid "Enable HelloSign"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1520
 # File: module/setup/view/settings/settings.phtml, line: 1521
-msgid "Hello Sign API Key"
+msgid "Enable HelloSign"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1525
 # File: module/setup/view/settings/settings.phtml, line: 1526
-msgid "Terms and Conditions File Path"
+msgid "Hello Sign API Key"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1530
 # File: module/setup/view/settings/settings.phtml, line: 1531
+msgid "Terms and Conditions File Path"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1535
+# File: module/setup/view/settings/settings.phtml, line: 1536
 msgid "Single Sign On API Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1537
+# File: module/setup/view/settings/settings.phtml, line: 1542
 msgid "(For multiple companies use semicolon (;) (For example 1;2))"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1543
+# File: module/setup/view/settings/settings.phtml, line: 1548
 msgid "Click & Book"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1545
-# File: module/setup/view/settings/settings.phtml, line: 1546
+# File: module/setup/view/settings/settings.phtml, line: 1550
+# File: module/setup/view/settings/settings.phtml, line: 1551
 msgid "Click & Book Company Name"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1549
-# File: module/setup/view/settings/settings.phtml, line: 1550
+# File: module/setup/view/settings/settings.phtml, line: 1554
+# File: module/setup/view/settings/settings.phtml, line: 1555
 msgid "Click & Book Company Logo"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1553
-# File: module/setup/view/settings/settings.phtml, line: 1554
+# File: module/setup/view/settings/settings.phtml, line: 1558
+# File: module/setup/view/settings/settings.phtml, line: 1559
 msgid "Click & Book From Name"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1557
-# File: module/setup/view/settings/settings.phtml, line: 1558
+# File: module/setup/view/settings/settings.phtml, line: 1562
+# File: module/setup/view/settings/settings.phtml, line: 1563
 msgid "Click & Book From Email"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1561
-# File: module/setup/view/settings/settings.phtml, line: 1562
+# File: module/setup/view/settings/settings.phtml, line: 1566
+# File: module/setup/view/settings/settings.phtml, line: 1567
 msgid "Default Company Id"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1565
-# File: module/setup/view/settings/settings.phtml, line: 1566
+# File: module/setup/view/settings/settings.phtml, line: 1570
+# File: module/setup/view/settings/settings.phtml, line: 1571
 msgid "Click & Book Login Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1572
+# File: module/setup/view/settings/settings.phtml, line: 1577
 msgid "Moneygram Payment Handling"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1577
+# File: module/setup/view/settings/settings.phtml, line: 1582
 msgid "Enable Moneygram Payment Handling"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1581
+# File: module/setup/view/settings/settings.phtml, line: 1586
 msgid "Send Moneygram Payment Email Alerts To"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1586
-# File: module/setup/view/settings/settings.phtml, line: 1587
+# File: module/setup/view/settings/settings.phtml, line: 1591
+# File: module/setup/view/settings/settings.phtml, line: 1592
 msgid "Moneygram Received Code"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1594
-# File: module/setup/view/settings/settings.phtml, line: 1595
+# File: module/setup/view/settings/settings.phtml, line: 1599
+# File: module/setup/view/settings/settings.phtml, line: 1600
 msgid "Open AI API Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1602
-# File: module/setup/view/settings/settings.phtml, line: 1603
+# File: module/setup/view/settings/settings.phtml, line: 1607
+# File: module/setup/view/settings/settings.phtml, line: 1608
 msgid "Agents API Enforce (0/1)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1611
-# File: module/setup/view/settings/settings.phtml, line: 1612
+# File: module/setup/view/settings/settings.phtml, line: 1616
+# File: module/setup/view/settings/settings.phtml, line: 1617
 msgid "Hotels Index Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1615
-# File: module/setup/view/settings/settings.phtml, line: 1616
+# File: module/setup/view/settings/settings.phtml, line: 1620
+# File: module/setup/view/settings/settings.phtml, line: 1621
 msgid "Hotels Search Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1619
-# File: module/setup/view/settings/settings.phtml, line: 1620
+# File: module/setup/view/settings/settings.phtml, line: 1624
+# File: module/setup/view/settings/settings.phtml, line: 1625
 msgid "Hotels Info Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1623
-# File: module/setup/view/settings/settings.phtml, line: 1624
+# File: module/setup/view/settings/settings.phtml, line: 1628
+# File: module/setup/view/settings/settings.phtml, line: 1629
 msgid "Hotels Summary Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1627
-# File: module/setup/view/settings/settings.phtml, line: 1628
+# File: module/setup/view/settings/settings.phtml, line: 1632
+# File: module/setup/view/settings/settings.phtml, line: 1633
 msgid "Hotels Passengers Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1631
-# File: module/setup/view/settings/settings.phtml, line: 1632
+# File: module/setup/view/settings/settings.phtml, line: 1636
+# File: module/setup/view/settings/settings.phtml, line: 1637
 msgid "Hotels Payment Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1635
-# File: module/setup/view/settings/settings.phtml, line: 1636
+# File: module/setup/view/settings/settings.phtml, line: 1640
+# File: module/setup/view/settings/settings.phtml, line: 1641
 msgid "Hotels Confirm Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1639
-# File: module/setup/view/settings/settings.phtml, line: 1640
+# File: module/setup/view/settings/settings.phtml, line: 1644
+# File: module/setup/view/settings/settings.phtml, line: 1645
 msgid "Hotels Brands Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1643
-# File: module/setup/view/settings/settings.phtml, line: 1644
+# File: module/setup/view/settings/settings.phtml, line: 1648
+# File: module/setup/view/settings/settings.phtml, line: 1649
 msgid "Hotels Voucher Version (3)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1653
-# File: module/setup/view/settings/settings.phtml, line: 1654
+# File: module/setup/view/settings/settings.phtml, line: 1658
+# File: module/setup/view/settings/settings.phtml, line: 1659
 msgid "Cruises API Secret"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1657
+# File: module/setup/view/settings/settings.phtml, line: 1662
 msgid "Cruises API Enforce (0/1)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1658
+# File: module/setup/view/settings/settings.phtml, line: 1663
 msgid "Cruises API Enforce"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1661
-# File: module/setup/view/settings/settings.phtml, line: 1662
+# File: module/setup/view/settings/settings.phtml, line: 1666
+# File: module/setup/view/settings/settings.phtml, line: 1667
 msgid "Cruises Index Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1665
-# File: module/setup/view/settings/settings.phtml, line: 1666
+# File: module/setup/view/settings/settings.phtml, line: 1670
+# File: module/setup/view/settings/settings.phtml, line: 1671
 msgid "Cruises Offers Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1669
-# File: module/setup/view/settings/settings.phtml, line: 1670
+# File: module/setup/view/settings/settings.phtml, line: 1674
+# File: module/setup/view/settings/settings.phtml, line: 1675
 msgid "Cruises Search Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1673
-# File: module/setup/view/settings/settings.phtml, line: 1674
+# File: module/setup/view/settings/settings.phtml, line: 1678
+# File: module/setup/view/settings/settings.phtml, line: 1679
 msgid "Cruises Summary Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1677
-# File: module/setup/view/settings/settings.phtml, line: 1678
+# File: module/setup/view/settings/settings.phtml, line: 1682
+# File: module/setup/view/settings/settings.phtml, line: 1683
 msgid "Cruises Passengers Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1681
-# File: module/setup/view/settings/settings.phtml, line: 1682
+# File: module/setup/view/settings/settings.phtml, line: 1686
+# File: module/setup/view/settings/settings.phtml, line: 1687
 msgid "Cruises Payment Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1685
-# File: module/setup/view/settings/settings.phtml, line: 1686
+# File: module/setup/view/settings/settings.phtml, line: 1690
+# File: module/setup/view/settings/settings.phtml, line: 1691
 msgid "Cruises Confirm Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1689
+# File: module/setup/view/settings/settings.phtml, line: 1694
 msgid "Cruises Select Version (1 = original wizard, 2 = the three-step version, 3 = single page )"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1690
+# File: module/setup/view/settings/settings.phtml, line: 1695
 msgid "Cruises Select Version"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1693
-# File: module/setup/view/settings/settings.phtml, line: 1694
+# File: module/setup/view/settings/settings.phtml, line: 1698
+# File: module/setup/view/settings/settings.phtml, line: 1699
 msgid "Cruises Voucher Version (3)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1701
-# File: module/setup/view/settings/settings.phtml, line: 1702
+# File: module/setup/view/settings/settings.phtml, line: 1706
+# File: module/setup/view/settings/settings.phtml, line: 1707
 msgid "Escorted Tours Select Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1705
-# File: module/setup/view/settings/settings.phtml, line: 1706
+# File: module/setup/view/settings/settings.phtml, line: 1710
+# File: module/setup/view/settings/settings.phtml, line: 1711
 msgid "Escorted Tours Passengers Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1709
-# File: module/setup/view/settings/settings.phtml, line: 1710
+# File: module/setup/view/settings/settings.phtml, line: 1714
+# File: module/setup/view/settings/settings.phtml, line: 1715
 msgid "Escorted Tours Payment Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1713
-# File: module/setup/view/settings/settings.phtml, line: 1714
+# File: module/setup/view/settings/settings.phtml, line: 1718
+# File: module/setup/view/settings/settings.phtml, line: 1719
 msgid "Escorted Tours Index Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1717
-# File: module/setup/view/settings/settings.phtml, line: 1718
+# File: module/setup/view/settings/settings.phtml, line: 1722
+# File: module/setup/view/settings/settings.phtml, line: 1723
 msgid "Escorted Tours Info Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1721
-# File: module/setup/view/settings/settings.phtml, line: 1722
+# File: module/setup/view/settings/settings.phtml, line: 1726
+# File: module/setup/view/settings/settings.phtml, line: 1727
 msgid "Escorted Tours Summary Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1725
-# File: module/setup/view/settings/settings.phtml, line: 1726
+# File: module/setup/view/settings/settings.phtml, line: 1730
+# File: module/setup/view/settings/settings.phtml, line: 1731
 msgid "Escorted Tours Confirmation Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1729
-# File: module/setup/view/settings/settings.phtml, line: 1730
+# File: module/setup/view/settings/settings.phtml, line: 1734
+# File: module/setup/view/settings/settings.phtml, line: 1735
 msgid "Escorted Tours Search Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1733
-# File: module/setup/view/settings/settings.phtml, line: 1734
+# File: module/setup/view/settings/settings.phtml, line: 1738
+# File: module/setup/view/settings/settings.phtml, line: 1739
 msgid "Escorted Tours Voucher Version (3)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1742
-# File: module/setup/view/settings/settings.phtml, line: 1743
+# File: module/setup/view/settings/settings.phtml, line: 1747
+# File: module/setup/view/settings/settings.phtml, line: 1748
 msgid "Activities Info Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1746
-# File: module/setup/view/settings/settings.phtml, line: 1747
-msgid "Activities Summary Version (2)"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1750
 # File: module/setup/view/settings/settings.phtml, line: 1751
-msgid "Activities Passengers Version (2)"
+# File: module/setup/view/settings/settings.phtml, line: 1752
+msgid "Activities Summary Version (2)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1755
 # File: module/setup/view/settings/settings.phtml, line: 1756
+msgid "Activities Passengers Version (2)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1760
+# File: module/setup/view/settings/settings.phtml, line: 1761
 msgid "Activities Index Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1759
-# File: module/setup/view/settings/settings.phtml, line: 1760
+# File: module/setup/view/settings/settings.phtml, line: 1764
+# File: module/setup/view/settings/settings.phtml, line: 1765
 msgid "Activities Search Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1763
-# File: module/setup/view/settings/settings.phtml, line: 1764
+# File: module/setup/view/settings/settings.phtml, line: 1768
+# File: module/setup/view/settings/settings.phtml, line: 1769
 msgid "Activities Payment Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1767
-# File: module/setup/view/settings/settings.phtml, line: 1768
+# File: module/setup/view/settings/settings.phtml, line: 1772
+# File: module/setup/view/settings/settings.phtml, line: 1773
 msgid "Activities Confirmation Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1771
-# File: module/setup/view/settings/settings.phtml, line: 1772
+# File: module/setup/view/settings/settings.phtml, line: 1776
+# File: module/setup/view/settings/settings.phtml, line: 1777
 msgid "Activities Voucher Version (3)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1779
-# File: module/setup/view/settings/settings.phtml, line: 1780
+# File: module/setup/view/settings/settings.phtml, line: 1784
+# File: module/setup/view/settings/settings.phtml, line: 1785
 msgid "Packages Index Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1783
-# File: module/setup/view/settings/settings.phtml, line: 1784
+# File: module/setup/view/settings/settings.phtml, line: 1788
+# File: module/setup/view/settings/settings.phtml, line: 1789
 msgid "Packages Info Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1787
-# File: module/setup/view/settings/settings.phtml, line: 1788
+# File: module/setup/view/settings/settings.phtml, line: 1792
+# File: module/setup/view/settings/settings.phtml, line: 1793
 msgid "Packages Summary Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1791
-# File: module/setup/view/settings/settings.phtml, line: 1792
+# File: module/setup/view/settings/settings.phtml, line: 1796
+# File: module/setup/view/settings/settings.phtml, line: 1797
 msgid "Packages Passengers Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1795
-# File: module/setup/view/settings/settings.phtml, line: 1796
+# File: module/setup/view/settings/settings.phtml, line: 1800
+# File: module/setup/view/settings/settings.phtml, line: 1801
 msgid "Packages Payment Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1799
-# File: module/setup/view/settings/settings.phtml, line: 1800
+# File: module/setup/view/settings/settings.phtml, line: 1804
+# File: module/setup/view/settings/settings.phtml, line: 1805
 msgid "Packages Confirm Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1803
-# File: module/setup/view/settings/settings.phtml, line: 1804
+# File: module/setup/view/settings/settings.phtml, line: 1808
+# File: module/setup/view/settings/settings.phtml, line: 1809
 msgid "Packages Voucher Version (3)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1811
-# File: module/setup/view/settings/settings.phtml, line: 1812
+# File: module/setup/view/settings/settings.phtml, line: 1816
+# File: module/setup/view/settings/settings.phtml, line: 1817
 msgid "Transfers Index Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1815
-# File: module/setup/view/settings/settings.phtml, line: 1816
+# File: module/setup/view/settings/settings.phtml, line: 1820
+# File: module/setup/view/settings/settings.phtml, line: 1821
 msgid "Transfers Summary Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1819
-# File: module/setup/view/settings/settings.phtml, line: 1820
+# File: module/setup/view/settings/settings.phtml, line: 1824
+# File: module/setup/view/settings/settings.phtml, line: 1825
 msgid "Transfers Passengers Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1823
-# File: module/setup/view/settings/settings.phtml, line: 1824
+# File: module/setup/view/settings/settings.phtml, line: 1828
+# File: module/setup/view/settings/settings.phtml, line: 1829
 msgid "Transfers Search Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1827
-# File: module/setup/view/settings/settings.phtml, line: 1828
+# File: module/setup/view/settings/settings.phtml, line: 1832
+# File: module/setup/view/settings/settings.phtml, line: 1833
 msgid "Transfers Payment Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1831
-# File: module/setup/view/settings/settings.phtml, line: 1832
+# File: module/setup/view/settings/settings.phtml, line: 1836
+# File: module/setup/view/settings/settings.phtml, line: 1837
 msgid "Transfers Confirmation Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1835
-# File: module/setup/view/settings/settings.phtml, line: 1836
+# File: module/setup/view/settings/settings.phtml, line: 1840
+# File: module/setup/view/settings/settings.phtml, line: 1841
 msgid "Transfers Voucher Version (3)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1844
-# File: module/setup/view/settings/settings.phtml, line: 1845
+# File: module/setup/view/settings/settings.phtml, line: 1849
+# File: module/setup/view/settings/settings.phtml, line: 1850
 msgid "Insurances Index Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1848
-# File: module/setup/view/settings/settings.phtml, line: 1849
+# File: module/setup/view/settings/settings.phtml, line: 1853
+# File: module/setup/view/settings/settings.phtml, line: 1854
 msgid "Insurances Summary Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1852
-# File: module/setup/view/settings/settings.phtml, line: 1853
+# File: module/setup/view/settings/settings.phtml, line: 1857
+# File: module/setup/view/settings/settings.phtml, line: 1858
 msgid "Insurances Passengers Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1856
-# File: module/setup/view/settings/settings.phtml, line: 1857
+# File: module/setup/view/settings/settings.phtml, line: 1861
+# File: module/setup/view/settings/settings.phtml, line: 1862
 msgid "Insurances Search Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1860
-# File: module/setup/view/settings/settings.phtml, line: 1861
+# File: module/setup/view/settings/settings.phtml, line: 1865
+# File: module/setup/view/settings/settings.phtml, line: 1866
 msgid "Insurances Payment Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1864
-# File: module/setup/view/settings/settings.phtml, line: 1865
+# File: module/setup/view/settings/settings.phtml, line: 1869
+# File: module/setup/view/settings/settings.phtml, line: 1870
 msgid "Insurances Confirmation Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1868
-# File: module/setup/view/settings/settings.phtml, line: 1869
+# File: module/setup/view/settings/settings.phtml, line: 1873
+# File: module/setup/view/settings/settings.phtml, line: 1874
 msgid "Insurances Voucher Version (3)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1877
-# File: module/setup/view/settings/settings.phtml, line: 1878
+# File: module/setup/view/settings/settings.phtml, line: 1882
+# File: module/setup/view/settings/settings.phtml, line: 1883
 msgid "Cars Index Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1881
-# File: module/setup/view/settings/settings.phtml, line: 1882
+# File: module/setup/view/settings/settings.phtml, line: 1886
+# File: module/setup/view/settings/settings.phtml, line: 1887
 msgid "Cars Summary Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1885
-# File: module/setup/view/settings/settings.phtml, line: 1886
+# File: module/setup/view/settings/settings.phtml, line: 1890
+# File: module/setup/view/settings/settings.phtml, line: 1891
 msgid "Cars Passengers Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1889
-# File: module/setup/view/settings/settings.phtml, line: 1890
+# File: module/setup/view/settings/settings.phtml, line: 1894
+# File: module/setup/view/settings/settings.phtml, line: 1895
 msgid "Cars Search Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1893
-# File: module/setup/view/settings/settings.phtml, line: 1894
+# File: module/setup/view/settings/settings.phtml, line: 1898
+# File: module/setup/view/settings/settings.phtml, line: 1899
 msgid "Cars Payment Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1897
-# File: module/setup/view/settings/settings.phtml, line: 1898
+# File: module/setup/view/settings/settings.phtml, line: 1902
+# File: module/setup/view/settings/settings.phtml, line: 1903
 msgid "Cars Confirmation Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1901
-# File: module/setup/view/settings/settings.phtml, line: 1902
+# File: module/setup/view/settings/settings.phtml, line: 1906
+# File: module/setup/view/settings/settings.phtml, line: 1907
 msgid "Cars Voucher Version (3)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1910
-# File: module/setup/view/settings/settings.phtml, line: 1911
+# File: module/setup/view/settings/settings.phtml, line: 1915
+# File: module/setup/view/settings/settings.phtml, line: 1916
 msgid "Bus Index Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1914
-# File: module/setup/view/settings/settings.phtml, line: 1915
+# File: module/setup/view/settings/settings.phtml, line: 1919
+# File: module/setup/view/settings/settings.phtml, line: 1920
 msgid "Bus Search Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1918
-# File: module/setup/view/settings/settings.phtml, line: 1919
+# File: module/setup/view/settings/settings.phtml, line: 1923
+# File: module/setup/view/settings/settings.phtml, line: 1924
 msgid "Bus Passengers Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1922
-# File: module/setup/view/settings/settings.phtml, line: 1923
+# File: module/setup/view/settings/settings.phtml, line: 1927
+# File: module/setup/view/settings/settings.phtml, line: 1928
 msgid "Bus Payment Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1926
-# File: module/setup/view/settings/settings.phtml, line: 1927
+# File: module/setup/view/settings/settings.phtml, line: 1931
+# File: module/setup/view/settings/settings.phtml, line: 1932
 msgid "Bus Confirmation Version (2) "
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1936
-# File: module/setup/view/settings/settings.phtml, line: 1937
+# File: module/setup/view/settings/settings.phtml, line: 1941
+# File: module/setup/view/settings/settings.phtml, line: 1942
 msgid "Disney Index Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1940
-# File: module/setup/view/settings/settings.phtml, line: 1941
+# File: module/setup/view/settings/settings.phtml, line: 1945
+# File: module/setup/view/settings/settings.phtml, line: 1946
 msgid "Disney Search Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1944
-# File: module/setup/view/settings/settings.phtml, line: 1945
+# File: module/setup/view/settings/settings.phtml, line: 1949
+# File: module/setup/view/settings/settings.phtml, line: 1950
 msgid "Disney Select Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1948
-# File: module/setup/view/settings/settings.phtml, line: 1949
+# File: module/setup/view/settings/settings.phtml, line: 1953
+# File: module/setup/view/settings/settings.phtml, line: 1954
 msgid "Disney Confirmation Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1958
-# File: module/setup/view/settings/settings.phtml, line: 1959
+# File: module/setup/view/settings/settings.phtml, line: 1963
+# File: module/setup/view/settings/settings.phtml, line: 1964
 msgid "Air Ticketing Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1962
-# File: module/setup/view/settings/settings.phtml, line: 1963
+# File: module/setup/view/settings/settings.phtml, line: 1967
+# File: module/setup/view/settings/settings.phtml, line: 1968
 msgid "Air Seating Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1966
-# File: module/setup/view/settings/settings.phtml, line: 1967
+# File: module/setup/view/settings/settings.phtml, line: 1971
+# File: module/setup/view/settings/settings.phtml, line: 1972
 msgid "Air Index Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1970
-# File: module/setup/view/settings/settings.phtml, line: 1971
+# File: module/setup/view/settings/settings.phtml, line: 1975
+# File: module/setup/view/settings/settings.phtml, line: 1976
 msgid "Air Search Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1974
-# File: module/setup/view/settings/settings.phtml, line: 1975
+# File: module/setup/view/settings/settings.phtml, line: 1979
+# File: module/setup/view/settings/settings.phtml, line: 1980
 msgid "Air Return Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1978
-# File: module/setup/view/settings/settings.phtml, line: 1979
+# File: module/setup/view/settings/settings.phtml, line: 1983
+# File: module/setup/view/settings/settings.phtml, line: 1984
 msgid "Air Segment Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1982
-# File: module/setup/view/settings/settings.phtml, line: 1983
+# File: module/setup/view/settings/settings.phtml, line: 1987
+# File: module/setup/view/settings/settings.phtml, line: 1988
 msgid "Air Summary Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1986
-# File: module/setup/view/settings/settings.phtml, line: 1987
+# File: module/setup/view/settings/settings.phtml, line: 1991
+# File: module/setup/view/settings/settings.phtml, line: 1992
 msgid "Air Passenger Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1990
-# File: module/setup/view/settings/settings.phtml, line: 1991
+# File: module/setup/view/settings/settings.phtml, line: 1995
+# File: module/setup/view/settings/settings.phtml, line: 1996
 msgid "Air Payment Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1994
-# File: module/setup/view/settings/settings.phtml, line: 1995
+# File: module/setup/view/settings/settings.phtml, line: 1999
+# File: module/setup/view/settings/settings.phtml, line: 2000
 msgid "Air Confirm Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1998
-# File: module/setup/view/settings/settings.phtml, line: 1999
+# File: module/setup/view/settings/settings.phtml, line: 2003
+# File: module/setup/view/settings/settings.phtml, line: 2004
 msgid "Air Airline Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2002
-# File: module/setup/view/settings/settings.phtml, line: 2003
+# File: module/setup/view/settings/settings.phtml, line: 2007
+# File: module/setup/view/settings/settings.phtml, line: 2008
 msgid "Air Ancillary  Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2006
-# File: module/setup/view/settings/settings.phtml, line: 2007
+# File: module/setup/view/settings/settings.phtml, line: 2011
+# File: module/setup/view/settings/settings.phtml, line: 2012
 msgid "Air Voucher Version (3)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2015
-# File: module/setup/view/settings/settings.phtml, line: 2016
+# File: module/setup/view/settings/settings.phtml, line: 2020
+# File: module/setup/view/settings/settings.phtml, line: 2021
 msgid "Trips Index Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2019
-# File: module/setup/view/settings/settings.phtml, line: 2020
+# File: module/setup/view/settings/settings.phtml, line: 2024
+# File: module/setup/view/settings/settings.phtml, line: 2025
 msgid "Trips Detailed Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2023
-# File: module/setup/view/settings/settings.phtml, line: 2024
+# File: module/setup/view/settings/settings.phtml, line: 2028
+# File: module/setup/view/settings/settings.phtml, line: 2029
 msgid "Trips Checkout Version (2) "
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2027
-# File: module/setup/view/settings/settings.phtml, line: 2028
+# File: module/setup/view/settings/settings.phtml, line: 2032
+# File: module/setup/view/settings/settings.phtml, line: 2033
 msgid "Trips Done Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2035
-# File: module/setup/view/settings/settings.phtml, line: 2036
+# File: module/setup/view/settings/settings.phtml, line: 2040
+# File: module/setup/view/settings/settings.phtml, line: 2041
 msgid "Main Home Page Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2039
-# File: module/setup/view/settings/settings.phtml, line: 2040
+# File: module/setup/view/settings/settings.phtml, line: 2044
+# File: module/setup/view/settings/settings.phtml, line: 2045
 msgid "Destination Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2043
-# File: module/setup/view/settings/settings.phtml, line: 2044
+# File: module/setup/view/settings/settings.phtml, line: 2048
+# File: module/setup/view/settings/settings.phtml, line: 2049
 msgid "Destinations Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2047
-# File: module/setup/view/settings/settings.phtml, line: 2048
+# File: module/setup/view/settings/settings.phtml, line: 2052
+# File: module/setup/view/settings/settings.phtml, line: 2053
 msgid "Pay Now Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2051
-# File: module/setup/view/settings/settings.phtml, line: 2052
+# File: module/setup/view/settings/settings.phtml, line: 2056
+# File: module/setup/view/settings/settings.phtml, line: 2057
 msgid "Catalog Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2055
-# File: module/setup/view/settings/settings.phtml, line: 2056
+# File: module/setup/view/settings/settings.phtml, line: 2060
+# File: module/setup/view/settings/settings.phtml, line: 2061
 msgid "Cart Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2059
-# File: module/setup/view/settings/settings.phtml, line: 2060
+# File: module/setup/view/settings/settings.phtml, line: 2064
+# File: module/setup/view/settings/settings.phtml, line: 2065
 msgid "Account Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2063
-# File: module/setup/view/settings/settings.phtml, line: 2064
+# File: module/setup/view/settings/settings.phtml, line: 2068
+# File: module/setup/view/settings/settings.phtml, line: 2069
 msgid "Booking Details Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2067
-# File: module/setup/view/settings/settings.phtml, line: 2068
+# File: module/setup/view/settings/settings.phtml, line: 2072
+# File: module/setup/view/settings/settings.phtml, line: 2073
 msgid "Sales Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2071
-# File: module/setup/view/settings/settings.phtml, line: 2072
+# File: module/setup/view/settings/settings.phtml, line: 2076
+# File: module/setup/view/settings/settings.phtml, line: 2077
 msgid "Content Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2075
+# File: module/setup/view/settings/settings.phtml, line: 2080
 msgid "Site Header / Footer Version (2))"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2076
+# File: module/setup/view/settings/settings.phtml, line: 2081
 msgid "Site Header / Footer Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2079
-# File: module/setup/view/settings/settings.phtml, line: 2080
+# File: module/setup/view/settings/settings.phtml, line: 2084
+# File: module/setup/view/settings/settings.phtml, line: 2085
 msgid "Landing Pages Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2083
+# File: module/setup/view/settings/settings.phtml, line: 2088
 msgid "Ticketing Probe Cron (Set to 1 to Probe - Be aware of scans)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2084
+# File: module/setup/view/settings/settings.phtml, line: 2089
 msgid "Ticketing Probe Cron (Set to 1 to Probe - Be aware of scans), leave 0 by default"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2087
-# File: module/setup/view/settings/settings.phtml, line: 2088
+# File: module/setup/view/settings/settings.phtml, line: 2092
+# File: module/setup/view/settings/settings.phtml, line: 2093
 msgid "Docusign Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2091
-# File: module/setup/view/settings/settings.phtml, line: 2092
+# File: module/setup/view/settings/settings.phtml, line: 2096
+# File: module/setup/view/settings/settings.phtml, line: 2097
 msgid "Agent Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2095
-# File: module/setup/view/settings/settings.phtml, line: 2096
+# File: module/setup/view/settings/settings.phtml, line: 2100
+# File: module/setup/view/settings/settings.phtml, line: 2101
 msgid "Confirmed departures / Charters Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2099
-# File: module/setup/view/settings/settings.phtml, line: 2100
+# File: module/setup/view/settings/settings.phtml, line: 2104
+# File: module/setup/view/settings/settings.phtml, line: 2105
 msgid "River Cruises Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2103
-# File: module/setup/view/settings/settings.phtml, line: 2104
+# File: module/setup/view/settings/settings.phtml, line: 2108
+# File: module/setup/view/settings/settings.phtml, line: 2109
 msgid "Confirmed Cruises Version (2) "
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2107
-# File: module/setup/view/settings/settings.phtml, line: 2108
+# File: module/setup/view/settings/settings.phtml, line: 2112
+# File: module/setup/view/settings/settings.phtml, line: 2113
 msgid "Trip Planner Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2111
-# File: module/setup/view/settings/settings.phtml, line: 2112
+# File: module/setup/view/settings/settings.phtml, line: 2116
+# File: module/setup/view/settings/settings.phtml, line: 2117
 msgid "CMS Version Page (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2115
-# File: module/setup/view/settings/settings.phtml, line: 2116
+# File: module/setup/view/settings/settings.phtml, line: 2120
+# File: module/setup/view/settings/settings.phtml, line: 2121
 msgid "Admin Version (3)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2119
-# File: module/setup/view/settings/settings.phtml, line: 2120
+# File: module/setup/view/settings/settings.phtml, line: 2124
+# File: module/setup/view/settings/settings.phtml, line: 2125
 msgid "Shopping Cart Voucher Version (4)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2127
-# File: module/setup/view/settings/settings.phtml, line: 2128
+# File: module/setup/view/settings/settings.phtml, line: 2132
+# File: module/setup/view/settings/settings.phtml, line: 2133
 msgid "Email Tracking Alerts Retention Days (365)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2131
-# File: module/setup/view/settings/settings.phtml, line: 2132
+# File: module/setup/view/settings/settings.phtml, line: 2136
+# File: module/setup/view/settings/settings.phtml, line: 2137
 msgid "Email Tracking Digest To"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2135
-# File: module/setup/view/settings/settings.phtml, line: 2136
+# File: module/setup/view/settings/settings.phtml, line: 2140
+# File: module/setup/view/settings/settings.phtml, line: 2141
 msgid "Email Tracking From Email"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2139
-# File: module/setup/view/settings/settings.phtml, line: 2140
+# File: module/setup/view/settings/settings.phtml, line: 2144
+# File: module/setup/view/settings/settings.phtml, line: 2145
 msgid "Email Tracking From Name"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2143
-# File: module/setup/view/settings/settings.phtml, line: 2144
+# File: module/setup/view/settings/settings.phtml, line: 2148
+# File: module/setup/view/settings/settings.phtml, line: 2149
 msgid "Email Trackiong Payload Retention Days (30)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2147
-# File: module/setup/view/settings/settings.phtml, line: 2148
+# File: module/setup/view/settings/settings.phtml, line: 2152
+# File: module/setup/view/settings/settings.phtml, line: 2153
 msgid "Email Tracking Portal URL"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2151
-# File: module/setup/view/settings/settings.phtml, line: 2152
+# File: module/setup/view/settings/settings.phtml, line: 2156
+# File: module/setup/view/settings/settings.phtml, line: 2157
 msgid "Email Tracking Raw Retewntion Days (90)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2155
-# File: module/setup/view/settings/settings.phtml, line: 2156
+# File: module/setup/view/settings/settings.phtml, line: 2160
+# File: module/setup/view/settings/settings.phtml, line: 2161
 msgid "Email Tracking Staff Email"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2159
-# File: module/setup/view/settings/settings.phtml, line: 2160
+# File: module/setup/view/settings/settings.phtml, line: 2164
+# File: module/setup/view/settings/settings.phtml, line: 2165
 msgid "Email Bounce Whatsapp Template"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2163
-# File: module/setup/view/settings/settings.phtml, line: 2164
+# File: module/setup/view/settings/settings.phtml, line: 2168
+# File: module/setup/view/settings/settings.phtml, line: 2169
 msgid "Send Grid Webhook Public Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2172
+# File: module/setup/view/settings/settings.phtml, line: 2177
 msgid "Email Tracking Agent Digest"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2179
+# File: module/setup/view/settings/settings.phtml, line: 2184
 msgid "Email Tracking Agent Email"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2186
+# File: module/setup/view/settings/settings.phtml, line: 2191
 msgid "Email Tracking Agent Whatsapp"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2193
+# File: module/setup/view/settings/settings.phtml, line: 2198
 msgid "Emai Tracking Enabled"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2200
+# File: module/setup/view/settings/settings.phtml, line: 2205
 msgid "Email Tracking Store Payload"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2207
+# File: module/setup/view/settings/settings.phtml, line: 2212
 msgid "Send Grid Webhook Require Signature"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2214
+# File: module/setup/view/settings/settings.phtml, line: 2219
 msgid "Sender Guard Enabled"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2218
-# File: module/setup/view/settings/settings.phtml, line: 2219
+# File: module/setup/view/settings/settings.phtml, line: 2223
+# File: module/setup/view/settings/settings.phtml, line: 2224
 msgid "Send Relay From Email"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2222
-# File: module/setup/view/settings/settings.phtml, line: 2223
+# File: module/setup/view/settings/settings.phtml, line: 2227
+# File: module/setup/view/settings/settings.phtml, line: 2228
 msgid "Sender Authenticated Domains"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2226
-# File: module/setup/view/settings/settings.phtml, line: 2227
+# File: module/setup/view/settings/settings.phtml, line: 2231
+# File: module/setup/view/settings/settings.phtml, line: 2232
 msgid "Voucher Time Format (value 12 or 24 - switched to 24-hour)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2230
-# File: module/setup/view/settings/settings.phtml, line: 2231
+# File: module/setup/view/settings/settings.phtml, line: 2235
+# File: module/setup/view/settings/settings.phtml, line: 2236
 msgid "Commission Breakdown Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2241
+# File: module/setup/view/settings/settings.phtml, line: 2246
 msgid "Funnel Recovery"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2245
-# File: module/setup/view/settings/settings.phtml, line: 2246
 # File: module/setup/view/settings/settings.phtml, line: 2250
-# File: module/setup/view/settings/settings.phtml, line: 2254
-# File: module/setup/view/settings/settings.phtml, line: 2258
+# File: module/setup/view/settings/settings.phtml, line: 2251
 msgid "Do not run decision manager fraud score if amount is bellow"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2249
+# File: module/setup/view/settings/settings.phtml, line: 2254
+# File: module/setup/view/settings/settings.phtml, line: 2255
 msgid "Charge Service Fee Before Ticketing"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2253
+# File: module/setup/view/settings/settings.phtml, line: 2258
+# File: module/setup/view/settings/settings.phtml, line: 2259
 msgid "Charge Serve Fee After Ticketing"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2257
-msgid "Charge Notification Emails"
+# File: module/setup/view/settings/settings.phtml, line: 2262
+# File: module/setup/view/settings/settings.phtml, line: 2263
+msgid "Charge Failure Notify Emails"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2266
+# File: module/setup/view/settings/settings.phtml, line: 2267
+msgid "Charge Max Failed Attempts"
 msgstr ""
 #
 # File: module/setup/view/settings/states_edit.phtml, line: 106
