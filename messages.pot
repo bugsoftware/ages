@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-18 07:44-0500\n"
+"POT-Creation-Date: 2026-11-21 07:04-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10203,6 +10203,7 @@ msgstr ""
 # File: module/setup/src/Controller/paymentsexclude.php, line: 71
 # File: module/setup/src/Controller/paymentsexclude.php, line: 179
 # File: module/setup/view/settings/settings.phtml, line: 1222
+# File: module/setup/view/settings/settings.phtml, line: 1231
 msgid "None"
 msgstr ""
 #
@@ -12238,6 +12239,7 @@ msgstr ""
 # File: module/setup/view/air/toxicairlines.phtml, line: 41
 # File: module/setup/view/settings/businessintelligence.phtml, line: 115
 # File: module/setup/view/settings/settings.phtml, line: 1224
+# File: module/setup/view/settings/settings.phtml, line: 1233
 msgid "Sabre"
 msgstr ""
 #
@@ -12268,6 +12270,7 @@ msgstr ""
 # File: module/setup/view/air/toxicairlines.phtml, line: 45
 # File: module/setup/view/settings/businessintelligence.phtml, line: 121
 # File: module/setup/view/settings/settings.phtml, line: 1223
+# File: module/setup/view/settings/settings.phtml, line: 1232
 msgid "Amadeus"
 msgstr ""
 #
@@ -24577,6 +24580,7 @@ msgstr ""
 # File: module/ages/view/ages/sub-agents/edit_flights.phtml, line: 36
 # File: module/setup/view/settings/businessintelligence.phtml, line: 127
 # File: module/setup/view/settings/settings.phtml, line: 1225
+# File: module/setup/view/settings/settings.phtml, line: 1234
 msgid "Travelport"
 msgstr ""
 #
@@ -25629,7 +25633,7 @@ msgstr ""
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 28
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 31
 # File: module/setup/view/settings/realtimepayments_edit.phtml, line: 29
-# File: module/setup/view/settings/settings.phtml, line: 2299
+# File: module/setup/view/settings/settings.phtml, line: 2312
 # File: module/setup/view/settings/states_edit.phtml, line: 138
 msgid "Submit"
 msgstr ""
@@ -33171,9 +33175,9 @@ msgstr ""
 # File: module/setup/view/settings/settings.phtml, line: 282
 # File: module/setup/view/settings/settings.phtml, line: 287
 # File: module/setup/view/settings/settings.phtml, line: 292
-# File: module/setup/view/settings/settings.phtml, line: 1387
-# File: module/setup/view/settings/settings.phtml, line: 1508
-# File: module/setup/view/settings/settings.phtml, line: 1588
+# File: module/setup/view/settings/settings.phtml, line: 1396
+# File: module/setup/view/settings/settings.phtml, line: 1517
+# File: module/setup/view/settings/settings.phtml, line: 1601
 msgid "(For multiple email alerts use semicolon (;) (For example email1@bug-software.com;email2@bug-software.com))"
 msgstr ""
 #
@@ -33664,8 +33668,8 @@ msgstr ""
 # File: module/ages/view/ages/companies/supplierpayments.phtml, line: 5
 # File: module/ages/view/ages/reports/companies.phtml, line: 38
 # File: module/ages/view/ages/reports/flights.phtml, line: 26
-# File: module/setup/view/settings/settings.phtml, line: 1540
-# File: module/setup/view/settings/settings.phtml, line: 1541
+# File: module/setup/view/settings/settings.phtml, line: 1549
+# File: module/setup/view/settings/settings.phtml, line: 1550
 msgid "Companies"
 msgstr ""
 #
@@ -49137,8 +49141,8 @@ msgstr ""
 # File: module/setup/view/packages/universalassistance.phtml, line: 111
 # File: module/setup/view/packages/wamos.phtml, line: 54
 # File: module/setup/view/packages/wamos.phtml, line: 55
-# File: module/setup/view/settings/settings.phtml, line: 1266
-# File: module/setup/view/settings/settings.phtml, line: 1267
+# File: module/setup/view/settings/settings.phtml, line: 1275
+# File: module/setup/view/settings/settings.phtml, line: 1276
 # File: module/setup/view/trains/era.phtml, line: 50
 # File: module/setup/view/trains/era.phtml, line: 51
 # File: module/setup/view/trains/sat.phtml, line: 50
@@ -65119,1054 +65123,1063 @@ msgstr ""
 msgid "Pre Defined Air Supplier:"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1231
-# File: module/setup/view/settings/settings.phtml, line: 1232
+# File: module/setup/view/settings/settings.phtml, line: 1229
+msgid "Default Air Supplier:"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1240
+# File: module/setup/view/settings/settings.phtml, line: 1241
 msgid "Hotels Markup Fallback"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1236
-# File: module/setup/view/settings/settings.phtml, line: 1237
+# File: module/setup/view/settings/settings.phtml, line: 1245
+# File: module/setup/view/settings/settings.phtml, line: 1246
 msgid "Packages Markup Fallback"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1241
-# File: module/setup/view/settings/settings.phtml, line: 1242
+# File: module/setup/view/settings/settings.phtml, line: 1250
+# File: module/setup/view/settings/settings.phtml, line: 1251
 msgid "Cars Markup Fallback"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1246
-# File: module/setup/view/settings/settings.phtml, line: 1247
+# File: module/setup/view/settings/settings.phtml, line: 1255
+# File: module/setup/view/settings/settings.phtml, line: 1256
 msgid "Cruises Markup Fallback"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1251
-# File: module/setup/view/settings/settings.phtml, line: 1252
+# File: module/setup/view/settings/settings.phtml, line: 1260
+# File: module/setup/view/settings/settings.phtml, line: 1261
 msgid "Activities Markup Fallback"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1256
-# File: module/setup/view/settings/settings.phtml, line: 1257
+# File: module/setup/view/settings/settings.phtml, line: 1265
+# File: module/setup/view/settings/settings.phtml, line: 1266
 msgid "Transfers Markup Fallback"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1261
-# File: module/setup/view/settings/settings.phtml, line: 1262
+# File: module/setup/view/settings/settings.phtml, line: 1270
+# File: module/setup/view/settings/settings.phtml, line: 1271
 msgid "Tours Markup Fallback"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1271
-# File: module/setup/view/settings/settings.phtml, line: 1272
+# File: module/setup/view/settings/settings.phtml, line: 1280
+# File: module/setup/view/settings/settings.phtml, line: 1281
 msgid "Remove % recovery fee in booking workflow"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1276
-# File: module/setup/view/settings/settings.phtml, line: 1277
+# File: module/setup/view/settings/settings.phtml, line: 1285
+# File: module/setup/view/settings/settings.phtml, line: 1286
 msgid "Global B2B Discount Promotion"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1281
-# File: module/setup/view/settings/settings.phtml, line: 1282
+# File: module/setup/view/settings/settings.phtml, line: 1290
+# File: module/setup/view/settings/settings.phtml, line: 1291
 msgid "Global B2B Discount Promotion Text"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1286
-# File: module/setup/view/settings/settings.phtml, line: 1287
+# File: module/setup/view/settings/settings.phtml, line: 1295
+# File: module/setup/view/settings/settings.phtml, line: 1296
 msgid "Global B2B Discount Tag"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1291
-# File: module/setup/view/settings/settings.phtml, line: 1292
+# File: module/setup/view/settings/settings.phtml, line: 1300
+# File: module/setup/view/settings/settings.phtml, line: 1301
 msgid "Global B2C Discount Promotion"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1296
-# File: module/setup/view/settings/settings.phtml, line: 1297
+# File: module/setup/view/settings/settings.phtml, line: 1305
+# File: module/setup/view/settings/settings.phtml, line: 1306
 msgid "Global B2C Discount Promotion Text"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1301
-# File: module/setup/view/settings/settings.phtml, line: 1302
+# File: module/setup/view/settings/settings.phtml, line: 1310
+# File: module/setup/view/settings/settings.phtml, line: 1311
 msgid "Global B2C Discount Tag"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1313
+# File: module/setup/view/settings/settings.phtml, line: 1322
 msgid "Enable Ekata Reverse Phone"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1317
-# File: module/setup/view/settings/settings.phtml, line: 1318
+# File: module/setup/view/settings/settings.phtml, line: 1326
+# File: module/setup/view/settings/settings.phtml, line: 1327
 msgid "Ekata API Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1325
+# File: module/setup/view/settings/settings.phtml, line: 1334
 msgid "Enable EveryoneAPI Reverse Phone"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1329
-# File: module/setup/view/settings/settings.phtml, line: 1330
+# File: module/setup/view/settings/settings.phtml, line: 1338
+# File: module/setup/view/settings/settings.phtml, line: 1339
 msgid "EveryoneAPI Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1336
-# File: module/setup/view/settings/settings.phtml, line: 1337
+# File: module/setup/view/settings/settings.phtml, line: 1345
+# File: module/setup/view/settings/settings.phtml, line: 1346
 msgid "Cancellation Timeout for Confirmed Air Departure Bookings (In minutes) "
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1341
-# File: module/setup/view/settings/settings.phtml, line: 1342
+# File: module/setup/view/settings/settings.phtml, line: 1350
+# File: module/setup/view/settings/settings.phtml, line: 1351
 msgid "Cancellation Timeout for Airline Bookings Cancellations (In minutes)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1346
-# File: module/setup/view/settings/settings.phtml, line: 1347
+# File: module/setup/view/settings/settings.phtml, line: 1355
+# File: module/setup/view/settings/settings.phtml, line: 1356
 msgid "Cancellation Timeout for Hotel Bookings Cancellations (In minutes)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1351
-# File: module/setup/view/settings/settings.phtml, line: 1352
+# File: module/setup/view/settings/settings.phtml, line: 1360
+# File: module/setup/view/settings/settings.phtml, line: 1361
 msgid "Cancellation Timeout for Activities Bookings Cancellations (In minutes) "
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1356
-# File: module/setup/view/settings/settings.phtml, line: 1357
+# File: module/setup/view/settings/settings.phtml, line: 1365
+# File: module/setup/view/settings/settings.phtml, line: 1366
 msgid "Cancellation Timeout for Transfer Bookings Cancellations (In minutes)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1361
-# File: module/setup/view/settings/settings.phtml, line: 1362
+# File: module/setup/view/settings/settings.phtml, line: 1370
+# File: module/setup/view/settings/settings.phtml, line: 1371
 msgid "Cancellation Timeout for Car Rental Bookings Cancellations (In minutes)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1366
-# File: module/setup/view/settings/settings.phtml, line: 1367
+# File: module/setup/view/settings/settings.phtml, line: 1375
+# File: module/setup/view/settings/settings.phtml, line: 1376
 msgid "Cancellation Timeout for Packages Bookings Cancellations (In minutes)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1376
+# File: module/setup/view/settings/settings.phtml, line: 1385
 msgid "Automatic Cancell Reservation if not paid"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1380
-# File: module/setup/view/settings/settings.phtml, line: 1381
+# File: module/setup/view/settings/settings.phtml, line: 1389
+# File: module/setup/view/settings/settings.phtml, line: 1390
 msgid "Number of warning days"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1385
-# File: module/setup/view/settings/settings.phtml, line: 1386
-# File: module/setup/view/settings/settings.phtml, line: 1587
+# File: module/setup/view/settings/settings.phtml, line: 1394
+# File: module/setup/view/settings/settings.phtml, line: 1395
+# File: module/setup/view/settings/settings.phtml, line: 1600
 msgid "Send Auto Cancellation Emails To"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1395
+# File: module/setup/view/settings/settings.phtml, line: 1404
 msgid "Enable rePUSHTI reservation check"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1399
-# File: module/setup/view/settings/settings.phtml, line: 1400
+# File: module/setup/view/settings/settings.phtml, line: 1408
+# File: module/setup/view/settings/settings.phtml, line: 1409
 msgid "rePUSH API Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1406
-# File: module/setup/view/settings/settings.phtml, line: 1407
-# File: module/setup/view/settings/settings.phtml, line: 1421
-# File: module/setup/view/settings/settings.phtml, line: 1422
+# File: module/setup/view/settings/settings.phtml, line: 1415
+# File: module/setup/view/settings/settings.phtml, line: 1416
+# File: module/setup/view/settings/settings.phtml, line: 1430
+# File: module/setup/view/settings/settings.phtml, line: 1431
 msgid "Cybersource API Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1411
-# File: module/setup/view/settings/settings.phtml, line: 1412
-# File: module/setup/view/settings/settings.phtml, line: 1426
-# File: module/setup/view/settings/settings.phtml, line: 1427
+# File: module/setup/view/settings/settings.phtml, line: 1420
+# File: module/setup/view/settings/settings.phtml, line: 1421
+# File: module/setup/view/settings/settings.phtml, line: 1435
+# File: module/setup/view/settings/settings.phtml, line: 1436
 msgid "Cybersource Secret Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1416
-# File: module/setup/view/settings/settings.phtml, line: 1417
-# File: module/setup/view/settings/settings.phtml, line: 1432
+# File: module/setup/view/settings/settings.phtml, line: 1425
+# File: module/setup/view/settings/settings.phtml, line: 1426
+# File: module/setup/view/settings/settings.phtml, line: 1441
 msgid "Cybersource Merchant Id "
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1431
+# File: module/setup/view/settings/settings.phtml, line: 1440
 msgid "Cybersource Merchant Id"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1439
+# File: module/setup/view/settings/settings.phtml, line: 1448
 msgid "Cybersource Rest Mode Test"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1448
+# File: module/setup/view/settings/settings.phtml, line: 1457
 msgid "Enable Google Authenticator 2 Factor Authentication"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1455
+# File: module/setup/view/settings/settings.phtml, line: 1464
 msgid "Enable OTP Two-step verification"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1460
-# File: module/setup/view/settings/settings.phtml, line: 1461
+# File: module/setup/view/settings/settings.phtml, line: 1469
+# File: module/setup/view/settings/settings.phtml, line: 1470
 msgid "Twilio Account SID"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1465
-# File: module/setup/view/settings/settings.phtml, line: 1466
+# File: module/setup/view/settings/settings.phtml, line: 1474
+# File: module/setup/view/settings/settings.phtml, line: 1475
 msgid "Twilio Auth Token"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1470
-# File: module/setup/view/settings/settings.phtml, line: 1471
+# File: module/setup/view/settings/settings.phtml, line: 1479
+# File: module/setup/view/settings/settings.phtml, line: 1480
 msgid "Service SID"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1477
-# File: module/setup/view/settings/settings.phtml, line: 1478
+# File: module/setup/view/settings/settings.phtml, line: 1486
+# File: module/setup/view/settings/settings.phtml, line: 1487
 msgid "Twilio Phone Number"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1482
-# File: module/setup/view/settings/settings.phtml, line: 1483
+# File: module/setup/view/settings/settings.phtml, line: 1491
+# File: module/setup/view/settings/settings.phtml, line: 1492
 msgid "Twilio Phone Number (Name)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1487
-# File: module/setup/view/settings/settings.phtml, line: 1488
+# File: module/setup/view/settings/settings.phtml, line: 1496
+# File: module/setup/view/settings/settings.phtml, line: 1497
 msgid "Twilio Message ( Your Click & Book verification code is: )"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1494
-# File: module/setup/view/settings/settings.phtml, line: 1495
+# File: module/setup/view/settings/settings.phtml, line: 1503
+# File: module/setup/view/settings/settings.phtml, line: 1504
 msgid "Google Authenticator Descriptor"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1499
-# File: module/setup/view/settings/settings.phtml, line: 1500
+# File: module/setup/view/settings/settings.phtml, line: 1508
+# File: module/setup/view/settings/settings.phtml, line: 1509
 msgid "B2B Google Authenticator Descriptor"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1506
-# File: module/setup/view/settings/settings.phtml, line: 1507
+# File: module/setup/view/settings/settings.phtml, line: 1515
+# File: module/setup/view/settings/settings.phtml, line: 1516
 msgid "Send Air Block Time Limit Warnings To"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1511
-# File: module/setup/view/settings/settings.phtml, line: 1512
+# File: module/setup/view/settings/settings.phtml, line: 1520
+# File: module/setup/view/settings/settings.phtml, line: 1521
 msgid "Air Middleware"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1521
+# File: module/setup/view/settings/settings.phtml, line: 1530
 msgid "Enable HelloSign"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1525
-# File: module/setup/view/settings/settings.phtml, line: 1526
+# File: module/setup/view/settings/settings.phtml, line: 1534
+# File: module/setup/view/settings/settings.phtml, line: 1535
 msgid "Hello Sign API Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1530
-# File: module/setup/view/settings/settings.phtml, line: 1531
+# File: module/setup/view/settings/settings.phtml, line: 1539
+# File: module/setup/view/settings/settings.phtml, line: 1540
 msgid "Terms and Conditions File Path"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1535
-# File: module/setup/view/settings/settings.phtml, line: 1536
+# File: module/setup/view/settings/settings.phtml, line: 1544
+# File: module/setup/view/settings/settings.phtml, line: 1545
 msgid "Single Sign On API Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1542
+# File: module/setup/view/settings/settings.phtml, line: 1551
 msgid "(For multiple companies use semicolon (;) (For example 1;2))"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1548
+# File: module/setup/view/settings/settings.phtml, line: 1557
 msgid "Click & Book"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1550
-# File: module/setup/view/settings/settings.phtml, line: 1551
+# File: module/setup/view/settings/settings.phtml, line: 1559
+# File: module/setup/view/settings/settings.phtml, line: 1560
 msgid "Click & Book Company Name"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1554
-# File: module/setup/view/settings/settings.phtml, line: 1555
+# File: module/setup/view/settings/settings.phtml, line: 1563
+# File: module/setup/view/settings/settings.phtml, line: 1564
 msgid "Click & Book Company Logo"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1558
-# File: module/setup/view/settings/settings.phtml, line: 1559
+# File: module/setup/view/settings/settings.phtml, line: 1567
+# File: module/setup/view/settings/settings.phtml, line: 1568
 msgid "Click & Book From Name"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1562
-# File: module/setup/view/settings/settings.phtml, line: 1563
+# File: module/setup/view/settings/settings.phtml, line: 1571
+# File: module/setup/view/settings/settings.phtml, line: 1572
 msgid "Click & Book From Email"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1566
-# File: module/setup/view/settings/settings.phtml, line: 1567
+# File: module/setup/view/settings/settings.phtml, line: 1575
+# File: module/setup/view/settings/settings.phtml, line: 1576
 msgid "Default Company Id"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1570
-# File: module/setup/view/settings/settings.phtml, line: 1571
+# File: module/setup/view/settings/settings.phtml, line: 1579
+# File: module/setup/view/settings/settings.phtml, line: 1580
+# File: module/setup/view/settings/settings.phtml, line: 1584
 msgid "Click & Book Login Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1577
+# File: module/setup/view/settings/settings.phtml, line: 1583
+msgid "Click & Book Default Agent Markup"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1590
 msgid "Moneygram Payment Handling"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1582
+# File: module/setup/view/settings/settings.phtml, line: 1595
 msgid "Enable Moneygram Payment Handling"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1586
+# File: module/setup/view/settings/settings.phtml, line: 1599
 msgid "Send Moneygram Payment Email Alerts To"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1591
-# File: module/setup/view/settings/settings.phtml, line: 1592
+# File: module/setup/view/settings/settings.phtml, line: 1604
+# File: module/setup/view/settings/settings.phtml, line: 1605
 msgid "Moneygram Received Code"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1599
-# File: module/setup/view/settings/settings.phtml, line: 1600
+# File: module/setup/view/settings/settings.phtml, line: 1612
+# File: module/setup/view/settings/settings.phtml, line: 1613
 msgid "Open AI API Key"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1607
-# File: module/setup/view/settings/settings.phtml, line: 1608
-msgid "Agents API Enforce (0/1)"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1616
-# File: module/setup/view/settings/settings.phtml, line: 1617
-msgid "Hotels Index Version (2)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1620
 # File: module/setup/view/settings/settings.phtml, line: 1621
+msgid "Agents API Enforce (0/1)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1629
+# File: module/setup/view/settings/settings.phtml, line: 1630
+msgid "Hotels Index Version (2)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1633
+# File: module/setup/view/settings/settings.phtml, line: 1634
 msgid "Hotels Search Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1624
-# File: module/setup/view/settings/settings.phtml, line: 1625
+# File: module/setup/view/settings/settings.phtml, line: 1637
+# File: module/setup/view/settings/settings.phtml, line: 1638
 msgid "Hotels Info Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1628
-# File: module/setup/view/settings/settings.phtml, line: 1629
+# File: module/setup/view/settings/settings.phtml, line: 1641
+# File: module/setup/view/settings/settings.phtml, line: 1642
 msgid "Hotels Summary Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1632
-# File: module/setup/view/settings/settings.phtml, line: 1633
+# File: module/setup/view/settings/settings.phtml, line: 1645
+# File: module/setup/view/settings/settings.phtml, line: 1646
 msgid "Hotels Passengers Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1636
-# File: module/setup/view/settings/settings.phtml, line: 1637
+# File: module/setup/view/settings/settings.phtml, line: 1649
+# File: module/setup/view/settings/settings.phtml, line: 1650
 msgid "Hotels Payment Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1640
-# File: module/setup/view/settings/settings.phtml, line: 1641
+# File: module/setup/view/settings/settings.phtml, line: 1653
+# File: module/setup/view/settings/settings.phtml, line: 1654
 msgid "Hotels Confirm Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1644
-# File: module/setup/view/settings/settings.phtml, line: 1645
+# File: module/setup/view/settings/settings.phtml, line: 1657
+# File: module/setup/view/settings/settings.phtml, line: 1658
 msgid "Hotels Brands Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1648
-# File: module/setup/view/settings/settings.phtml, line: 1649
+# File: module/setup/view/settings/settings.phtml, line: 1661
+# File: module/setup/view/settings/settings.phtml, line: 1662
 msgid "Hotels Voucher Version (3)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1658
-# File: module/setup/view/settings/settings.phtml, line: 1659
+# File: module/setup/view/settings/settings.phtml, line: 1671
+# File: module/setup/view/settings/settings.phtml, line: 1672
 msgid "Cruises API Secret"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1662
+# File: module/setup/view/settings/settings.phtml, line: 1675
 msgid "Cruises API Enforce (0/1)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1663
+# File: module/setup/view/settings/settings.phtml, line: 1676
 msgid "Cruises API Enforce"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1666
-# File: module/setup/view/settings/settings.phtml, line: 1667
+# File: module/setup/view/settings/settings.phtml, line: 1679
+# File: module/setup/view/settings/settings.phtml, line: 1680
 msgid "Cruises Index Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1670
-# File: module/setup/view/settings/settings.phtml, line: 1671
+# File: module/setup/view/settings/settings.phtml, line: 1683
+# File: module/setup/view/settings/settings.phtml, line: 1684
 msgid "Cruises Offers Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1674
-# File: module/setup/view/settings/settings.phtml, line: 1675
+# File: module/setup/view/settings/settings.phtml, line: 1687
+# File: module/setup/view/settings/settings.phtml, line: 1688
 msgid "Cruises Search Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1678
-# File: module/setup/view/settings/settings.phtml, line: 1679
+# File: module/setup/view/settings/settings.phtml, line: 1691
+# File: module/setup/view/settings/settings.phtml, line: 1692
 msgid "Cruises Summary Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1682
-# File: module/setup/view/settings/settings.phtml, line: 1683
+# File: module/setup/view/settings/settings.phtml, line: 1695
+# File: module/setup/view/settings/settings.phtml, line: 1696
 msgid "Cruises Passengers Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1686
-# File: module/setup/view/settings/settings.phtml, line: 1687
+# File: module/setup/view/settings/settings.phtml, line: 1699
+# File: module/setup/view/settings/settings.phtml, line: 1700
 msgid "Cruises Payment Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1690
-# File: module/setup/view/settings/settings.phtml, line: 1691
+# File: module/setup/view/settings/settings.phtml, line: 1703
+# File: module/setup/view/settings/settings.phtml, line: 1704
 msgid "Cruises Confirm Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1694
+# File: module/setup/view/settings/settings.phtml, line: 1707
 msgid "Cruises Select Version (1 = original wizard, 2 = the three-step version, 3 = single page )"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1695
+# File: module/setup/view/settings/settings.phtml, line: 1708
 msgid "Cruises Select Version"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1698
-# File: module/setup/view/settings/settings.phtml, line: 1699
+# File: module/setup/view/settings/settings.phtml, line: 1711
+# File: module/setup/view/settings/settings.phtml, line: 1712
 msgid "Cruises Voucher Version (3)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1706
-# File: module/setup/view/settings/settings.phtml, line: 1707
+# File: module/setup/view/settings/settings.phtml, line: 1719
+# File: module/setup/view/settings/settings.phtml, line: 1720
 msgid "Escorted Tours Select Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1710
-# File: module/setup/view/settings/settings.phtml, line: 1711
+# File: module/setup/view/settings/settings.phtml, line: 1723
+# File: module/setup/view/settings/settings.phtml, line: 1724
 msgid "Escorted Tours Passengers Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1714
-# File: module/setup/view/settings/settings.phtml, line: 1715
+# File: module/setup/view/settings/settings.phtml, line: 1727
+# File: module/setup/view/settings/settings.phtml, line: 1728
 msgid "Escorted Tours Payment Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1718
-# File: module/setup/view/settings/settings.phtml, line: 1719
+# File: module/setup/view/settings/settings.phtml, line: 1731
+# File: module/setup/view/settings/settings.phtml, line: 1732
 msgid "Escorted Tours Index Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1722
-# File: module/setup/view/settings/settings.phtml, line: 1723
+# File: module/setup/view/settings/settings.phtml, line: 1735
+# File: module/setup/view/settings/settings.phtml, line: 1736
 msgid "Escorted Tours Info Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1726
-# File: module/setup/view/settings/settings.phtml, line: 1727
+# File: module/setup/view/settings/settings.phtml, line: 1739
+# File: module/setup/view/settings/settings.phtml, line: 1740
 msgid "Escorted Tours Summary Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1730
-# File: module/setup/view/settings/settings.phtml, line: 1731
+# File: module/setup/view/settings/settings.phtml, line: 1743
+# File: module/setup/view/settings/settings.phtml, line: 1744
 msgid "Escorted Tours Confirmation Version (2)"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1734
-# File: module/setup/view/settings/settings.phtml, line: 1735
-msgid "Escorted Tours Search Version (2)"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1738
-# File: module/setup/view/settings/settings.phtml, line: 1739
-msgid "Escorted Tours Voucher Version (3)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1747
 # File: module/setup/view/settings/settings.phtml, line: 1748
-msgid "Activities Info Version (2)"
+msgid "Escorted Tours Search Version (2)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1751
 # File: module/setup/view/settings/settings.phtml, line: 1752
-msgid "Activities Summary Version (2)"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1755
-# File: module/setup/view/settings/settings.phtml, line: 1756
-msgid "Activities Passengers Version (2)"
+msgid "Escorted Tours Voucher Version (3)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1760
 # File: module/setup/view/settings/settings.phtml, line: 1761
-msgid "Activities Index Version (2)"
+msgid "Activities Info Version (2)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1764
 # File: module/setup/view/settings/settings.phtml, line: 1765
-msgid "Activities Search Version (2)"
+msgid "Activities Summary Version (2)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1768
 # File: module/setup/view/settings/settings.phtml, line: 1769
+msgid "Activities Passengers Version (2)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1773
+# File: module/setup/view/settings/settings.phtml, line: 1774
+msgid "Activities Index Version (2)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1777
+# File: module/setup/view/settings/settings.phtml, line: 1778
+msgid "Activities Search Version (2)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1781
+# File: module/setup/view/settings/settings.phtml, line: 1782
 msgid "Activities Payment Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1772
-# File: module/setup/view/settings/settings.phtml, line: 1773
+# File: module/setup/view/settings/settings.phtml, line: 1785
+# File: module/setup/view/settings/settings.phtml, line: 1786
 msgid "Activities Confirmation Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1776
-# File: module/setup/view/settings/settings.phtml, line: 1777
+# File: module/setup/view/settings/settings.phtml, line: 1789
+# File: module/setup/view/settings/settings.phtml, line: 1790
 msgid "Activities Voucher Version (3)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1784
-# File: module/setup/view/settings/settings.phtml, line: 1785
+# File: module/setup/view/settings/settings.phtml, line: 1797
+# File: module/setup/view/settings/settings.phtml, line: 1798
 msgid "Packages Index Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1788
-# File: module/setup/view/settings/settings.phtml, line: 1789
+# File: module/setup/view/settings/settings.phtml, line: 1801
+# File: module/setup/view/settings/settings.phtml, line: 1802
 msgid "Packages Info Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1792
-# File: module/setup/view/settings/settings.phtml, line: 1793
+# File: module/setup/view/settings/settings.phtml, line: 1805
+# File: module/setup/view/settings/settings.phtml, line: 1806
 msgid "Packages Summary Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1796
-# File: module/setup/view/settings/settings.phtml, line: 1797
+# File: module/setup/view/settings/settings.phtml, line: 1809
+# File: module/setup/view/settings/settings.phtml, line: 1810
 msgid "Packages Passengers Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1800
-# File: module/setup/view/settings/settings.phtml, line: 1801
+# File: module/setup/view/settings/settings.phtml, line: 1813
+# File: module/setup/view/settings/settings.phtml, line: 1814
 msgid "Packages Payment Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1804
-# File: module/setup/view/settings/settings.phtml, line: 1805
+# File: module/setup/view/settings/settings.phtml, line: 1817
+# File: module/setup/view/settings/settings.phtml, line: 1818
 msgid "Packages Confirm Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1808
-# File: module/setup/view/settings/settings.phtml, line: 1809
+# File: module/setup/view/settings/settings.phtml, line: 1821
+# File: module/setup/view/settings/settings.phtml, line: 1822
 msgid "Packages Voucher Version (3)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1816
-# File: module/setup/view/settings/settings.phtml, line: 1817
+# File: module/setup/view/settings/settings.phtml, line: 1829
+# File: module/setup/view/settings/settings.phtml, line: 1830
 msgid "Transfers Index Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1820
-# File: module/setup/view/settings/settings.phtml, line: 1821
+# File: module/setup/view/settings/settings.phtml, line: 1833
+# File: module/setup/view/settings/settings.phtml, line: 1834
 msgid "Transfers Summary Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1824
-# File: module/setup/view/settings/settings.phtml, line: 1825
+# File: module/setup/view/settings/settings.phtml, line: 1837
+# File: module/setup/view/settings/settings.phtml, line: 1838
 msgid "Transfers Passengers Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1828
-# File: module/setup/view/settings/settings.phtml, line: 1829
+# File: module/setup/view/settings/settings.phtml, line: 1841
+# File: module/setup/view/settings/settings.phtml, line: 1842
 msgid "Transfers Search Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1832
-# File: module/setup/view/settings/settings.phtml, line: 1833
+# File: module/setup/view/settings/settings.phtml, line: 1845
+# File: module/setup/view/settings/settings.phtml, line: 1846
 msgid "Transfers Payment Version (2)"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1836
-# File: module/setup/view/settings/settings.phtml, line: 1837
-msgid "Transfers Confirmation Version (2)"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1840
-# File: module/setup/view/settings/settings.phtml, line: 1841
-msgid "Transfers Voucher Version (3)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1849
 # File: module/setup/view/settings/settings.phtml, line: 1850
-msgid "Insurances Index Version (2)"
+msgid "Transfers Confirmation Version (2)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1853
 # File: module/setup/view/settings/settings.phtml, line: 1854
+msgid "Transfers Voucher Version (3)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1862
+# File: module/setup/view/settings/settings.phtml, line: 1863
+msgid "Insurances Index Version (2)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1866
+# File: module/setup/view/settings/settings.phtml, line: 1867
 msgid "Insurances Summary Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1857
-# File: module/setup/view/settings/settings.phtml, line: 1858
+# File: module/setup/view/settings/settings.phtml, line: 1870
+# File: module/setup/view/settings/settings.phtml, line: 1871
 msgid "Insurances Passengers Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1861
-# File: module/setup/view/settings/settings.phtml, line: 1862
+# File: module/setup/view/settings/settings.phtml, line: 1874
+# File: module/setup/view/settings/settings.phtml, line: 1875
 msgid "Insurances Search Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1865
-# File: module/setup/view/settings/settings.phtml, line: 1866
+# File: module/setup/view/settings/settings.phtml, line: 1878
+# File: module/setup/view/settings/settings.phtml, line: 1879
 msgid "Insurances Payment Version (2)"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1869
-# File: module/setup/view/settings/settings.phtml, line: 1870
-msgid "Insurances Confirmation Version (2)"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1873
-# File: module/setup/view/settings/settings.phtml, line: 1874
-msgid "Insurances Voucher Version (3)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1882
 # File: module/setup/view/settings/settings.phtml, line: 1883
-msgid "Cars Index Version (2)"
+msgid "Insurances Confirmation Version (2)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1886
 # File: module/setup/view/settings/settings.phtml, line: 1887
+msgid "Insurances Voucher Version (3)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1895
+# File: module/setup/view/settings/settings.phtml, line: 1896
+msgid "Cars Index Version (2)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1899
+# File: module/setup/view/settings/settings.phtml, line: 1900
 msgid "Cars Summary Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1890
-# File: module/setup/view/settings/settings.phtml, line: 1891
+# File: module/setup/view/settings/settings.phtml, line: 1903
+# File: module/setup/view/settings/settings.phtml, line: 1904
 msgid "Cars Passengers Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1894
-# File: module/setup/view/settings/settings.phtml, line: 1895
+# File: module/setup/view/settings/settings.phtml, line: 1907
+# File: module/setup/view/settings/settings.phtml, line: 1908
 msgid "Cars Search Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1898
-# File: module/setup/view/settings/settings.phtml, line: 1899
+# File: module/setup/view/settings/settings.phtml, line: 1911
+# File: module/setup/view/settings/settings.phtml, line: 1912
 msgid "Cars Payment Version (2)"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1902
-# File: module/setup/view/settings/settings.phtml, line: 1903
-msgid "Cars Confirmation Version (2)"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 1906
-# File: module/setup/view/settings/settings.phtml, line: 1907
-msgid "Cars Voucher Version (3)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1915
 # File: module/setup/view/settings/settings.phtml, line: 1916
-msgid "Bus Index Version (2)"
+msgid "Cars Confirmation Version (2)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 1919
 # File: module/setup/view/settings/settings.phtml, line: 1920
+msgid "Cars Voucher Version (3)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1928
+# File: module/setup/view/settings/settings.phtml, line: 1929
+msgid "Bus Index Version (2)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 1932
+# File: module/setup/view/settings/settings.phtml, line: 1933
 msgid "Bus Search Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1923
-# File: module/setup/view/settings/settings.phtml, line: 1924
+# File: module/setup/view/settings/settings.phtml, line: 1936
+# File: module/setup/view/settings/settings.phtml, line: 1937
 msgid "Bus Passengers Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1927
-# File: module/setup/view/settings/settings.phtml, line: 1928
+# File: module/setup/view/settings/settings.phtml, line: 1940
+# File: module/setup/view/settings/settings.phtml, line: 1941
 msgid "Bus Payment Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1931
-# File: module/setup/view/settings/settings.phtml, line: 1932
+# File: module/setup/view/settings/settings.phtml, line: 1944
+# File: module/setup/view/settings/settings.phtml, line: 1945
 msgid "Bus Confirmation Version (2) "
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1941
-# File: module/setup/view/settings/settings.phtml, line: 1942
+# File: module/setup/view/settings/settings.phtml, line: 1954
+# File: module/setup/view/settings/settings.phtml, line: 1955
 msgid "Disney Index Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1945
-# File: module/setup/view/settings/settings.phtml, line: 1946
+# File: module/setup/view/settings/settings.phtml, line: 1958
+# File: module/setup/view/settings/settings.phtml, line: 1959
 msgid "Disney Search Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1949
-# File: module/setup/view/settings/settings.phtml, line: 1950
+# File: module/setup/view/settings/settings.phtml, line: 1962
+# File: module/setup/view/settings/settings.phtml, line: 1963
 msgid "Disney Select Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1953
-# File: module/setup/view/settings/settings.phtml, line: 1954
+# File: module/setup/view/settings/settings.phtml, line: 1966
+# File: module/setup/view/settings/settings.phtml, line: 1967
 msgid "Disney Confirmation Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1963
-# File: module/setup/view/settings/settings.phtml, line: 1964
+# File: module/setup/view/settings/settings.phtml, line: 1976
+# File: module/setup/view/settings/settings.phtml, line: 1977
 msgid "Air Ticketing Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1967
-# File: module/setup/view/settings/settings.phtml, line: 1968
+# File: module/setup/view/settings/settings.phtml, line: 1980
+# File: module/setup/view/settings/settings.phtml, line: 1981
 msgid "Air Seating Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1971
-# File: module/setup/view/settings/settings.phtml, line: 1972
+# File: module/setup/view/settings/settings.phtml, line: 1984
+# File: module/setup/view/settings/settings.phtml, line: 1985
 msgid "Air Index Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1975
-# File: module/setup/view/settings/settings.phtml, line: 1976
+# File: module/setup/view/settings/settings.phtml, line: 1988
+# File: module/setup/view/settings/settings.phtml, line: 1989
 msgid "Air Search Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1979
-# File: module/setup/view/settings/settings.phtml, line: 1980
+# File: module/setup/view/settings/settings.phtml, line: 1992
+# File: module/setup/view/settings/settings.phtml, line: 1993
 msgid "Air Return Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1983
-# File: module/setup/view/settings/settings.phtml, line: 1984
+# File: module/setup/view/settings/settings.phtml, line: 1996
+# File: module/setup/view/settings/settings.phtml, line: 1997
 msgid "Air Segment Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1987
-# File: module/setup/view/settings/settings.phtml, line: 1988
+# File: module/setup/view/settings/settings.phtml, line: 2000
+# File: module/setup/view/settings/settings.phtml, line: 2001
 msgid "Air Summary Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1991
-# File: module/setup/view/settings/settings.phtml, line: 1992
+# File: module/setup/view/settings/settings.phtml, line: 2004
+# File: module/setup/view/settings/settings.phtml, line: 2005
 msgid "Air Passenger Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1995
-# File: module/setup/view/settings/settings.phtml, line: 1996
+# File: module/setup/view/settings/settings.phtml, line: 2008
+# File: module/setup/view/settings/settings.phtml, line: 2009
 msgid "Air Payment Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 1999
-# File: module/setup/view/settings/settings.phtml, line: 2000
+# File: module/setup/view/settings/settings.phtml, line: 2012
+# File: module/setup/view/settings/settings.phtml, line: 2013
 msgid "Air Confirm Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2003
-# File: module/setup/view/settings/settings.phtml, line: 2004
+# File: module/setup/view/settings/settings.phtml, line: 2016
+# File: module/setup/view/settings/settings.phtml, line: 2017
 msgid "Air Airline Version (2)"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 2007
-# File: module/setup/view/settings/settings.phtml, line: 2008
-msgid "Air Ancillary  Version (2)"
-msgstr ""
-#
-# File: module/setup/view/settings/settings.phtml, line: 2011
-# File: module/setup/view/settings/settings.phtml, line: 2012
-msgid "Air Voucher Version (3)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 2020
 # File: module/setup/view/settings/settings.phtml, line: 2021
-msgid "Trips Index Version (2)"
+msgid "Air Ancillary  Version (2)"
 msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 2024
 # File: module/setup/view/settings/settings.phtml, line: 2025
+msgid "Air Voucher Version (3)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2033
+# File: module/setup/view/settings/settings.phtml, line: 2034
+msgid "Trips Index Version (2)"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2037
+# File: module/setup/view/settings/settings.phtml, line: 2038
 msgid "Trips Detailed Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2028
-# File: module/setup/view/settings/settings.phtml, line: 2029
+# File: module/setup/view/settings/settings.phtml, line: 2041
+# File: module/setup/view/settings/settings.phtml, line: 2042
 msgid "Trips Checkout Version (2) "
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2032
-# File: module/setup/view/settings/settings.phtml, line: 2033
+# File: module/setup/view/settings/settings.phtml, line: 2045
+# File: module/setup/view/settings/settings.phtml, line: 2046
 msgid "Trips Done Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2040
-# File: module/setup/view/settings/settings.phtml, line: 2041
+# File: module/setup/view/settings/settings.phtml, line: 2053
+# File: module/setup/view/settings/settings.phtml, line: 2054
 msgid "Main Home Page Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2044
-# File: module/setup/view/settings/settings.phtml, line: 2045
+# File: module/setup/view/settings/settings.phtml, line: 2057
+# File: module/setup/view/settings/settings.phtml, line: 2058
 msgid "Destination Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2048
-# File: module/setup/view/settings/settings.phtml, line: 2049
+# File: module/setup/view/settings/settings.phtml, line: 2061
+# File: module/setup/view/settings/settings.phtml, line: 2062
 msgid "Destinations Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2052
-# File: module/setup/view/settings/settings.phtml, line: 2053
+# File: module/setup/view/settings/settings.phtml, line: 2065
+# File: module/setup/view/settings/settings.phtml, line: 2066
 msgid "Pay Now Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2056
-# File: module/setup/view/settings/settings.phtml, line: 2057
+# File: module/setup/view/settings/settings.phtml, line: 2069
+# File: module/setup/view/settings/settings.phtml, line: 2070
 msgid "Catalog Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2060
-# File: module/setup/view/settings/settings.phtml, line: 2061
+# File: module/setup/view/settings/settings.phtml, line: 2073
+# File: module/setup/view/settings/settings.phtml, line: 2074
 msgid "Cart Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2064
-# File: module/setup/view/settings/settings.phtml, line: 2065
+# File: module/setup/view/settings/settings.phtml, line: 2077
+# File: module/setup/view/settings/settings.phtml, line: 2078
 msgid "Account Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2068
-# File: module/setup/view/settings/settings.phtml, line: 2069
+# File: module/setup/view/settings/settings.phtml, line: 2081
+# File: module/setup/view/settings/settings.phtml, line: 2082
 msgid "Booking Details Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2072
-# File: module/setup/view/settings/settings.phtml, line: 2073
+# File: module/setup/view/settings/settings.phtml, line: 2085
+# File: module/setup/view/settings/settings.phtml, line: 2086
 msgid "Sales Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2076
-# File: module/setup/view/settings/settings.phtml, line: 2077
+# File: module/setup/view/settings/settings.phtml, line: 2089
+# File: module/setup/view/settings/settings.phtml, line: 2090
 msgid "Content Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2080
+# File: module/setup/view/settings/settings.phtml, line: 2093
 msgid "Site Header / Footer Version (2))"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2081
+# File: module/setup/view/settings/settings.phtml, line: 2094
 msgid "Site Header / Footer Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2084
-# File: module/setup/view/settings/settings.phtml, line: 2085
+# File: module/setup/view/settings/settings.phtml, line: 2097
+# File: module/setup/view/settings/settings.phtml, line: 2098
 msgid "Landing Pages Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2088
+# File: module/setup/view/settings/settings.phtml, line: 2101
 msgid "Ticketing Probe Cron (Set to 1 to Probe - Be aware of scans)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2089
+# File: module/setup/view/settings/settings.phtml, line: 2102
 msgid "Ticketing Probe Cron (Set to 1 to Probe - Be aware of scans), leave 0 by default"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2092
-# File: module/setup/view/settings/settings.phtml, line: 2093
+# File: module/setup/view/settings/settings.phtml, line: 2105
+# File: module/setup/view/settings/settings.phtml, line: 2106
 msgid "Docusign Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2096
-# File: module/setup/view/settings/settings.phtml, line: 2097
+# File: module/setup/view/settings/settings.phtml, line: 2109
+# File: module/setup/view/settings/settings.phtml, line: 2110
 msgid "Agent Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2100
-# File: module/setup/view/settings/settings.phtml, line: 2101
+# File: module/setup/view/settings/settings.phtml, line: 2113
+# File: module/setup/view/settings/settings.phtml, line: 2114
 msgid "Confirmed departures / Charters Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2104
-# File: module/setup/view/settings/settings.phtml, line: 2105
+# File: module/setup/view/settings/settings.phtml, line: 2117
+# File: module/setup/view/settings/settings.phtml, line: 2118
 msgid "River Cruises Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2108
-# File: module/setup/view/settings/settings.phtml, line: 2109
+# File: module/setup/view/settings/settings.phtml, line: 2121
+# File: module/setup/view/settings/settings.phtml, line: 2122
 msgid "Confirmed Cruises Version (2) "
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2112
-# File: module/setup/view/settings/settings.phtml, line: 2113
+# File: module/setup/view/settings/settings.phtml, line: 2125
+# File: module/setup/view/settings/settings.phtml, line: 2126
 msgid "Trip Planner Version (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2116
-# File: module/setup/view/settings/settings.phtml, line: 2117
+# File: module/setup/view/settings/settings.phtml, line: 2129
+# File: module/setup/view/settings/settings.phtml, line: 2130
 msgid "CMS Version Page (2)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2120
-# File: module/setup/view/settings/settings.phtml, line: 2121
+# File: module/setup/view/settings/settings.phtml, line: 2133
+# File: module/setup/view/settings/settings.phtml, line: 2134
 msgid "Admin Version (3)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2124
-# File: module/setup/view/settings/settings.phtml, line: 2125
+# File: module/setup/view/settings/settings.phtml, line: 2137
+# File: module/setup/view/settings/settings.phtml, line: 2138
 msgid "Shopping Cart Voucher Version (4)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2132
-# File: module/setup/view/settings/settings.phtml, line: 2133
+# File: module/setup/view/settings/settings.phtml, line: 2145
+# File: module/setup/view/settings/settings.phtml, line: 2146
 msgid "Email Tracking Alerts Retention Days (365)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2136
-# File: module/setup/view/settings/settings.phtml, line: 2137
+# File: module/setup/view/settings/settings.phtml, line: 2149
+# File: module/setup/view/settings/settings.phtml, line: 2150
 msgid "Email Tracking Digest To"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2140
-# File: module/setup/view/settings/settings.phtml, line: 2141
+# File: module/setup/view/settings/settings.phtml, line: 2153
+# File: module/setup/view/settings/settings.phtml, line: 2154
 msgid "Email Tracking From Email"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2144
-# File: module/setup/view/settings/settings.phtml, line: 2145
+# File: module/setup/view/settings/settings.phtml, line: 2157
+# File: module/setup/view/settings/settings.phtml, line: 2158
 msgid "Email Tracking From Name"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2148
-# File: module/setup/view/settings/settings.phtml, line: 2149
+# File: module/setup/view/settings/settings.phtml, line: 2161
+# File: module/setup/view/settings/settings.phtml, line: 2162
 msgid "Email Trackiong Payload Retention Days (30)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2152
-# File: module/setup/view/settings/settings.phtml, line: 2153
+# File: module/setup/view/settings/settings.phtml, line: 2165
+# File: module/setup/view/settings/settings.phtml, line: 2166
 msgid "Email Tracking Portal URL"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2156
-# File: module/setup/view/settings/settings.phtml, line: 2157
+# File: module/setup/view/settings/settings.phtml, line: 2169
+# File: module/setup/view/settings/settings.phtml, line: 2170
 msgid "Email Tracking Raw Retewntion Days (90)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2160
-# File: module/setup/view/settings/settings.phtml, line: 2161
+# File: module/setup/view/settings/settings.phtml, line: 2173
+# File: module/setup/view/settings/settings.phtml, line: 2174
 msgid "Email Tracking Staff Email"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2164
-# File: module/setup/view/settings/settings.phtml, line: 2165
+# File: module/setup/view/settings/settings.phtml, line: 2177
+# File: module/setup/view/settings/settings.phtml, line: 2178
 msgid "Email Bounce Whatsapp Template"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2168
-# File: module/setup/view/settings/settings.phtml, line: 2169
+# File: module/setup/view/settings/settings.phtml, line: 2181
+# File: module/setup/view/settings/settings.phtml, line: 2182
 msgid "Send Grid Webhook Public Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2177
+# File: module/setup/view/settings/settings.phtml, line: 2190
 msgid "Email Tracking Agent Digest"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2184
+# File: module/setup/view/settings/settings.phtml, line: 2197
 msgid "Email Tracking Agent Email"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2191
+# File: module/setup/view/settings/settings.phtml, line: 2204
 msgid "Email Tracking Agent Whatsapp"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2198
+# File: module/setup/view/settings/settings.phtml, line: 2211
 msgid "Emai Tracking Enabled"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2205
+# File: module/setup/view/settings/settings.phtml, line: 2218
 msgid "Email Tracking Store Payload"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2212
+# File: module/setup/view/settings/settings.phtml, line: 2225
 msgid "Send Grid Webhook Require Signature"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2219
+# File: module/setup/view/settings/settings.phtml, line: 2232
 msgid "Sender Guard Enabled"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2223
-# File: module/setup/view/settings/settings.phtml, line: 2224
+# File: module/setup/view/settings/settings.phtml, line: 2236
+# File: module/setup/view/settings/settings.phtml, line: 2237
 msgid "Send Relay From Email"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2227
-# File: module/setup/view/settings/settings.phtml, line: 2228
+# File: module/setup/view/settings/settings.phtml, line: 2240
+# File: module/setup/view/settings/settings.phtml, line: 2241
 msgid "Sender Authenticated Domains"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2231
-# File: module/setup/view/settings/settings.phtml, line: 2232
+# File: module/setup/view/settings/settings.phtml, line: 2244
+# File: module/setup/view/settings/settings.phtml, line: 2245
 msgid "Voucher Time Format (value 12 or 24 - switched to 24-hour)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2235
-# File: module/setup/view/settings/settings.phtml, line: 2236
+# File: module/setup/view/settings/settings.phtml, line: 2248
+# File: module/setup/view/settings/settings.phtml, line: 2249
 msgid "Commission Breakdown Key"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2246
+# File: module/setup/view/settings/settings.phtml, line: 2259
 msgid "Funnel Recovery"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2250
-# File: module/setup/view/settings/settings.phtml, line: 2251
+# File: module/setup/view/settings/settings.phtml, line: 2263
+# File: module/setup/view/settings/settings.phtml, line: 2264
 msgid "Do not run decision manager fraud score if amount is bellow"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2254
-# File: module/setup/view/settings/settings.phtml, line: 2255
+# File: module/setup/view/settings/settings.phtml, line: 2267
+# File: module/setup/view/settings/settings.phtml, line: 2268
 msgid "Charge Service Fee Before Ticketing"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2258
-# File: module/setup/view/settings/settings.phtml, line: 2259
+# File: module/setup/view/settings/settings.phtml, line: 2271
+# File: module/setup/view/settings/settings.phtml, line: 2272
 msgid "Charge Serve Fee After Ticketing"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2262
-# File: module/setup/view/settings/settings.phtml, line: 2263
+# File: module/setup/view/settings/settings.phtml, line: 2275
+# File: module/setup/view/settings/settings.phtml, line: 2276
 msgid "Charge Failure Notify Emails"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2266
-# File: module/setup/view/settings/settings.phtml, line: 2267
+# File: module/setup/view/settings/settings.phtml, line: 2279
+# File: module/setup/view/settings/settings.phtml, line: 2280
 msgid "Charge Max Failed Attempts"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2274
-# File: module/setup/view/settings/settings.phtml, line: 2275
+# File: module/setup/view/settings/settings.phtml, line: 2287
+# File: module/setup/view/settings/settings.phtml, line: 2288
 msgid "Plan Billing Exempt (Agent Id (separate by comma))"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2278
-# File: module/setup/view/settings/settings.phtml, line: 2279
+# File: module/setup/view/settings/settings.phtml, line: 2291
+# File: module/setup/view/settings/settings.phtml, line: 2292
 msgid "Payment Ids Allowed in B2C (0,1,6,11,17,21,24,25,26,27 payment_ids accepted from public sites (b2b=0), comma-separated)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2282
-# File: module/setup/view/settings/settings.phtml, line: 2283
+# File: module/setup/view/settings/settings.phtml, line: 2295
+# File: module/setup/view/settings/settings.phtml, line: 2296
 msgid "Payment Ids Allowed in B2B (0,1,3,4,6,10,11,17,24 payment_ids accepted from agents (b2b=1), comma-separated)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2286
-# File: module/setup/view/settings/settings.phtml, line: 2287
+# File: module/setup/view/settings/settings.phtml, line: 2299
+# File: module/setup/view/settings/settings.phtml, line: 2300
 msgid "Velocity B2C Max (5 Most bookings per site agent within the window. 0 turns the limit off)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2290
-# File: module/setup/view/settings/settings.phtml, line: 2291
+# File: module/setup/view/settings/settings.phtml, line: 2303
+# File: module/setup/view/settings/settings.phtml, line: 2304
 msgid "Velocity B2C Minutes (10 Length of the window in minutes. 0 also turns the limit off)"
 msgstr ""
 #
-# File: module/setup/view/settings/settings.phtml, line: 2294
-# File: module/setup/view/settings/settings.phtml, line: 2295
+# File: module/setup/view/settings/settings.phtml, line: 2307
+# File: module/setup/view/settings/settings.phtml, line: 2308
 msgid "Velocity Alert Email (empty Who gets the “bookings blocked” email; several addresses can be separated by commas. Empty means it goes to reservationsemailfrom)"
 msgstr ""
 #
