@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-26 05:57-0500\n"
+"POT-Creation-Date: 2026-11-26 11:17-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25639,7 +25639,7 @@ msgstr ""
 # File: module/setup/view/settings/paymentsexclude_add.phtml, line: 28
 # File: module/setup/view/settings/paymentsexclude_edit.phtml, line: 31
 # File: module/setup/view/settings/realtimepayments_edit.phtml, line: 29
-# File: module/setup/view/settings/settings.phtml, line: 2337
+# File: module/setup/view/settings/settings.phtml, line: 2341
 # File: module/setup/view/settings/states_edit.phtml, line: 138
 msgid "Submit"
 msgstr ""
@@ -66264,6 +66264,11 @@ msgstr ""
 #
 # File: module/setup/view/settings/settings.phtml, line: 2332
 # File: module/setup/view/settings/settings.phtml, line: 2333
+msgid "Agent Id's that have access to all companies"
+msgstr ""
+#
+# File: module/setup/view/settings/settings.phtml, line: 2336
+# File: module/setup/view/settings/settings.phtml, line: 2337
 msgid "Velocity Alert Email (empty Who gets the “bookings blocked” email; several addresses can be separated by commas. Empty means it goes to reservationsemailfrom)"
 msgstr ""
 #
